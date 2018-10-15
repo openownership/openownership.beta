@@ -1,0 +1,40 @@
+header:
+  - title: Home
+    url: /
+  - title: What we do
+    url: /what-we-do/  
+  - title: Get Involved
+    url: /get-involved/ 
+  - title: News
+    url: /news/
+  - title: Resources
+    url: /resources/
+  - title: View The Register
+    url: https://register.openownership.org/
+    
+footer:
+  - title: About
+    url: /about/
+  - title: CV
+    url: /cv/   
+  - title: Contact
+    url: /contact/ 
+
+    
+mobile:
+  - title: Films
+    url: /films/
+  - title: Commercials
+    url: /commercials/  
+  - title: Television
+    url: /television/ 
+  - title: Music Videos
+    url: /music-videos/
+  - title: About
+    url: /about/
+  - title: CV
+    url: /cv/   
+  - title: Contact
+    url: /contact/ 
+
+

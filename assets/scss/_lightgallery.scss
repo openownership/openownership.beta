@@ -1,0 +1,1362 @@
+// Variables
+
+// $backdrop-opacity: 1 !default;
+$backdrop-opacity: 1 !default;
+// $lg-toolbar-bg: rgba(0, 0, 0, 0.45) !default;
+$lg-toolbar-bg: rgba(0, 0, 0, 0) !default;
+// $lg-border-radius-base: 2px !default;
+$lg-border-radius-base: 0px !default;
+$lg-theme-highlight: $white !default;
+$lg-theme: $medium-gray !default;
+
+// basic icon colours
+$lg-icon-bg: rgba(0, 0, 0, 0.45) !default;
+// $lg-icon-color: #999 !default;
+$lg-icon-color: #999 !default;
+$lg-icon-hover-color: $white !default;
+
+// counter
+$lg-counter-color: $medium-gray !default;
+$lg-counter-font-size: 1rem !default;
+
+// Next prev icons
+// $lg-next-prev-bg: $lg-icon-bg !default;
+$lg-next-prev-bg: transparent !default;
+$lg-next-prev-color: $lg-icon-color !default;
+$lg-next-prev-hover-color: $lg-icon-hover-color !default;
+
+// toolbar icons
+$lg-toolbar-icon-color: $lg-icon-color !default;
+$lg-toolbar-icon-hover-color: $lg-icon-hover-color !default;
+
+// autoplay progress bar
+$lg-progress-bar-bg: #333 !default;
+$lg-progress-bar-active-bg: $lg-theme-highlight !default;
+$lg-progress-bar-height: 5px !default;
+
+// paths
+$lg-path-fonts: '../fonts'!default;
+$lg-path-images: '../img'!default;
+
+// Zoom plugin
+$zoom-transition-duration: 0.3s !default;
+
+// Sub html - titile
+// $lg-sub-html-bg: rgba(0, 0, 0, 0.45) !default;
+$lg-sub-html-bg: rgba(0, 0, 0, 0) !default;
+// $lg-sub-html-color: #EEE !default;
+$lg-sub-html-color: $black !default;
+
+// thumbnail toggle button
+$lg-thumb-toggle-bg: #0D0A0A !default;
+$lg-thumb-toggle-color: $lg-icon-color !default;
+$lg-thumb-toggle-hover-color: $lg-icon-hover-color !default;
+$lg-thumb-bg: #0D0A0A !default;
+
+// z-index
+$zindex-outer: 1050 !default;
+$zindex-progressbar: 1083 !default;
+$zindex-controls: 1080 !default;
+$zindex-toolbar: 1082 !default;
+$zindex-subhtml: 1080 !default;
+$zindex-thumbnail: 1080 !default;
+$zindex-pager: 1080 !default;
+$zindex-playbutton: 1080 !default;
+$zindex-item: 1060 !default;
+$zindex-backdrop: 1040 !default;
+
+// Mixins
+
+// Vendor Prefixes
+//
+// All vendor mixins are deprecated as of v3.2.0 due to the introduction of
+// Autoprefixer in our Gruntfile. They will be removed in v4.
+
+// - Animations
+// - Backface visibility
+// - Box shadow
+// - Box sizing
+// - Content columns
+// - Hyphens
+// - Placeholder text
+// - Transformations
+// - Transitions
+// - User Select
+// - cursor grab
+
+// Animations
+@mixin animation($animation) {
+    -webkit-animation: $animation;
+    -o-animation: $animation;
+    animation: $animation;
+}
+
+@mixin animation-name($name) {
+    -webkit-animation-name: $name;
+    animation-name: $name;
+}
+
+@mixin animation-duration($duration) {
+    -webkit-animation-duration: $duration;
+    animation-duration: $duration;
+}
+
+@mixin animation-timing-function($timing-function) {
+    -webkit-animation-timing-function: $timing-function;
+    animation-timing-function: $timing-function;
+}
+
+@mixin animation-delay($delay) {
+    -webkit-animation-delay: $delay;
+    animation-delay: $delay;
+}
+
+@mixin animation-iteration-count($iteration-count) {
+    -webkit-animation-iteration-count: $iteration-count;
+    animation-iteration-count: $iteration-count;
+}
+
+@mixin animation-direction($direction) {
+    -webkit-animation-direction: $direction;
+    animation-direction: $direction;
+}
+
+@mixin animation-fill-mode($fill-mode) {
+    -webkit-animation-fill-mode: $fill-mode;
+    animation-fill-mode: $fill-mode;
+}
+
+@mixin keyframes($name) {
+    @-webkit-keyframes #{$name} {
+        @content;
+    }
+
+    @-moz-keyframes #{$name} {
+        @content;
+    }
+
+    @-ms-keyframes #{$name} {
+        @content;
+    }
+
+    @keyframes #{$name} {
+        @content;
+    }
+}
+
+// Backface visibility
+// Prevent browsers from flickering when using CSS 3D transforms.
+// Default value is `visible`, but can be changed to `hidden`
+
+@mixin backface-visibility($visibility) {
+    -webkit-backface-visibility: $visibility;
+    -moz-backface-visibility: $visibility;
+    backface-visibility: $visibility;
+}
+
+// Drop shadows
+//
+// Note: Deprecated `.box-shadow()` as of v3.1.0 since all of Bootstrap's
+// supported browsers that have box shadow capabilities now support it.
+
+@mixin box-shadow($shadow...) {
+    -webkit-box-shadow: $shadow; // iOS <4.3 & Android <4.1
+    box-shadow: $shadow;
+}
+
+// Box sizing
+@mixin box-sizing($boxmodel) {
+    -webkit-box-sizing: $boxmodel;
+    -moz-box-sizing: $boxmodel;
+    box-sizing: $boxmodel;
+}
+
+// CSS3 Content Columns
+@mixin content-columns($column-count, $column-gap: $grid-gutter-width) {
+    -webkit-column-count: $column-count;
+    -moz-column-count: $column-count;
+    column-count: $column-count;
+    -webkit-column-gap: $column-gap;
+    -moz-column-gap: $column-gap;
+    column-gap: $column-gap;
+}
+
+// Optional hyphenation
+@mixin hyphens($mode: auto) {
+    word-wrap: break-word;
+    -webkit-hyphens: $mode;
+    -moz-hyphens: $mode;
+    -ms-hyphens: $mode; // IE10+
+    -o-hyphens: $mode;
+    hyphens: $mode;
+}
+
+// Transformations
+@mixin scale($ratio...) {
+    -webkit-transform: scale($ratio);
+    -ms-transform: scale($ratio); // IE9 only
+    -o-transform: scale($ratio);
+    transform: scale($ratio);
+}
+
+@mixin scaleX($ratio) {
+    -webkit-transform: scaleX($ratio);
+    -ms-transform: scaleX($ratio); // IE9 only
+    -o-transform: scaleX($ratio);
+    transform: scaleX($ratio);
+}
+
+@mixin scaleY($ratio) {
+    -webkit-transform: scaleY($ratio);
+    -ms-transform: scaleY($ratio); // IE9 only
+    -o-transform: scaleY($ratio);
+    transform: scaleY($ratio);
+}
+
+@mixin skew($x, $y) {
+    -webkit-transform: skewX($x) skewY($y);
+    -ms-transform: skewX($x) skewY($y); // See https://github.com/twbs/bootstrap/issues/4885; IE9+
+    -o-transform: skewX($x) skewY($y);
+    transform: skewX($x) skewY($y);
+}
+
+@mixin translate($x, $y) {
+    -webkit-transform: translate($x, $y);
+    -ms-transform: translate($x, $y); // IE9 only
+    -o-transform: translate($x, $y);
+    transform: translate($x, $y);
+}
+
+@mixin translate3d($x, $y, $z) {
+    -webkit-transform: translate3d($x, $y, $z);
+    transform: translate3d($x, $y, $z);
+}
+
+@mixin scale3d($x, $y, $z) {
+    -webkit-transform: scale3d($x, $y, $z);
+    transform: scale3d($x, $y, $z);
+}
+
+@mixin rotate($degrees) {
+    -webkit-transform: rotate($degrees);
+    -ms-transform: rotate($degrees); // IE9 only
+    -o-transform: rotate($degrees);
+    transform: rotate($degrees);
+}
+
+@mixin rotateX($degrees) {
+    -webkit-transform: rotateX($degrees);
+    -ms-transform: rotateX($degrees); // IE9 only
+    -o-transform: rotateX($degrees);
+    transform: rotateX($degrees);
+}
+
+@mixin rotateY($degrees) {
+    -webkit-transform: rotateY($degrees);
+    -ms-transform: rotateY($degrees); // IE9 only
+    -o-transform: rotateY($degrees);
+    transform: rotateY($degrees);
+}
+
+@mixin perspective($perspective) {
+    -webkit-perspective: $perspective;
+    -moz-perspective: $perspective;
+    perspective: $perspective;
+}
+
+@mixin perspective-origin($perspective) {
+    -webkit-perspective-origin: $perspective;
+    -moz-perspective-origin: $perspective;
+    perspective-origin: $perspective;
+}
+
+@mixin transform-origin($origin) {
+    -webkit-transform-origin: $origin;
+    -moz-transform-origin: $origin;
+    -ms-transform-origin: $origin; // IE9 only
+    transform-origin: $origin;
+}
+
+@mixin transform($transforms) {
+    -moz-transform: $transforms;
+    -o-transform: $transforms;
+    -ms-transform: $transforms;
+    -webkit-transform: $transforms;
+    transform: $transforms;
+}
+
+// Transitions
+
+@mixin transition($transition...) {
+    -webkit-transition: $transition;
+    -o-transition: $transition;
+    transition: $transition;
+}
+
+@mixin transition-property($transition-property...) {
+    -webkit-transition-property: $transition-property;
+    transition-property: $transition-property;
+}
+
+@mixin transition-delay($transition-delay) {
+    -webkit-transition-delay: $transition-delay;
+    transition-delay: $transition-delay;
+}
+
+@mixin transition-duration($transition-duration...) {
+    -webkit-transition-duration: $transition-duration;
+    transition-duration: $transition-duration;
+}
+
+@mixin transition-timing-function($timing-function) {
+    -webkit-transition-timing-function: $timing-function;
+    transition-timing-function: $timing-function;
+}
+
+@mixin transition-transform($transition...) {
+    -webkit-transition: -webkit-transform $transition;
+    -moz-transition: -moz-transform $transition;
+    -o-transition: -o-transform $transition;
+    transition: transform $transition;
+}
+
+// transition custom
+
+@function prefix($property, $prefixes: webkit moz o ms) {
+    $vendor-prefixed-properties: transform background-clip background-size;
+    $result: ();
+
+    @each $prefix in $prefixes {
+        @if index($vendor-prefixed-properties, $property) {
+            $property: -#{$prefix}-#{$property};
+        }
+        $result: append($result, $property);
+    }
+    @return $result;
+}
+
+@function trans-prefix($transition, $prefix: moz) {
+    $prefixed: ();
+
+    @each $trans in $transition {
+        $prop-name: nth($trans, 1);
+        $vendor-prop-name: prefix($prop-name, $prefix);
+        $prop-vals: nth($trans, 2);
+        $prefixed: append($prefixed, $vendor-prop-name $prop-vals, comma);
+    }
+    @return $prefixed;
+}
+
+@mixin transitionCustom($values...) {
+    $transitions: ();
+
+    @each $declaration in $values {
+        $prop: nth($declaration, 1);
+        $prop-opts: ();
+        $length: length($declaration);
+
+        @if $length >= 2 {
+            @for $i from 2 through $length {
+                $prop-opts: append($prop-opts, nth($declaration, $i));
+            }
+        }
+        $trans: $prop, $prop-opts;
+        $transitions: append($transitions, $trans, comma);
+    }
+    -webkit-transition: trans-prefix($transitions, webkit);
+    -moz-transition: trans-prefix($transitions, moz);
+    -o-transition: trans-prefix($transitions, o);
+    transition: $values;
+}
+
+// User select
+// For selecting text on the page
+
+@mixin user-select($select) {
+    -webkit-user-select: $select;
+    -moz-user-select: $select;
+    -ms-user-select: $select; // IE10+
+    user-select: $select;
+}
+
+// mouse grab
+
+@mixin grab-cursor {
+    cursor: -webkit-grab;
+    cursor: -moz-grab;
+    cursor: -o-grab;
+    cursor: -ms-grab;
+    cursor: grab;
+}
+
+@mixin grabbing-cursor {
+    cursor: move;
+    cursor: -webkit-grabbing;
+    cursor: -moz-grabbing;
+    cursor: -o-grabbing;
+    cursor: -ms-grabbing;
+    cursor: grabbing;
+}
+
+// font icons support
+@font-face {
+    font-family: 'Gallery';
+//     src: url("#{$lg-path-fonts}/lg.eot?n1z373");
+//     src: url("#{$lg-path-fonts}/lg.eot?#iefixn1z373") format("embedded-opentype"), url("#{$lg-path-fonts}/lg.woff?n1z373") format("woff"), url("#{$lg-path-fonts}/lg.ttf?n1z373") format("truetype"), url("#{$lg-path-fonts}/lg.svg?n1z373#lg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.lg-icon {
+    font-family: 'Gallery';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+// default theme
+.lg-actions {
+    .lg-next, .lg-prev {
+        background-color: $lg-next-prev-bg;
+        border-radius: $lg-border-radius-base;
+        color: $lg-next-prev-color;
+        cursor: pointer;
+        display: block;
+        font-size: 2rem;
+        margin-top: -10px;
+        padding: 8px 10px 9px;
+        position: absolute;
+        top: 50%;
+        z-index: $zindex-controls;
+
+        &.disabled {
+            pointer-events: none;
+            opacity: 0.5;
+        }
+
+        &:hover {
+            color: $lg-next-prev-hover-color;
+        }
+    }
+
+    .lg-next {
+        right: 1rem;
+
+        &:before {
+            content: "\e095";
+        }
+    }
+
+    .lg-prev {
+        left: 1rem;
+
+        &:after {
+            content: "\e094";
+        }
+    }
+}
+
+@include keyframes(lg-right-end) {
+    0% {
+        left: 0;
+    }
+
+    50% {
+        left: -30px;
+    }
+
+    100% {
+        left: 0;
+    }
+}
+
+
+@include keyframes(lg-left-end) {
+    0% {
+        left: 0;
+    }
+
+    50% {
+        left: 30px;
+    }
+
+    100% {
+        left: 0;
+    }
+}
+
+
+.lg-outer {
+    &.lg-right-end {
+        .lg-object {
+            @include animation(lg-right-end 0.3s);
+            position: relative;
+        }
+    }
+
+    &.lg-left-end {
+        .lg-object {
+            @include animation(lg-left-end 0.3s);
+            position: relative;
+        }
+    }
+}
+
+// lg toolbar
+.lg-toolbar {
+    z-index: $zindex-toolbar;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: $lg-toolbar-bg;
+
+    .lg-icon {
+        color: $lg-toolbar-icon-color;
+        cursor: pointer;
+        float: right;
+        font-size: 24px;
+        height: 47px;
+        line-height: 27px;
+        padding: 10px 0;
+        text-align: center;
+        width: 50px;
+        text-decoration: none !important;
+        outline: medium none;
+        @include transition(color 0.2s linear);
+
+        &:hover {
+            color: $lg-toolbar-icon-hover-color;
+        }
+    }
+
+    .lg-close {
+        &:after {
+            content: "\e070";
+        }
+    }
+
+    .lg-download {
+        &:after {
+            content: "\e0f2";
+        }
+    }
+}
+
+// lightGallery title
+.lg-sub-html {
+    background-color: $lg-sub-html-bg;
+    bottom: 0;
+    color: $lg-sub-html-color;
+    font-size: 16px;
+    left: 0;
+    padding: 10px 40px;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    z-index: $zindex-subhtml;
+
+    h4 {
+        margin: 0;
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    p {
+        font-size: 12px;
+        margin: 5px 0 0;
+    }
+}
+
+// lg image counter
+#lg-counter {
+    color: $lg-icon-color;
+    display: inline-block;
+    font-size: $lg-counter-font-size;
+    padding-left: 20px;
+    padding-top: 12px;
+    vertical-align: middle;
+}
+
+// for idle state
+.lg-toolbar, .lg-prev, .lg-next {
+    opacity: 1;
+    @include transitionCustom(transform 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.35s cubic-bezier(0, 0, 0.25, 1) 0s, color 0.2s linear);
+}
+
+.lg-hide-items {
+    .lg-prev {
+        opacity: 0;
+        @include translate3d(-10px, 0, 0);
+    }
+
+    .lg-next {
+        opacity: 0;
+        @include translate3d(10px, 0, 0);
+    }
+
+    .lg-toolbar {
+        opacity: 0;
+        @include translate3d(0, -10px, 0);
+    }
+}
+
+// Starting effect
+body:not(.lg-from-hash){
+    .lg-outer {
+        &.lg-start-zoom{
+            .lg-object{
+                @include scale3d(0.5, 0.5, 0.5);
+                opacity: 0;
+                @include transitionCustom(transform 250ms cubic-bezier(0, 0, 0.25, 1) 0s, opacity 250ms cubic-bezier(0, 0, 0.25, 1) !important);
+                @include transform-origin(50% 50%);
+            }
+            .lg-item.lg-complete{
+                .lg-object{
+                    @include scale3d(1, 1, 1);
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+// Core variables and mixins
+
+.lg-outer {
+    .lg-video-cont {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 1140px;
+        max-height: 100%;
+        width: 100%;
+        padding: 0 5px;
+    }
+
+    .lg-video {
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%;
+        overflow: hidden;
+        position: relative;
+
+        .lg-object {
+            display: inline-block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100% !important;
+            height: 100% !important;
+        }
+
+        .lg-video-play {
+            width: 84px;
+            height: 59px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin-left: -42px;
+            margin-top: -30px;
+            z-index: $zindex-playbutton;
+            cursor: pointer;
+        }
+    }
+
+    .lg-has-vimeo{
+        .lg-video-play{
+            background: url("#{$lg-path-images}/vimeo-play.png") no-repeat scroll 0 0 transparent;
+        }
+        &:hover{
+            .lg-video-play{
+                background: url("#{$lg-path-images}/vimeo-play.png") no-repeat scroll 0 -58px transparent;
+            } 
+
+        }  
+    }
+
+    .lg-has-html5{
+        .lg-video-play{
+            background: transparent url("#{$lg-path-images}/video-play.png") no-repeat scroll 0 0;
+            height: 64px;
+            margin-left: -32px;
+            margin-top: -32px;
+            width: 64px;
+            opacity: 0.8;
+        }  
+        &:hover{
+            .lg-video-play{
+                opacity: 1
+            } 
+
+        } 
+    }
+
+    .lg-has-youtube{
+        .lg-video-play{
+            background: url("#{$lg-path-images}/youtube-play.png") no-repeat scroll 0 0 transparent;
+        }
+        &:hover{
+            .lg-video-play{
+                background: url("#{$lg-path-images}/youtube-play.png") no-repeat scroll 0 -60px transparent;
+            } 
+
+        }  
+    }
+    .lg-video-object {
+        width: 100% !important;
+        height: 100% !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .lg-has-video {
+        .lg-video-object {
+            visibility: hidden;
+        }
+
+        &.lg-video-playing {
+            .lg-object, .lg-video-play {
+                display: none;
+            }
+
+            .lg-video-object {
+                visibility: visible;
+            }
+        }
+    }
+}
+
+.lg-progress-bar {
+    background-color: $lg-progress-bar-bg;
+    height: $lg-progress-bar-height;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: $zindex-progressbar;
+    opacity: 0;
+    @include transitionCustom(opacity 0.08s ease 0s);
+
+    .lg-progress {
+        background-color: $lg-progress-bar-active-bg;
+        height: $lg-progress-bar-height;
+        width: 0;
+    }
+
+    &.lg-start {
+        .lg-progress {
+            width: 100%;
+        }
+    }
+
+    .lg-show-autoplay & {
+        opacity: 1;
+    }
+}
+
+.lg-autoplay-button {
+    &:after {
+        .lg-show-autoplay & {
+            content: "\e01a";
+        }
+        content: "\e01d";
+    }
+}
+
+.lg-outer {
+    // reset transition duration
+    &.lg-css3.lg-zoom-dragging {
+        .lg-item.lg-complete.lg-zoomable {
+            .lg-img-wrap, .lg-image {
+                @include transition-duration(0s);
+            }
+        }
+    }
+    &.lg-use-transition-for-zoom {
+        .lg-item.lg-complete.lg-zoomable {
+            .lg-img-wrap {
+                @include transitionCustom(transform $zoom-transition-duration cubic-bezier(0, 0, 0.25, 1) 0s);
+            }
+        }
+    }
+    &.lg-use-left-for-zoom {
+        .lg-item.lg-complete.lg-zoomable {
+            .lg-img-wrap {
+                @include transitionCustom(left $zoom-transition-duration cubic-bezier(0, 0, 0.25, 1) 0s, top $zoom-transition-duration cubic-bezier(0, 0, 0.25, 1) 0s);
+            }
+        }
+    }
+
+    .lg-item.lg-complete.lg-zoomable{
+
+        .lg-img-wrap {
+            @include translate3d(0, 0, 0);
+            @include backface-visibility(hidden);
+        }
+
+        .lg-image {
+            // Translate required for zoom
+            @include scale3d(1, 1, 1);
+            @include transitionCustom(transform $zoom-transition-duration cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.15s !important);
+            @include transform-origin(0 0);
+            @include backface-visibility(hidden);
+        }
+    }
+
+}
+
+// zoom buttons
+#lg-zoom-in {
+    &:after {
+        content: "\e311";
+    }
+}
+
+#lg-actual-size {
+    font-size: 20px;
+    &:after {
+        content: "\e033";
+    }
+}
+
+#lg-zoom-out {
+    opacity: 0.5;
+    pointer-events: none;
+
+    &:after {
+        content: "\e312";
+    }
+
+    .lg-zoomed & {
+        opacity: 1;
+        pointer-events: auto;
+    }
+}
+
+.lg-outer {
+    .lg-pager-outer {
+        bottom: 60px;
+        left: 0;
+        position: absolute;
+        right: 0;
+        text-align: center;
+        z-index: $zindex-pager;
+        height: 10px;
+
+        &.lg-pager-hover {
+            .lg-pager-cont {
+                overflow: visible;
+            }
+        }
+    }
+
+    .lg-pager-cont {
+        cursor: pointer;
+        display: inline-block;
+        overflow: hidden;
+        position: relative;
+        vertical-align: top;
+        margin: 0 5px;
+
+        &:hover {
+            .lg-pager-thumb-cont {
+                opacity: 1;
+                @include translate3d(0, 0, 0);
+            }
+        }
+
+        &.lg-pager-active {
+            .lg-pager {
+                box-shadow: 0 0 0 2px white inset;
+            }
+        }
+    }
+
+    .lg-pager-thumb-cont {
+        background-color: #fff;
+        color: #FFF;
+        bottom: 100%;
+        height: 83px;
+        left: 0;
+        margin-bottom: 20px;
+        margin-left: -60px;
+        opacity: 0;
+        padding: 5px;
+        position: absolute;
+        width: 120px;
+        border-radius: 3px;
+        @include transitionCustom(opacity 0.15s ease 0s, transform 0.15s ease 0s);
+        @include translate3d(0, 5px, 0);
+
+        img {
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+    .lg-pager {
+        background-color: rgba(255, 255, 255, 0.5);
+        border-radius: 50%;
+        box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.7) inset;
+        display: block;
+        height: 12px;
+        @include transition(box-shadow 0.3s ease 0s);
+        width: 12px;
+
+        &:hover, &:focus {
+            box-shadow: 0 0 0 8px white inset;
+        }
+    }
+
+    .lg-caret {
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px dashed;
+        bottom: -10px;
+        display: inline-block;
+        height: 0;
+        left: 50%;
+        margin-left: -5px;
+        position: absolute;
+        vertical-align: middle;
+        width: 0;
+    }
+}
+
+.lg-fullscreen {
+    &:after {
+        content: "\e20c";
+
+        .lg-fullscreen-on & {
+            content: "\e20d";
+        }
+    }
+}
+
+.lg-outer {
+
+    #lg-dropdown-overlay {
+        background-color: rgba(0, 0, 0, 0.25);
+        bottom: 0;
+        cursor: default;
+        left: 0;
+        position: fixed;
+        right: 0;
+        top: 0;
+        z-index: $zindex-toolbar - 1;
+        opacity: 0;
+        visibility: hidden;
+        @include transition(visibility 0s linear 0.18s, opacity 0.18s linear 0s);
+    }
+    &.lg-dropdown-active{
+        .lg-dropdown, #lg-dropdown-overlay {
+            @include transition-delay(0s);
+            @include transform(translate3d(0, 0px, 0));
+            opacity: 1;
+            visibility: visible;
+        }
+        #lg-share {
+            color: #FFF;
+        }
+    }
+    .lg-dropdown {
+        background-color: #fff;
+        border-radius: 2px;
+        font-size: 14px;
+        list-style-type: none;
+        margin: 0;
+        padding: 10px 0;
+        position: absolute;
+        right: 0;
+        text-align: left;
+        top: 50px;
+        opacity: 0;
+        visibility: hidden;
+        @include transform(translate3d(0, 5px, 0));
+        @include transitionCustom(transform 0.18s linear 0s, visibility 0s linear 0.5s, opacity 0.18s linear 0s);
+
+        &:after {
+            content: "";
+            display: block;
+            height: 0;
+            width: 0;
+            position: absolute;
+            border: 8px solid transparent;
+            border-bottom-color: #FFF;
+            right: 16px;
+            top: -16px
+        }
+        > li {
+            &:last-child {
+                margin-bottom: 0px;
+            }
+            &:hover {
+                a, .lg-icon {
+                    color: #333;
+                }
+            }
+        }
+        a {
+            color: #333;
+            display: block;
+            white-space: pre;
+            padding: 4px 12px;
+            font-family: $primary-font-family;
+            font-size: 1rem;
+            &:hover {
+                background-color: rgba(0, 0, 0, 0.07);
+            }
+
+        }
+        .lg-dropdown-text {
+            display: inline-block;
+            line-height: 1;
+            margin-top: -3px;
+            vertical-align: middle;
+        }
+        .lg-icon {
+            color: #333;
+            display: inline-block;
+            float: none;
+            font-size: 20px;
+            height: auto;
+            line-height: 1;
+            margin-right: 8px;
+            padding: 0;
+            vertical-align: middle;
+            width: auto;
+        }
+    }
+    #lg-share {
+        position: relative;
+        &:after {
+            content: "\e80d";
+        }
+    }
+    #lg-share-facebook {
+        .lg-icon{
+            color: #3b5998;
+            &:after {
+                content: "\e901";
+            }
+        }   
+    }
+    #lg-share-twitter {
+        .lg-icon{
+            color: #00aced;
+            &:after {
+                content: "\e904";
+            }
+        }  
+    }
+    #lg-share-googleplus {
+        .lg-icon{
+            color: #dd4b39;
+            &:after {
+                content: "\e902";
+            }
+        }  
+    }
+    #lg-share-pinterest {
+        .lg-icon{
+            color: #cb2027;
+            &:after {
+                content: "\e903";
+            }
+        }  
+    }
+}
+
+
+// Clearfix
+.lg-group:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+// lightgallery core
+.lg-outer {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: $zindex-outer;
+    opacity: 0;
+    // For start/end transition
+    @include transition(opacity 0.15s ease 0s);
+
+    * {
+        @include box-sizing(border-box);
+    }
+
+    &.lg-visible {
+        opacity: 1;
+    }
+
+    // Set transition speed and timing function
+    &.lg-css3 {
+        .lg-item {
+            &.lg-prev-slide, &.lg-next-slide, &.lg-current {
+                @include transition-duration(inherit !important);
+                @include transition-timing-function(inherit !important);
+            }
+        }
+    }
+
+    // Remove transition while dragging
+    &.lg-css3.lg-dragging {
+        .lg-item {
+            &.lg-prev-slide, &.lg-next-slide, &.lg-current {
+                @include transition-duration(0s !important);
+                opacity: 1;
+            }
+        }
+    }
+
+    // Set cursor grab while dragging
+    &.lg-grab {
+        img.lg-object {
+            @include grab-cursor;
+        }
+    }
+
+    &.lg-grabbing {
+        img.lg-object {
+            @include grabbing-cursor;
+        }
+    }
+
+    .lg {
+        height: 100%;
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .lg-inner {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        white-space: nowrap;
+    }
+
+    .lg-item {
+//         background: url("#{$lg-path-images}/loading.gif") no-repeat scroll center center transparent;
+        display: none !important; 
+    }
+
+    
+//     Animation
+    &.lg-css3{
+        .lg-prev-slide, .lg-current, .lg-next-slide{
+            display: inline-block !important; 
+        }
+    }
+    &.lg-css{
+        .lg-current{
+            display: inline-block !important; 
+        }
+    }
+
+    .lg-item, .lg-img-wrap {
+        display: inline-block;
+        text-align: center;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+
+        &:before {
+            content: "";
+            display: inline-block;
+            height: 50%;
+            width: 1px;
+            margin-right: -1px;
+        }
+    }
+
+    .lg-img-wrap {
+        position: absolute;
+        padding: 0 5px;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0
+    }
+
+    .lg-item {
+        &.lg-complete {
+            background-image: none;
+        }
+
+        &.lg-current {
+            z-index: $zindex-item;
+        }
+    }
+
+    .lg-image {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 100%;
+        max-height: 100%;
+        width: auto !important;
+        height: auto !important;
+        @include breakpoint(small) {
+        padding: 2rem;
+        }
+        @include breakpoint(medium) {
+        padding: 4rem;
+        }
+        @include breakpoint(large) {
+        padding: 6rem;
+        }
+    }
+
+    &.lg-show-after-load {
+        .lg-item {
+            .lg-object, .lg-video-play {
+                opacity: 0;
+                @include transition(opacity 0.15s ease 0s);
+            }
+
+            &.lg-complete {
+                .lg-object, .lg-video-play {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+
+    // Hide title div if empty
+    .lg-empty-html {
+        display: none;
+    }
+
+    &.lg-hide-download{
+        #lg-download{
+            display: none;
+        }
+    }
+}
+.lg-backdrop{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: $zindex-backdrop;
+//     background-color: #000;
+    background-color: $black;
+    opacity: 0;
+    @include transition(opacity 0.15s ease 0s);
+    &.in{
+        opacity: $backdrop-opacity;
+    }
+}
+
+// Default slide animations. Should be placed at the bottom of the animation css
+.lg-css3 {
+
+    // Remove all transition effects
+    &.lg-no-trans {
+        .lg-prev-slide, .lg-next-slide, .lg-current {
+            @include transitionCustom(none 0s ease 0s !important);
+        }
+    }
+
+    &.lg-use-css3 {
+        .lg-item {
+            @include backface-visibility(hidden);
+        }
+    }
+
+    &.lg-use-left {
+        .lg-item {
+            @include backface-visibility(hidden);
+        }
+    }
+
+    // Fade mode
+    &.lg-fade {
+        .lg-item {
+            opacity: 0;
+
+            &.lg-current {
+                opacity: 1;
+            }
+
+            // transition timing property and duration will be over written from javascript
+            &.lg-prev-slide, &.lg-next-slide, &.lg-current {
+                @include transitionCustom(opacity 0.1s ease 0s);
+            }
+        }
+    }
+
+    &.lg-slide {
+        &.lg-use-css3 {
+            .lg-item {
+                opacity: 0;
+
+                &.lg-prev-slide {
+                    @include translate3d(-100%, 0, 0);
+                }
+
+                &.lg-next-slide {
+                    @include translate3d(100%, 0, 0);
+                }
+
+                &.lg-current {
+                    @include translate3d(0, 0, 0);
+                    opacity: 1;
+                }
+
+                // transition timing property and duration will be over written from javascript
+                &.lg-prev-slide, &.lg-next-slide, &.lg-current {
+                    @include transitionCustom(transform 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s);
+                }
+            }
+        }
+
+        &.lg-use-left {
+            .lg-item {
+                opacity: 0;
+                position: absolute;
+                left: 0;
+
+                &.lg-prev-slide {
+                    left: -100%;
+                }
+
+                &.lg-next-slide {
+                    left: 100%;
+                }
+
+                &.lg-current {
+                    left: 0;
+                    opacity: 1;
+                }
+
+                // transition timing property and duration will be over written from javascript
+                &.lg-prev-slide, &.lg-next-slide, &.lg-current {
+                    @include transitionCustom(left 1s cubic-bezier(0, 0, 0.25, 1) 0s, opacity 0.1s ease 0s);
+                }
+            }
+        }
+    }
+}

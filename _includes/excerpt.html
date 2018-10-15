@@ -1,0 +1,30 @@
+<div class="cell" data-aos="fade-in">
+  <div class="excerpt">
+    <a href="{{ project.url }}">
+      
+      <div class="grid-x align-center-middle excerpt__title">
+        <div class="small-12 cell text-center text-uppercase">
+          <h5 class="margin-bottom-0">{{ project.title }}</h5>
+        </div>
+      </div>  
+      
+      <div class="grid-x align-center-middle excerpt__meta">
+        <div class="small-12 cell text-center text-uppercase">
+          {% if project.brand %}
+          <h5 class="margin-bottom-0">{{ project.brand }}</h5>
+          {% endif %}
+          {% if project.director %}
+          <h5 class="margin-bottom-0">{{ project.director }}</h5>
+          {% endif %}
+        </div>
+      </div>  
+
+      
+      <div class="excerpt__image">
+        {% assign image = project.image %}
+        {% include images/excerpt.html %}
+      </div>
+    
+    </a>
+  </div>
+</div>

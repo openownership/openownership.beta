@@ -1,0 +1,55 @@
+{% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+ 
+<!-- Navigation -->
+<div class="grid-x grid-padding-x padding-vertical-1 margin-bottom-2 align-justify header align-middle" id="top">
+  
+  <div class="auto cell">
+      <div class="show-for-large">
+        <ul class="dropdown menu" data-dropdown-menu>
+          {% for entry in site.data.navigation.header %}
+          {% if entry.url == current_page %}
+          {% assign current = ' class="active"' %}
+          {% else %}
+          {% assign current = null %}
+          {% endif %}
+          {% assign sublinks = entry.sublinks %}
+          {% if sublinks %}
+          <li{{ current }}>
+          <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+          <ul class="menu">
+          {% for sublink in sublinks %}
+          <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+          {% endfor %}
+          </ul>
+          </li>
+          {% else %}
+          <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+  </div>
+  
+  <div class="shrink cell">
+
+      <div class="show-for-large">
+        <ul class="menu align-center">
+          <li class="menu-text">Follow us</li>
+          {% for item in site.social %}  
+          <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+          {% endfor %} 
+        </ul>
+      </div>
+
+      <div class="hide-for-large">
+        <button class="hamburger hamburger--collapse" data-toggler=".is-active" id="toggle" aria-label="menu" type="button" data-toggle="offCanvas toggle">
+          <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </div>     
+      
+  </div>
+  
+</div>
+<!-- End Navigation -->

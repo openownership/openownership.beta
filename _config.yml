@@ -1,0 +1,103 @@
+---
+title: OpenOwnership
+timezone: UTC
+collections:
+  what-we-do:
+    title: What We Do
+    output: true
+  authors:
+    title: Authors
+    output: true
+  posts:
+    title: Posts
+    output: true
+  resources:
+    title: Resources
+    output: true
+  team-members:
+    title: Team Members
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    Feature Image: 
+    Author: 
+    layout: post
+    permalink: "/news/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    Intro: 
+    layout: page
+- scope:
+    path: ''
+    type: resources
+  values:
+    File: 
+    Author: 
+    Date: 
+    Thumbnail Image: 
+- scope:
+    path: ''
+    type: team-members
+  values:
+    Job Title: 
+    Image: 
+    Is Project Team: 
+    Is BODS Development: 
+    Is Steering Group: 
+url: https://www.openownership.org
+description: Building an open register of global beneficial ownership in the public interest
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  auto_ids: false
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+colophon: http://garethjohnsdesign.com
+company: OpenOwnership
+email: info@openownership.org
+analytics: 
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%Y"
+future: true
+social:
+  twitter: https://twitter.com/openownership
+  medium: https://medium.com/beneficial-ownership
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: true
+  per_page: 100
+imgix:
+  source: open-ownership.imgix.net
