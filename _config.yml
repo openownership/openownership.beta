@@ -2,9 +2,6 @@
 title: OpenOwnership
 timezone: UTC
 collections:
-  what-we-do:
-    title: What We Do
-    output: true
   authors:
     title: Authors
     output: true
@@ -19,6 +16,9 @@ collections:
     output: true
   uploads:
     title: Uploads
+    output: true
+  what-we-do:
+    title: What We Do
     output: true
 defaults:
 - scope:
@@ -53,7 +53,8 @@ defaults:
     Is BODS Development: 
     Is Steering Group: 
 url: https://www.openownership.org
-description: Building an open register of global beneficial ownership in the public interest
+description: Building an open register of global beneficial ownership in the public
+  interest
 permalink: pretty
 exclude:
 - bower.json
