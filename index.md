@@ -8,6 +8,7 @@ intro-text: |-
   OpenOwnership drives greater corporate transparency across the world by making it easy to publish and access high-quality, linked data about who owns companies.
 
   By leading the development of an open, global beneficial ownership data and policy ecosystem, we aim to create a new set of norms and end anonymous company ownership.
+intro-image: "/assets/img/intro-image.jpg"
 layout: home
 ---
 

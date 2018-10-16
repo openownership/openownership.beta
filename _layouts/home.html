@@ -17,17 +17,22 @@ layout: default
 </div>
 <!-- End Home Intro -->
 
-
 <!-- Home Description -->
-<div class="grid-x grid-padding-x grid-padding-y primary-background">
-
-  <div class="small-6 cell">
-    {{page.intro-text | markdownify}}
+<section class="secondary-background">
+  
+  <div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
+  
+    <div class="small-6 cell">
+      {{page.intro-text | markdownify}}
+    </div>
+  
+    <div class="small-6 cell text-center">
+      Test
+    </div>
+  
+  </div>
   </div>
 
-  <div class="small-6 cell text-center">
-    {{page.intro-text | markdownify}}
-  </div>
-
-</div>
+</section>
 <!-- End Home Description -->

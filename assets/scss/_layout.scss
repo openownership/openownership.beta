@@ -84,6 +84,11 @@ svg {
   color: $white;
 }
 
+.secondary-background {
+  background-color: $grey-blue;
+  color: $white;
+}
+
 // 5. Typography
 // -------------
 
@@ -168,4 +173,14 @@ p a {
 // ---------
 
 footer {
+}
+
+
+.sponsors {
+  color: $medium-gray;
+  @include links ($medium-gray, $dark-blue)
+}
+
+.sponsors .icon {
+  font-size: 1.5rem;
 }
