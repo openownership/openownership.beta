@@ -21,17 +21,57 @@ layout: default
 <section class="secondary-background">
   
   <div class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y">
-  
-    <div class="small-6 cell">
-      {{page.intro-text | markdownify}}
+    <div class="grid-x grid-padding-x grid-padding-y">
+    
+      <div class="small-12 medium-6 cell h5 sans-regular">
+        {{page.intro-text | markdownify}}
+      </div>
+    
+      <div class="small-12 medium-6 cell text-center">
+        Test
+      </div>
+    
     </div>
-  
-    <div class="small-6 cell text-center">
-      Test
-    </div>
-  
   </div>
+
+</section>
+<!-- End Home Description -->
+
+<!-- Home Why -->
+<section class="primary-background">
+  
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y align-center">
+    
+      <div class="small-12 medium-8 cell">
+        <h3>{{page.why-title}}</h3>
+        <div class="h5 sans-regular">
+        {{page.why-text | markdownify}}
+        </div>
+        <a class="button hollow white" href="/resources">View our beneficial ownership resources</a>
+      </div>
+    
+    </div>
+  </div>
+
+</section>
+<!-- End Home Why -->
+
+<!-- Home Priorities -->
+<section class="secondary-background">
+  
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y">
+    
+      <div class="small-12 medium-6 cell h5 sans-regular">
+        <h3>{{page.priorities-title}}</h3>
+      </div>
+    
+      <div class="small-12 medium-6 cell text-center">
+        Test
+      </div>
+    
+    </div>
   </div>
 
 </section>

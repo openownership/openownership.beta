@@ -9,8 +9,6 @@ header:
     url: /news/
   - title: Resources
     url: /resources/
-  - title: View The Register
-    url: https://register.openownership.org/
     
 footer:
   - title: About

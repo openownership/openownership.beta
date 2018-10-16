@@ -590,6 +590,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/css/app-blessed1.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/assets/css/app-blessed1-ck.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"/assets/css/app.css": {
 		"aP": 0,
 		"bl": 0,

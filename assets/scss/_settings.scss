@@ -94,6 +94,7 @@ $white: #fefefe;
 
 $dark-blue: #191D23;
 $grey-blue: #363F4E;
+$green: #25cb55;
 
 $body-background: $white;
 $body-font-color: $black;
@@ -130,7 +131,8 @@ $breakpoints: (
   xxlarge: 1440px,
 );
 $print-breakpoint: large;
-$breakpoint-classes: (small medium large);
+// $breakpoint-classes: (small medium large);
+$breakpoint-classes: (small medium large xlarge xxlarge);
 
 // 3. The Grid
 // -----------
@@ -314,7 +316,10 @@ $button-sizes: (
   default: 0.9rem,
   large: 1.25rem,
 );
-$button-palette: $foundation-palette;
+// $button-palette: $foundation-palette;
+$button-palette: map-merge($foundation-palette, (
+    white: $white
+)) !default;
 $button-opacity-disabled: 0.25;
 $button-background-hover-lightness: -20%;
 $button-hollow-hover-lightness: -50%;
@@ -880,14 +885,17 @@ $topbar-unstack-breakpoint: medium;
 $xy-grid: true;
 $grid-container: $global-width;
 $grid-columns: 12;
+/*
 $grid-margin-gutters: (
   small: 20px,
   medium: 30px
 );
+*/
 $grid-margin-gutters: (
-  small: 32px,
+  small: 16px,
   medium: 32px,
-  large: 48px  
+  large: 48px,
+  xlarge: 72px
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;

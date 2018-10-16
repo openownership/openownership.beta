@@ -150,6 +150,16 @@ p a {
   }
 }
 
+.header__navigation .external {
+  a {
+    font-family: $sans-bold;
+    color: $green;
+    &:hover {
+      color: $white;   
+    }
+  }
+}
+
 .header__social {
   font-family: $serif-italic;
   color: $medium-gray;
@@ -172,6 +182,11 @@ p a {
 // X. Footer
 // ---------
 
+.home
+
+// X. Footer
+// ---------
+
 footer {
 }
 
@@ -182,5 +197,5 @@ footer {
 }
 
 .sponsors .icon {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
