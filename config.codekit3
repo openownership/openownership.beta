@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "28905",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
 	"/404.md": {
 		"cB": 0,
 		"cS": 0,
@@ -716,18 +723,46 @@
 		"oAP": "/assets/favicons/site.webmanifest",
 		"oF": 0
 		},
-	"/assets/fonts/basis-grotesque-mono.woff2": {
+	"/assets/fonts/atlas-grotesk-bold.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/basis-grotesque-mono.woff2",
+		"oAP": "/assets/fonts/atlas-grotesk-bold.ttf",
 		"oF": 0
 		},
-	"/assets/fonts/basis-grotesque-regular.woff2": {
+	"/assets/fonts/atlas-grotesk-bold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/basis-grotesque-regular.woff2",
+		"oAP": "/assets/fonts/atlas-grotesk-bold.woff",
+		"oF": 0
+		},
+	"/assets/fonts/atlas-grotesk-bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/atlas-grotesk-bold.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/atlas-grotesk-regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/atlas-grotesk-regular.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/atlas-grotesk-regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/atlas-grotesk-regular.woff",
+		"oF": 0
+		},
+	"/assets/fonts/atlas-grotesk-regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/atlas-grotesk-regular.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/gallery.woff": {
@@ -744,21 +779,74 @@
 		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
 		},
+	"/assets/fonts/Publico-Bold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/Publico-Bold.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/Publico-Bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/Publico-Bold.woff",
+		"oF": 0
+		},
+	"/assets/fonts/Publico-Bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/Publico-Bold.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/publico-text-italic.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/publico-text-italic.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/publico-text-italic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/publico-text-italic.woff",
+		"oF": 0
+		},
+	"/assets/fonts/publico-text-italic.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/publico-text-italic.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/publico-text-roman.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/publico-text-roman.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/publico-text-roman.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/publico-text-roman.woff",
+		"oF": 0
+		},
+	"/assets/fonts/publico-text-roman.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/assets/fonts/publico-text-roman.woff2",
+		"oF": 0
+		},
 	"/assets/icons/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/assets/icons/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/assets/icons/symbol-defs.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/icons/symbol-defs.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -972,7 +1060,7 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/assets/scss/css/hamburgers.css",
 		"oF": 0,
 		"oS": 0,

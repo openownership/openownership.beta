@@ -51,8 +51,8 @@ svg {
   outline: 0;
 }
 
-.letter-spacing--loose {
-  letter-spacing: 0.05em;
+.menu .menu-text {
+  font-weight: normal;
 }
 
 // 3. Plugins
@@ -61,14 +61,6 @@ svg {
 .turbolinks-progress-bar {
   height: 5px;
   background-color: $black;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  letter-spacing: 0.025rem;
-}
-
-.h1, .h2, .h3, .h4, .h5, .h6 {
-  letter-spacing: 0.025rem;
 }
 
 
@@ -85,6 +77,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .secondary-color {
   color: get-color(secondary);
+}
+
+.primary-background {
+  background-color: $dark-blue;
+  color: $white;
 }
 
 // 5. Typography
@@ -110,36 +107,53 @@ p a {
   border-bottom: 1px solid $black;
 }
 
-.primary-font {
-  font-family: $primary-font-family;
+.sans-regular {
+  font-family: $sans-regular;
 }
 
-.secondary-font {
-  font-family: $secondary-font-family;
+.sans-bold {
+  font-family: $sans-bold;
 }
 
-h1 {
-  font-family: $secondary-font-family;
+.serif-regular {
+  font-family: $serif-regular;
 }
 
-h1 a {
-  border-bottom: 2px solid $black;
+.serif-italic {
+  font-family: $serif-italic;
 }
 
-h1 a:hover {
-  border-bottom: 2px solid $black;
+.serif-headline {
+  font-family: $serif-headline;
 }
 
+// X. Header
+// ---------
 
-// 6. Header
-// -------------
-
-.header {
-  background-color: $primary-background-color;
+.header__top {
+  border-bottom: 1px solid $dark-gray;
+//   font-size: 90%;
 }
 
-.navigation.is-active {
-  @include links ($white,$dark-gray)
+.header__navigation {
+  a {
+    font-family: $sans-bold;
+    color: $medium-gray;
+    &:hover {
+      color: $white;   
+    }
+  }
+}
+
+.header__social {
+  font-family: $serif-italic;
+  color: $medium-gray;
+  a {
+    color: $white;
+    &:hover {
+      color: $white;   
+    }
+  }
 }
 
 .hamburger-inner {
@@ -150,81 +164,8 @@ h1 a:hover {
   }
 }
 
-// 7. Off-canvas
-// -------------
+// X. Footer
+// ---------
 
-.off-canvas {
-  @include links ($white,$dark-gray)
-}
-
-
-.excerpt {
-  position:relative;
-  &:hover .excerpt__title {
-  opacity: 0;
-  transition: $primary-transition;
-  }
-  &:hover .excerpt__meta {
-  opacity: 1;
-  transition: $primary-transition;
-  } 
-}
-
-.excerpt__title {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  color: $white;
-  z-index: 1;
-  opacity: 1;
-}
-
-.excerpt__meta {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  color: $white;
-  z-index: 1;
-  opacity: 0;
-}
-
-
-
-
-.wrapper {
-  min-height: 100vh;
-  padding: 1rem;
-  @include breakpoint(medium) {
-    padding: 2rem;
-  }
-  @include breakpoint(large) {
-    padding: 3rem;
-  }
-}
-
-.about p {
-  font-size: 1rem;
-  line-height: 1.5;
-  text-indent: 1em;
-  @include breakpoint(medium) {
-  font-size: 1.25rem;
-  }
-  @include breakpoint(large) {
-  font-size: 1.25rem;
-  }
-}
-
-.contact p {
-  font-size: 1rem;
-  line-height: 1.4;
-  @include breakpoint(medium) {
-  font-size: 1.25rem;
-  }
-  @include breakpoint(large) {
-  font-size: 1.25rem;
-  }
-}
-
-.cv {
-  text-transform: uppercase;
+footer {
 }

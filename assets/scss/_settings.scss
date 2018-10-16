@@ -85,21 +85,29 @@ $foundation-palette: (
   alert: #cc4b37,
 );
 $light-gray: #e6e6e6;
-$medium-gray: #cacaca;
-$dark-gray: #8a8a8a;
+// $medium-gray: #cacaca;
+$medium-gray: #7e8da3;
+// $dark-gray: #8a8a8a;
+$dark-gray: #333b47;
 $black: #0a0a0a;
 $white: #fefefe;
-$primary-background-color: #191D23;
+
+$dark-blue: #191D23;
+$grey-blue: #363F4E;
+
 $body-background: $white;
 $body-font-color: $black;
-$body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+// $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+$body-font-family: $sans-regular;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
 $global-position: 1rem;
 $global-weight-normal: normal;
-$global-weight-bold: bold;
-$global-radius: 0;
+// $global-weight-bold: bold;
+$global-weight-bold: normal;
+// $global-radius: 0;
+$global-radius: 2px;
 $global-menu-padding: 0.7rem 1rem;
 $global-menu-nested-margin: 1rem;
 $global-text-direction: ltr;
@@ -140,7 +148,8 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: $body-font-family;
+// $header-font-family: $body-font-family;
+$header-font-family: $serif-headline;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
@@ -288,7 +297,8 @@ $breadcrumbs-item-separator-color: $medium-gray;
 // 11. Button
 // ----------
 
-$button-font-family: inherit;
+// $button-font-family: inherit;
+$button-font-family: $sans-bold;
 $button-padding: 0.85em 1em;
 $button-margin: 0 0 $global-margin 0;
 $button-fill: solid;
@@ -314,7 +324,8 @@ $button-transition: background-color 0.25s ease-out, color 0.25s ease-out;
 // ----------------
 
 $buttongroup-margin: 1rem;
-$buttongroup-spacing: 1px;
+// $buttongroup-spacing: 1px;
+$buttongroup-spacing: 4px;
 $buttongroup-child-selector: '.button';
 $buttongroup-expand-max: 6;
 $buttongroup-radius-on-each: true;
@@ -483,7 +494,8 @@ $menu-nested-margin: $global-menu-nested-margin;
 $menu-items-padding: $global-menu-padding;
 $menu-simple-margin: 1rem;
 $menu-item-color-active: $white;
-$menu-item-background-active: get-color(primary);
+// $menu-item-background-active: get-color(primary);
+$menu-item-background-active: transparent;
 $menu-icon-spacing: 0.25rem;
 $menu-item-background-hover: $light-gray;
 $menu-state-back-compat: true;
@@ -871,6 +883,11 @@ $grid-columns: 12;
 $grid-margin-gutters: (
   small: 20px,
   medium: 30px
+);
+$grid-margin-gutters: (
+  small: 32px,
+  medium: 32px,
+  large: 48px  
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;

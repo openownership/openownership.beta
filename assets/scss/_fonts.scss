@@ -1,17 +1,49 @@
 @font-face {
-  font-family: 'Basis Regular';
+  font-family: 'Publico Text Roman';
   src: 
-  url('../fonts/basis-grotesque-regular.woff2') format('woff2'), 
-  url('../fonts/basis-grotesque-regular.woff') format('woff');
+  url('../fonts/publico-text-roman.woff2') format('woff2'), 
+  url('../fonts/publico-text-roman.woff') format('woff'),
+  url('../fonts/publico-text-roman.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Basis Mono';
+  font-family: 'Publico Text Italic';
   src: 
-  url('../fonts/basis-grotesque-mono.woff2') format('woff2'), 
-  url('../fonts/basis-grotesque-mono.woff') format('woff');
+  url('../fonts/publico-text-italic.woff2') format('woff2'), 
+  url('../fonts/publico-text-italic.woff') format('woff'),
+  url('../fonts/publico-text-italic.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Publico Bold';
+  src: 
+  url('../fonts/publico-bold.woff2') format('woff2'), 
+  url('../fonts/publico-bold.woff') format('woff'),
+  url('../fonts/publico-bold.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Atlas Grotesk Regular';
+  src: 
+  url('../fonts/atlas-grotesk-regular.woff2') format('woff2'), 
+  url('../fonts/atlas-grotesk-regular.woff') format('woff'),
+  url('../fonts/atlas-grotesk-regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Atlas Grotesk Bold';
+  src: 
+  url('../fonts/atlas-grotesk-bold.woff2') format('woff2'), 
+  url('../fonts/atlas-grotesk-bold.woff') format('woff'),
+  url('../fonts/atlas-grotesk-bold.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
