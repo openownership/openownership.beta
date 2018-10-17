@@ -573,7 +573,7 @@
 		"oAP": "/_uploads/calling.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/coming-soon.jpg": {
@@ -584,7 +584,7 @@
 		"oAP": "/_uploads/coming-soon.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/denmark.jpg": {
@@ -606,7 +606,7 @@
 		"oAP": "/_uploads/faqs.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/first-steps.jpg": {
@@ -617,7 +617,7 @@
 		"oAP": "/_uploads/first-steps.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/flags.jpg": {
@@ -639,7 +639,7 @@
 		"oAP": "/_uploads/germany.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/ghana.jpg": {
@@ -650,7 +650,7 @@
 		"oAP": "/_uploads/ghana.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/hiring.jpg": {
@@ -694,7 +694,7 @@
 		"oAP": "/_uploads/introducing.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/kyrgyzstan.jpg": {
@@ -771,7 +771,7 @@
 		"oAP": "/_uploads/ukraine-first.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/ukraine-report.jpg": {
@@ -782,7 +782,7 @@
 		"oAP": "/_uploads/ukraine-report.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/ukraine.jpg": {
@@ -804,7 +804,7 @@
 		"oAP": "/_uploads/uncertain.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/verification.jpg": {
@@ -815,7 +815,7 @@
 		"oAP": "/_uploads/verification.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/what-we-mean.jpg": {
@@ -826,7 +826,7 @@
 		"oAP": "/_uploads/what-we-mean.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_what-we-do/1-1-technical-assistance.markdown": {
