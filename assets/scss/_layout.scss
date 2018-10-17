@@ -55,6 +55,10 @@ svg {
   font-weight: normal;
 }
 
+.border-top {
+  border-top: 1px solid $light-gray;
+}
+
 // 3. Plugins
 // ----------
 
@@ -211,7 +215,7 @@ footer .active a {
 }
 
 footer .menu a, footer .menu .menu-text {
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0rem;
 }
 
 .sponsors {

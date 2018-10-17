@@ -2,12 +2,26 @@
 layout: default
 ---
 
-<!-- Page Content -->
+<!-- Page Title -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y align-center" data-aos="fade-in">
+  <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 medium-10 large-10 cell">
-      {{page.content | markdownify}}
+      <h1>{{page.title}}</h1>
     </div>
   </div>
 </section>
-<!-- End Page Content -->
+<!-- End Page Title -->
+
+<!-- Page Title -->
+<section class="grid-container">
+  {% for service in page.services %}
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 cell border-top">
+      <h5 class="sans-bold">{{service.title}}</h5>
+      {{service.text | markdownify}}
+      <a class="button" href="{{service.link}}">{{service.button}}</a>
+    </div>
+  </div>
+  {% endfor %}
+</section>
+<!-- End Page Title -->

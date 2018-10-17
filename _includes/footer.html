@@ -1,10 +1,10 @@
 {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 <!-- Footer -->
-<footer class="grid-x padding-3 align-justify primary-background sans-bold">
+<footer class="grid-x padding-2 align-justify primary-background sans-bold">
   
   <div class="small-12 medium-6 cell show-for-large">
-    <svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg>
+    <a href="/"><svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
   </div>
   
   <div class="small-12 medium-3 cell">

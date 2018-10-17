@@ -52,6 +52,6 @@ services:
     real world use cases and briefing papers through our resources page.
   button: View resources
   link: "/resources"
-layout: page
+layout: what-we-do
 ---
 
