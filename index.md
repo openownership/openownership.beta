@@ -27,6 +27,11 @@ priorities-text: |-
   2. Supporting the implementation of beneficial ownership transparency. We are helping governments to implement beneficial ownership regimes, working across the spectrum of technical, administrative, and policy/regulatory issues that affect the ultimate usability of published data.
 
   3. Developing and sharing beneficial ownership best practice. Driving awareness of the benefits of high-quality beneficial ownership data, and growing demand for it, are vital to our mission. This means sharing research, case studies and best practice through our networks, at events and conferences, and with influencers in the public and private sectors.
+support-title: Support & Funding
+support-text: 'OpenOwnership is driven by the leading transparency NGOs: Transparency
+  International, Global Witness, ONE, the Web Foundation, Open Contracting Partnership,
+  and the B Team, along with OpenCorporates, and initially funded by the Department
+  for International Development (UK).'
 layout: home
 ---
 
