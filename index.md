@@ -20,13 +20,13 @@ why-text: |-
   The more, and better quality, beneficial ownership data we have, the more expensive and difficult it will be for corrupt individuals to hide. This is good for governments, businesses, and wider society.
 priorities-title: Our priorities
 priorities-text: |-
-  According to the World Bank, around 70% of corruption cases involve anonymous companies. They are also used to move illicit funds - from laundering money for human trafficking and the drug trade to funding terror groups and criminal gangs.
+  We are focused on three closely connected strategic priorities:
 
-  By masking the identities of criminals and tax evaders, shell companies inhibit the ability of law enforcement agencies, journalists and other civil society actors to investigate, expose and punish illegal activity.
+  1. Building the world’s first global, open beneficial ownership register and data standard. The OpenOwnership Register is an easy-to-use, cloud-based, platform that aggregates beneficial ownership information from multiple sources and makes it available for free to all, allowing for powerful global searches with just a couple of clicks. Information from more than 4.5 million companies is already available through the online portal. The Beneficial Ownership Data Standard is a conceptual and practical framework for collecting and publishing beneficial ownership data, making it a powerful cost-saving tool for implementers of beneficial ownership transparency.
 
-  This activity is global by default, as corporate structures cross jurisdictions in a deliberate effort to make discovering the true owners impossible. Individual countries holding and maintaining siloed registers of beneficial owners is not enough - this information has to be interlinked so that ownership relationships and financial flows can be tracked across different jurisdictions.
+  2. Supporting the implementation of beneficial ownership transparency. We are helping governments to implement beneficial ownership regimes, working across the spectrum of technical, administrative, and policy/regulatory issues that affect the ultimate usability of published data.
 
-  The more, and better quality, beneficial ownership data we have, the more expensive and difficult it will be for corrupt individuals to hide. This is good for governments, businesses, and wider society.
+  3. Developing and sharing beneficial ownership best practice. Driving awareness of the benefits of high-quality beneficial ownership data, and growing demand for it, are vital to our mission. This means sharing research, case studies and best practice through our networks, at events and conferences, and with influencers in the public and private sectors.
 layout: home
 ---
 
