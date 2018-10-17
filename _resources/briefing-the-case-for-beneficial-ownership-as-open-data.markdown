@@ -2,10 +2,9 @@
 title: 'Briefing: The case for beneficial ownership as open data'
 date: 2017-07-06 18:33:00 Z
 position: 6
-File: "/uploads/Briefing%20on%20beneficial%20ownership%20as%20open%20data.pdf"
-Author: OpenOwnership
-Date: 2017-07-06 00:00:00 Z
-Thumbnail Image: "/uploads/Screen%20Shot%202017-07-20%20at%203.35.44%20PM.png"
+file: "/uploads/Briefing%20on%20beneficial%20ownership%20as%20open%20data.pdf"
+author: OpenOwnership
+thumbnail-image: "/uploads/Screen%20Shot%202017-07-20%20at%203.35.44%20PM.png"
 ---
 
 Open data is digital “structured” or “machine-readable” data that is “made available with the technical and legal characteristics necessary for it to be freely used, reused, and redistributed by anyone, anytime, anywhere.” In other words, any user of open beneficial ownership data should be able to access the data, search it freely and/or download it as structured data -- for example, a .csv file that can be imported into Excel -- , and use it for any purpose.

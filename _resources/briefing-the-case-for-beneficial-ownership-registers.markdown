@@ -2,10 +2,9 @@
 title: 'Briefing: The case for public beneficial ownership registers'
 date: 2017-07-06 18:34:00 Z
 position: 5
-File: "/uploads/The%20case%20for%20public%20beneficial%20ownership.pdf"
-Author: OpenOwnership
-Date: 2017-07-06 00:00:00 Z
-Thumbnail Image: "/uploads/Screen%20Shot%202017-07-20%20at%201.30.46%20PM.png"
+file: "/uploads/The%20case%20for%20public%20beneficial%20ownership.pdf"
+author: OpenOwnership
+thumbnail-image: "/uploads/Screen%20Shot%202017-07-20%20at%201.30.46%20PM.png"
 ---
 
 Many jurisdictions around the world are considering implementing public registers of benefcial ownership. Here, we answer some of the most frequently asked questions by policymakers and implementers about public benefcial ownership data.
