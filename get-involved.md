@@ -2,7 +2,7 @@
 title: Get Involved
 date: 2016-11-22 14:48:00 Z
 position: 2
-sector:
+sectors:
 - title: Public sector
   text: |-
     Find out  about becoming a partner in our pilot program

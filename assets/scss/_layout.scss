@@ -101,7 +101,7 @@ a {
 }
 
 .underline {
-  border-bottom: 1px solid $black;
+  border-bottom: 1px solid get-color(primary);
 }
 
 .uppercase {
@@ -112,8 +112,14 @@ i, cite, em, var, address, dfn {
   font-style: normal;
 }
 
-p a {
-  border-bottom: 1px solid $black;
+p {
+  a {
+    border-bottom: 1px solid get-color(primary);
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+  }
 }
 
 .sans-regular {
