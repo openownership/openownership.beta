@@ -86,7 +86,7 @@ email: info@openownership.org
 analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
-date_format: "%Y"
+date_format: "%b %d, %Y"
 future: true
 social:
   twitter: https://twitter.com/openownership

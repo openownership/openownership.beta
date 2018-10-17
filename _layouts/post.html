@@ -5,8 +5,9 @@ layout: default
 <!-- Post Title -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x align-center padding-vertical-3">
-    <div class="small-12 medium-10 large-8 cell">
+    <div class="small-12 medium-10 large-10 cell">
       <h1>{{page.title}}</h1>
+      {{ page.author }} — {{ page.date | date: '%d %B, %Y' }}
     </div>
   </div>
 </section>
@@ -15,7 +16,7 @@ layout: default
 <!-- Post Content -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-10 large-8 cell">
+    <div class="small-12 medium-10 large-10 cell border-top">
       {% if page.feature-image %}
         <img class="feature-image" src="{{page.feature-image}}">
       {% endif %}
@@ -27,33 +28,9 @@ layout: default
 <!-- Post Content -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x  grid-padding-y align-center">
-    <div class="small-12 medium-10 large-8 cell">
+    <div class="small-12 medium-10 large-10 cell">
       {{ page.content }}
     </div>
   </div>
 </section>
 <!-- End Post Title -->
-
-<!--
-<div class="grid-container">
-
-  <div class="grid-x">
-    <div class="small-12 medium-3 cell">
-      <p>{{ page.Author }}</p>
-      <p>{{ page.date | date: '%d %B, %Y' }}<p>
-    </div>
-    <div class="small-12 medium-6 cell">
-
-
-      <div class="row">
-        <div class="col-md-11">
-          {{ content }}
-        </div>
-      </div>
-    </div>
-    <div class="col-md-2">
-    </div>
-  </div>
-
-</div>
--->
