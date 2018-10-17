@@ -2,34 +2,27 @@
 title: Get Involved
 date: 2016-11-22 14:48:00 Z
 position: 2
-Join a working group:
-  Header: There are many different ways you can get involved
-  Text: We have convened a series of working groups to ensure that all stakeholders
-    have a say in making the register a success, and is driven by what users need.
-    We’re also looking for technical experts who are interested in helping create
-    the first open beneficial ownership data standard.
-Working Group 1:
-  Header: Public sector
-  Text: |-
-    - Find out  about becoming a partner in our pilot program
-    - Check out our latest briefings and project updates on the [resources page](/resources)
-    - Contact our helpdesk if you need support or more information - [support@openownership.org](mailto:support@openownership.org)
-Working Group 2:
-  Header: Private sector
-  Text: |-
-    - [Add your company data](https://register.openownership.org/users/sign_up) to the OpenOwnership Register
-    - Download our OpenOwnership for the private sector introductory briefing
-    - Get in touch if you have any questions about using the OpenOwnership Register or the Beneficial Ownership Data Standard
-Working Group 3:
-  Header: Journalists and law enforcement agencies
-  Text: "- [Contact our helpdesk](mailto:support@openownership.org) about using our
+sector:
+- title: Public sector
+  text: |-
+    Find out  about becoming a partner in our pilot program
+
+    Check out our latest briefings and project updates on the [resources page](/resources)
+
+    Contact our helpdesk if you need support or more information - [support@openownership.org](mailto:support@openownership.org)
+- title: Private sector
+  text: |-
+    [Add your company data](https://register.openownership.org/users/sign_up) to the OpenOwnership Register
+    Download our OpenOwnership for the private sector introductory briefing
+    Get in touch if you have any questions about using the OpenOwnership Register or the Beneficial Ownership Data Standard
+- title: Journalists and law enforcement agencies
+  text: "[Contact our helpdesk](mailto:support@openownership.org) about using our
     data - no question is too big or small! We’re always keen to support people wanting
     to use our data in cool new ways and can help with the creation of bespoke datasets"
-Working Group 4:
-  Header: Civil society
-  Text: |-
-    - If you would like to use our data, or think your government could benefit from our implementation support, please [get in touch](mailto:support@openownership.org)
-    - Our research and resources can be powerful advocacy tools - these are available to [download here](/resources)
+- title: Civil society
+  text: |-
+    If you would like to use our data, or think your government could benefit from our implementation support, please [get in touch](mailto:support@openownership.org)
+    Our research and resources can be powerful advocacy tools - these are available to [download here](/resources)
 layout: get-involved
 ---
 
