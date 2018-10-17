@@ -2,22 +2,48 @@
 layout: default
 ---
 
-<div class="container-fluid page resources">
+<!-- Page Title -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x padding-vertical-3 align-center">
+    <div class="small-12 medium-10 large-10 cell">
+      <h1>{{page.title}}</h1>
+      <h5 class="sans-regular">{{page.content}}</h5>
+    </div>
+  </div>
+</section>
+<!-- End Page Title -->
 
-  <div class="row">
-    <div class="col-md-6 offset-md-3">
+<!-- Page Content -->
+<section class="grid-container">
+  {% for service in page.services %}
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 cell border-top">
+      <h5 class="sans-bold">{{service.title}}</h5>
+      {{service.text | markdownify}}
+      <a class="button" href="{{service.link}}">{{service.button}}</a>
+    </div>
+  </div>
+  {% endfor %}
+</section>
+<!-- End Page Content -->
+
+<!--
+<div class="grid-container">
+
+  <div class="grid-x">
+    <div class="small-12 cell">
       <h1>{{ page.title }}</h1>
     </div>
   </div>
 
-  <div class="row">
+  <div class="grid-x">
 
     <div class="col-md-6 offset-md-3 resources-list">
 
       {% assign sorted_resources = site.resources | sort:"position" %}
       {% for resource in sorted_resources %}
 
-        <div class="row">
+        <div class="grid-x">
           <div class="col-sm-12">
 
             <div class="resource-item">
@@ -25,12 +51,12 @@ layout: default
                 <a href="{{ resource.File }}"><img src="{{ resource['Thumbnail Image'] }}"></a>
               </div>
               <div class="resource-body">
-                <div class="row">
+                <div class="grid-x">
                   <div class="col-sm-12">
                     <a class="resource-title" href="{{ resource.File }}"><h3>{{ resource.title }}</h3></a>
                   </div>
                 </div>
-                <div class="row">
+                <div class="grid-x">
                   <div class="col-md-12">
                     <h4 class="card-subtitle">{{ resource.Author }} · {{ resource.Date | date: "%b %Y" }}</h4>
                     <div class="resource-text">{{ resource.content }}</div>
@@ -49,3 +75,4 @@ layout: default
   </div>
 
 </div>
+-->
