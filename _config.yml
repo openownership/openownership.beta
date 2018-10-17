@@ -39,10 +39,9 @@ defaults:
     path: ''
     type: resources
   values:
-    File: 
-    Author: 
-    Date: 
-    Thumbnail Image: 
+    file: 
+    author: 
+    thumbnail-image: 
 - scope:
     path: ''
     type: team-members
