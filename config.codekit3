@@ -545,34 +545,6 @@
 		"oAP": "/_resources/ukrainereview.markdown",
 		"oF": 0
 		},
-	"/_services/1-1-technical-assistance.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_services/1-1-technical-assistance.markdown",
-		"oF": 0
-		},
-	"/_services/private-sector-engagement.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_services/private-sector-engagement.markdown",
-		"oF": 0
-		},
-	"/_services/the-beneficial-ownership-data-standard.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_services/the-beneficial-ownership-data-standard.markdown",
-		"oF": 0
-		},
-	"/_services/the-openownership-pilot-program.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_services/the-openownership-pilot-program.markdown",
-		"oF": 0
-		},
 	"/_site": {
 		"ft": 65536,
 		"oA": 1,
@@ -607,6 +579,34 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_what-we-do/1-1-technical-assistance.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_what-we-do/1-1-technical-assistance.markdown",
+		"oF": 0
+		},
+	"/_what-we-do/private-sector-engagement.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_what-we-do/private-sector-engagement.markdown",
+		"oF": 0
+		},
+	"/_what-we-do/the-beneficial-ownership-data-standard.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_what-we-do/the-beneficial-ownership-data-standard.markdown",
+		"oF": 0
+		},
+	"/_what-we-do/the-openownership-pilot-program.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_what-we-do/the-openownership-pilot-program.markdown",
+		"oF": 0
 		},
 	"/assets/css/app.css": {
 		"aP": 0,
@@ -9045,6 +9045,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/what-we-do.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/what-we-do.html",
+		"oF": 0
 		},
 	"/what-we-do.md": {
 		"cB": 0,
