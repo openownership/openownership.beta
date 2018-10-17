@@ -104,6 +104,10 @@ svg {
 // 5. Typography
 // -------------
 
+strong, b {
+font-family: $sans-bold;
+}
+
 a {
   transition: color .35s cubic-bezier(.39, .575, .565, 1);
 }
