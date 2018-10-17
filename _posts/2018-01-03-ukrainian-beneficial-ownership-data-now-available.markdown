@@ -1,8 +1,8 @@
 ---
 title: Ukrainian beneficial ownership data now available
 date: 2018-01-03 15:27:00 Z
-Feature Image: "/uploads/Screen%20Shot%202018-01-03%20at%204.49.04%20PM.png"
-Author: Zosia Sztykowski
+feature-image: "/uploads/ukraine-report.jpg"
+author: Zosia Sztykowski
 ---
 
 The [OpenOwnership Register](https://register.openownership.org/) has been updated to include information about the beneficial owners of over 240,000 Ukrainian companies.

@@ -1,7 +1,7 @@
 ---
 title: 'Open Call: Governance consultant'
 date: 2017-12-11 09:08:00 Z
-Author: Zosia Sztykowski
+author: Zosia Sztykowski
 ---
 
 **OpenOwnership** seeks a governance consultant to work with the Steering Group and staff to help us formalise and adopt an efficient and effective governance structure as we move into the second phase of the project.

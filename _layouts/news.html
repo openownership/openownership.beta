@@ -2,33 +2,60 @@
 layout: default
 ---
 
-<div class="container-fluid news">
-
-  <div class="row">
-    <div class="col-md-3">
-      <header class="post-header">
-        <h6>News</h6>
-      </header>
+<!-- Page Title -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x padding-vertical-3 align-center">
+    <div class="small-12 medium-10 large-10 cell">
+      <h1>{{page.title}}</h1>
+      <h5 class="sans-regular">{{page.content}}</h5>
     </div>
+  </div>
+</section>
+<!-- End Page Title -->
 
-    <div class="col-md-6">
-
-      {% for post in site.posts %}
-      <div class="post">
-        <header class="post-header">
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        </header>
-        <!-- <p><b>By {{ post.Author }}</b></p>
-        <p>{{ post.date | date: '%d %B, %Y' }}<p> -->
-        {% if post['Feature Image']%}
-          <a href="{{ post.url }}"><img class="feature-image" src="{{ post['Feature Image'] }}"></a>
-        {% endif %}
-            <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
-            <p><a class="cta-link continue" href="{{ post.url }}">Continue reading</a></p>
+<!-- Page Content -->
+<section class="grid-container">
+  {% for post in site.posts %}
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-10 large-10 cell border-top">
+    
+      <div class="grid-x grid-padding-y">
+        <div class="small-12 cell">
+          <h2 class="padding-bottom-1"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        </div>
       </div>
-      {% endfor %}
+  
+      {% if post.feature-image %}
+      <div class="grid-x">
+        <div class="small-12 cell">
+        <a href="{{ post.url }}"><img class="feature-image" src="{{post.feature-image}}"></a>
+        </div>
+      </div>
+      {% endif %}
+  
+      {% if post.feature-image-caption %}
+      <div class="grid-x padding-vertical-1">
+        <div class="small-12 cell serif-italic medium-gray">
+        <small>{{post.feature-image-caption}}</small>
+        </div>
+      </div>
+      {% endif %}
+
+      <div class="grid-x">
+        <div class="small-12 cell">
+        <p>{{ post.excerpt | truncatewords:40 }}</p>
+        </div>
+      </div>
+
+
+      <div class="grid-x">
+        <div class="small-12 cell">
+        <a class="button" href="{{ post.url }}">Continue reading</a>
+        </div>
+      </div>
 
     </div>
   </div>
-
-</div>
+  {% endfor %}
+</section>
+<!-- End Page Content -->

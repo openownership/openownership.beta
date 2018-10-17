@@ -1,8 +1,8 @@
 ---
 title: What we really mean when we talk about verification (Part 1 of 4)
 date: 2017-05-10 15:21:00 Z
-Feature Image: "/uploads/daryan-shamkhali-133233%20copy-24cefb.jpg"
-Author: Zosia Sztykowski and Chris Taggart
+feature-image: "/uploads/verification.jpg"
+author: Zosia Sztykowski and Chris Taggart
 ---
 
 This is the first of a series of blog posts in which we will discuss the critical but tricky issue of verification, particularly with respect to beneficial ownership.

@@ -6,8 +6,8 @@ categories:
 tags:
 - data standard
 - working groups
-Feature Image: "/uploads/148050742710786%20(1).jpeg"
-Author: Chris Taggart
+feature-image: "/uploads/coming-soon.jpg"
+author: Chris Taggart
 ---
 
 Who controls and benefits from companies is a transnational, global issue. Take any case of grand corruption, large-scale fraud, organised crime or tax evasion, and it’s pretty certain it will be enabled in some way by the obfuscation and opacity of anonymous companies, i.e. those where the ownership and beneficiaries are not disclosed.

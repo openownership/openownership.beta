@@ -5,8 +5,8 @@ categories:
 - announcements
 tags:
 - beneficial ownership
-Feature Image: "/uploads/photo-1473742925119-519edfdba49d.jpg"
-Author: Hera Hussain
+feature-image: "/uploads/first-steps.jpg"
+author: Hera Hussain
 ---
 
 The past year has seen huge strides towards ending the opacity of who anonymous companies, so beloved by criminals, corrupt politicians and tax evaders to mask their activities. The UK published the first public register of who controls companies, numerous other countries committed to doing the same, and sectorial initiatives such as EITI pledged to collect and publish data on who controls and benefits from companies.

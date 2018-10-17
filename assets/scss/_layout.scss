@@ -75,6 +75,14 @@ svg {
   color: $white;
 }
 
+.medium-gray {
+  color: $medium-gray;
+}
+
+.light-gray {
+  color: $light-gray;
+}
+
 .primary-color {
   color: get-color(primary);
 }
@@ -205,6 +213,13 @@ p {
 
 .home ol li p, .home ol {
   font-size: 14px;
+}
+
+// X. News
+// ---------
+
+.news h2 {
+  @include links ($black, $primary-color);
 }
 
 // X. Footer

@@ -1,11 +1,11 @@
 ---
 title: 'FAQs: OpenOwnership'
 date: 2017-03-31 16:17:00 Z
-Feature Image: "/uploads/OpenOwnership-duo2.jpg"
-Author: Zosia Sztykowski
+feature-image: "/uploads/faqs.jpg"
+author: Zosia Sztykowski
 ---
 
-**On April 3, 2017, the public beta of the OpenOwnership Register launches. Below, we answer some frequently asked questions about the project and the register. Don’t hesitate to [reach out to us](mailto:info@openownership.org) if you’re wondering about something that isn’t covered here.**
+On April 3, 2017, the public beta of the OpenOwnership Register launches. Below, we answer some frequently asked questions about the project and the register. Don’t hesitate to [reach out to us](mailto:info@openownership.org) if you’re wondering about something that isn’t covered here.
 
 **What is OpenOwnership?**
 OpenOwnership’s central goal is to build an open global beneficial ownership register, which will serve as an authoritative source of data about who owns companies, for the benefit of all. This data will be global and linked across jurisdictions, industries, and linkable to other datasets too. The public beta of the OpenOwnership Register will launch on April 3, 2017 -- the anniversary of the Panama Papers leak.

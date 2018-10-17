@@ -1,8 +1,8 @@
 ---
-title: Going beyond the Register - our Mission Statement
+title: Going Beyond the Register - our Mission Statement
 date: 2018-08-01 16:02:00 Z
-Feature Image: "/uploads/tom-sodoge-70362-unsplash.jpg"
-Author: Zosia Sztykowski
+feature-image: "/uploads/mission-statement.jpg"
+author: Zosia Sztykowski
 ---
 
 Our founding organizations came together because of a shared vision: freely accessible, linked beneficial ownership information for the benefit of both business and society. 

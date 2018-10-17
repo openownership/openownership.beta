@@ -1,8 +1,8 @@
----
+z---
 title: 'What we really mean when we talk about verification: Authentication & authorization
   (Part 2 of 4)'
 date: 2017-09-26 15:10:00 Z
-Author: Zosia Sztykowski and Chris Taggart
+author: Zosia Sztykowski and Chris Taggart
 ---
 
 [In the first post in this series](https://openownership.org/news/what-we-really-mean-when-we-talk-about-verification-part-1-of-4/) on the principles of verification, particularly relating to beneficial ownership, we explained why there is no guarantee that any piece of beneficial ownership data is the absolute truth.

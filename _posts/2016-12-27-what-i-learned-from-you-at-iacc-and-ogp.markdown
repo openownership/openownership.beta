@@ -1,7 +1,7 @@
 ---
 title: 'What I learned from you at #17IACC and #OGP16'
 date: 2016-12-27 12:13:00 Z
-Author: Zosia Sztykowski
+author: Zosia Sztykowski
 ---
 
 Representing OpenOwnership at both [the International Anti-Corruption Conference](http://iaccseries.org) and [the Open Government Partnership Summit](https://en.ogpsummit.org/osem/conference/ogp-summit) was an inspiring way to debut our project to build a global, linked register of beneficial ownership.

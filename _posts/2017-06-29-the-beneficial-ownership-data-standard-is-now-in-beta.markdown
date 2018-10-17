@@ -1,8 +1,8 @@
 ---
 title: Introducing the Beneficial Ownership Data Standard
 date: 2017-06-29 09:36:00 Z
-Feature Image: "/uploads/479370088_2e7091fc6e_z.jpg"
-Author: Tim Davies
+feature-image: "/uploads/introducing.jpg"
+author: Tim Davies
 ---
 
 ***What specific fields of data should a beneficial ownership register collect and publish for re-use? How can that information be shared so that other individuals and systems can integrate, interpret, analyse and take action with it?***

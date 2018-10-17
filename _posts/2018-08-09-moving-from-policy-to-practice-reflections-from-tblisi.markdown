@@ -1,8 +1,8 @@
 ---
 title: 'Moving from policy to practice: reflections from Tblisi'
 date: 2018-08-09 09:01:00 Z
-Feature Image: "/uploads/Screen%20Shot%202018-08-09%20at%2010.04.50.png"
-Author: Kadie Armstrong
+feature-image: "/uploads/tsibli.jpg"
+author: Kadie Armstrong
 ---
 
 Our team traveled to the Open Government Partnership’s Global Summit in Tbilisi with an important message to deliver: it’s time to make user needs the focus of beneficial ownership transparency.

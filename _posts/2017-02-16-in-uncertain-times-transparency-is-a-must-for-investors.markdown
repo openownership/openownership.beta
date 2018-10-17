@@ -1,10 +1,10 @@
 ---
 title: In uncertain times, transparency is a must for investors
 date: 2017-02-16 11:05:00 Z
-Author: Eryn Schornick
+feature-image: "/uploads/uncertain.jpg"
+author: Eryn Schornick
 ---
 
-![479370088_2e7091fc6e_z.jpg](/uploads/479370088_2e7091fc6e_z.jpg)
 *That was supposed to be going up, wasn't it? São Paulo Stock Exchange, [Rafael Matsunaga](https://www.flickr.com/photos/rednuht/ "Go to Rafael Matsunaga's photostream")*
 
 There are few things that companies, including their investors, dislike more than uncertainty, so given the state of politics in the U.S. and Europe these are unnerving times. But, there is one thing that the business community can be certain of: the criminal and corrupt will continue to hide behind their secretly-owned American companies in order to carry out unethical and illegitimate activities. This makes it very hard for responsible businesses to manage all types of risk, unless the U.S. Congress takes urgent action.

@@ -1,11 +1,11 @@
 ---
 title: 'A statement from business leaders: Moving past the Panama Papers'
 date: 2017-04-03 08:55:00 Z
-Feature Image: "/uploads/mo.jpg"
-Author: The B Team Leaders
+feature-image: "/uploads/mo.jpg"
+author: The B Team Leaders
 ---
 
-A year ago the “Panama Papers” leak exposed the use of anonymous companies to avoid sanctions, move proceeds of corruption and crime, and facilitate other illicit financial schemes. The leak put a price on doing business through anonymous companies: [400 public companies named in the leak had $135 billion wiped off their stock value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2771095). In the wake of the leak, many governments and companies [committed to action](http://www.ownershiptransparency.com) in the face of the unacceptably high costs of anonymous companies to business and society.
+A year ago the “Panama Papers” leak exposed the use of anonymous companies to avoid sanctions, move proceeds of corruption and crime, and facilitate other illicit financial schemes. The leak put a price on doing business through anonymous companies [400 public companies named in the leak had $135 billion wiped off their stock value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2771095). In the wake of the leak, many governments and companies [committed to action](http://www.ownershiptransparency.com) in the face of the unacceptably high costs of anonymous companies to business and society.
 
 A year on, we have moved a step closer to shining a light on who owns and controls companies with the creation of *[OpenOwnership](http://www.openownership.com)*, the first public, open data, global database of company ownership information. *OpenOwnership provides public access to information on who owns 1.9 million companies in 24 countries, across all sectors including construction, legal, real estate and with a special focus on extractive industries.*
 
