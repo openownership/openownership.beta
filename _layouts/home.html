@@ -19,26 +19,22 @@ layout: default
 
 <!-- Home Description -->
 <section class="secondary-background">
-  
-  <div class="grid-container">
-    <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="grid-x">
     
-      <div class="small-12 medium-6 cell h5 sans-regular">
+      <div class="small-12 medium-6 cell h5 sans-regular padding-3">
         {{page.intro-text | markdownify}}
       </div>
-    
-      <div class="small-12 medium-6 cell text-center">
-        Test
+      
+      {% assign background-image = page.intro-image %}
+      <div class="small-12 medium-6 cell text-center image--feature" {% include images/feature.html %}>
       </div>
     
     </div>
-  </div>
-
 </section>
 <!-- End Home Description -->
 
 <!-- Home Why -->
-<section class="primary-background">
+<section class="primary-background padding-vertical-3">
   
   <div class="grid-container">
     <div class="grid-x grid-padding-x grid-padding-y align-center">
@@ -59,20 +55,31 @@ layout: default
 
 <!-- Home Priorities -->
 <section class="secondary-background">
-  
-  <div class="grid-container">
     <div class="grid-x grid-padding-x grid-padding-y">
     
-      <div class="small-12 medium-6 cell h5 sans-regular">
+      <div class="small-12 medium-6 cell h5 sans-regular padding-3">
         <h3>{{page.priorities-title}}</h3>
+        <div class="h5 sans-regular">
+        {{page.priorities-text | markdownify}}
+        </div>
+        <a class="button hollow white" href="/what-we-do">Learn more about what we do</a>
       </div>
     
-      <div class="small-12 medium-6 cell text-center">
-        Test
+      {% assign background-image = page.priorities-image %}
+      <div class="small-12 medium-6 cell text-center image--feature" {% include images/feature.html %}>
       </div>
     
     </div>
-  </div>
-
 </section>
-<!-- End Home Description -->
+<!-- End Home Priorities -->
+
+<!-- Home Support + Funding -->
+<div class="grid-x padding-3 align-justify">
+  <div class="small-12 medium-8 cell">
+  <h3>{{page.support-title}}</h3>
+  <div class="h5 sans-regular">
+  {{page.support-text | markdownify}}
+  </div>
+  </div>
+</div>
+<!-- End Home Support + Funding -->

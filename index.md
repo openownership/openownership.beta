@@ -8,7 +8,7 @@ intro-text: |-
   OpenOwnership drives greater corporate transparency across the world by making it easy to publish and access high-quality, linked data about who owns companies.
 
   By leading the development of an open, global beneficial ownership data and policy ecosystem, we aim to create a new set of norms and end anonymous company ownership.
-intro-image: "/assets/img/intro-image.jpg"
+intro-image: "/uploads/intro.jpg"
 why-title: Why beneficial ownership matters
 why-text: |-
   According to the World Bank, around 70% of corruption cases involve anonymous companies. They are also used to move illicit funds - from laundering money for human trafficking and the drug trade to funding terror groups and criminal gangs.
@@ -27,6 +27,7 @@ priorities-text: |-
   2. Supporting the implementation of beneficial ownership transparency. We are helping governments to implement beneficial ownership regimes, working across the spectrum of technical, administrative, and policy/regulatory issues that affect the ultimate usability of published data.
 
   3. Developing and sharing beneficial ownership best practice. Driving awareness of the benefits of high-quality beneficial ownership data, and growing demand for it, are vital to our mission. This means sharing research, case studies and best practice through our networks, at events and conferences, and with influencers in the public and private sectors.
+priorities-image: "/uploads/priorities.jpg"
 support-title: Support & Funding
 support-text: 'OpenOwnership is driven by the leading transparency NGOs: Transparency
   International, Global Witness, ONE, the Web Foundation, Open Contracting Partnership,

@@ -293,6 +293,13 @@
 		"oAP": "/_layouts/team.html",
 		"oF": 0
 		},
+	"/_layouts/what-we-do.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/what-we-do.html",
+		"oF": 0
+		},
 	"/_posts/2016-11-22-the-first-steps.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -579,26 +586,27 @@
 		"oAP": "/_team-members/aimen-chouchane.markdown",
 		"oF": 0
 		},
-	"/_uploads/intro-image.jpg": {
+	"/_uploads/intro.jpg": {
 		"ft": 16384,
 		"iS": 824184,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/intro-image.jpg",
+		"oAP": "/_uploads/intro.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/css/app-blessed1.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/assets/css/app-blessed1-ck.css",
+	"/_uploads/priorities.jpg": {
+		"ft": 16384,
+		"iS": 413046,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/priorities.jpg",
 		"oF": 0,
-		"oS": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/assets/css/app.css": {
 		"aP": 0,
@@ -609,13 +617,6 @@
 		"oAP": "/assets/css/app-ck.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"/assets/css/app.css.map": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/css/app.css.map",
-		"oF": 0
 		},
 	"/assets/favicons/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -1074,11 +1075,11 @@
 		},
 	"/assets/scss/app.scss": {
 		"aP": 1,
-		"bl": 1,
+		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 1,
+		"ma": 0,
 		"oA": 0,
 		"oAP": "/assets/css/app.css",
 		"oF": 0,
@@ -8863,6 +8864,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/bower_components/what-input/yarn.lock",
+		"oF": 0
+		},
+	"/Gemfile": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/Gemfile",
 		"oF": 0
 		},
 	"/Gemfile.lock": {

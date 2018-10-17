@@ -109,7 +109,8 @@ $global-weight-normal: normal;
 $global-weight-bold: normal;
 // $global-radius: 0;
 $global-radius: 2px;
-$global-menu-padding: 0.7rem 1rem;
+// $global-menu-padding: 0.7rem 1rem;
+$global-menu-padding: 1rem 1rem;
 $global-menu-nested-margin: 1rem;
 $global-text-direction: ltr;
 $global-flexbox: true;
@@ -892,10 +893,10 @@ $grid-margin-gutters: (
 );
 */
 $grid-margin-gutters: (
-  small: 16px,
-  medium: 32px,
-  large: 48px,
-  xlarge: 72px
+  small: 3rem,
+  medium: 3rem,
+  large: 4rem,
+  xlarge: 4rem
 );
 $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;

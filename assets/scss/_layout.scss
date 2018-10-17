@@ -135,14 +135,19 @@ p a {
 // X. Header
 // ---------
 
+.header {
+  .active a {
+    border-bottom: 2px solid #3C31D4;
+  }
+}
+
 .header__top {
   border-bottom: 1px solid $dark-gray;
-//   font-size: 90%;
+  font-size: 14px;
 }
 
 .header__navigation {
   a {
-    font-family: $sans-bold;
     color: $medium-gray;
     &:hover {
       color: $white;   
@@ -152,7 +157,6 @@ p a {
 
 .header__navigation .external {
   a {
-    font-family: $sans-bold;
     color: $green;
     &:hover {
       color: $white;   
@@ -179,23 +183,47 @@ p a {
   }
 }
 
-// X. Footer
+// X. Images
 // ---------
 
-.home
+.image--feature {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 25vh;
+}
+
+.home ol li p, .home ol {
+  font-size: 14px;
+}
 
 // X. Footer
 // ---------
 
 footer {
+  font-size: 14px;
+  @include links ($white, $dark-blue);
+  background-color: red;
 }
 
+footer .active a {
+  color: red;
+}
+
+footer .menu a, footer .menu .menu-text {
+  padding: 0.5rem 1rem;
+}
 
 .sponsors {
   color: $medium-gray;
-  @include links ($medium-gray, $dark-blue)
+  @include links ($medium-gray, $dark-blue);
+  border-top: 1px solid $light-gray;
 }
 
 .sponsors .icon {
   font-size: 1.75rem;
+}
+
+.sponsors .icon-uk-aid {
+  font-size: 3rem;
 }

@@ -1,12 +1,32 @@
+{% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+
 <!-- Footer -->
-<footer class="grid-x padding-3 align-justify primary-background">
+<footer class="grid-x padding-3 align-justify primary-background sans-bold">
   
-  <div class="shrink cell">
-  <svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg>
+  <div class="small-12 medium-6 cell show-for-large">
+    <svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg>
   </div>
   
-  <div class="shrink cell">
-  <p>The Global Beneficial Ownership Register</p>
+  <div class="small-12 medium-3 cell">
+    <ul class="vertical menu">
+      {% for entry in site.data.navigation.header %}
+      {% if entry.url == current_page %}
+      {% assign current = ' class="active"' %}
+      {% else %}
+      {% assign current = null %}
+      {% endif %}
+      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="small-12 medium-3 cell">
+    <ul class="vertical menu">
+      <li class="menu-text serif-italic">Follow the project on:</li>
+      {% for item in site.social %}  
+      <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="text-capitalize">{{ item[0] }}</a></li>
+      {% endfor %} 
+    </ul>
   </div>
 
 </footer>
