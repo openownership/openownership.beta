@@ -5,7 +5,7 @@ date: 2018-08-08 11:22:00 Z
 position: 0
 file: "/uploads/Introducing%20the%20beneficial%20ownership%20data%20standard%20-%20slides%20from%20the%20OGP%20Global%20Summit%202018.pdf"
 author: Zosia Sztykowski
-thumbnail-image: "/uploads/Screen%20Shot%202018-08-08%20at%2015.49.54.png"
+thumbnail-image: "/uploads/resource-introducing.jpg"
 ---
 
 Collated presentations from the OpenOwnership Beneficial Ownership Data Standard workshop in Tblisi, Georgia on 16 July 2018 as part of the OGP Global Summit.

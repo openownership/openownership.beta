@@ -4,7 +4,7 @@ date: 2017-11-02 11:38:00 Z
 position: 4
 file: "/uploads/Learning%20the%20lessons%20briefing.pdf"
 author: OpenOwnership and Global Witness
-thumbnail-image: "/uploads/Screen%20Shot%202017-11-02%20at%2011.36.58%20AM.png"
+thumbnail-image: "/uploads/learning-lessons-doc.jpg"
 ---
 
 In 2016 the UK became one of the first countries to

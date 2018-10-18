@@ -664,6 +664,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/improving-ukraine-doc.jpg": {
+		"ft": 16384,
+		"iS": 223767,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/improving-ukraine-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/intro copy.jpg": {
 		"ft": 16384,
 		"iS": 822778,
@@ -686,6 +697,13 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/Introducing the beneficial ownership data standard - slides from the OGP Global Summit 2018.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/Introducing the beneficial ownership data standard - slides from the OGP Global Summit 2018.pdf",
+		"oF": 0
+		},
 	"/_uploads/introducing.jpg": {
 		"ft": 16384,
 		"iS": 362267,
@@ -703,6 +721,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/kyrgyzstan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/learning-lessons-doc.jpg": {
+		"ft": 16384,
+		"iS": 140068,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/learning-lessons-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/mission-statement-doc.jpg": {
+		"ft": 16384,
+		"iS": 165557,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/mission-statement-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -730,6 +770,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/open-data-doc.jpg": {
+		"ft": 16384,
+		"iS": 237366,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/open-data-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/priorities.jpg": {
 		"ft": 16384,
 		"iS": 413046,
@@ -739,6 +790,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/resource-introducing.jpg": {
+		"ft": 16384,
+		"iS": 97119,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/resource-introducing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/the-case-doc.jpg": {
+		"ft": 16384,
+		"iS": 231433,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/the-case-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/truth.jpg": {
@@ -816,6 +889,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/what-we-mean-doc.jpg": {
+		"ft": 16384,
+		"iS": 104454,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/what-we-mean-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/what-we-mean.jpg": {
