@@ -2,7 +2,7 @@
 title: The Beneficial Ownership Transparency Network - slides from OGP Summit 2018
 date: 2018-08-08 15:13:00 Z
 position: 1
-file: "/uploads/The%20Beneficial%20Ownership%20Transparency%20Network%20-%20slides%20from%20OGP%20Summit%202018.pdf"
+file: "/uploads/what-we-mean-when-we-talk-about-verifcation.pdf"
 author: Zosia Sztykowski
 thumbnail-image: "/uploads/what-we-mean-doc.jpg"
 ---

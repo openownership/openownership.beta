@@ -664,6 +664,13 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf",
+		"oF": 0
+		},
 	"/_uploads/improving-ukraine-doc.jpg": {
 		"ft": 16384,
 		"iS": 223767,
@@ -697,11 +704,11 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/Introducing the beneficial ownership data standard - slides from the OGP Global Summit 2018.pdf": {
+	"/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_uploads/Introducing the beneficial ownership data standard - slides from the OGP Global Summit 2018.pdf",
+		"oAP": "/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf",
 		"oF": 0
 		},
 	"/_uploads/introducing.jpg": {
@@ -758,6 +765,13 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
+		},
+	"/_uploads/mission-statement.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/mission-statement.pdf",
+		"oF": 0
 		},
 	"/_uploads/mo.jpg": {
 		"ft": 16384,
@@ -901,6 +915,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_uploads/what-we-mean-when-we-talk-about-verifcation.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/what-we-mean-when-we-talk-about-verifcation.pdf",
+		"oF": 0
 		},
 	"/_uploads/what-we-mean.jpg": {
 		"ft": 16384,
@@ -1148,25 +1169,25 @@
 		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/Publico-Bold.ttf": {
+	"/assets/fonts/publico-bold.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/Publico-Bold.ttf",
+		"oAP": "/assets/fonts/publico-bold.ttf",
 		"oF": 0
 		},
-	"/assets/fonts/Publico-Bold.woff": {
+	"/assets/fonts/publico-bold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/Publico-Bold.woff",
+		"oAP": "/assets/fonts/publico-bold.woff",
 		"oF": 0
 		},
-	"/assets/fonts/Publico-Bold.woff2": {
+	"/assets/fonts/publico-bold.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/Publico-Bold.woff2",
+		"oAP": "/assets/fonts/publico-bold.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/publico-text-italic.ttf": {

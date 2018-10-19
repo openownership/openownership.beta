@@ -2,7 +2,7 @@
 title: 'Improving beneficial ownership transparency in Ukraine: Review and recommendations'
 date: 2018-03-29 13:51:00 Z
 position: 3
-file: "/uploads/Improving%20beneficial%20ownership%20transparency%20in%20Ukraine.pdf"
+file: "/uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf"
 author: Zosia Sztykowski and Tom Mayne
 Date: 2018-03-29 00:00:00 Z
 thumbnail-image: "/uploads/improving-ukraine-doc.jpg"

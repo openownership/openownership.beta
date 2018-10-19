@@ -2,7 +2,7 @@
 title: OpenOwnership Mission Statement 2018
 date: 2018-08-01 11:32:00 Z
 position: 2
-file: "/uploads/Open%20Ownership%20Mission%20Statement%202018.pdf"
+file: "/uploads/mission-statement.pdf"
 author: Zosia Sztykowski
 thumbnail-image: "/uploads/mission-statement-doc.jpg"
 ---
