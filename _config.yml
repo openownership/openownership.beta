@@ -90,10 +90,8 @@ compress_html:
 pagination:
   enabled: true
   per_page: 6
-  offset: 2
   permalink: "/page/:num/"
   title: ":title - :num of :max"
-  limit: 0
   sort_field: date
   sort_reverse: true
 imgix:
