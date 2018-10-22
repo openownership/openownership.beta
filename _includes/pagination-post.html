@@ -3,7 +3,7 @@
   
     <div class="small-6 cell">
       {% if page.previous.url %}
-        <a href="{{page.previous.url}}">
+        <a href="{{page.previous.url}}" class="button hollow">
           <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg> {{page.previous.title}}
         </a>
       {% endif %}
@@ -12,7 +12,7 @@
     
     <div class="small-6 cell text-right">
       {% if page.next.url %}
-      <a href="{{page.next.url}}">
+      <a href="{{page.next.url}}" class="button hollow">
           {{page.next.title}} <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
       </a>
       {% endif %}

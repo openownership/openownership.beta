@@ -7,8 +7,8 @@ layout: default
   <div class="grid-x grid-padding-x padding-vertical-3">
     <div class="small-12 cell">
       <h1>{{page.title}}</h1>
-      {% if page.author %}<div>By {{ page.author }}</div>{% endif %}
-      <div>{{ page.date | date: site.date_format }}</div>
+      {% if page.author %}<div class="medium-gray">By {{ page.author }}</div>{% endif %}
+      <div class="medium-gray">{{ page.date | date: site.date_format }}</div>
     </div>
   </div>
 </section>
@@ -28,7 +28,7 @@ layout: default
 
 <!-- Post Content -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell">
       {{ page.content }}
     </div>

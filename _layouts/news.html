@@ -21,7 +21,7 @@ layout: default
       <div class="grid-x grid-padding-y">
         <div class="small-12 cell">
           <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<!--           {% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }} -->
+          <div class="medium-gray">{% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}</div>
         </div>
       </div>
   
