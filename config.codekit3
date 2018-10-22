@@ -209,6 +209,13 @@
 		"oAP": "/_includes/images/feature.html",
 		"oF": 0
 		},
+	"/_includes/pagination.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/pagination.html",
+		"oF": 0
+		},
 	"/_includes/scripts.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -565,6 +572,13 @@
 		"oAP": "/_team-members/aimen-chouchane.markdown",
 		"oF": 0
 		},
+	"/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf",
+		"oF": 0
+		},
 	"/_uploads/calling.jpg": {
 		"ft": 16384,
 		"iS": 139487,
@@ -744,6 +758,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/learning-the-lessons.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/learning-the-lessons.pdf",
+		"oF": 0
+		},
 	"/_uploads/mission-statement-doc.jpg": {
 		"ft": 16384,
 		"iS": 165557,
@@ -827,6 +848,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_uploads/the-case-for-public-beneficial-ownership.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/the-case-for-public-beneficial-ownership.pdf",
+		"oF": 0
 		},
 	"/_uploads/truth.jpg": {
 		"ft": 16384,
@@ -9286,8 +9314,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/news.html",
-		"oF": 0,
+		"oAP": "/news.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

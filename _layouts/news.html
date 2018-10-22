@@ -15,7 +15,7 @@ layout: default
 
 <!-- Page Content -->
 <section class="grid-container">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 large-10 cell border-top">
     
@@ -60,3 +60,7 @@ layout: default
   {% endfor %}
 </section>
 <!-- End Page Content -->
+
+<!-- Pagination -->  
+{% include pagination.html %}
+<!-- End Pagination -->

@@ -1,0 +1,34 @@
+<div class="grid-container">
+  <div class="grid-x grid-padding-y">
+  
+    <div class="small-4 cell">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+          <div class="align-middle">
+            <svg class="icon icon-arrow icon-arrow_back"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_back"></use></svg>
+          </div>
+        </a>
+      {% endif %}
+    </div>
+    
+    <div class="small-4 cell align-middle">
+        <a href="/line-up/#all">
+          <div class="align-middle text-center">
+            <svg class="icon icon-widgets"><use xlink:href="/assets/icons/symbol-defs.svg#icon-widgets"></use></svg>
+          </div>
+        </a>
+    </div>
+    
+    
+    <div class="small-4 cell text-right">
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+        <div class="align-middle">
+            <svg class="icon icon-arrow icon-arrow_forward"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_forward"></use></svg>
+        </div>
+      </a>
+      {% endif %}
+    </div>
+  
+  </div>
+</div>

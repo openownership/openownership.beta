@@ -2,7 +2,7 @@
 title: 'Briefing: The case for public beneficial ownership registers'
 date: 2017-07-06 18:34:00 Z
 position: 5
-file: "/uploads/The%20case%20for%20public%20beneficial%20ownership.pdf"
+file: "/uploads/the-case-for-public-beneficial-ownership.pdf"
 author: OpenOwnership
 thumbnail-image: "/uploads/the-case-doc.jpg"
 ---

@@ -2,7 +2,7 @@
 title: 'Briefing: The case for beneficial ownership as open data'
 date: 2017-07-06 18:33:00 Z
 position: 6
-file: "/uploads/open-data-doc.pdf"
+file: "/uploads/briefing-on-beneficial-ownership-as-open-data.pdf"
 author: OpenOwnership
 thumbnail-image: "/uploads/open-data-doc.jpg"
 ---

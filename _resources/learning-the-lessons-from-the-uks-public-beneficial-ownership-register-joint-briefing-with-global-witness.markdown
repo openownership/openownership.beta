@@ -2,7 +2,7 @@
 title: Learning the lessons from the UK’s public beneficial ownership register
 date: 2017-11-02 11:38:00 Z
 position: 4
-file: "/uploads/Learning%20the%20lessons%20briefing.pdf"
+file: "/uploads/learning-the-lessons.pdf"
 author: OpenOwnership and Global Witness
 thumbnail-image: "/uploads/learning-lessons-doc.jpg"
 ---
