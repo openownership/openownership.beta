@@ -1,6 +1,7 @@
 ---
 title: Private sector engagement
 date: 2018-08-17 07:39:00 Z
+layout: page
 ---
 
 **How does beneficial ownership affect business?**
