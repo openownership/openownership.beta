@@ -1,5 +1,5 @@
 ---
-title: The Team
+title: Team
 position: 3
 layout: team
 ---
