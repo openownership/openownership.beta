@@ -1,0 +1,22 @@
+<div class="grid-container">
+  <div class="grid-x grid-padding-y">
+  
+    <div class="small-6 cell">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+          <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg> Newer
+        </a>
+      {% endif %}
+    </div>
+    
+    
+    <div class="small-6 cell text-right">
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+          Older <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+      </a>
+      {% endif %}
+    </div>
+  
+  </div>
+</div>

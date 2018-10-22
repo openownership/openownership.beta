@@ -1,0 +1,22 @@
+<div class="grid-container">
+  <div class="grid-x grid-padding-y">
+  
+    <div class="small-6 cell">
+      {% if page.previous.url %}
+        <a href="{{page.previous.url}}">
+          <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg> {{page.previous.title}}
+        </a>
+      {% endif %}
+    </div>
+    
+    
+    <div class="small-6 cell text-right">
+      {% if page.next.url %}
+      <a href="{{page.next.url}}">
+          {{page.next.title}} <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+      </a>
+      {% endif %}
+    </div>
+  
+  </div>
+</div>

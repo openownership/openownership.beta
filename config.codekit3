@@ -209,11 +209,18 @@
 		"oAP": "/_includes/images/feature.html",
 		"oF": 0
 		},
-	"/_includes/pagination.html": {
+	"/_includes/pagination-news.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/pagination.html",
+		"oAP": "/_includes/pagination-news.html",
+		"oF": 0
+		},
+	"/_includes/pagination-post.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/pagination-post.html",
 		"oF": 0
 		},
 	"/_includes/scripts.html": {
@@ -718,11 +725,11 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf": {
+	"/_uploads/introducing-the-beneficial-ownership-data-standard.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf",
+		"oAP": "/_uploads/introducing-the-beneficial-ownership-data-standard.pdf",
 		"oF": 0
 		},
 	"/_uploads/introducing.jpg": {
@@ -1197,25 +1204,25 @@
 		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/publico-bold.ttf": {
+	"/assets/fonts/Publico-Bold.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.ttf",
+		"oAP": "/assets/fonts/Publico-Bold.ttf",
 		"oF": 0
 		},
-	"/assets/fonts/publico-bold.woff": {
+	"/assets/fonts/Publico-Bold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.woff",
+		"oAP": "/assets/fonts/Publico-Bold.woff",
 		"oF": 0
 		},
-	"/assets/fonts/publico-bold.woff2": {
+	"/assets/fonts/Publico-Bold.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.woff2",
+		"oAP": "/assets/fonts/Publico-Bold.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/publico-text-italic.ttf": {
@@ -9314,8 +9321,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/news.md",
-		"oF": 1,
+		"oAP": "/news.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

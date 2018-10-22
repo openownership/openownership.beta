@@ -7,30 +7,5 @@ header:
     url: /news/
   - title: Resources
     url: /resources/
-    
-footer:
-  - title: About
-    url: /about/
-  - title: CV
-    url: /cv/   
-  - title: Contact
-    url: /contact/ 
-
-    
-mobile:
-  - title: Films
-    url: /films/
-  - title: Commercials
-    url: /commercials/  
-  - title: Television
-    url: /television/ 
-  - title: Music Videos
-    url: /music-videos/
-  - title: About
-    url: /about/
-  - title: CV
-    url: /cv/   
-  - title: Contact
-    url: /contact/ 
-
-
+  - title: Team
+    url: /team/
