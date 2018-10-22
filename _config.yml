@@ -11,8 +11,8 @@ collections:
   resources:
     title: Resources
     output: true
-  team-members:
-    title: Team Members
+  team:
+    title: Team
     output: true
   uploads:
     title: Uploads
@@ -98,12 +98,6 @@ compress_html:
   profile: false
 pagination:
   enabled: true
-  per_page: 6
-  offset: 2
-  permalink: '/page/:num/'
-  title: ':title - :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+  per_page: 100
 imgix:
   source: open-ownership.imgix.net
