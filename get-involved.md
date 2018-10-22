@@ -5,11 +5,9 @@ position: 2
 sectors:
 - title: Public sector
   text: |-
-    Find out  about becoming a partner in our pilot program
+    Find out  about becoming a partner in our pilot program, check out our latest briefings and project updates on the [resources page](/resources)
 
-    Check out our latest briefings and project updates on the [resources page](/resources)
-
-    Contact our helpdesk if you need support or more information - [support@openownership.org](mailto:support@openownership.org)
+    Contact our helpdesk if you need support or more information [support@openownership.org](mailto:support@openownership.org).
 - title: Private sector
   text: |-
     [Add your company data](https://register.openownership.org/users/sign_up) to the OpenOwnership Register

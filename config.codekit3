@@ -209,6 +209,13 @@
 		"oAP": "/_includes/images/feature.html",
 		"oF": 0
 		},
+	"/_includes/offcanvas.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/offcanvas.html",
+		"oF": 0
+		},
 	"/_includes/pagination-news.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -9397,6 +9404,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/robots.txt",
+		"oF": 0
+		},
+	"/team.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/team.html",
 		"oF": 0
 		},
 	"/team.md": {

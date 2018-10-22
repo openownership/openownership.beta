@@ -10,7 +10,14 @@ layout: compress
 <!-- End Head -->
 
 <body class="{{page.layout | slugify}}">
-  
+
+<!-- Off Canvas Navigation -->
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap">
+{% include offcanvas.html %}
+</div>
+<!-- End Off Canvas Navigation -->
+
+<div class="off-canvas-content {{page.layout | slugify}}" data-off-canvas-content>
 <!-- Header -->
 {% include header.html %}
 <!-- End Header -->
@@ -26,16 +33,7 @@ layout: compress
 <!-- Footer -->
 {% include footer.html %}
 <!-- End Footer-->
-
-<!-- Scripts -->
-{% include scripts.html %}
-<!-- End Scripts -->
-
-<!-- Google Analytics -->
-{% if site.analytics %}
-{% include analytics.html %}
-{% endif %}
-<!-- End Google Analytics -->
+</div>
   
 </body>
 
