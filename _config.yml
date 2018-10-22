@@ -13,7 +13,7 @@ collections:
     output: true
   team:
     title: Team
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -26,7 +26,7 @@ defaults:
     type: posts
   values:
     feature-image: 
-    Author: 
+    author: 
     layout: post
     permalink: "/news/:title/"
 - scope:
@@ -42,15 +42,6 @@ defaults:
     file: 
     author: 
     thumbnail-image: 
-- scope:
-    path: ''
-    type: team-members
-  values:
-    Job Title: 
-    Image: 
-    Is Project Team: 
-    Is BODS Development: 
-    Is Steering Group: 
 url: https://www.openownership.org
 description: Building an open register of global beneficial ownership in the public
   interest
@@ -98,6 +89,12 @@ compress_html:
   profile: false
 pagination:
   enabled: true
-  per_page: 100
+  per_page: 6
+  offset: 2
+  permalink: '/page/:num/'
+  title: ':title - :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 imgix:
   source: open-ownership.imgix.net

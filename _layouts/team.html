@@ -12,3 +12,36 @@ layout: default
   </div>
 </section>
 <!-- End Page Title -->
+
+<!-- Page Content -->
+<section class="grid-container">
+
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3" data-equalizer>
+  {% assign sorted_team = site.team %}
+  {% for member in sorted_team %}
+    <div class="cell">
+
+      <div class="card" data-equalizer-watch>
+        {% if member.image %}
+          <img src="{{ member.image }}">
+        {% else %}
+        <div class="grid-y align-center height-100">
+          <div class="shrink cell">
+            <div class="card-section text-center">
+              <svg class="icon icon-user"><use xlink:href="/assets/icons/symbol-defs.svg#icon-user"></use></svg>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+      </div>
+
+      <h5 class="sans-bold">{{member.title}}</h5>
+      <h6 class="sans-regular medium-gray">{{member.job-title}}</h6>
+
+    </div>
+  {% endfor %}
+
+  </div>
+
+</section>
+<!-- End Page Content -->

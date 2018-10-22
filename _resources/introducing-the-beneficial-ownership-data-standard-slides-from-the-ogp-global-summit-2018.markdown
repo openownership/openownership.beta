@@ -3,7 +3,7 @@ title: Introducing the beneficial ownership data standard - slides from the OGP 
   Summit 2018
 date: 2018-08-08 11:22:00 Z
 position: 0
-file: "/uploads/Introducing%20the%20beneficial%20ownership%20data%20standard%20-%20slides%20from%20the%20OGP%20Global%20Summit%202018.pdf"
+file: "/uploads/introducing-the-beneficial-ownership-data-standard.pdf"
 author: Zosia Sztykowski
 thumbnail-image: "/uploads/resource-introducing.jpg"
 ---

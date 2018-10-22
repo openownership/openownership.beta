@@ -566,11 +566,11 @@
 		"oAP": "/_resources/the-beneficial-ownership-transparency-network.markdown",
 		"oF": 0
 		},
-	"/_resources/ukrainer-eview.markdown": {
+	"/_resources/ukraine-review.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_resources/ukrainer-eview.markdown",
+		"oAP": "/_resources/ukraine-review.markdown",
 		"oF": 0
 		},
 	"/_site": {
@@ -585,6 +585,66 @@
 		"oA": 2,
 		"oAP": "/_team/aimen-chouchane.markdown",
 		"oF": 0
+		},
+	"/_team/amy-guy.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/amy-guy.markdown",
+		"oF": 0
+		},
+	"/_team/jack-lord.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/jack-lord.markdown",
+		"oF": 0
+		},
+	"/_team/kadie-armstrong.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/kadie-armstrong.markdown",
+		"oF": 0
+		},
+	"/_team/laurence-bascle.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/laurence-bascle.markdown",
+		"oF": 0
+		},
+	"/_team/louise-russell-prywata.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/louise-russell-prywata.markdown",
+		"oF": 0
+		},
+	"/_team/mollie-hanley.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/mollie-hanley.markdown",
+		"oF": 0
+		},
+	"/_team/zosia-sztykowski.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/zosia-sztykowski.markdown",
+		"oF": 0
+		},
+	"/_uploads/aimen.jpg": {
+		"ft": 16384,
+		"iS": 292600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/aimen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf": {
 		"cB": 0,
@@ -707,7 +767,7 @@
 		"oAP": "/_uploads/improving-ukraine-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/intro copy.jpg": {
@@ -769,7 +829,7 @@
 		"oAP": "/_uploads/learning-lessons-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/learning-the-lessons.pdf": {
@@ -827,7 +887,7 @@
 		"oAP": "/_uploads/open-data-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/priorities.jpg": {
@@ -849,7 +909,7 @@
 		"oAP": "/_uploads/resource-introducing.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/the-case-doc.jpg": {
@@ -860,7 +920,7 @@
 		"oAP": "/_uploads/the-case-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/the-case-for-public-beneficial-ownership.pdf": {
@@ -955,7 +1015,7 @@
 		"oAP": "/_uploads/what-we-mean-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/what-we-mean-when-we-talk-about-verifcation.pdf": {
@@ -9328,8 +9388,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/news.html",
-		"oF": 0,
+		"oAP": "/news.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -9406,13 +9466,6 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"/team.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/team.html",
-		"oF": 0
-		},
 	"/team.md": {
 		"cB": 0,
 		"cS": 0,
@@ -9422,8 +9475,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/team.html",
-		"oF": 0,
+		"oAP": "/team.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

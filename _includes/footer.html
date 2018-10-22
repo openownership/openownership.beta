@@ -4,10 +4,21 @@
 <footer class="grid-x padding-2 align-justify primary-background sans-bold">
   
   <div class="small-12 medium-6 cell show-for-large">
-    <a href="/"><svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
+    <div class="grid-y height-100 align-justify">
+      <div class="shrink cell">
+      <a href="/"><svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
+      </div>
+      <div class="shrink cell">
+      <ul class="menu">
+      <li class="menu-text">© OpenOwnership</li>
+      <li><a href="/terms">Terms</a></li>
+      <li><a href="/privacy">Privacy</a></li>
+      </ul>
+      </div>
+    </div>
   </div>
   
-  <div class="small-12 medium-3 cell">
+  <div class="small-6 medium-3 cell">
     <ul class="vertical menu">
       {% for entry in site.data.navigation.header %}
       {% if entry.url == current_page %}
@@ -20,7 +31,7 @@
     </ul>
   </div>
 
-  <div class="small-12 medium-3 cell">
+  <div class="small-6 medium-3 cell">
     <ul class="vertical menu">
       <li class="menu-text serif-italic">Follow the project on:</li>
       {% for item in site.social %}  

@@ -1,3 +1,5 @@
+$(document).on('turbolinks:load', function() {
+
 // 1. Foundation
 // --------------------
 
@@ -16,4 +18,6 @@ $(function() {
 
 $(function() {
 window.addEventListener('load', AOS.refresh);
+});
+
 });

@@ -1,9 +1,9 @@
 <div class="grid-container">
-  <div class="grid-x grid-padding-y">
+  <div class="grid-x grid-padding-x grid-padding-y">
   
     <div class="small-6 cell">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button hollow expanded">
           <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg> Newer
         </a>
       {% endif %}
@@ -12,7 +12,7 @@
     
     <div class="small-6 cell text-right">
       {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button hollow expanded">
           Older <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
       </a>
       {% endif %}

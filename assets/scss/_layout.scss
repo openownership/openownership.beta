@@ -227,7 +227,6 @@ p {
 // ---------
 
 .offcanvas {
-  font-size: 14px;
   @include links ($white, $primary-color);
 }
 
@@ -236,7 +235,7 @@ p {
 }
 
 .offcanvas .menu a, .offcanvas .menu .menu-text {
-  padding: 0.5rem 0rem;
+  padding: 0.5rem 0.25rem;
 }
 
 .offcanvas .external {
@@ -246,6 +245,10 @@ p {
       color: $white;   
     }
   }
+}
+
+.offcanvas .icon-socials {
+  font-size: 1.5rem;
 }
 
 // X. News
@@ -285,5 +288,5 @@ color: $primary-color;
 }
 
 footer .menu a, footer .menu .menu-text {
-  padding: 0.5rem 0rem;
+  padding: 0.5rem 1rem 0.5rem 0rem;
 }

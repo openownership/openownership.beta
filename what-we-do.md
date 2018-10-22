@@ -21,7 +21,7 @@ services:
     and private sector publishers of beneficial ownership data to encourage uptake
     of the Standard.
   button: Find out more
-  link: "/the-beneficial-ownership-data-standard"
+  link: "/what-we-do/the-beneficial-ownership-data-standard"
 - title: The OpenOwnership pilot program
   text: Our pilot program supports data publishers in national governments and multinational
     institutions to publish high quality, highly usable beneficial ownership data.
@@ -29,7 +29,7 @@ services:
     for purpose, complies with our data Standard and is integrated with the OpenOwnership
     Register.
   button: Find out more
-  link: "/the-openownership-pilot-program"
+  link: "/what-we-do/the-openownership-pilot-program"
 - title: 1-1 technical assistance
   text: Whether this occurs within the pilot program or on a bespoke basis, we are
     committed to providing technical assistance to beneficial ownership data publishers
@@ -37,14 +37,14 @@ services:
     about technical implementation and provide a hub for sharing best practice and
     learnings from different implementations.
   button: Find out more
-  link: "/1-1-technical-assistance"
+  link: "/what-we-do/1-1-technical-assistance"
 - title: Private sector engagement
   text: We are encouraging corporations and financial institutions to use the OpenOwnership
     Register (and eventually our API) as part of their due diligence processes and
     to submit their ownership data to the Register. We are currently seeking early
     adopters to work with so that we can build a strong use case to build momentum.
   button: Find out more
-  link: "/private-sector-engagement"
+  link: "/what-we-do/private-sector-engagement"
 - title: Sharing knowledge and best practice
   text: We will continue to champion beneficial ownership transparency amongst all
     our key stakeholder groups. To do this, we regularly hold workshops and events
