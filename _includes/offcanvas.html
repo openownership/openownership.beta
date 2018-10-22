@@ -30,7 +30,7 @@
   
     <ul class="menu simple social-links">
       {% for item in site.social %}  
-      <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+      <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
       {% endfor %}
     </ul>
   
