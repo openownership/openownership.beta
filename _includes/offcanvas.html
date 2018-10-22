@@ -1,4 +1,4 @@
-<div class="grid-x header padding-2">
+<div class="grid-x header padding-2 offcanvas">
   <div class="small-12 cell">
   
   {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}

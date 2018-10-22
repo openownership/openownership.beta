@@ -17,8 +17,8 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y" data-equalizer>
   {% for sector in page.sectors %}
-    <div class="small-12 medium-12 large-6 cell">
-    <div class="callout snow large" data-equalizer-watch>
+    <div class="small-12 medium-12 large-6 cell" data-equalizer-watch>
+    <div class="callout snow large">
       <h5 class="sans-bold padding-bottom-1">{{sector.title}}</h5>
       {{sector.text | markdownify}}
     </div>

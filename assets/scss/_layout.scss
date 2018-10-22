@@ -223,6 +223,14 @@ p {
   font-size: 14px;
 }
 
+// X. Offcanvas
+// ---------
+
+.offcanvas {
+  font-size: 14px;
+  @include links ($white, $primary-color);
+}
+
 // X. News
 // ---------
 
@@ -236,7 +244,6 @@ p {
 footer {
   font-size: 14px;
   @include links ($white, $primary-color);
-  background-color: red;
 }
 
 footer .active a {
