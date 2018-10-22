@@ -1,9 +1,9 @@
 {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 <!-- Footer -->
-<footer class="grid-x padding-2 align-justify primary-background sans-bold">
+<footer class="grid-x grid-padding-x grid-padding-y align-justify primary-background sans-bold">
   
-  <div class="small-12 medium-6 cell show-for-large">
+  <div class="small-12 medium-3 cell show-for-large">
     <div class="grid-y height-100 align-justify">
       <div class="shrink cell">
       <a href="/"><svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
@@ -16,6 +16,15 @@
       </ul>
       </div>
     </div>
+  </div>
+
+  <div class="small-12 medium-3 cell">
+  <div class="serif-italic margin-bottom-1">Join the newsletter</div>
+    <form>
+        <label>
+          <input type="text" placeholder="your@email.com">
+        </label>
+    </form>
   </div>
   
   <div class="small-6 medium-3 cell">
@@ -33,7 +42,7 @@
 
   <div class="small-6 medium-3 cell">
     <ul class="vertical menu">
-      <li class="menu-text serif-italic">Follow the project on:</li>
+      <li class="menu-text serif-italic">Follow the project on</li>
       {% for item in site.social %}  
       <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="text-capitalize">{{ item[0] }}</a></li>
       {% endfor %} 
