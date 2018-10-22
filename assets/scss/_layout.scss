@@ -231,6 +231,23 @@ p {
   @include links ($white, $primary-color);
 }
 
+.offcanvas .menu .active a {
+  color: $primary-color;
+}
+
+.offcanvas .menu a, .offcanvas .menu .menu-text {
+  padding: 0.5rem 0rem;
+}
+
+.offcanvas .external {
+  a {
+    color: $green;
+    &:hover {
+      color: $white;   
+    }
+  }
+}
+
 // X. News
 // ---------
 
@@ -238,21 +255,8 @@ p {
   @include links ($black, $primary-color);
 }
 
-// X. Footer
-// ---------
-
-footer {
-  font-size: 14px;
-  @include links ($white, $primary-color);
-}
-
-footer .active a {
-  color: red;
-}
-
-footer .menu a, footer .menu .menu-text {
-  padding: 0.5rem 0rem;
-}
+// X. Sponsors
+// -----------
 
 .sponsors {
   color: $medium-gray;
@@ -266,4 +270,20 @@ footer .menu a, footer .menu .menu-text {
 
 .sponsors .icon-uk-aid {
   font-size: 3rem;
+}
+
+// X. Footer
+// ---------
+
+footer {
+  font-size: 14px;
+  @include links ($white, $primary-color);
+}
+
+footer .menu .active a {
+color: $primary-color;
+}
+
+footer .menu a, footer .menu .menu-text {
+  padding: 0.5rem 0rem;
 }

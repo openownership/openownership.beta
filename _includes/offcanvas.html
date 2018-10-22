@@ -1,4 +1,4 @@
-<div class="grid-x header padding-2 offcanvas">
+<div class="grid-x padding-2 sans-bold offcanvas">
   <div class="small-12 cell">
   
   {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
@@ -29,9 +29,9 @@
     </ul>
   
     <ul class="menu simple social-links">
-          {% for item in site.social %}  
-          <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-          {% endfor %}
+      {% for item in site.social %}  
+      <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+      {% endfor %}
     </ul>
   
   </div>
