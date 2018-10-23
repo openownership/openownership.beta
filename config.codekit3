@@ -643,7 +643,7 @@
 		"oAP": "/_uploads/aimen.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf": {
@@ -767,7 +767,7 @@
 		"oAP": "/_uploads/improving-ukraine-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/intro copy.jpg": {
@@ -792,11 +792,11 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/introducing-the-beneficial-ownership-data-standard.pdf": {
+	"/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_uploads/introducing-the-beneficial-ownership-data-standard.pdf",
+		"oAP": "/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf",
 		"oF": 0
 		},
 	"/_uploads/introducing.jpg": {
@@ -829,7 +829,7 @@
 		"oAP": "/_uploads/learning-lessons-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/learning-the-lessons.pdf": {
@@ -887,7 +887,7 @@
 		"oAP": "/_uploads/open-data-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/priorities.jpg": {
@@ -909,7 +909,7 @@
 		"oAP": "/_uploads/resource-introducing.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/the-case-doc.jpg": {
@@ -920,7 +920,7 @@
 		"oAP": "/_uploads/the-case-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/the-case-for-public-beneficial-ownership.pdf": {
@@ -1015,7 +1015,7 @@
 		"oAP": "/_uploads/what-we-mean-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/what-we-mean-when-we-talk-about-verifcation.pdf": {
@@ -1271,25 +1271,25 @@
 		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/Publico-Bold.ttf": {
+	"/assets/fonts/publico-bold.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/Publico-Bold.ttf",
+		"oAP": "/assets/fonts/publico-bold.ttf",
 		"oF": 0
 		},
-	"/assets/fonts/Publico-Bold.woff": {
+	"/assets/fonts/publico-bold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/Publico-Bold.woff",
+		"oAP": "/assets/fonts/publico-bold.woff",
 		"oF": 0
 		},
-	"/assets/fonts/Publico-Bold.woff2": {
+	"/assets/fonts/publico-bold.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/Publico-Bold.woff2",
+		"oAP": "/assets/fonts/publico-bold.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/publico-text-italic.ttf": {
@@ -9475,8 +9475,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/team.md",
-		"oF": 1,
+		"oAP": "/team.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
