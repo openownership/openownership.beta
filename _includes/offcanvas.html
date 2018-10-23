@@ -25,13 +25,18 @@
         <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
       {% endif %}
       {% endfor %}
-                  <li class="external"><a href="https://register.openownership.org">View the Register <svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></a></li>
+        <li class="external"><a href="https://register.openownership.org">View the Register <svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></a></li>
     </ul>
   
     <ul class="menu simple social-links margin-top-2">
       {% for item in site.social %}  
       <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
       {% endfor %}
+    </ul>
+
+    <ul class="vertical menu">
+      <li><a href="/terms">Terms</a></li>
+      <li><a href="/privacy">Privacy</a></li>
     </ul>
   
   </div>
