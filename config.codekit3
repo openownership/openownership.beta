@@ -854,7 +854,7 @@
 		"oAP": "/_uploads/louise.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/mission-statement-doc.jpg": {
@@ -905,7 +905,7 @@
 		"oAP": "/_uploads/mollie-hanley.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/open-data-doc.jpg": {
@@ -1073,7 +1073,7 @@
 		"oAP": "/_uploads/zosia.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_what-we-do/1-1-technical-assistance.markdown": {
