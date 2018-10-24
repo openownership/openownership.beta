@@ -64,7 +64,7 @@ svg {
 
 .turbolinks-progress-bar {
   height: 5px;
-  background-color: $black;
+  background-color: $primary-color;
 }
 
 
@@ -303,4 +303,12 @@ color: $primary-color;
 
 footer .menu a, footer .menu .menu-text {
   padding: 0.5rem 1rem 0.5rem 0rem;
+}
+
+.team__members {
+  @include links ($medium-gray, $primary-color);
+}
+
+.team__members .icon-socials {
+  font-size: 1.5rem;
 }
