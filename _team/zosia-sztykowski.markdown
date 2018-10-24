@@ -2,6 +2,7 @@
 title: Zosia Sztykowski
 position: 0
 job-title: Project Lead
+image: "/uploads/zosia.jpg"
 social:
   twitter: https://twitter.com/
   instagram: https://www.instagram.com/
