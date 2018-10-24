@@ -3,10 +3,10 @@
 <!-- Footer -->
 <footer class="grid-x grid-padding-x grid-padding-y align-justify primary-background sans-bold">
   
-  <div class="small-12 medium-3 cell show-for-large">
+  <div class="small-12 medium-6 large-6 xxlarge-3 cell show-for-large">
     <div class="grid-y height-100 align-justify">
       <div class="shrink cell">
-      <a href="/"><svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
+      <a href="/"><svg class="icon icon-logo-main margin-bottom-1"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
       </div>
       <div class="shrink cell">
       <ul class="menu">
@@ -18,19 +18,7 @@
     </div>
   </div>
 
-  <div class="small-12 medium-3 cell">
-  <div class="serif-italic margin-bottom-1">Join the newsletter</div>
-    <form action="https://garethjohnsdesign.us2.list-manage.com/subscribe/post?u=e039fb7155e1e79ced51e3aff&amp;id=69043a24a2" method="post">
-      <div class="input-group">
-      <input type="email" value="" class="input-group-field" name="EMAIL" placeholder="your@email.com">
-      <div class="input-group-button">
-      <input type="submit" class="button hollow white" value="Submit" name="subscribe">
-      </div>
-      </div>
-    </form>
-  </div>
-  
-  <div class="small-6 medium-3 cell">
+  <div class="small-6 medium-6 large-6 xxlarge-3 cell">
     <ul class="vertical menu">
       {% for entry in site.data.navigation.header %}
       {% if entry.url == current_page %}
@@ -43,13 +31,25 @@
     </ul>
   </div>
 
-  <div class="small-6 medium-3 cell">
+  <div class="small-6 medium-6 large-3 xxlarge-3 cell">
     <ul class="vertical menu">
       <li class="menu-text serif-italic">Follow the project on</li>
       {% for item in site.social %}  
       <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="text-capitalize">{{ item[0] }}</a></li>
       {% endfor %} 
     </ul>
+  </div>
+
+  <div class="small-12 medium-6 large-6 xxlarge-3 cell">
+  <div class="serif-italic margin-bottom-1">Join the newsletter</div>
+    <form action="https://garethjohnsdesign.us2.list-manage.com/subscribe/post?u=e039fb7155e1e79ced51e3aff&amp;id=69043a24a2" method="post">
+      <div class="input-group">
+      <input type="email" value="" class="input-group-field" name="EMAIL" placeholder="your@email.com">
+      <div class="input-group-button">
+      <input type="submit" class="button hollow white" value="Submit" name="subscribe">
+      </div>
+      </div>
+    </form>
   </div>
 
 </footer>
