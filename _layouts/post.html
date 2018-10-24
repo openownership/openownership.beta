@@ -19,7 +19,8 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 cell border-top">
       {% if page.feature-image %}
-        <img class="feature-image" src="{{page.feature-image}}">
+          {% assign image = page.feature-image %}
+          {% include images/excerpt.html %}
       {% endif %}
     </div>
   </div>
