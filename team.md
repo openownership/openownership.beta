@@ -1,6 +1,6 @@
 ---
 title: Team
-position: 3
+position: 4
 layout: team
 ---
 
