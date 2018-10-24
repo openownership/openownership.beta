@@ -2,6 +2,7 @@
 title: Louise Russell-Prywata
 position: 7
 job-title: Communications Associate
+image: "/uploads/louise.jpg"
 social:
   twitter: https://twitter.com/
   instagram: https://www.instagram.com/

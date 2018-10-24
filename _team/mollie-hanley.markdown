@@ -2,6 +2,7 @@
 title: Mollie Hanley
 position: 5
 job-title: Job Title
+image: "/uploads/mollie-hanley.jpg"
 social:
   twitter: https://twitter.com/
   instagram: https://www.instagram.com/

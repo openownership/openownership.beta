@@ -839,6 +839,17 @@
 		"oAP": "/_uploads/learning-the-lessons.pdf",
 		"oF": 0
 		},
+	"/_uploads/louise.jpg": {
+		"ft": 16384,
+		"iS": 103733,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/mission-statement-doc.jpg": {
 		"ft": 16384,
 		"iS": 165557,
@@ -877,6 +888,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/mollie-hanley.jpg": {
+		"ft": 16384,
+		"iS": 34607,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/mollie-hanley.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/open-data-doc.jpg": {
