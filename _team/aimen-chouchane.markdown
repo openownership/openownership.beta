@@ -1,5 +1,7 @@
 ---
 title: Aimen Chouchane
+categories:
+- project-team
 job-title: Communications Associate
 image: "/uploads/aimen.jpg"
 social:
