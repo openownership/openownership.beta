@@ -2,8 +2,6 @@
 title: Aimen Chouchane
 job-title: Communications Associate
 image: "/uploads/aimen.jpg"
-twitter: https://twitter.com/achouchane
-instagram: https://www.instagram.com/achouchane
 social:
   twitter: https://twitter.com/achouchane
   instagram: https://www.instagram.com/achouchane
