@@ -1,5 +1,7 @@
 ---
 title: Mollie Hanley
+categories:
+- project-team
 position: 5
 job-title: Job Title
 image: "/uploads/mollie-hanley.jpg"

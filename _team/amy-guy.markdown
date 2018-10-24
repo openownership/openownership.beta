@@ -1,5 +1,7 @@
 ---
 title: Amy Guy
+categories:
+- project-team
 position: 4
 job-title: Job Title
 social:

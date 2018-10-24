@@ -1,5 +1,7 @@
 ---
 title: Laurence Bascle
+categories:
+- project-team
 position: 2
 job-title: Job Title
 social:

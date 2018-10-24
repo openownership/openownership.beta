@@ -1,5 +1,7 @@
 ---
 title: Kadie Armstrong
+categories:
+- project-team
 position: 1
 job-title: Job Title
 social:

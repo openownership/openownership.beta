@@ -1,5 +1,7 @@
 ---
 title: Louise Russell-Prywata
+categories:
+- project-team
 position: 7
 job-title: Communications Associate
 image: "/uploads/louise.jpg"

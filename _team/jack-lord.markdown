@@ -1,5 +1,7 @@
 ---
 title: Jack Lord
+categories:
+- bods
 position: 3
 job-title: Communications Associate
 social:
