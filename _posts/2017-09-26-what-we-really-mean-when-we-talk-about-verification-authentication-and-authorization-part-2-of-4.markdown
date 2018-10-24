@@ -1,10 +1,4 @@
 ---
-title: What We Really Mean When We Talk About Verification Authentication And Authorization
-  Part 2 Of 4
-date: 2017-09-26 00:00:00 Z
----
-
-z---
 title: 'What we really mean when we talk about verification: Authentication & authorization
   (Part 2 of 4)'
 date: 2017-09-26 15:10:00 Z
