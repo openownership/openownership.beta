@@ -39,9 +39,9 @@ layout: default
       </div>
       {% endif %}
 
-      <div class="grid-x">
+      <div class="grid-x grid-padding-y">
         <div class="small-12 cell">
-        <p>{{ post.excerpt | truncatewords:40 }}</p>
+        <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
         </div>
       </div>
 
