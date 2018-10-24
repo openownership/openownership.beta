@@ -170,6 +170,7 @@ p {
 
 .header__navigation {
   a {
+    border-bottom: 2px solid transparent;
     color: $medium-gray;
     &:hover {
       color: $white;   
