@@ -26,12 +26,12 @@ layout: default
 <section class="secondary-background">
     <div class="grid-x">
     
-      <div class="small-12 medium-6 cell h5 sans-regular home__description__left">
+      <div class="small-12 medium-6 cell h5 sans-regular home__description__left small-order-2 medium-order-1">
         {{page.intro-text | markdownify}}
       </div>
       
       {% assign background-image = page.intro-image %}
-      <div class="small-12 medium-6 cell text-center image--feature" {% include images/feature.html %}>
+      <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" {% include images/feature.html %}>
       </div>
     
     </div>
@@ -62,7 +62,7 @@ layout: default
 <section class="secondary-background">
     <div class="grid-x grid-padding-x grid-padding-y">
     
-      <div class="small-12 medium-6 cell h5 sans-regular home__description__left">
+      <div class="small-12 medium-6 cell h5 sans-regular home__description__left small-order-2 medium-order-1">
         <h3>{{page.priorities-title}}</h3>
         <div class="h5 sans-regular">
         {{page.priorities-text | markdownify}}
@@ -71,7 +71,7 @@ layout: default
       </div>
     
       {% assign background-image = page.priorities-image %}
-      <div class="small-12 medium-6 cell text-center image--feature" {% include images/feature.html %}>
+      <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" {% include images/feature.html %}>
       </div>
     
     </div>
