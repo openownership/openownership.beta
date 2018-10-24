@@ -1,5 +1,6 @@
 ---
 title: Mollie Hanley
+position: 5
 job-title: Job Title
 social:
   twitter: https://twitter.com/

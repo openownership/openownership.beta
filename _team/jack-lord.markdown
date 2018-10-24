@@ -1,5 +1,6 @@
 ---
 title: Jack Lord
+position: 3
 job-title: Communications Associate
 social:
   twitter: https://twitter.com/

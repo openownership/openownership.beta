@@ -1,5 +1,6 @@
 ---
 title: Kadie Armstrong
+position: 1
 job-title: Job Title
 social:
   twitter: https://twitter.com/

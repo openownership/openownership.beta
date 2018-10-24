@@ -1,5 +1,6 @@
 ---
 title: Zosia Sztykowski
+position: 0
 job-title: Project Lead
 social:
   twitter: https://twitter.com/

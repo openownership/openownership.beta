@@ -1,5 +1,6 @@
 ---
 title: Laurence Bascle
+position: 2
 job-title: Job Title
 social:
   twitter: https://twitter.com/
