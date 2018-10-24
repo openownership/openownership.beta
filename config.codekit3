@@ -209,6 +209,13 @@
 		"oAP": "/_includes/images/feature.html",
 		"oF": 0
 		},
+	"/_includes/images/team.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/images/team.html",
+		"oF": 0
+		},
 	"/_includes/offcanvas.html": {
 		"cB": 0,
 		"ft": 8192,
