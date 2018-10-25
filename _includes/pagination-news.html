@@ -10,7 +10,7 @@
     </div>
     
     
-    <div class="small-12 medium-6 cell text-right">
+    <div class="small-12 {% if paginator.previous_page %}medium-6{% endif %} cell text-right">
       {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button hollow expanded">
           Older <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>

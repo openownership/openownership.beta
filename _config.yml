@@ -43,8 +43,7 @@ defaults:
     author: 
     thumbnail-image: 
 url: https://www.openownership.org
-description: Building an open register of global beneficial ownership in the public
-  interest
+description: Building an open register of global beneficial ownership in the public interest
 permalink: pretty
 exclude:
 - bower.json
@@ -91,7 +90,7 @@ pagination:
   enabled: true
   per_page: 6
   permalink: "/page/:num/"
-  title: ":title - :num of :max"
+  title: ":title — :num of :max"
   sort_field: date
   sort_reverse: true
 imgix:

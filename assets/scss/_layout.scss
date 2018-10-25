@@ -313,3 +313,11 @@ footer .menu a, footer .menu .menu-text {
 .team__members .icon-socials {
   font-size: 1.5rem;
 }
+
+.external a svg {
+transition: transform 0.25s; 
+}
+
+.external a:hover svg {
+transform: translate(5px, 0);
+}
