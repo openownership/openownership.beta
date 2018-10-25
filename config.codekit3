@@ -531,6 +531,13 @@
 		"oAP": "/_posts/2018-09-28-were-hiring.markdown",
 		"oF": 0
 		},
+	"/_posts/2018-10-22-ukrainemou.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_posts/2018-10-22-ukrainemou.markdown",
+		"oF": 0
+		},
 	"/_resources/briefing-the-case-for-beneficial-ownership-as-open-data.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1001,6 +1008,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/ukraine-signs.jpg": {
+		"ft": 16384,
+		"iS": 183860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/ukraine-signs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/ukraine.jpg": {
