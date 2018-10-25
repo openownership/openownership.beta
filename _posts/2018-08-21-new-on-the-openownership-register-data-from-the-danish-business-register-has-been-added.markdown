@@ -12,7 +12,7 @@ Denmark is one of the few European countries that has already implemented a publ
 
 Why does this matter? At the moment, relationships that cross across jurisdictions are difficult to trace and understand. With every new data source added to the Register, more complicated transnational company ownership relationships become visible. For instance some companies in the United Kingdom report that they are owned by Danish companies:
 
-![danishdata.png](/uploads/danishdata.png)
+![danish-data.jpg](/uploads/danish-data.jpg)
 
 By linking the Danish data up, we can follow the trail of ownership one step further, to the individuals resident in Denmark who are the ultimate beneficial owners. 
 

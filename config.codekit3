@@ -689,6 +689,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/danish-data.jpg": {
+		"ft": 16384,
+		"iS": 87070,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/danish-data.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/denmark.jpg": {
 		"ft": 16384,
 		"iS": 1519404,
@@ -766,6 +777,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/iacc.jpg": {
+		"ft": 16384,
+		"iS": 258271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/iacc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -833,6 +855,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/learned-one.jpg": {
+		"ft": 16384,
+		"iS": 177595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/learned-one.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/learned-two.jpg": {
+		"ft": 16384,
+		"iS": 148060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/learned-two.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/learning-lessons-doc.jpg": {
@@ -1081,6 +1125,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/wordcloud.jpg": {
+		"ft": 16384,
+		"iS": 125993,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/wordcloud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/zosia.jpg": {

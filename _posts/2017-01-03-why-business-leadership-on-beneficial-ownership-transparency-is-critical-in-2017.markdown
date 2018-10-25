@@ -9,7 +9,8 @@ author: Madeleine McCarroll
 
 The burgeoning norm of corporate transparency does not start and end with the public sector. This is where [the B Team](http://bteam.org) comes in -- we have a track record of working with business and civil society to achieve progress on beneficial ownership transparency and to increase the accountability, transparency and responsiveness of both companies and governments to citizens. We do this not just because it’s better for the world, but also because it’s better for business.
 
-![Image uploaded from iOS (3)(1).jpg](/uploads/Image%20uploaded%20from%20iOS%20(3)(1).jpg)
+![iacc.jpg](/uploads/iacc.jpg)  
+
 B Team staff with EITI and business leaders from Bank of Montreal, Deloitte, and Thomson Reuters
 
 The importance of publicly available beneficial ownership information to enabling a cleaner business operating and investment environment, allowing companies to know who they are doing business with, is clear. Both business and investors are now actively championing [the business case for ownership transparency](http://bteam.org/plan-b/ending-anonymous-companies-report-published/). For instance, at the UK Anti-Corruption Summit held in May 2016, B Team Leader companies Natura Cosmeticos and Unilever [published their ownership structures as open data](http://bteam.org/announcements/driving-transparency-unilever-and-natura-open-up-on-company-ownership/) and are encouraging other businesses to join them.
@@ -22,7 +23,8 @@ The 17th International Anti-Corruption Conference (IACC) in Panama was a fitting
 
    We know that business leadership and business champions are critical in helping drive national and global policy and responding to threats against beneficial ownership transparency, made by those who stand to gain from opacity. We are urging business leaders to visit [OwnershipTransparency.com](http://ownershiptransparency.com) and commit to the six actions.
 
-   ![Screen Shot 2017-01-05 at 12.30.51 PM.png](/uploads/Screen%20Shot%202017-01-05%20at%2012.30.51%20PM.png)
+   ![mo.jpg](/uploads/mo.jpg)  
+
     B Team Leader Mo Ibrahim in a [video still from OwnershipTransparency.com](http://bteam.org/announcements/b-team-leaders-voice-support-for-anti-corruption-meeting-in-panama/)
 
 2. **OpenOwnership – The Global Beneficial Ownership Register**

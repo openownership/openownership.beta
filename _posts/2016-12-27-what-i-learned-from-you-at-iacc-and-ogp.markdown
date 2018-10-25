@@ -10,8 +10,7 @@ Hands down, the best part of the conferences was speaking to many of you about y
 
 ### 1. Beneficial ownership information is critical to ending the shadow economy.
 
-![Screen Shot 2016-12-27 at 12.33.24 PM.png](/uploads/Screen%20Shot%202016-12-27%20at%2012.33.24%20PM.png)
-![Presenting at #17IACC (via @maykmd)](/path/to/img.jpg "Presenting at #17IACC")
+![learned-one.jpg](/uploads/learned-one.jpg)
 
 Anonymous company ownership facilitates corruption, money laundering, and tax avoidance. The result is underfunded state services such as education and health care, emboldened criminal groups, or millions of dollars in damage from shoddy infrastructure built as a result of corrupt procurement practices. These are social costs that none of our communities can afford to bear.
 
@@ -36,9 +35,7 @@ This is just one example of how opening beneficial ownership data can ensure tha
 The ultimate effect is better data quality, and a strong deterrent factor for those individuals who prefer to remain hidden. When beneficial ownership information is out in the public sphere for anyone to use, it becomes much riskier to lie.
 
 ### 3. There is strong and widespread need for OpenOwnership’s open data standard for beneficial ownership.
-![Screen Shot 2016-12-27 at 12.47.57 PM.png](/uploads/Screen%20Shot%202016-12-27%20at%2012.47.57%20PM.png)
-
-![Chris Taggart discussing the OpenOwnership data standard at #OGP16](/path/to/img.jpg "#OGP16 data standard discussion")
+![learned-two.jpg](/uploads/learned-two.jpg)
 
 Over the past few years, [the Extractive Industries Transparency Initiative](eiti.org) has published data from their pioneering pilot program to collect information on the beneficial ownership of extractives companies operating in member countries, leaving the decision about how to collect that information up to the countries themselves. The data is fascinating, not least because it shows that there are many ways to represent beneficial ownership information\*. Often, decisions around conceptual or technical issues in the collection of data become major stumbling blocks for countries committed to publishing such information.
 

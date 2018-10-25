@@ -22,7 +22,7 @@ Validation ensures that data being reported on forms consists of a legitimate po
 
 The results of [a dive into the UK’s beneficial ownership data](https://www.globalwitness.org/en/blog/what-does-uk-beneficial-ownership-data-show-us/) by [Global Witness](https://www.globalwitness.org/en/), [DataKind](http://www.datakind.org/), and [OpenCorporates](https://opencorporates.com/) highlight a number of areas where validation could significantly improve data quality. People with British nationality indicated this in over 500 different ways (see the word cloud below to get an idea of the variations). There were also over 2,000 beneficial owners who reported being born in 2016, which is stretching the definition of ‘young entrepreneur’! 
 
-![wordcloud.png](/uploads/wordcloud.png)
+![wordcloud.jpg](/uploads/wordcloud.jpg)
 
 The more room a system leaves for ambiguities, the more it creates loopholes that allow individuals to hide their identities and escape detection. The risk is heightened when you factor in the global nature of money laundering, and the challenge of collecting beneficial ownership data that is meaningful across jurisdictions. Date of birth is currently the best tool for disambiguating between individuals with similar names who are operating cross-jurisdictionally, as national ID numbers are only meaningful in the jurisdiction of origin. This is why validating the date of birth is so critical. 
 

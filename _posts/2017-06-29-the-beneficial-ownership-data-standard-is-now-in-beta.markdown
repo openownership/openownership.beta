@@ -5,7 +5,7 @@ feature-image: "/uploads/introducing.jpg"
 author: Tim Davies
 ---
 
-***What specific fields of data should a beneficial ownership register collect and publish for re-use? How can that information be shared so that other individuals and systems can integrate, interpret, analyse and take action with it?***
+## What specific fields of data should a beneficial ownership register collect and publish for re-use? How can that information be shared so that other individuals and systems can integrate, interpret, analyse and take action with it?
 
 Those are some of the key questions that drive the development of a beneficial ownership data standard. A common data standard for exchanging beneficial ownership information is vital to both gathering in data, and sharing data on something like the OpenOwnership Register - as well as to creating an ecosystem of tools and approaches to re-use of the data.
 
@@ -27,7 +27,7 @@ In the coming months, we’re hoping to work with some test implementations of t
 
 In this post, I outline some of the key design considerations that went into the standard, and what they mean for those early pilot implementations.
 
-# **Statements, not facts**
+## Statements, not facts
 
 It’s important to recognise that a beneficial ownership register will generally not contain the absolute facts of ownership. Instead, it contains statements, made by particular people, at particular points in time, about the facts of ownership.
 
@@ -39,13 +39,13 @@ By including meta-data about the date on which the statement is made, and includ
 
 The statement-centric model also recognises the immutable nature of open data. Once a statement is published as open data, copies may exist, and the statement itself should not be changed. Instead, new statements can be issued to update or replace it. This may require publishing systems that keep track of the identifiers they assigned to statements, so that it’s clear which version is being shown as most current.
 
-# **Direct and indirect ownership**
+## Direct and indirect ownership
 
 A beneficial ownership disclosure regime may require the disclosure of only ‘ultimate beneficial ownership’ (UBO), or may also require disclosure of some intermediate firms in an ownership chain. In our data model we allow both direct and indirect ownership statements to be made. For example, if a publisher of data knows that Person A owns Company Z, but through some chain of unknown companies, they can publish an indirect beneficial ownership statement. However, if they know the identity and order of the intermediate ownership chain, they could also add a set of direct ownership statements to provide this additional information.
 
 This same approach can be used to model complex ownership structures, where two or more people own shares in common, or ownership is expressed via an anonymous trust. A BODS entity statement, generally used for describing a company, can also be used to describe artificial ‘entities’ such as co-shareholdings or informal relationships.
 
-# **Supporting simple and detailed data**
+## Supporting simple and detailed data
 
 As [was outlined in a recent post on identification](http://openownership.org/news/identity-and-identifiers-what-weve-learned/), fields like names are far from simple. For example, in different cultures names are expressed differently, and may consist of different parts (first name, family name, patronymic name) etc. Similarly, the format for writing addresses varies from country to country.
 
@@ -59,7 +59,7 @@ or
 
 \(b) Provide only a summary-level field, but give guidance to users on how to parse the data. In particular, for address we only provide a breakdown into address, postcode and country - pointing users instead towards libraries for parsing address data.
 
-# **A flexible identifier approach**
+## A flexible identifier approach
 
 Matching a statement about a company or a person to that company or person in the real world is central to the use of beneficial ownership data, allowing you to confirm that you are looking at a statement about a company you’re investigating or doing due diligence on. There are two broad approaches to do this:
 
@@ -71,13 +71,13 @@ Whilst, in general, company numbers are public information, the extent to which 
 
 For this reason, BODS has to support a range of approaches to identification, and includes space for disambiguating information where it exists. It also asks publishers of data to [always declare the ‘scheme’ from which they draw any identifiers](http://beneficial-ownership-data-standard.readthedocs.io/en/latest/schema.html#identifier).
 
-# **Linking out to sources**
+## Linking out to sources
 
 Many use cases of beneficial ownership data rely on not only having access to the statements made about who owns what, but also on being able to trace that back to the source material, and checking whether or not that information is verified and trusted in some way.
 
 The beta of BODS does not get into questions of data verification, but it does include a clear space in each statement to cite and link out to the source, providing an important provenance trail. How this source material should be hosted and made accessible is a question to be addressed in future phases of development.
 
-# **Next steps**
+## Next steps
 
 Over the coming months, we hope that members of the Beneficial Ownership Data Standard Working Group will be able to work on pilot implementations, allowing us to understand: (a) the strengths and weaknesses of the model for representing existing data; and (b) the utility of data produced from these pilots.
 

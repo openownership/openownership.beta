@@ -30,4 +30,4 @@ The business benefits of ownership transparency are clear. The OpenOwnership Reg
 
 **Fill out the form below to participate. Or, for more information, contact Madeleine McCarroll on [mm@bteam.org](mailto:mm@bteam.org).**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-lbEtxD3z1iEQJ6DUH_awOl9HQ8ZvFoRhMaCl7ngo__UmBA/viewform?embedded=true" width="600" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-lbEtxD3z1iEQJ6DUH_awOl9HQ8ZvFoRhMaCl7ngo__UmBA/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

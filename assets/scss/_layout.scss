@@ -59,6 +59,10 @@ svg {
   border-top: 1px solid $light-gray;
 }
 
+.button {
+line-height: 1.2;
+}
+
 // 3. Plugins
 // ----------
 
@@ -173,7 +177,7 @@ p {
     border-bottom: 2px solid transparent;
     color: $medium-gray;
     &:hover {
-      color: $white;   
+      color: $white; 
     }
   }
 }
