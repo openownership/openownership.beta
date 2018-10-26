@@ -88,7 +88,7 @@ compress_html:
   blanklines: true
   profile: false
 pagination:
-  collection: 'posts'
+  collection: posts
   enabled: true
   per_page: 6
   limit: 0
@@ -104,11 +104,11 @@ autopages:
     enabled: false
   tags:
     slugify:
-      mode: 'raw' # raw, default, pretty, ascii, latin 
-      cased: true  # Causes tag to show up as it is written and not lowercase
-    layouts: 
-      - 'tags.html'
-    title: 'Posts tagged with :tag'
-    permalink: '/tag/:tag'
+      mode: raw
+      cased: true
+    layouts:
+    - tags.html
+    title: Posts tagged with :tag
+    permalink: "/tag/:tag"
 imgix:
   source: open-ownership.imgix.net
