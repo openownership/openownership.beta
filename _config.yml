@@ -88,11 +88,27 @@ compress_html:
   blanklines: true
   profile: false
 pagination:
+  collection: 'posts'
   enabled: true
   per_page: 6
-  permalink: "/page/:num/"
+  limit: 0
+  permalink: "/:num/"
   title: ":title — :num of :max"
   sort_field: date
   sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    slugify:
+      mode: 'raw' # raw, default, pretty, ascii, latin 
+      cased: true  # Causes tag to show up as it is written and not lowercase
+    layouts: 
+      - 'tags.html'
+    title: 'Posts tagged with :tag'
+    permalink: '/tag/:tag'
 imgix:
   source: open-ownership.imgix.net

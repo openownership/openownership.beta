@@ -273,7 +273,7 @@ p {
 // X. News
 // ---------
 
-.news h2 {
+h2 {
   @include links ($black, $primary-color);
 }
 

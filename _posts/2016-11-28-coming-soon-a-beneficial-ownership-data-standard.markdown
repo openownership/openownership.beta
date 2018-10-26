@@ -6,6 +6,7 @@ categories:
 tags:
 - data standard
 - working groups
+- ukraine
 feature-image: "/uploads/coming-soon.jpg"
 author: Chris Taggart
 ---

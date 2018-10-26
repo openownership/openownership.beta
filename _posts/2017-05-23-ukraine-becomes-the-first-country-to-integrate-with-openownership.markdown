@@ -1,6 +1,8 @@
 ---
 title: Ukraine to become the first country to integrate with OpenOwnership
 date: 2017-05-23 10:39:00 Z
+tags:
+- ukraine
 feature-image: "/uploads/ukraine-first.jpg"
 feature-image-caption: Ukraine's Minister of Justice, Pavlo Petrenko. signs a memorandum
   of understanding with OpenOwnership at a ceremony yesterday

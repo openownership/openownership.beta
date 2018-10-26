@@ -1,6 +1,10 @@
 ---
 title: After the Panama Papers, Europe can’t go back to business as usual
 date: 2016-12-20 14:04:00 Z
+tags:
+- data standard
+- working groups
+- ukraine
 ---
 
 Ahead of today’s meeting of European Union member states, proposed transparency amendments to the EU Anti Money Laundering Directive that would have given the public access to beneficial ownership information were dropped.[ The wording of the agreement reached today reads](http://data.consilium.europa.eu/doc/document/ST-15605-2016-INIT/en/pdf): “a coherent legal framework that ensures better access to information regarding beneficial ownership of trusts and similar legal arrangements once they are registered across the Union.”
