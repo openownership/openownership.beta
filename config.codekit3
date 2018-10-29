@@ -209,6 +209,13 @@
 		"oAP": "/_includes/images/feature.html",
 		"oF": 0
 		},
+	"/_includes/images/team.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/images/team.html",
+		"oF": 0
+		},
 	"/_includes/offcanvas.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -233,7 +240,7 @@
 	"/_includes/scripts.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "/_includes/scripts.html",
 		"oF": 0
 		},
@@ -312,6 +319,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_layouts/resources.html",
+		"oF": 0
+		},
+	"/_layouts/tags.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/tags.html",
 		"oF": 0
 		},
 	"/_layouts/team.html": {
@@ -524,6 +538,13 @@
 		"oAP": "/_posts/2018-09-28-were-hiring.markdown",
 		"oF": 0
 		},
+	"/_posts/2018-10-22-ukrainemou.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_posts/2018-10-22-ukrainemou.markdown",
+		"oF": 0
+		},
 	"/_resources/briefing-the-case-for-beneficial-ownership-as-open-data.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -643,7 +664,7 @@
 		"oAP": "/_uploads/aimen.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf": {
@@ -673,6 +694,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/danish-data.jpg": {
+		"ft": 16384,
+		"iS": 87070,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/danish-data.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/denmark.jpg": {
@@ -752,6 +784,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/iacc.jpg": {
+		"ft": 16384,
+		"iS": 258271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/iacc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -767,7 +810,7 @@
 		"oAP": "/_uploads/improving-ukraine-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/intro copy.jpg": {
@@ -792,11 +835,11 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf": {
+	"/_uploads/introducing-the-beneficial-ownership-data-standard.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf",
+		"oAP": "/_uploads/introducing-the-beneficial-ownership-data-standard.pdf",
 		"oF": 0
 		},
 	"/_uploads/introducing.jpg": {
@@ -821,6 +864,28 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/learned-one.jpg": {
+		"ft": 16384,
+		"iS": 177595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/learned-one.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/learned-two.jpg": {
+		"ft": 16384,
+		"iS": 148060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/learned-two.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/learning-lessons-doc.jpg": {
 		"ft": 16384,
 		"iS": 140068,
@@ -829,7 +894,7 @@
 		"oAP": "/_uploads/learning-lessons-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/learning-the-lessons.pdf": {
@@ -838,6 +903,17 @@
 		"oA": 2,
 		"oAP": "/_uploads/learning-the-lessons.pdf",
 		"oF": 0
+		},
+	"/_uploads/louise.jpg": {
+		"ft": 16384,
+		"iS": 103733,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"/_uploads/mission-statement-doc.jpg": {
 		"ft": 16384,
@@ -879,6 +955,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/mollie-hanley.jpg": {
+		"ft": 16384,
+		"iS": 34607,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/mollie-hanley.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_uploads/open-data-doc.jpg": {
 		"ft": 16384,
 		"iS": 237366,
@@ -887,7 +974,7 @@
 		"oAP": "/_uploads/open-data-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/priorities.jpg": {
@@ -909,7 +996,7 @@
 		"oAP": "/_uploads/resource-introducing.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/the-case-doc.jpg": {
@@ -920,7 +1007,7 @@
 		"oAP": "/_uploads/the-case-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/the-case-for-public-beneficial-ownership.pdf": {
@@ -974,6 +1061,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/ukraine-signs.jpg": {
+		"ft": 16384,
+		"iS": 183860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/ukraine-signs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/ukraine.jpg": {
 		"ft": 16384,
 		"iS": 241559,
@@ -1015,7 +1113,7 @@
 		"oAP": "/_uploads/what-we-mean-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/what-we-mean-when-we-talk-about-verifcation.pdf": {
@@ -1031,6 +1129,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/what-we-mean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/wordcloud.jpg": {
+		"ft": 16384,
+		"iS": 125993,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/wordcloud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/zosia.jpg": {
+		"ft": 16384,
+		"iS": 45590,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/zosia.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1271,25 +1391,25 @@
 		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/publico-bold.ttf": {
+	"/assets/fonts/Publico-Bold.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.ttf",
+		"oAP": "/assets/fonts/Publico-Bold.ttf",
 		"oF": 0
 		},
-	"/assets/fonts/publico-bold.woff": {
+	"/assets/fonts/Publico-Bold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.woff",
+		"oAP": "/assets/fonts/Publico-Bold.woff",
 		"oF": 0
 		},
-	"/assets/fonts/publico-bold.woff2": {
+	"/assets/fonts/Publico-Bold.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/publico-bold.woff2",
+		"oAP": "/assets/fonts/Publico-Bold.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/publico-text-italic.ttf": {
@@ -9475,8 +9595,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/team.html",
-		"oF": 0,
+		"oAP": "/team.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -9567,7 +9687,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 499797547,
-	"displayValue": "Open Ownership",
+	"displayValue": "OpenOwnership",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/assets/favicons/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
