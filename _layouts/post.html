@@ -31,7 +31,9 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell">
-      {{ page.content }}
+
+{{ page.content | replace: "/uploads", "https://open-ownership.imgix.net/uploads" }}
+
     </div>
   </div>
 </section>

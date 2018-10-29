@@ -20,13 +20,4 @@ $(function() {
 window.addEventListener('load', AOS.refresh);
 });
 
-
-});
-
-$(document).on('turbolinks:load', function() {
-
-var s = document.createElement("script")
-s.src = "https://embed.small.chat/T02TFQDESGDQQ7FB8W.js"
-document.body.appendChild(s);
-
 });
