@@ -3,11 +3,11 @@ title: Laurence Bascle
 categories:
 - project-team
 position: 2
-job-title: Job Title
+job-title: Product Owner
 social:
   twitter: https://twitter.com/
   instagram: https://www.instagram.com/
   github: https://www.github.com/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+French national Laurence is a project management whizz (she’s a Certified Scrum Professional). When she’s not bringing her technical chops to OpenOwnership’s various programs, you can find her on a surf, skate or any other kind of board you can think of.

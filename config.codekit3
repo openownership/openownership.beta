@@ -209,6 +209,13 @@
 		"oAP": "/_includes/images/feature.html",
 		"oF": 0
 		},
+	"/_includes/images/team.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/images/team.html",
+		"oF": 0
+		},
 	"/_includes/offcanvas.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -312,6 +319,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_layouts/resources.html",
+		"oF": 0
+		},
+	"/_layouts/tags.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/tags.html",
 		"oF": 0
 		},
 	"/_layouts/team.html": {
@@ -524,6 +538,13 @@
 		"oAP": "/_posts/2018-09-28-were-hiring.markdown",
 		"oF": 0
 		},
+	"/_posts/2018-10-22-ukrainemou.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_posts/2018-10-22-ukrainemou.markdown",
+		"oF": 0
+		},
 	"/_resources/briefing-the-case-for-beneficial-ownership-as-open-data.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -600,6 +621,13 @@
 		"oAP": "/_team/jack-lord.markdown",
 		"oF": 0
 		},
+	"/_team/jiten-bhagat.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/jiten-bhagat.markdown",
+		"oF": 0
+		},
 	"/_team/kadie-armstrong.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -673,6 +701,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/danish-data.jpg": {
+		"ft": 16384,
+		"iS": 87070,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/danish-data.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/denmark.jpg": {
@@ -752,6 +791,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/iacc.jpg": {
+		"ft": 16384,
+		"iS": 258271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/iacc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -796,7 +846,7 @@
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf",
+		"oAP": "/_uploads/introducing-the-beneficial-ownership-data-standard.pdf",
 		"oF": 0
 		},
 	"/_uploads/introducing.jpg": {
@@ -821,6 +871,28 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/learned-one.jpg": {
+		"ft": 16384,
+		"iS": 177595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/learned-one.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/learned-two.jpg": {
+		"ft": 16384,
+		"iS": 148060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/learned-two.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/learning-lessons-doc.jpg": {
 		"ft": 16384,
 		"iS": 140068,
@@ -838,6 +910,17 @@
 		"oA": 2,
 		"oAP": "/_uploads/learning-the-lessons.pdf",
 		"oF": 0
+		},
+	"/_uploads/louise.jpg": {
+		"ft": 16384,
+		"iS": 91889,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_uploads/mission-statement-doc.jpg": {
 		"ft": 16384,
@@ -877,6 +960,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/mollie-hanley.jpg": {
+		"ft": 16384,
+		"iS": 158055,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/mollie-hanley.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/open-data-doc.jpg": {
@@ -974,6 +1068,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/ukraine-signs.jpg": {
+		"ft": 16384,
+		"iS": 183860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/ukraine-signs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/ukraine.jpg": {
 		"ft": 16384,
 		"iS": 241559,
@@ -1034,6 +1139,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/wordcloud.jpg": {
+		"ft": 16384,
+		"iS": 125993,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/wordcloud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/zosia.jpg": {
+		"ft": 16384,
+		"iS": 200647,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/zosia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_what-we-do/1-1-technical-assistance.markdown": {

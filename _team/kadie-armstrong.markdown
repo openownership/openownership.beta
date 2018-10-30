@@ -10,4 +10,4 @@ social:
   github: https://www.github.com/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Kadie works on the Beneficial Ownership Data Standard as part of the Open Data Services Co-operative team. She's so passionate about changing the norms around corporate ownership that she joined a workers co-op.
