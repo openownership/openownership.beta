@@ -20,6 +20,6 @@ $(function() {
 window.addEventListener('load', AOS.refresh);
 });
 
-Smallchat.reboot()
+// Smallchat.reboot()
 
 });
