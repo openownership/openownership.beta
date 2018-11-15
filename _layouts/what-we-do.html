@@ -14,14 +14,16 @@ layout: default
 
 <!-- Page Content -->
 <section class="grid-container">
-  {% for service in page.services %}
   <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 cell border-top">
-      <h5 class="sans-bold">{{service.title}}</h5>
+  {% for service in page.services %}
+    <div class="small-12 medium-6 cell">
+      <div class="callout large">
+      <h3 class="serif-bold text-center">{{service.title}}</h3>
       {{service.text | markdownify}}
-      <a class="button" href="{{service.link}}">{{service.button}}</a>
+      <a class="button expanded" href="{{service.link}}">{{service.button}}</a>
+      </div>
     </div>
-  </div>
   {% endfor %}
+  </div>
 </section>
 <!-- End Page Content -->

@@ -842,7 +842,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/Introducing-the-beneficial-ownership-data-standard.pdf": {
+	"/_uploads/introducing-the-beneficial-ownership-data-standard.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
@@ -1005,6 +1005,66 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_uploads/Site/Illustrations/Building.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Site/Illustrations/Building.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/_uploads/Site/Illustrations/one-on-one.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Site/Illustrations/one-on-one.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/_uploads/Site/Illustrations/Pilot.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Site/Illustrations/Pilot.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/_uploads/Site/Illustrations/Private Sector.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Site/Illustrations/Private Sector.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/_uploads/Site/Illustrations/Register.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Site/Illustrations/Register.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/_uploads/Site/Illustrations/Sharing.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Site/Illustrations/Sharing.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/_uploads/the-case-doc.jpg": {
 		"ft": 16384,
