@@ -44,17 +44,18 @@ layout: default
           {% assign image = post.feature-image %}
           <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
         </a>
+        {% if post.feature-image-caption %}
+        <div class="grid-x margin-top-1">
+          <div class="small-12 cell serif-italic medium-gray">
+          <small>{{post.feature-image-caption}}</small>
+          </div>
+        </div>
+        {% endif %}
         </div>
       </div>
       {% endif %}
   
-      {% if post.feature-image-caption %}
-      <div class="grid-x grid-padding-y padding-top-0">
-        <div class="small-12 cell serif-italic medium-gray">
-        <small>{{post.feature-image-caption}}</small>
-        </div>
-      </div>
-      {% endif %}
+
 
       <div class="grid-x">
         <div class="small-12 cell">
