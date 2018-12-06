@@ -6,7 +6,7 @@ layout: default
 <div class="grid-x grid-padding-x grid-padding-y primary-background">
 
   <div class="small-12 cell text-center">
-    <h1 class="padding-bottom-2">Ending anonymous company ownership</h1>
+    <h1 class="padding-bottom-2">{{page.header}}</h1>
     <div class="button-group align-center show-for-medium">
       <a class="button" href="/what-we-do">Learn more</a>
       <a class="button" href="/get-involved">Get Involved</a>
@@ -30,8 +30,8 @@ layout: default
         {{page.intro-text | markdownify}}
       </div>
       
-      {% assign background-image = page.intro-image %}
-      <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" {% include images/feature.html %}>
+      {% assign image = page.intro-image %}
+      <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"}>
       </div>
     
     </div>
@@ -70,8 +70,8 @@ layout: default
         <a class="button hollow white" href="/what-we-do">Learn more about what we do</a>
       </div>
     
-      {% assign background-image = page.priorities-image %}
-      <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" {% include images/feature.html %}>
+      {% assign image = page.priorities-image %}
+      <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
       </div>
     
     </div>

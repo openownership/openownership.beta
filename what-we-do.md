@@ -3,6 +3,7 @@ title: What we do
 position: 1
 services:
 - title: The OpenOwnership Register
+  image: "/uploads/register.svg"
   text: The Register is an easy-to-use, cloud-based, platform that links beneficial
     ownership information from multiple sources and makes it available for free to
     all, allowing for powerful global searches with just a couple of clicks. Data
@@ -14,6 +15,7 @@ services:
   link: https://register.openownership.org/
 - title: Building a stable and trusted beneficial ownership data standard and user
     base
+  image: "/uploads/building.svg"
   text: The Beneficial Ownership Data Standard (the Standard, or BODS) is being developed
     in collaboration with dozens of international experts in company data and in technical
     standard-setting. It will enable the resulting beneficial ownership data to be
@@ -23,6 +25,7 @@ services:
   button: Find out more
   link: "/what-we-do/the-beneficial-ownership-data-standard"
 - title: The OpenOwnership pilot program
+  image: "/uploads/building.svg"
   text: Our pilot program supports data publishers in national governments and multinational
     institutions to publish high quality, highly usable beneficial ownership data.
     The ultimate outcome is a beneficial ownership data infrastructure that is fit
@@ -31,6 +34,7 @@ services:
   button: Find out more
   link: "/what-we-do/the-openownership-pilot-program"
 - title: 1-1 technical assistance
+  image: "/uploads/one-on-one.svg"
   text: Whether this occurs within the pilot program or on a bespoke basis, we are
     committed to providing technical assistance to beneficial ownership data publishers
     in both the public and private sectors. Through our helpdesk we can answer questions
@@ -39,6 +43,7 @@ services:
   button: Find out more
   link: "/what-we-do/1-1-technical-assistance"
 - title: Private sector engagement
+  image: "/uploads/private-sector.svg"
   text: We are encouraging corporations and financial institutions to use the OpenOwnership
     Register (and eventually our API) as part of their due diligence processes and
     to submit their ownership data to the Register. We are currently seeking early
@@ -46,6 +51,7 @@ services:
   button: Find out more
   link: "/what-we-do/private-sector-engagement"
 - title: Sharing knowledge and best practice
+  image: "/uploads/sharing.svg"
   text: We will continue to champion beneficial ownership transparency amongst all
     our key stakeholder groups. To do this, we regularly hold workshops and events
     to engage users and gather feedback, and we collate and share case studies of
@@ -55,3 +61,8 @@ services:
 layout: what-we-do
 ---
 
+We are dedicated to increasing corporate transparency across the world by making it easy to publish and access high-quality data about who owns companies.   
+
+A beneficial owner is a real, living person who ultimately controls, has influence over, or materially benefits from, a company or other legal entity.  Currently, only a very small minority of countries provide open datasets of their registered beneficial owners.   
+
+We are leading the development of an open, global beneficial ownership data and policy ecosystem to create a new set of norms and change the status quo. Working with partners from across the public and private sectors, as well as civil society, we provide technology, policy, and technical assistance that supports both publishers and users of beneficial ownership data.

@@ -5,8 +5,9 @@ layout: default
 <!-- Page Title -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x padding-top-3">
-    <div class="small-12 medium-10 large-10 cell">
+    <div class="small-12 medium-12 large-12 cell">
       <h1>{{page.title}}</h1>
+      <h5 class="sans-regular">{{page.content}}</h5>
     </div>
   </div>
 </section>
@@ -14,14 +15,25 @@ layout: default
 
 <!-- Page Content -->
 <section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
   {% for service in page.services %}
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 cell border-top">
-      <h5 class="sans-bold">{{service.title}}</h5>
-      {{service.text | markdownify}}
-      <a class="button" href="{{service.link}}">{{service.button}}</a>
+    <div class="small-12 medium-6 cell">
+      <div class="callout large" data-equalizer-watch>
+
+        <div class="grid-y align-justify height-100">
+          <div class="shrink cell text-center">
+            <img src="{{service.image}}" class="margin-bottom-1">
+            <h3 class="serif-bold text-center">{{service.title}}</h3>
+            {{service.text | markdownify}}
+          </div>
+          <div class="shrink cell">
+            <a class="button expanded" href="{{service.link}}">{{service.button}}</a>
+          </div>
+        </div>
+
+      </div>
     </div>
-  </div>
   {% endfor %}
+  </div>
 </section>
 <!-- End Page Content -->

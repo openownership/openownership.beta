@@ -2,6 +2,7 @@
 title: Open Ownership
 position: 0
 image: "/assets/img/og-image.png"
+header: Ending anonymous company ownership
 intro-text: |-
   Anonymous shell companies enable corruption, fraud, organised crime and tax evasion. The wider the access to high quality data on who owns what, the harder it will be for corrupt individuals to hide.
 

@@ -4,13 +4,13 @@ timezone: UTC
 collections:
   authors:
     title: Authors
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
   resources:
     title: Resources
-    output: true
+    output: false
   team:
     title: Team
     output: false
@@ -19,7 +19,7 @@ collections:
     output: true
   what-we-do:
     title: What We Do
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
@@ -70,7 +70,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-colophon: http://garethjohnsdesign.com
+colophon: http://www.garethjohnsdesign.com
 company: OpenOwnership
 email: info@openownership.org
 analytics: 
@@ -97,7 +97,7 @@ pagination:
   sort_field: date
   sort_reverse: true
 autopages:
-  enabled: true
+  enabled: false
   categories:
     enabled: false
   collections:

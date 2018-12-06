@@ -99,7 +99,7 @@ e===+e+""?+e:Be.test(e)?JSON.parse(e):e)}function p(e,t,n){var i;
 // data from the HTML5 data-* attribute
 if(void 0===n&&1===e.nodeType)if(i="data-"+t.replace(We,"-$&").toLowerCase(),"string"==typeof(n=e.getAttribute(i))){try{n=s(n)}catch(e){}
 // Make sure we set the data so it isn't changed later
-Ie.set(e,t,n)}else n=void 0;return n}function g(e,t,n,i){var o,r,s=20,a=i?function(){return i.cur()}:function(){return _e.css(e,t,"")},l=a(),u=n&&n[3]||(_e.cssNumber[t]?"":"px"),
+Me.set(e,t,n)}else n=void 0;return n}function g(e,t,n,i){var o,r,s=20,a=i?function(){return i.cur()}:function(){return _e.css(e,t,"")},l=a(),u=n&&n[3]||(_e.cssNumber[t]?"":"px"),
 // Starting value computation is required for potential unit mismatches
 c=(_e.cssNumber[t]||"px"!==u&&+l)&&Ye.exec(_e.css(e,t));if(c&&c[3]!==u){for(
 // Support: Firefox <=54
@@ -121,16 +121,16 @@ for(var n,i,o=[],r=0,s=e.length;r<s;r++)(i=e[r]).style&&(n=i.style.display,t?(
 // Since we force visibility upon cascade-hidden elements, an immediate (and slow)
 // check is required in this first loop unless we have a nonempty display value (either
 // inline or about-to-be-restored)
-"none"===n&&(o[r]=Me.get(i,"display")||null,o[r]||(i.style.display="")),""===i.style.display&&Ve(i)&&(o[r]=y(i))):"none"!==n&&(o[r]="none",
+"none"===n&&(o[r]=Ie.get(i,"display")||null,o[r]||(i.style.display="")),""===i.style.display&&Ve(i)&&(o[r]=y(i))):"none"!==n&&(o[r]="none",
 // Remember what we're overwriting
-Me.set(i,"display",n)));
+Ie.set(i,"display",n)));
 // Set the display of the elements in a second loop to avoid constant reflow
 for(r=0;r<s;r++)null!=o[r]&&(e[r].style.display=o[r]);return e}function w(e,t){
 // Support: IE <=9 - 11 only
 // Use typeof to avoid zero-argument method invocation on host objects (#15151)
 var n;return n=void 0!==e.getElementsByTagName?e.getElementsByTagName(t||"*"):void 0!==e.querySelectorAll?e.querySelectorAll(t||"*"):[],void 0===t||t&&u(e,t)?_e.merge([e],n):n}
 // Mark scripts as having already been evaluated
-function k(e,t){for(var n=0,i=e.length;n<i;n++)Me.set(e[n],"globalEval",!t||Me.get(t[n],"globalEval"))}function _(e,t,n,i,o){for(var r,s,a,l,u,c,f=t.createDocumentFragment(),d=[],h=0,p=e.length;h<p;h++)if((r=e[h])||0===r)
+function k(e,t){for(var n=0,i=e.length;n<i;n++)Ie.set(e[n],"globalEval",!t||Ie.get(t[n],"globalEval"))}function _(e,t,n,i,o){for(var r,s,a,l,u,c,f=t.createDocumentFragment(),d=[],h=0,p=e.length;h<p;h++)if((r=e[h])||0===r)
 // Add nodes directly
 if("object"===v(r))
 // Support: Android <=4.0 only, PhantomJS 1 only
@@ -139,7 +139,7 @@ _e.merge(d,r.nodeType?[r]:r);
 // Convert non-html into a text node
 else if(tt.test(r)){for(s=s||f.appendChild(t.createElement("div")),
 // Deserialize a standard representation
-a=(Qe.exec(r)||["",""])[1].toLowerCase(),l=et[a]||et._default,s.innerHTML=l[1]+_e.htmlPrefilter(r)+l[2],
+a=(Ze.exec(r)||["",""])[1].toLowerCase(),l=et[a]||et._default,s.innerHTML=l[1]+_e.htmlPrefilter(r)+l[2],
 // Descend through wrappers to the right content
 c=l[0];c--;)s=s.lastChild;
 // Support: Android <=4.0 only, PhantomJS 1 only
@@ -188,13 +188,13 @@ function z(e,t){return u(e,"table")&&u(11!==t.nodeType?t:t.firstChild,"tr")&&_e(
 // Replace/restore the type attribute of script elements for safe DOM manipulation
 function E(e){return e.type=(null!==e.getAttribute("type"))+"/"+e.type,e}function A(e){return"true/"===(e.type||"").slice(0,5)?e.type=e.type.slice(5):e.removeAttribute("type"),e}function S(e,t){var n,i,o,r,s,a,l,u;if(1===t.nodeType){
 // 1. Copy private data: events, handlers, etc.
-if(Me.hasData(e)&&(r=Me.access(e),s=Me.set(t,r),u=r.events))for(o in delete s.handle,s.events={},u)for(n=0,i=u[o].length;n<i;n++)_e.event.add(t,o,u[o][n]);
+if(Ie.hasData(e)&&(r=Ie.access(e),s=Ie.set(t,r),u=r.events))for(o in delete s.handle,s.events={},u)for(n=0,i=u[o].length;n<i;n++)_e.event.add(t,o,u[o][n]);
 // 2. Copy user data
-Ie.hasData(e)&&(a=Ie.access(e),l=_e.extend({},a),Ie.set(t,l))}}
+Me.hasData(e)&&(a=Me.access(e),l=_e.extend({},a),Me.set(t,l))}}
 // Fix IE bugs, see support tests
 function D(e,t){var n=t.nodeName.toLowerCase();
 // Fails to persist the checked state of a cloned checkbox or radio button.
-"input"===n&&Ze.test(e.type)?t.checked=e.checked:"input"!==n&&"textarea"!==n||(t.defaultValue=e.defaultValue)}function j(n,i,o,r){
+"input"===n&&Qe.test(e.type)?t.checked=e.checked:"input"!==n&&"textarea"!==n||(t.defaultValue=e.defaultValue)}function j(n,i,o,r){
 // Flatten any nested arrays
 i=ue.apply([],i);var e,t,s,a,l,u,c=0,f=n.length,d=f-1,h=i[0],p=ye(h);
 // We can't cloneNode fragments that contain checked, in WebKit
@@ -211,7 +211,7 @@ _e.merge(s,w(l,"script"))),o.call(n[c],l,c);if(a)
 // Evaluate executable scripts on first document insertion
 for(u=s[s.length-1].ownerDocument,
 // Reenable scripts
-_e.map(s,A),c=0;c<a;c++)l=s[c],Je.test(l.type||"")&&!Me.access(l,"globalEval")&&_e.contains(u,l)&&(l.src&&"module"!==(l.type||"").toLowerCase()?
+_e.map(s,A),c=0;c<a;c++)l=s[c],Je.test(l.type||"")&&!Ie.access(l,"globalEval")&&_e.contains(u,l)&&(l.src&&"module"!==(l.type||"").toLowerCase()?
 // Optional AJAX dependency, but won't run scripts if not present
 _e._evalUrl&&_e._evalUrl(l.src):m(l.textContent.replace(dt,""),u,l))}return n}function P(e,t,n){for(var i,o=t?_e.filter(t,e):e,r=0;null!=(i=o[r]);r++)n||1!==i.nodeType||_e.cleanData(w(i)),i.parentNode&&(n&&_e.contains(i.ownerDocument,i)&&k(w(i,"script")),i.parentNode.removeChild(i));return e}function F(e,t,n){var i,o,r,s,
 // Support: Firefox 51+
@@ -277,7 +277,7 @@ l+=_e.css(e,"padding"+Ge[s],!0,o),
 return!i&&0<=r&&(
 // offsetWidth/offsetHeight is a rounded sum of content, padding, scroll gutter, and border
 // Assuming integer scroll gutter, subtract the rest and round down
-l+=Math.max(0,Math.ceil(e["offset"+t[0].toUpperCase()+t.slice(1)]-r-l-a-.5))),l}function M(e,t,n){
+l+=Math.max(0,Math.ceil(e["offset"+t[0].toUpperCase()+t.slice(1)]-r-l-a-.5))),l}function I(e,t,n){
 // Start with computed style
 var i=pt(e),o=F(e,t,i),r="border-box"===_e.css(e,"boxSizing",!1,i),s=r;
 // Support: Firefox <=54
@@ -297,7 +297,7 @@ s=!0),(
 // Normalize "" and auto
 o=parseFloat(o)||0)+N(e,t,n||(r?"border":"content"),s,i,
 // Provide the current computed size to request scroll gutter calculation (gh-3589)
-o)+"px"}function I(e,t,n,i,o){return new I.prototype.init(e,t,n,i,o)}function B(){$t&&(!1===se.hidden&&$.requestAnimationFrame?$.requestAnimationFrame(B):$.setTimeout(B,_e.fx.interval),_e.fx.tick())}
+o)+"px"}function M(e,t,n,i,o){return new M.prototype.init(e,t,n,i,o)}function B(){$t&&(!1===se.hidden&&$.requestAnimationFrame?$.requestAnimationFrame(B):$.setTimeout(B,_e.fx.interval),_e.fx.tick())}
 // Animations created synchronously will run synchronously
 function W(){return $.setTimeout(function(){_t=void 0}),_t=Date.now()}
 // Generate parameters to create a standard animation
@@ -306,7 +306,7 @@ function U(e,t){var n,i=0,o={height:e};
 // otherwise step value is 2 to skip over Left and Right
 for(t=t?1:0;i<4;i+=2-t)o["margin"+(n=Ge[i])]=o["padding"+n]=e;return t&&(o.opacity=o.width=e),o}function Y(e,t,n){for(var i,o=(X.tweeners[t]||[]).concat(X.tweeners["*"]),r=0,s=o.length;r<s;r++)if(i=o[r].call(n,t,e))
 // We're done with this property
-return i}function G(e,t,n){var i,o,r,s,a,l,u,c,f="width"in t||"height"in t,d=this,h={},p=e.style,m=e.nodeType&&Ve(e),v=Me.get(e,"fxshow");
+return i}function G(e,t,n){var i,o,r,s,a,l,u,c,f="width"in t||"height"in t,d=this,h={},p=e.style,m=e.nodeType&&Ve(e),v=Ie.get(e,"fxshow");
 // Queue-skipping animations hijack the fx hooks
 // Detect show/hide animations
 for(i in n.queue||(null==(s=_e._queueHooks(e,"fx")).unqueued&&(s.unqueued=0,a=s.empty.fire,s.empty.fire=function(){s.unqueued||a()}),s.unqueued++,d.always(function(){
@@ -325,7 +325,7 @@ f&&1===e.nodeType&&(
 // the overflowX value there.
 n.overflow=[p.overflow,p.overflowX,p.overflowY],null==(
 // Identify a display type, preferring old show/hide data over the CSS cascade
-u=v&&v.display)&&(u=Me.get(e,"display")),"none"===(c=_e.css(e,"display"))&&(u?c=u:(
+u=v&&v.display)&&(u=Ie.get(e,"display")),"none"===(c=_e.css(e,"display"))&&(u?c=u:(
 // Get nonempty value(s) by temporarily forcing visibility
 b([e],!0),u=e.style.display||u,c=_e.css(e,"display"),b([e]))),
 // Animate inline elements as inline-block
@@ -335,7 +335,7 @@ l||(d.done(function(){p.display=u}),null==u&&(c=p.display,u="none"===c?"":c)),p.
 // Implement show/hide animations
 l=!1,h)
 // General show/hide setup for this element animation
-l||(v?"hidden"in v&&(m=v.hidden):v=Me.access(e,"fxshow",{display:u}),
+l||(v?"hidden"in v&&(m=v.hidden):v=Ie.access(e,"fxshow",{display:u}),
 // Store hidden/visible for toggle so `.stop().toggle()` "reverses"
 r&&(v.hidden=!m),
 // Show elements before animating them
@@ -343,7 +343,7 @@ m&&b([e],!0)
 /* eslint-disable no-loop-func */,d.done(function(){for(i in
 /* eslint-enable no-loop-func */
 // The final step of a "hide" animation is actually hiding the element
-m||b([e]),Me.remove(e,"fxshow"),h)_e.style(e,i,h[i])})),
+m||b([e]),Ie.remove(e,"fxshow"),h)_e.style(e,i,h[i])})),
 // Per-property setup
 l=Y(m?v[i]:0,i,d),i in v||(v[i]=l.start,m&&(l.end=l.start,l.start=0))}function V(e,t){var n,i,o,r,s;
 // camelCase, specialEasing and expand cssHook pass
@@ -371,7 +371,7 @@ return e?(l.notifyWith(s,[u,1,0]),l.resolveWith(s,[u,e])):l.rejectWith(s,[u,e]),
 u.progress(u.opts.progress).done(u.opts.done,u.opts.complete).fail(u.opts.fail).always(u.opts.always),_e.fx.timer(_e.extend(r,{elem:s,anim:u,queue:u.opts.queue})),u}
 // Strip and collapse whitespace according to HTML spec
 // https://infra.spec.whatwg.org/#strip-and-collapse-ascii-whitespace
-function K(e){var t;return(e.match(Pe)||[]).join(" ")}function Z(e){return e.getAttribute&&e.getAttribute("class")||""}function Q(e){return Array.isArray(e)?e:"string"==typeof e&&e.match(Pe)||[]}function J(n,e,i,o){var t;if(Array.isArray(e))
+function K(e){var t;return(e.match(Pe)||[]).join(" ")}function Q(e){return e.getAttribute&&e.getAttribute("class")||""}function Z(e){return Array.isArray(e)?e:"string"==typeof e&&e.match(Pe)||[]}function J(n,e,i,o){var t;if(Array.isArray(e))
 // Serialize array item.
 _e.each(e,function(e,t){i||Rt.test(n)?
 // Treat each array item as a scalar.
@@ -393,7 +393,7 @@ for(;n=o[i++];)
 // Prepend if requested
 "+"===n[0]?(n=n.slice(1)||"*",(r[n]=r[n]||[]).unshift(t)):(r[n]=r[n]||[]).push(t)}}
 // Base inspection function for prefilters and transports
-function te(t,o,r,s){function a(e){var i;return l[e]=!0,_e.each(t[e]||[],function(e,t){var n=t(o,r,s);return"string"!=typeof n||u||l[n]?u?!(i=n):void 0:(o.dataTypes.unshift(n),a(n),!1)}),i}var l={},u=t===Zt;return a(o.dataTypes[0])||!l["*"]&&a("*")}
+function te(t,o,r,s){function a(e){var i;return l[e]=!0,_e.each(t[e]||[],function(e,t){var n=t(o,r,s);return"string"!=typeof n||u||l[n]?u?!(i=n):void 0:(o.dataTypes.unshift(n),a(n),!1)}),i}var l={},u=t===Qt;return a(o.dataTypes[0])||!l["*"]&&a("*")}
 // A special extend for ajax options
 // that takes "flat" options (not to be deep extended)
 // Fixes #9887
@@ -559,7 +559,7 @@ d=t?t.nodeType:9;
 // Return early from calls with invalid selector or context
 if(n=n||[],"string"!=typeof e||!e||1!==d&&9!==d&&11!==d)return n;
 // Try to shortcut find operations (as opposed to filters) in HTML documents
-if(!i&&((t?t.ownerDocument||t:M)!==j&&D(t),t=t||j,F)){
+if(!i&&((t?t.ownerDocument||t:I)!==j&&D(t),t=t||j,F)){
 // If the selector is sufficiently simple, try using a "get*By*" DOM method
 // (excepting DocumentFragment context, where the methods don't exist)
 if(11!==d&&(l=ge.exec(e)))
@@ -577,9 +577,9 @@ if(s.id===o)return n.push(s),n}else
 // getElementById can match elements by name instead of ID
 if(f&&(s=f.getElementById(o))&&R(t,s)&&s.id===o)return n.push(s),n;
 // Type selector
-}else{if(l[2])return Q.apply(n,t.getElementsByTagName(e)),n;
+}else{if(l[2])return Z.apply(n,t.getElementsByTagName(e)),n;
 // Class selector
-if((o=l[3])&&_.getElementsByClassName&&t.getElementsByClassName)return Q.apply(n,t.getElementsByClassName(o)),n}
+if((o=l[3])&&_.getElementsByClassName&&t.getElementsByClassName)return Z.apply(n,t.getElementsByClassName(o)),n}
 // Take advantage of querySelectorAll
 if(_.qsa&&!Y[e+" "]&&(!L||!L.test(e))){if(1!==d)f=t,c=e;else if("object"!==t.nodeName.toLowerCase()){for(
 // Capture the context ID, setting it first if necessary
@@ -587,7 +587,7 @@ if(_.qsa&&!Y[e+" "]&&(!L||!L.test(e))){if(1!==d)f=t,c=e;else if("object"!==t.nod
 // Prefix every selector in the list
 u=O(e)).length;r--;)u[r]="#"+a+" "+p(u[r]);c=u.join(","),
 // Expand context for sibling selectors
-f=ye.test(e)&&h(t.parentNode)||t}if(c)try{return Q.apply(n,f.querySelectorAll(c)),n}catch(e){}finally{a===N&&t.removeAttribute("id")}}}
+f=ye.test(e)&&h(t.parentNode)||t}if(c)try{return Z.apply(n,f.querySelectorAll(c)),n}catch(e){}finally{a===N&&t.removeAttribute("id")}}}
 // All others
 return z(e.replace(ae,"$1"),t,n,i)}
 /**
@@ -677,12 +677,12 @@ function c(){}function p(e){for(var t=0,n=e.length,i="";t<n;t++)i+=e[t].value;re
 // Check against closest ancestor/preceding element
 function(e,t,n){for(;e=e[l];)if(1===e.nodeType||f)return a(e,t,n);return!1}:
 // Check against all ancestor/preceding elements
-function(e,t,n){var i,o,r,s=[I,d];
+function(e,t,n){var i,o,r,s=[M,d];
 // We can't set arbitrary data on XML nodes, so they don't benefit from combinator caching
 if(n){for(;e=e[l];)if((1===e.nodeType||f)&&a(e,t,n))return!0}else for(;e=e[l];)if(1===e.nodeType||f)if(
 // Support: IE <9 only
 // Defend against cloned attroperties (jQuery gh-1709)
-o=(r=e[N]||(e[N]={}))[e.uniqueID]||(r[e.uniqueID]={}),u&&u===e.nodeName.toLowerCase())e=e[l]||e;else{if((i=o[c])&&i[0]===I&&i[1]===d)
+o=(r=e[N]||(e[N]={}))[e.uniqueID]||(r[e.uniqueID]={}),u&&u===e.nodeName.toLowerCase())e=e[l]||e;else{if((i=o[c])&&i[0]===M&&i[1]===d)
 // Assign to newCache so results back-propagate to previous elements
 return s[2]=i[2];
 // A match means we're done; a fail means we have to keep checking
@@ -711,7 +711,7 @@ o.push(f[r]=s);g(null,d=[],o,i)}
 // Move matched elements from seed to results to keep them synchronized
 for(r=d.length;r--;)(s=d[r])&&-1<(o=g?ee(e,s):a[r])&&(e[o]=!(t[o]=s))}
 // Add elements to results, through postFinder if defined
-}else d=k(d===t?d.splice(u,d.length):d),g?g(null,t,d,i):Q.apply(t,d)})}function m(e){for(var o,t,n,i=e.length,r=$.relative[e[0].type],s=r||$.relative[" "],a=r?1:0,
+}else d=k(d===t?d.splice(u,d.length):d),g?g(null,t,d,i):Z.apply(t,d)})}function m(e){for(var o,t,n,i=e.length,r=$.relative[e[0].type],s=r||$.relative[" "],a=r?1:0,
 // The foundational matcher ensures that elements are reachable from top-level context(s)
 l=f(function(e){return e===o},s,!0),u=f(function(e){return-1<ee(o,e)},s,!0),c=[function(e,t,n){var i=!r&&(n||t!==E)||((o=t).nodeType?l(e,t,n):u(e,t,n));
 // Avoid hanging onto element (issue #299)
@@ -725,11 +725,11 @@ e.slice(0,a-1).concat({value:" "===e[a-2].type?"*":""})).replace(ae,"$1"),t,a<n&
 // We must always have either seed elements or outermost context
 h=e||b&&$.find.TAG("*",o),
 // Use integer dirruns iff this is the outermost matcher
-p=I+=null==d?1:Math.random()||.1,m=h.length;
+p=M+=null==d?1:Math.random()||.1,m=h.length;
 // Add elements passing elementMatchers directly to results
 // Support: IE<9, Safari
 // Tolerate NodeList properties (IE: "length"; Safari: <number>) matching elements by id
-for(o&&(E=t===j||t||o);u!==m&&null!=(r=h[u]);u++){if(b&&r){for(s=0,t||r.ownerDocument===j||(D(r),n=!F);a=v[s++];)if(a(r,t||j,n)){i.push(r);break}o&&(I=p)}
+for(o&&(E=t===j||t||o);u!==m&&null!=(r=h[u]);u++){if(b&&r){for(s=0,t||r.ownerDocument===j||(D(r),n=!F);a=v[s++];)if(a(r,t||j,n)){i.push(r);break}o&&(M=p)}
 // Track unmatched elements for set filters
 y&&(
 // They will have gone through all possible matchers
@@ -751,17 +751,17 @@ if(0<l)for(;u--;)c[u]||f[u]||(f[u]=K.call(i));
 // Discard index placeholder values to get only actual matches
 f=k(f)}
 // Add matches to results
-Q.apply(i,f),
+Z.apply(i,f),
 // Seedless set matches succeeding multiple successful matchers stipulate sorting
 o&&!e&&0<f.length&&1<l+g.length&&w.uniqueSort(i)}
 // Override manipulation of globals by nested matchers
-return o&&(I=p,E=d),c};return y?l(e):e}var g,_,$,x,C,O,T,z,E,A,S,
+return o&&(M=p,E=d),c};return y?l(e):e}var g,_,$,x,C,O,T,z,E,A,S,
 // Local document vars
 D,j,P,F,L,H,q,R,
 // Instance-specific data
-N="sizzle"+1*new Date,M=n.document,I=0,B=0,W=e(),U=e(),Y=e(),G=function(e,t){return e===t&&(S=!0),0},
+N="sizzle"+1*new Date,I=n.document,M=0,B=0,W=e(),U=e(),Y=e(),G=function(e,t){return e===t&&(S=!0),0},
 // Instance methods
-V={}.hasOwnProperty,X=[],K=X.pop,Z=X.push,Q=X.push,J=X.slice,
+V={}.hasOwnProperty,X=[],K=X.pop,Q=X.push,Z=X.push,J=X.slice,
 // Use a stripped-down indexOf as it's faster than native
 // https://jsperf.com/thor-indexof-vs-for/5
 ee=function(e,t){for(var n=0,i=e.length;n<i;n++)if(e[n]===t)return n;return-1},te="checked|selected|async|autofocus|autoplay|controls|defer|disabled|hidden|ismap|loop|multiple|open|readonly|required|scoped",
@@ -807,12 +807,12 @@ ke=/([\0-\x1f\x7f]|^-?\d)|^-$|[^\0-\x1f\x7f-\uFFFF\w-]/g,_e=function(e,t){return
 // error in IE
 $e=function(){D()},xe=f(function(e){return!0===e.disabled&&("form"in e||"label"in e)},{dir:"parentNode",next:"legend"});
 // Optimize for push.apply( _, NodeList )
-try{Q.apply(X=J.call(M.childNodes),M.childNodes),
+try{Z.apply(X=J.call(I.childNodes),I.childNodes),
 // Support: Android<4.0
 // Detect silently failing push.apply
-X[M.childNodes.length].nodeType}catch(e){Q={apply:X.length?
+X[I.childNodes.length].nodeType}catch(e){Z={apply:X.length?
 // Leverage slice if possible
-function(e,t){Z.apply(e,J.call(t))}:
+function(e,t){Q.apply(e,J.call(t))}:
 // Support: IE<9
 // Otherwise append directly
 function(e,t){
@@ -834,14 +834,14 @@ var t=e&&(e.ownerDocument||e).documentElement;return!!t&&"HTML"!==t.nodeName},
  * @param {Element|Object} [doc] An element or document object to use to set the document
  * @returns {Object} Returns the current document
  */
-D=w.setDocument=function(e){var t,n,i=e?e.ownerDocument||e:M;
+D=w.setDocument=function(e){var t,n,i=e?e.ownerDocument||e:I;
 // Return early if doc is invalid or already selected
 return i!==j&&9===i.nodeType&&i.documentElement&&(
 // Update global variables
 P=(j=i).documentElement,F=!C(j),
 // Support: IE 9-11, Edge
 // Accessing iframe documents after unload throws "permission denied" errors (jQuery #13936)
-M!==j&&(n=j.defaultView)&&n.top!==n&&(
+I!==j&&(n=j.defaultView)&&n.top!==n&&(
 // Support: IE 11, Edge
 n.addEventListener?n.addEventListener("unload",$e,!1):n.attachEvent&&n.attachEvent("onunload",$e)),
 /* Attributes
@@ -958,7 +958,7 @@ n=(e.ownerDocument||e)===(t.ownerDocument||t)?e.compareDocumentPosition(t):
 // Otherwise we know they are disconnected
 1)||!_.sortDetached&&t.compareDocumentPosition(e)===n?
 // Choose the first element that is related to our preferred document
-e===j||e.ownerDocument===M&&R(M,e)?-1:t===j||t.ownerDocument===M&&R(M,t)?1:A?ee(A,e)-ee(A,t):0:4&n?-1:1)}:function(e,t){
+e===j||e.ownerDocument===I&&R(I,e)?-1:t===j||t.ownerDocument===I&&R(I,t)?1:A?ee(A,e)-ee(A,t):0:4&n?-1:1)}:function(e,t){
 // Exit early if the nodes are identical
 if(e===t)return S=!0,0;var n,i=0,o=e.parentNode,r=t.parentNode,s=[e],a=[t];
 // Parentless nodes are either documents or disconnected
@@ -971,7 +971,7 @@ for(;s[i]===a[i];)i++;return i?
 // Do a sibling check if the nodes have a common ancestor
 u(s[i],a[i]):
 // Otherwise nodes in our document sort first
-s[i]===M?-1:a[i]===M?1:0}),j},w.matches=function(e,t){return w(e,null,null,t)},w.matchesSelector=function(e,t){if(
+s[i]===I?-1:a[i]===I?1:0}),j},w.matches=function(e,t){return w(e,null,null,t)},w.matchesSelector=function(e,t){if(
 // Set document vars if needed
 (e.ownerDocument||e)!==j&&D(e),
 // Make sure that attribute selectors are quoted
@@ -1054,11 +1054,11 @@ if(l=[y?c.firstChild:c.lastChild],y&&d){for(
 h=(a=(i=(
 // Support: IE <9 only
 // Defend against cloned attroperties (jQuery gh-1709)
-o=(r=(s=c)[N]||(s[N]={}))[s.uniqueID]||(r[s.uniqueID]={}))[p]||[])[0]===I&&i[1])&&i[2],s=a&&c.childNodes[a];s=++a&&s&&s[u]||(
+o=(r=(s=c)[N]||(s[N]={}))[s.uniqueID]||(r[s.uniqueID]={}))[p]||[])[0]===M&&i[1])&&i[2],s=a&&c.childNodes[a];s=++a&&s&&s[u]||(
 // Fallback to seeking `elem` from the start
 h=a=0)||l.pop();)
 // When found, cache indexes on `parent` and break
-if(1===s.nodeType&&++h&&s===e){o[p]=[I,a,h];break}}else
+if(1===s.nodeType&&++h&&s===e){o[p]=[M,a,h];break}}else
 // xml :nth-child(...)
 // or :nth-last-child(...) or :nth(-last)?-of-type(...)
 if(
@@ -1068,14 +1068,14 @@ d&&(h=a=(i=(
 // Defend against cloned attroperties (jQuery gh-1709)
 o=(r=(
 // ...in a gzip-friendly way
-s=e)[N]||(s[N]={}))[s.uniqueID]||(r[s.uniqueID]={}))[p]||[])[0]===I&&i[1]),!1===h)
+s=e)[N]||(s[N]={}))[s.uniqueID]||(r[s.uniqueID]={}))[p]||[])[0]===M&&i[1]),!1===h)
 // Use the same loop as above to seek `elem` from the start
 for(;(s=++a&&s&&s[u]||(h=a=0)||l.pop())&&((b?s.nodeName.toLowerCase()!==f:1!==s.nodeType)||!++h||(
 // Cache the index of each encountered element
 d&&((
 // Support: IE <9 only
 // Defend against cloned attroperties (jQuery gh-1709)
-o=(r=s[N]||(s[N]={}))[s.uniqueID]||(r[s.uniqueID]={}))[p]=[I,h]),s!==e)););
+o=(r=s[N]||(s[N]={}))[s.uniqueID]||(r[s.uniqueID]={}))[p]=[M,h]),s!==e)););
 // Incorporate the offset, then check against cycle size
 return(h-=v)===m||h%m==0&&0<=h/m}}},PSEUDO:function(e,r){
 // pseudo-class names are case-insensitive
@@ -1174,7 +1174,7 @@ u&&(t=t.parentNode),e=e.slice(r.shift().value.length)}
 // Fetch a seed set for right-to-left matching
 for(o=he.needsContext.test(e)?0:r.length;o--&&(s=r[o],!$.relative[a=s.type]);)if((l=$.find[a])&&(i=l(s.matches[0].replace(be,we),ye.test(r[0].type)&&h(t.parentNode)||t))){if(
 // If seed is empty or no tokens remain, we can return early
-r.splice(o,1),!(e=i.length&&p(r)))return Q.apply(n,i),n;break}}
+r.splice(o,1),!(e=i.length&&p(r)))return Z.apply(n,i),n;break}}
 // Compile and execute a filtering function if one is not provided
 // Provide `match` to avoid retokenization if we modified the selector above
 // Compile and execute a filtering function if one is not provided
@@ -1551,14 +1551,14 @@ t=Array.isArray(t)?t.map(h):(t=h(t))in i?[t]:t.match(Pe)||[]).length;for(;n--;)d
 // Webkit & Blink performance suffers when deleting properties
 // from DOM nodes, so set to undefined instead
 // https://bugs.chromium.org/p/chromium/issues/detail?id=378607 (bug restricted)
-e.nodeType?e[this.expando]=void 0:delete e[this.expando])}},hasData:function(e){var t=e[this.expando];return void 0!==t&&!_e.isEmptyObject(t)}};var Me=new r,Ie=new r,Be=/^(?:\{[\w\W]*\}|\[[\w\W]*\])$/,We=/[A-Z]/g;_e.extend({hasData:function(e){return Ie.hasData(e)||Me.hasData(e)},data:function(e,t,n){return Ie.access(e,t,n)},removeData:function(e,t){Ie.remove(e,t)},
+e.nodeType?e[this.expando]=void 0:delete e[this.expando])}},hasData:function(e){var t=e[this.expando];return void 0!==t&&!_e.isEmptyObject(t)}};var Ie=new r,Me=new r,Be=/^(?:\{[\w\W]*\}|\[[\w\W]*\])$/,We=/[A-Z]/g;_e.extend({hasData:function(e){return Me.hasData(e)||Ie.hasData(e)},data:function(e,t,n){return Me.access(e,t,n)},removeData:function(e,t){Me.remove(e,t)},
 // TODO: Now that all calls to _data and _removeData have been replaced
 // with direct calls to dataPriv methods, these can be deprecated.
-_data:function(e,t,n){return Me.access(e,t,n)},_removeData:function(e,t){Me.remove(e,t)}}),_e.fn.extend({data:function(n,e){var t,i,o,r=this[0],s=r&&r.attributes;
+_data:function(e,t,n){return Ie.access(e,t,n)},_removeData:function(e,t){Ie.remove(e,t)}}),_e.fn.extend({data:function(n,e){var t,i,o,r=this[0],s=r&&r.attributes;
 // Gets all values
 if(void 0!==n)
 // Sets multiple values
-return"object"==typeof n?this.each(function(){Ie.set(this,n)}):He(this,function(e){var t;
+return"object"==typeof n?this.each(function(){Me.set(this,n)}):He(this,function(e){var t;
 // The calling jQuery object (element matches) is not empty
 // (and therefore has an element appears at this[ 0 ]) and the
 // `value` parameter was not undefined. An empty jQuery object
@@ -1567,7 +1567,7 @@ return"object"==typeof n?this.each(function(){Ie.set(this,n)}):He(this,function(
 if(r&&void 0===e)return void 0!==(
 // Attempt to get data from the cache
 // The key will always be camelCased in Data
-t=Ie.get(r,n))?t:void 0!==(
+t=Me.get(r,n))?t:void 0!==(
 // Attempt to "discover" the data in
 // HTML5 custom data-* attrs
 t=p(r,n))?t:
@@ -1576,12 +1576,12 @@ void 0;
 // Set the data...
 this.each(function(){
 // We always store the camelCased key
-Ie.set(this,n,e)})},null,e,1<arguments.length,null,!0);if(this.length&&(o=Ie.get(r),1===r.nodeType&&!Me.get(r,"hasDataAttrs"))){for(t=s.length;t--;)
+Me.set(this,n,e)})},null,e,1<arguments.length,null,!0);if(this.length&&(o=Me.get(r),1===r.nodeType&&!Ie.get(r,"hasDataAttrs"))){for(t=s.length;t--;)
 // Support: IE 11 only
 // The attrs elements can be null (#14894)
-s[t]&&0===(i=s[t].name).indexOf("data-")&&(i=h(i.slice(5)),p(r,i,o[i]));Me.set(r,"hasDataAttrs",!0)}return o},removeData:function(e){return this.each(function(){Ie.remove(this,e)})}}),_e.extend({queue:function(e,t,n){var i;if(e)return t=(t||"fx")+"queue",i=Me.get(e,t),
+s[t]&&0===(i=s[t].name).indexOf("data-")&&(i=h(i.slice(5)),p(r,i,o[i]));Ie.set(r,"hasDataAttrs",!0)}return o},removeData:function(e){return this.each(function(){Me.remove(this,e)})}}),_e.extend({queue:function(e,t,n){var i;if(e)return t=(t||"fx")+"queue",i=Ie.get(e,t),
 // Speed up dequeue by getting out quickly if this is just a lookup
-n&&(!i||Array.isArray(n)?i=Me.access(e,t,_e.makeArray(n)):i.push(n)),i||[]},dequeue:function(e,t){t=t||"fx";var n=_e.queue(e,t),i=n.length,o=n.shift(),r=_e._queueHooks(e,t),s=function(){_e.dequeue(e,t)};
+n&&(!i||Array.isArray(n)?i=Ie.access(e,t,_e.makeArray(n)):i.push(n)),i||[]},dequeue:function(e,t){t=t||"fx";var n=_e.queue(e,t),i=n.length,o=n.shift(),r=_e._queueHooks(e,t),s=function(){_e.dequeue(e,t)};
 // If the fx queue is dequeued, always remove the progress sentinel
 "inprogress"===o&&(o=n.shift(),i--),o&&(
 // Add a progress sentinel to prevent the fx queue from being
@@ -1590,12 +1590,12 @@ n&&(!i||Array.isArray(n)?i=Me.access(e,t,_e.makeArray(n)):i.push(n)),i||[]},dequ
 // Clear up the last queue stop function
 delete r.stop,o.call(e,s,r)),!i&&r&&r.empty.fire()},
 // Not public - generate a queueHooks object, or return the current one
-_queueHooks:function(e,t){var n=t+"queueHooks";return Me.get(e,n)||Me.access(e,n,{empty:_e.Callbacks("once memory").add(function(){Me.remove(e,[t+"queue",n])})})}}),_e.fn.extend({queue:function(t,n){var e=2;return"string"!=typeof t&&(n=t,t="fx",e--),arguments.length<e?_e.queue(this[0],t):void 0===n?this:this.each(function(){var e=_e.queue(this,t,n);
+_queueHooks:function(e,t){var n=t+"queueHooks";return Ie.get(e,n)||Ie.access(e,n,{empty:_e.Callbacks("once memory").add(function(){Ie.remove(e,[t+"queue",n])})})}}),_e.fn.extend({queue:function(t,n){var e=2;return"string"!=typeof t&&(n=t,t="fx",e--),arguments.length<e?_e.queue(this[0],t):void 0===n?this:this.each(function(){var e=_e.queue(this,t,n);
 // Ensure a hooks for this queue
 _e._queueHooks(this,t),"fx"===t&&"inprogress"!==e[0]&&_e.dequeue(this,t)})},dequeue:function(e){return this.each(function(){_e.dequeue(this,e)})},clearQueue:function(e){return this.queue(e||"fx",[])},
 // Get a promise resolved when queues of a certain type
 // are emptied (fx is the type by default)
-promise:function(e,t){var n,i=1,o=_e.Deferred(),r=this,s=this.length,a=function(){--i||o.resolveWith(r,[r])};for("string"!=typeof e&&(t=e,e=void 0),e=e||"fx";s--;)(n=Me.get(r[s],e+"queueHooks"))&&n.empty&&(i++,n.empty.add(a));return a(),o.promise(t)}});var Ue=/[+-]?(?:\d*\.|)\d+(?:[eE][+-]?\d+|)/.source,Ye=new RegExp("^(?:([+-])=|)("+Ue+")([a-z%]*)$","i"),Ge=["Top","Right","Bottom","Left"],Ve=function(e,t){
+promise:function(e,t){var n,i=1,o=_e.Deferred(),r=this,s=this.length,a=function(){--i||o.resolveWith(r,[r])};for("string"!=typeof e&&(t=e,e=void 0),e=e||"fx";s--;)(n=Ie.get(r[s],e+"queueHooks"))&&n.empty&&(i++,n.empty.add(a));return a(),o.promise(t)}});var Ue=/[+-]?(?:\d*\.|)\d+(?:[eE][+-]?\d+|)/.source,Ye=new RegExp("^(?:([+-])=|)("+Ue+")([a-z%]*)$","i"),Ge=["Top","Right","Bottom","Left"],Ve=function(e,t){
 // Inline style trumps all
 return"none"===(
 // isHiddenWithinTree might be called from jQuery#filter function;
@@ -1609,7 +1609,7 @@ _e.contains(e.ownerDocument,e)&&"none"===_e.css(e,"display")},Xe=function(e,t,n,
 // Remember the old values, and insert the new ones
 for(r in t)s[r]=e.style[r],e.style[r]=t[r];
 // Revert the old values
-for(r in o=n.apply(e,i||[]),t)e.style[r]=s[r];return o},Ke={};_e.fn.extend({show:function(){return b(this,!0)},hide:function(){return b(this)},toggle:function(e){return"boolean"==typeof e?e?this.show():this.hide():this.each(function(){Ve(this)?_e(this).show():_e(this).hide()})}});var Ze=/^(?:checkbox|radio)$/i,Qe=/<([a-z][^\/\0>\x20\t\r\n\f]+)/i,Je=/^$|^module$|\/(?:java|ecma)script/i,et={
+for(r in o=n.apply(e,i||[]),t)e.style[r]=s[r];return o},Ke={};_e.fn.extend({show:function(){return b(this,!0)},hide:function(){return b(this)},toggle:function(e){return"boolean"==typeof e?e?this.show():this.hide():this.each(function(){Ve(this)?_e(this).show():_e(this).hide()})}});var Qe=/^(?:checkbox|radio)$/i,Ze=/<([a-z][^\/\0>\x20\t\r\n\f]+)/i,Je=/^$|^module$|\/(?:java|ecma)script/i,et={
 // Support: IE <=9 only
 option:[1,"<select multiple='multiple'>","</select>"],
 // XHTML parsers do not magically insert elements in the
@@ -1628,7 +1628,7 @@ et.optgroup=et.option,et.tbody=et.tfoot=et.colgroup=et.caption=et.thead,et.th=et
 ge.checkClone=it.cloneNode(!0).cloneNode(!0).lastChild.checked,
 // Support: IE <=11 only
 // Make sure textarea (and checkbox) defaultValue is properly cloned
-it.innerHTML="<textarea>x</textarea>",ge.noCloneChecked=!!it.cloneNode(!0).lastChild.defaultValue;var rt=se.documentElement,st=/^key/,at=/^(?:mouse|pointer|contextmenu|drag|drop)|click/,lt=/^([^.]*)(?:\.(.+)|)/;_e.event={global:{},add:function(t,e,n,i,o){var r,s,a,l,u,c,f,d,h,p,m,v=Me.get(t);
+it.innerHTML="<textarea>x</textarea>",ge.noCloneChecked=!!it.cloneNode(!0).lastChild.defaultValue;var rt=se.documentElement,st=/^key/,at=/^(?:mouse|pointer|contextmenu|drag|drop)|click/,lt=/^([^.]*)(?:\.(.+)|)/;_e.event={global:{},add:function(t,e,n,i,o){var r,s,a,l,u,c,f,d,h,p,m,v=Ie.get(t);
 // Don't attach events to noData or text/comment nodes (but allow plain objects)
 if(v)for(
 // Caller can pass in an object of custom data in lieu of the handler
@@ -1664,7 +1664,7 @@ o?d.splice(d.delegateCount++,0,c):d.push(c),
 // Keep track of which events have ever been used, for event optimization
 _e.event.global[h]=!0)},
 // Detach an event or set of events from an element
-remove:function(e,t,n,i,o){var r,s,a,l,u,c,f,d,h,p,m,v=Me.hasData(e)&&Me.get(e);if(v&&(l=v.events)){for(u=(
+remove:function(e,t,n,i,o){var r,s,a,l,u,c,f,d,h,p,m,v=Ie.hasData(e)&&Ie.get(e);if(v&&(l=v.events)){for(u=(
 // Once for each type.namespace in types; type may be omitted
 t=(t||"").match(Pe)||[""]).length;u--;)
 // Unbind all events (on this namespace, if provided) for the element
@@ -1675,9 +1675,9 @@ s=r=d.length;r--;)c=d[r],!o&&m!==c.origType||n&&n.guid!==c.guid||a&&!a.test(c.na
 // (avoids potential for endless recursion during removal of special event handlers)
 s&&!d.length&&(f.teardown&&!1!==f.teardown.call(e,p,v.handle)||_e.removeEvent(e,h,v.handle),delete l[h])}else for(h in l)_e.event.remove(e,h+t[u],n,i,!0);
 // Remove data and the expando if it's no longer used
-_e.isEmptyObject(l)&&Me.remove(e,"handle events")}},dispatch:function(e){
+_e.isEmptyObject(l)&&Ie.remove(e,"handle events")}},dispatch:function(e){
 // Make a writable jQuery.Event from the native event object
-var t=_e.event.fix(e),n,i,o,r,s,a,l=new Array(arguments.length),u=(Me.get(this,"events")||{})[t.type]||[],c=_e.event.special[t.type]||{};for(
+var t=_e.event.fix(e),n,i,o,r,s,a,l=new Array(arguments.length),u=(Ie.get(this,"events")||{})[t.type]||[],c=_e.event.special[t.type]||{};for(
 // Use the fix-ed jQuery.Event rather than the (read-only) native event
 l[0]=t,n=1;n<arguments.length;n++)l[n]=arguments[n];
 // Call the preDispatch hook for the mapped type, and let it bail if desired
@@ -1786,19 +1786,19 @@ s=w(a),i=0,o=(r=w(e)).length;i<o;i++)D(r[i],s[i]);
 if(t)if(n)for(r=r||w(e),s=s||w(a),i=0,o=r.length;i<o;i++)S(r[i],s[i]);else S(e,a);
 // Preserve script evaluation history
 // Return the cloned set
-return 0<(s=w(a,"script")).length&&k(s,!l&&w(e,"script")),a},cleanData:function(e){for(var t,n,i,o=_e.event.special,r=0;void 0!==(n=e[r]);r++)if(Ne(n)){if(t=n[Me.expando]){if(t.events)for(i in t.events)o[i]?_e.event.remove(n,i):_e.removeEvent(n,i,t.handle);
+return 0<(s=w(a,"script")).length&&k(s,!l&&w(e,"script")),a},cleanData:function(e){for(var t,n,i,o=_e.event.special,r=0;void 0!==(n=e[r]);r++)if(Ne(n)){if(t=n[Ie.expando]){if(t.events)for(i in t.events)o[i]?_e.event.remove(n,i):_e.removeEvent(n,i,t.handle);
 // Support: Chrome <=35 - 45+
 // Assign undefined instead of using delete, see Data#remove
-n[Me.expando]=void 0}n[Ie.expando]&&(
+n[Ie.expando]=void 0}n[Me.expando]&&(
 // Support: Chrome <=35 - 45+
 // Assign undefined instead of using delete, see Data#remove
-n[Ie.expando]=void 0)}}}),_e.fn.extend({detach:function(e){return P(this,e,!0)},remove:function(e){return P(this,e)},text:function(e){return He(this,function(e){return void 0===e?_e.text(this):this.empty().each(function(){1!==this.nodeType&&11!==this.nodeType&&9!==this.nodeType||(this.textContent=e)})},null,e,arguments.length)},append:function(){return j(this,arguments,function(e){var t;1!==this.nodeType&&11!==this.nodeType&&9!==this.nodeType||z(this,e).appendChild(e)})},prepend:function(){return j(this,arguments,function(e){if(1===this.nodeType||11===this.nodeType||9===this.nodeType){var t=z(this,e);t.insertBefore(e,t.firstChild)}})},before:function(){return j(this,arguments,function(e){this.parentNode&&this.parentNode.insertBefore(e,this)})},after:function(){return j(this,arguments,function(e){this.parentNode&&this.parentNode.insertBefore(e,this.nextSibling)})},empty:function(){for(var e,t=0;null!=(e=this[t]);t++)1===e.nodeType&&(
+n[Me.expando]=void 0)}}}),_e.fn.extend({detach:function(e){return P(this,e,!0)},remove:function(e){return P(this,e)},text:function(e){return He(this,function(e){return void 0===e?_e.text(this):this.empty().each(function(){1!==this.nodeType&&11!==this.nodeType&&9!==this.nodeType||(this.textContent=e)})},null,e,arguments.length)},append:function(){return j(this,arguments,function(e){var t;1!==this.nodeType&&11!==this.nodeType&&9!==this.nodeType||z(this,e).appendChild(e)})},prepend:function(){return j(this,arguments,function(e){if(1===this.nodeType||11===this.nodeType||9===this.nodeType){var t=z(this,e);t.insertBefore(e,t.firstChild)}})},before:function(){return j(this,arguments,function(e){this.parentNode&&this.parentNode.insertBefore(e,this)})},after:function(){return j(this,arguments,function(e){this.parentNode&&this.parentNode.insertBefore(e,this.nextSibling)})},empty:function(){for(var e,t=0;null!=(e=this[t]);t++)1===e.nodeType&&(
 // Prevent memory leaks
 _e.cleanData(w(e,!1)),
 // Remove any remaining nodes
 e.textContent="");return this},clone:function(e,t){return e=null!=e&&e,t=null==t?e:t,this.map(function(){return _e.clone(this,e,t)})},html:function(e){return He(this,function(e){var t=this[0]||{},n=0,i=this.length;if(void 0===e&&1===t.nodeType)return t.innerHTML;
 // See if we can take a shortcut and just use innerHTML
-if("string"==typeof e&&!ct.test(e)&&!et[(Qe.exec(e)||["",""])[1].toLowerCase()]){e=_e.htmlPrefilter(e);try{for(;n<i;n++)
+if("string"==typeof e&&!ct.test(e)&&!et[(Ze.exec(e)||["",""])[1].toLowerCase()]){e=_e.htmlPrefilter(e);try{for(;n<i;n++)
 // Remove element nodes and prevent memory leaks
 1===(t=this[n]||{}).nodeType&&(_e.cleanData(w(t,!1)),t.innerHTML=e);t=0}catch(e){}}t&&this.empty().append(e)},null,e,arguments.length)},replaceWith:function(){var n=[];
 // Make the changes, replacing each non-ignored context element with the new content
@@ -1900,7 +1900,7 @@ return!vt.test(_e.css(e,"display"))||
 // Support: IE <=11 only
 // Running getBoundingClientRect on a disconnected node
 // in IE throws an error.
-e.getClientRects().length&&e.getBoundingClientRect().width?M(e,a,n):Xe(e,yt,function(){return M(e,a,n)})},set:function(e,t,n){var i,o=pt(e),r="border-box"===_e.css(e,"boxSizing",!1,o),s=n&&N(e,a,n,r,o);
+e.getClientRects().length&&e.getBoundingClientRect().width?I(e,a,n):Xe(e,yt,function(){return I(e,a,n)})},set:function(e,t,n){var i,o=pt(e),r="border-box"===_e.css(e,"boxSizing",!1,o),s=n&&N(e,a,n,r,o);
 // Account for unreliable border-box dimensions by comparing offset* to computed and
 // faking a content-box to get border and padding (gh-3699)
 return r&&ge.scrollboxSize()===o.position&&(s-=Math.ceil(e["offset"+a[0].toUpperCase()+a.slice(1)]-parseFloat(o[a])-N(e,a,"border",!1,o)-.5)),
@@ -1909,7 +1909,7 @@ s&&(i=Ye.exec(t))&&"px"!==(i[3]||"px")&&(e.style[a]=t,t=_e.css(e,a)),R(e,t,s)}}}
 // These hooks are used by animate to expand properties
 _e.each({margin:"",padding:"",border:"Width"},function(o,r){_e.cssHooks[o+r]={expand:function(e){for(var t=0,n={},
 // Assumes a single number if not a string
-i="string"==typeof e?e.split(" "):[e];t<4;t++)n[o+Ge[t]+r]=i[t]||i[t-2]||i[0];return n}},"margin"!==o&&(_e.cssHooks[o+r].set=R)}),_e.fn.extend({css:function(e,t){return He(this,function(e,t,n){var i,o,r={},s=0;if(Array.isArray(t)){for(i=pt(e),o=t.length;s<o;s++)r[t[s]]=_e.css(e,t[s],!1,i);return r}return void 0!==n?_e.style(e,t,n):_e.css(e,t)},e,t,1<arguments.length)}}),(_e.Tween=I).prototype={constructor:I,init:function(e,t,n,i,o,r){this.elem=e,this.prop=n,this.easing=o||_e.easing._default,this.options=t,this.start=this.now=this.cur(),this.end=i,this.unit=r||(_e.cssNumber[n]?"":"px")},cur:function(){var e=I.propHooks[this.prop];return e&&e.get?e.get(this):I.propHooks._default.get(this)},run:function(e){var t,n=I.propHooks[this.prop];return this.options.duration?this.pos=t=_e.easing[this.easing](e,this.options.duration*e,0,1,this.options.duration):this.pos=t=e,this.now=(this.end-this.start)*t+this.start,this.options.step&&this.options.step.call(this.elem,this.now,this),n&&n.set?n.set(this):I.propHooks._default.set(this),this}},I.prototype.init.prototype=I.prototype,I.propHooks={_default:{get:function(e){var t;
+i="string"==typeof e?e.split(" "):[e];t<4;t++)n[o+Ge[t]+r]=i[t]||i[t-2]||i[0];return n}},"margin"!==o&&(_e.cssHooks[o+r].set=R)}),_e.fn.extend({css:function(e,t){return He(this,function(e,t,n){var i,o,r={},s=0;if(Array.isArray(t)){for(i=pt(e),o=t.length;s<o;s++)r[t[s]]=_e.css(e,t[s],!1,i);return r}return void 0!==n?_e.style(e,t,n):_e.css(e,t)},e,t,1<arguments.length)}}),(_e.Tween=M).prototype={constructor:M,init:function(e,t,n,i,o,r){this.elem=e,this.prop=n,this.easing=o||_e.easing._default,this.options=t,this.start=this.now=this.cur(),this.end=i,this.unit=r||(_e.cssNumber[n]?"":"px")},cur:function(){var e=M.propHooks[this.prop];return e&&e.get?e.get(this):M.propHooks._default.get(this)},run:function(e){var t,n=M.propHooks[this.prop];return this.options.duration?this.pos=t=_e.easing[this.easing](e,this.options.duration*e,0,1,this.options.duration):this.pos=t=e,this.now=(this.end-this.start)*t+this.start,this.options.step&&this.options.step.call(this.elem,this.now,this),n&&n.set?n.set(this):M.propHooks._default.set(this),this}},M.prototype.init.prototype=M.prototype,M.propHooks={_default:{get:function(e){var t;
 // Use a property on the element directly when it is not a DOM element,
 // or when there is no matching style property that exists.
 return 1!==e.elem.nodeType||null!=e.elem[e.prop]&&null==e.elem.style[e.prop]?e.elem[e.prop]:(
@@ -1924,7 +1924,7 @@ t=_e.css(e.elem,e.prop,""))&&"auto"!==t?t:0},set:function(e){
 _e.fx.step[e.prop]?_e.fx.step[e.prop](e):1!==e.elem.nodeType||null==e.elem.style[_e.cssProps[e.prop]]&&!_e.cssHooks[e.prop]?e.elem[e.prop]=e.now:_e.style(e.elem,e.prop,e.now+e.unit)}}},
 // Support: IE <=9 only
 // Panic based approach to setting things on disconnected nodes
-I.propHooks.scrollTop=I.propHooks.scrollLeft={set:function(e){e.elem.nodeType&&e.elem.parentNode&&(e.elem[e.prop]=e.now)}},_e.easing={linear:function(e){return e},swing:function(e){return.5-Math.cos(e*Math.PI)/2},_default:"swing"},_e.fx=I.prototype.init,
+M.propHooks.scrollTop=M.propHooks.scrollLeft={set:function(e){e.elem.nodeType&&e.elem.parentNode&&(e.elem[e.prop]=e.now)}},_e.easing={linear:function(e){return e},swing:function(e){return.5-Math.cos(e*Math.PI)/2},_default:"swing"},_e.fx=M.prototype.init,
 // Back compat <1.8 extension point
 _e.fx.step={};var _t,$t,xt=/^(?:toggle|show|hide)$/,Ct=/queueHooks$/,Ot,Tt,zt;_e.Animation=_e.extend(X,{tweeners:{"*":[function(e,t){var n=this.createTween(e,t);return g(n.elem,e,Ye.exec(t),n),n}]},tweener:function(e,t){for(var n,i=0,o=(e=ye(e)?(t=e,["*"]):e.match(Pe)).length;i<o;i++)n=e[i],X.tweeners[n]=X.tweeners[n]||[],X.tweeners[n].unshift(t)},prefilters:[G],prefilter:function(e,t){t?X.prefilters.unshift(e):X.prefilters.push(e)}}),_e.speed=function(e,t,n){var i=e&&"object"==typeof e?_e.extend({},e):{complete:n||!n&&t||ye(e)&&e,duration:e,easing:n&&t||t&&!ye(t)&&t};
 // Go to the end state if fx are off
@@ -1938,11 +1938,11 @@ return this.filter(Ve).css("opacity",0).show().end().animate({opacity:t},e,n,i)}
 // Operate on a copy of prop so per-property easing won't be lost
 var e=X(this,_e.extend({},t),r);
 // Empty animations, or finishing resolves immediately
-(o||Me.get(this,"finish"))&&e.stop(!0)};return s.finish=s,o||!1===r.queue?this.each(s):this.queue(r.queue,s)},stop:function(o,e,r){var s=function(e){var t=e.stop;delete e.stop,t(r)};return"string"!=typeof o&&(r=e,e=o,o=void 0),e&&!1!==o&&this.queue(o||"fx",[]),this.each(function(){var e=!0,t=null!=o&&o+"queueHooks",n=_e.timers,i=Me.get(this);if(t)i[t]&&i[t].stop&&s(i[t]);else for(t in i)i[t]&&i[t].stop&&Ct.test(t)&&s(i[t]);for(t=n.length;t--;)n[t].elem!==this||null!=o&&n[t].queue!==o||(n[t].anim.stop(r),e=!1,n.splice(t,1));
+(o||Ie.get(this,"finish"))&&e.stop(!0)};return s.finish=s,o||!1===r.queue?this.each(s):this.queue(r.queue,s)},stop:function(o,e,r){var s=function(e){var t=e.stop;delete e.stop,t(r)};return"string"!=typeof o&&(r=e,e=o,o=void 0),e&&!1!==o&&this.queue(o||"fx",[]),this.each(function(){var e=!0,t=null!=o&&o+"queueHooks",n=_e.timers,i=Ie.get(this);if(t)i[t]&&i[t].stop&&s(i[t]);else for(t in i)i[t]&&i[t].stop&&Ct.test(t)&&s(i[t]);for(t=n.length;t--;)n[t].elem!==this||null!=o&&n[t].queue!==o||(n[t].anim.stop(r),e=!1,n.splice(t,1));
 // Start the next in the queue if the last step wasn't forced.
 // Timers currently will call their complete callbacks, which
 // will dequeue but only if they were gotoEnd.
-!e&&r||_e.dequeue(this,o)})},finish:function(s){return!1!==s&&(s=s||"fx"),this.each(function(){var e,t=Me.get(this),n=t[s+"queue"],i=t[s+"queueHooks"],o=_e.timers,r=n?n.length:0;
+!e&&r||_e.dequeue(this,o)})},finish:function(s){return!1!==s&&(s=s||"fx"),this.each(function(){var e,t=Ie.get(this),n=t[s+"queue"],i=t[s+"queueHooks"],o=_e.timers,r=n?n.length:0;
 // Enable finishing flag on private data
 // Look for any active animations, and finish them
 for(t.finish=!0,
@@ -2008,28 +2008,28 @@ ge.optSelected||(_e.propHooks.selected={get:function(e){
 /* eslint no-unused-expressions: "off" */
 var t=e.parentNode;return t&&t.parentNode&&t.parentNode.selectedIndex,null},set:function(e){
 /* eslint no-unused-expressions: "off" */
-var t=e.parentNode;t&&(t.selectedIndex,t.parentNode&&t.parentNode.selectedIndex)}}),_e.each(["tabIndex","readOnly","maxLength","cellSpacing","cellPadding","rowSpan","colSpan","useMap","frameBorder","contentEditable"],function(){_e.propFix[this.toLowerCase()]=this}),_e.fn.extend({addClass:function(t){var e,n,i,o,r,s,a,l=0;if(ye(t))return this.each(function(e){_e(this).addClass(t.call(this,e,Z(this)))});if((e=Q(t)).length)for(;n=this[l++];)if(o=Z(n),i=1===n.nodeType&&" "+K(o)+" "){for(s=0;r=e[s++];)i.indexOf(" "+r+" ")<0&&(i+=r+" ");
+var t=e.parentNode;t&&(t.selectedIndex,t.parentNode&&t.parentNode.selectedIndex)}}),_e.each(["tabIndex","readOnly","maxLength","cellSpacing","cellPadding","rowSpan","colSpan","useMap","frameBorder","contentEditable"],function(){_e.propFix[this.toLowerCase()]=this}),_e.fn.extend({addClass:function(t){var e,n,i,o,r,s,a,l=0;if(ye(t))return this.each(function(e){_e(this).addClass(t.call(this,e,Q(this)))});if((e=Z(t)).length)for(;n=this[l++];)if(o=Q(n),i=1===n.nodeType&&" "+K(o)+" "){for(s=0;r=e[s++];)i.indexOf(" "+r+" ")<0&&(i+=r+" ");
 // Only assign if different to avoid unneeded rendering.
-o!==(a=K(i))&&n.setAttribute("class",a)}return this},removeClass:function(t){var e,n,i,o,r,s,a,l=0;if(ye(t))return this.each(function(e){_e(this).removeClass(t.call(this,e,Z(this)))});if(!arguments.length)return this.attr("class","");if((e=Q(t)).length)for(;n=this[l++];)if(o=Z(n),
+o!==(a=K(i))&&n.setAttribute("class",a)}return this},removeClass:function(t){var e,n,i,o,r,s,a,l=0;if(ye(t))return this.each(function(e){_e(this).removeClass(t.call(this,e,Q(this)))});if(!arguments.length)return this.attr("class","");if((e=Z(t)).length)for(;n=this[l++];)if(o=Q(n),
 // This expression is here for better compressibility (see addClass)
 i=1===n.nodeType&&" "+K(o)+" "){for(s=0;r=e[s++];)
 // Remove *all* instances
 for(;-1<i.indexOf(" "+r+" ");)i=i.replace(" "+r+" "," ");
 // Only assign if different to avoid unneeded rendering.
-o!==(a=K(i))&&n.setAttribute("class",a)}return this},toggleClass:function(o,t){var r=typeof o,s="string"===r||Array.isArray(o);return"boolean"==typeof t&&s?t?this.addClass(o):this.removeClass(o):ye(o)?this.each(function(e){_e(this).toggleClass(o.call(this,e,Z(this),t),t)}):this.each(function(){var e,t,n,i;if(s)for(
+o!==(a=K(i))&&n.setAttribute("class",a)}return this},toggleClass:function(o,t){var r=typeof o,s="string"===r||Array.isArray(o);return"boolean"==typeof t&&s?t?this.addClass(o):this.removeClass(o):ye(o)?this.each(function(e){_e(this).toggleClass(o.call(this,e,Q(this),t),t)}):this.each(function(){var e,t,n,i;if(s)for(
 // Toggle individual class names
-t=0,n=_e(this),i=Q(o);e=i[t++];)
+t=0,n=_e(this),i=Z(o);e=i[t++];)
 // Check each className given, space separated list
 n.hasClass(e)?n.removeClass(e):n.addClass(e);
 // Toggle whole class name
-else void 0!==o&&"boolean"!==r||((e=Z(this))&&
+else void 0!==o&&"boolean"!==r||((e=Q(this))&&
 // Store className if set
-Me.set(this,"__className__",e),
+Ie.set(this,"__className__",e),
 // If the element has a class name or if we're passed `false`,
 // then remove the whole classname (if there was one, the above saved it).
 // Otherwise bring back whatever was previously saved (if anything),
 // falling back to the empty string if nothing was stored.
-this.setAttribute&&this.setAttribute("class",e||!1===o?"":Me.get(this,"__className__")||""))})},hasClass:function(e){var t,n,i=0;for(t=" "+e+" ";n=this[i++];)if(1===n.nodeType&&-1<(" "+K(Z(n))+" ").indexOf(t))return!0;return!1}});var jt=/\r/g;_e.fn.extend({val:function(n){var i,e,o,t=this[0];return arguments.length?(o=ye(n),this.each(function(e){var t;1===this.nodeType&&(
+this.setAttribute&&this.setAttribute("class",e||!1===o?"":Ie.get(this,"__className__")||""))})},hasClass:function(e){var t,n,i=0;for(t=" "+e+" ";n=this[i++];)if(1===n.nodeType&&-1<(" "+K(Q(n))+" ").indexOf(t))return!0;return!1}});var jt=/\r/g;_e.fn.extend({val:function(n){var i,e,o,t=this[0];return arguments.length?(o=ye(n),this.each(function(e){var t;1===this.nodeType&&(
 // Treat null/undefined as ""; convert numbers to string
 null==(t=o?n.call(this,e,_e(this).val()):n)?t="":"number"==typeof t?t+="":Array.isArray(t)&&(t=_e.map(t,function(e){return null==e?"":e+""})),
 // If set returns undefined, fall back to normal setting
@@ -2085,7 +2085,7 @@ s===(n.ownerDocument||se)&&d.push(s.defaultView||s.parentWindow||$)}
 // Fire handlers on the event path
 for(o=0;(r=d[o++])&&!e.isPropagationStopped();)f=r,e.type=1<o?a:c.bindType||h,(
 // jQuery handler
-u=(Me.get(r,"events")||{})[e.type]&&Me.get(r,"handle"))&&u.apply(r,t),(
+u=(Ie.get(r,"events")||{})[e.type]&&Ie.get(r,"handle"))&&u.apply(r,t),(
 // Native handler
 u=l&&r[l])&&u.apply&&Ne(r)&&(e.result=u.apply(r,t),!1===e.result&&e.preventDefault());return e.type=h,
 // If nobody prevented the default action, do it now
@@ -2112,12 +2112,12 @@ simulate:function(e,t,n){var i=_e.extend(new _e.Event,n,{type:e,isSimulated:!0})
 // Related ticket - https://bugs.chromium.org/p/chromium/issues/detail?id=449857
 ge.focusin||_e.each({focus:"focusin",blur:"focusout"},function(n,i){
 // Attach a single capturing handler on the document while someone wants focusin/focusout
-var o=function(e){_e.event.simulate(i,e.target,_e.event.fix(e))};_e.event.special[i]={setup:function(){var e=this.ownerDocument||this,t=Me.access(e,i);t||e.addEventListener(n,o,!0),Me.access(e,i,(t||0)+1)},teardown:function(){var e=this.ownerDocument||this,t=Me.access(e,i)-1;t?Me.access(e,i,t):(e.removeEventListener(n,o,!0),Me.remove(e,i))}}});var Lt=$.location,Ht=Date.now(),qt=/\?/;
+var o=function(e){_e.event.simulate(i,e.target,_e.event.fix(e))};_e.event.special[i]={setup:function(){var e=this.ownerDocument||this,t=Ie.access(e,i);t||e.addEventListener(n,o,!0),Ie.access(e,i,(t||0)+1)},teardown:function(){var e=this.ownerDocument||this,t=Ie.access(e,i)-1;t?Ie.access(e,i,t):(e.removeEventListener(n,o,!0),Ie.remove(e,i))}}});var Lt=$.location,Ht=Date.now(),qt=/\?/;
 // Cross-browser xml parsing
 _e.parseXML=function(e){var t;if(!e||"string"!=typeof e)return null;
 // Support: IE 9 - 11 only
 // IE throws on parseFromString with invalid input.
-try{t=(new $.DOMParser).parseFromString(e,"text/xml")}catch(e){t=void 0}return t&&!t.getElementsByTagName("parsererror").length||_e.error("Invalid XML: "+e),t};var Rt=/\[\]$/,Nt=/\r?\n/g,Mt=/^(?:submit|button|image|reset|file)$/i,It=/^(?:input|select|textarea|keygen)/i;_e.param=function(e,t){var n,i=[],o=function(e,t){
+try{t=(new $.DOMParser).parseFromString(e,"text/xml")}catch(e){t=void 0}return t&&!t.getElementsByTagName("parsererror").length||_e.error("Invalid XML: "+e),t};var Rt=/\[\]$/,Nt=/\r?\n/g,It=/^(?:submit|button|image|reset|file)$/i,Mt=/^(?:input|select|textarea|keygen)/i;_e.param=function(e,t){var n,i=[],o=function(e,t){
 // If value is a function, invoke it and use its return value
 var n=ye(t)?t():t;i[i.length]=encodeURIComponent(e)+"="+encodeURIComponent(null==n?"":n)};
 // If an array was passed in, assume that it is an array of form elements.
@@ -2132,7 +2132,7 @@ return i.join("&")},_e.fn.extend({serialize:function(){return _e.param(this.seri
 // Can add propHook for "elements" to filter or add form elements
 var e=_e.prop(this,"elements");return e?_e.makeArray(e):this}).filter(function(){var e=this.type;
 // Use .is( ":disabled" ) so that fieldset[disabled] works
-return this.name&&!_e(this).is(":disabled")&&It.test(this.nodeName)&&!Mt.test(e)&&(this.checked||!Ze.test(e))}).map(function(e,t){var n=_e(this).val();return null==n?null:Array.isArray(n)?_e.map(n,function(e){return{name:t.name,value:e.replace(Nt,"\r\n")}}):{name:t.name,value:n.replace(Nt,"\r\n")}}).get()}});var Bt=/%20/g,Wt=/#.*$/,Ut=/([?&])_=[^&]*/,Yt=/^(.*?):[ \t]*([^\r\n]*)$/gm,
+return this.name&&!_e(this).is(":disabled")&&Mt.test(this.nodeName)&&!It.test(e)&&(this.checked||!Qe.test(e))}).map(function(e,t){var n=_e(this).val();return null==n?null:Array.isArray(n)?_e.map(n,function(e){return{name:t.name,value:e.replace(Nt,"\r\n")}}):{name:t.name,value:n.replace(Nt,"\r\n")}}).get()}});var Bt=/%20/g,Wt=/#.*$/,Ut=/([?&])_=[^&]*/,Yt=/^(.*?):[ \t]*([^\r\n]*)$/gm,
 // #7653, #8125, #8152: local protocol detection
 Gt=/^(?:about|app|app-storage|.+-extension|file|res|widget):$/,Vt=/^(?:GET|HEAD)$/,Xt=/^\/\//,
 /* Prefilters
@@ -2150,9 +2150,9 @@ Kt={},
 	 * 2) the catchall symbol "*" can be used
 	 * 3) selection will start with transport dataType and THEN go to "*" if needed
 	 */
-Zt={},
+Qt={},
 // Avoid comment-prolog char sequence (#10098); must appease lint and evade compression
-Qt="*/".concat("*"),
+Zt="*/".concat("*"),
 // Anchor tag for parsing the document origin
 Jt=se.createElement("a");Jt.href=Lt.href,_e.extend({
 // Counter for holding the number of active queries
@@ -2170,7 +2170,7 @@ lastModified:{},etag:{},ajaxSettings:{url:Lt.href,type:"GET",isLocal:Gt.test(Lt.
 		traditional: false,
 		headers: {},
 		*/
-accepts:{"*":Qt,text:"text/plain",html:"text/html",xml:"application/xml, text/xml",json:"application/json, text/javascript"},contents:{xml:/\bxml\b/,html:/\bhtml/,json:/\bjson\b/},responseFields:{xml:"responseXML",text:"responseText",json:"responseJSON"},
+accepts:{"*":Zt,text:"text/plain",html:"text/html",xml:"application/xml, text/xml",json:"application/json, text/javascript"},contents:{xml:/\bxml\b/,html:/\bhtml/,json:/\bjson\b/},responseFields:{xml:"responseXML",text:"responseText",json:"responseJSON"},
 // Data converters
 // Keys separate source (or catchall "*") and destination types with a single space
 converters:{
@@ -2194,7 +2194,7 @@ ajaxSetup:function(e,t){return t?
 // Building a settings object
 ne(ne(e,_e.ajaxSettings),t):
 // Extending ajaxSettings
-ne(_e.ajaxSettings,e)},ajaxPrefilter:ee(Kt),ajaxTransport:ee(Zt),
+ne(_e.ajaxSettings,e)},ajaxPrefilter:ee(Kt),ajaxTransport:ee(Qt),
 // Main method
 ajax:function(e,t){
 // Callback for when everything is done
@@ -2343,7 +2343,7 @@ v.ifModified&&(_e.lastModified[f]&&_.setRequestHeader("If-Modified-Since",_e.las
 // Set the correct header, if data is being sent
 (v.data&&v.hasContent&&!1!==v.contentType||t.contentType)&&_.setRequestHeader("Content-Type",v.contentType),
 // Set the Accepts header for the server, depending on the dataType
-_.setRequestHeader("Accept",v.dataTypes[0]&&v.accepts[v.dataTypes[0]]?v.accepts[v.dataTypes[0]]+("*"!==v.dataTypes[0]?", "+Qt+"; q=0.01":""):v.accepts["*"]),v.headers)_.setRequestHeader(r,v.headers[r]);
+_.setRequestHeader("Accept",v.dataTypes[0]&&v.accepts[v.dataTypes[0]]?v.accepts[v.dataTypes[0]]+("*"!==v.dataTypes[0]?", "+Zt+"; q=0.01":""):v.accepts["*"]),v.headers)_.setRequestHeader(r,v.headers[r]);
 // Allow custom headers/mimetypes and early abort
 if(v.beforeSend&&(!1===v.beforeSend.call(g,_,v)||p))
 // Abort if not done already and return
@@ -2354,7 +2354,7 @@ if(u="abort",
 // Install callbacks on deferreds
 w.add(v.complete),_.done(v.success),_.fail(v.error),
 // Get transport
-c=te(Zt,v,t,_)){
+c=te(Qt,v,t,_)){
 // If request was aborted inside ajaxSend, stop there
 if(_.readyState=1,
 // Send global event
@@ -6783,7 +6783,7 @@ registerOnChange:function e(t,n){r.push({fn:t,type:n||"input"})},unRegisterOnCha
 /******/])}),$(document).on("turbolinks:load",function(){
 // 1. Foundation
 // --------------------
-$(document).foundation(),
+Foundation.Interchange.SPECIAL_QUERIES["medium-retina"]="only screen and (min-width: 40em), (min-width: 40em) and (-webkit-min-device-pixel-ratio: 2), (min-width: 40em) and (min--moz-device-pixel-ratio: 2), (min-width: 40em) and (-o-min-device-pixel-ratio: 2/1), (min-width: 40em) and (min-device-pixel-ratio: 2), (min-width: 40em) and (min-resolution: 192dpi), (min-width: 40em) and (min-resolution: 2dppx)",Foundation.Interchange.SPECIAL_QUERIES["large-retina"]="only screen and (min-width: 64em), (min-width: 64em) and (-webkit-min-device-pixel-ratio: 2), (min-width: 64em) and (min--moz-device-pixel-ratio: 2), (min-width: 64em) and (-o-min-device-pixel-ratio: 2/1), (min-width: 64em) and (min-device-pixel-ratio: 2), (min-width: 64em) and (min-resolution: 192dpi), (min-width: 64em) and (min-resolution: 2dppx)",Foundation.Interchange.SPECIAL_QUERIES["xlarge-retina"]="only screen and (min-width: 75em), (min-width: 75em) and (-webkit-min-device-pixel-ratio: 2), (min-width: 75em) and (min--moz-device-pixel-ratio: 2), (min-width: 75em) and (-o-min-device-pixel-ratio: 2/1), (min-width: 75em) and (min-device-pixel-ratio: 2), (min-width: 75em) and (min-resolution: 192dpi), (min-width: 75em) and (min-resolution: 2dppx)",Foundation.Interchange.SPECIAL_QUERIES["xxlarge-retina"]="only screen and (min-width: 90em), (min-width: 75em) and (-webkit-min-device-pixel-ratio: 2), (min-width: 75em) and (min--moz-device-pixel-ratio: 2), (min-width: 75em) and (-o-min-device-pixel-ratio: 2/1), (min-width: 75em) and (min-device-pixel-ratio: 2), (min-width: 75em) and (min-resolution: 192dpi), (min-width: 75em) and (min-resolution: 2dppx)",$(document).foundation(),
 // 2. Animate on Scroll
 // --------------------
-$(function(){AOS.init({offset:64,easing:"ease-in-out-quart",duration:600})}),$(function(){window.addEventListener("load",AOS.refresh)})});
+$(function(){AOS.init({offset:64,easing:"ease-in-out-quart",duration:600})}),$(function(){window.addEventListener("load",AOS.refresh)}),jQuery(window).on("load",function(e){Foundation.reInit("equalizer")})});
