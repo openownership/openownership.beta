@@ -55,3 +55,8 @@ services:
 layout: what-we-do
 ---
 
+We are dedicated to increasing corporate transparency across the world by making it easy to publish and access high-quality data about who owns companies.   
+
+A beneficial owner is a real, living person who ultimately controls, has influence over, or materially benefits from, a company or other legal entity.  Currently, only a very small minority of countries provide open datasets of their registered beneficial owners.   
+
+We are leading the development of an open, global beneficial ownership data and policy ecosystem to create a new set of norms and change the status quo. Working with partners from across the public and private sectors, as well as civil society, we provide technology, policy, and technical assistance that supports both publishers and users of beneficial ownership data.
