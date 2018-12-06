@@ -163,13 +163,20 @@ p {
 
 .header {
   .active a {
-    border-bottom: 2px solid #3C31D4;
+    border-bottom: 3px solid #3C31D4;
   }
 }
 
 .header__top {
-  border-bottom: 1px solid $dark-gray;
-  font-size: 14px;
+  border-bottom: 2px solid $dark-gray;
+  font-size: 90%;
+}
+
+.header__bottom {
+  @include padding(1);
+  @include breakpoint(medium) {
+  @include padding(1, 1, 1, 1);
+  }
 }
 
 .header__navigation {
@@ -305,7 +312,7 @@ h2 {
 // ---------
 
 footer {
-  font-size: 14px;
+  font-size: 90%;
   @include links ($white, $primary-color);
 }
 
