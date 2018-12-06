@@ -20,7 +20,7 @@ layout: default
     <div class="small-12 cell border-top">
       {% if page.feature-image %}
           {% assign image = page.feature-image %}
-          {% include images/excerpt.html %}
+          <img data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
       {% endif %}
     </div>
   </div>
@@ -32,7 +32,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell">
 
-{{ page.content | replace: "/uploads", "https://open-ownership.imgix.net/uploads" }}
+    {{ page.content | replace: "/uploads", "https://open-ownership.imgix.net/uploads" }}
 
     </div>
   </div>
