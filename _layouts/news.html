@@ -4,7 +4,7 @@ layout: default
 
 <!-- Page Title -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x padding-top-3 padding-bottom-2">
+  <div class="grid-x grid-padding-x padding-top-3 padding-bottom-0">
     <div class="small-12 cell">
       <h1>{{page.title}}</h1>
     </div>
@@ -38,8 +38,8 @@ layout: default
 <!-- End Tags -->
   
       {% if post.feature-image %}
-      <div class="grid-x">
-        <div class="small-12 cell">
+      <div class="grid-x grid-padding-y">
+        <div class="small-12 cell padding-top-0">
         <a href="{{ post.url }}">
           {% assign image = post.feature-image %}
           <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
@@ -49,14 +49,14 @@ layout: default
       {% endif %}
   
       {% if post.feature-image-caption %}
-      <div class="grid-x margin-top-1">
+      <div class="grid-x grid-padding-y padding-top-0">
         <div class="small-12 cell serif-italic medium-gray">
         <small>{{post.feature-image-caption}}</small>
         </div>
       </div>
       {% endif %}
 
-      <div class="grid-x grid-padding-y">
+      <div class="grid-x">
         <div class="small-12 cell">
         <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
         </div>
