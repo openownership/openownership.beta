@@ -331,3 +331,8 @@ transition: transform 0.25s;
 .external a:hover svg {
 transform: translate(5px, 0);
 }
+
+.what-we-do {
+background-color: #f4f7f8;
+// background-color: scale-color(get-color(snow), $lightness: 50%);
+}

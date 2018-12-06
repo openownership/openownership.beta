@@ -332,9 +332,16 @@ $button-sizes: (
   default: 0.9rem,
   large: 1.25rem,
 );
+$button-sizes: (
+  tiny: 0.6rem,
+  small: 0.75rem,
+  default: 0.9rem,
+  large: 1.15rem,
+);
 // $button-palette: $foundation-palette;
 $button-palette: map-merge($foundation-palette, (
-    white: $white
+    white: $white,
+    green: $green
 )) !default;
 $button-opacity-disabled: 0.25;
 $button-background-hover-lightness: -20%;
@@ -358,7 +365,7 @@ $callout-background: $white;
 // $callout-background-fade: 85%;
 $callout-background-fade: 0%;
 // $callout-border: 1px solid rgba($black, 0.25);
-$callout-border: 1px solid rgba($black, 0.25);
+$callout-border: 0px solid rgba($black, 0.25);
 $callout-margin: 0 0 1rem 0;
 $callout-padding: 1rem;
 $callout-font-color: $body-font-color;
@@ -723,8 +730,13 @@ $prototype-separator-margin-top: $global-margin;
 // --------------------
 
 $prototype-shadow-breakpoints: $global-prototype-breakpoints;
+/*
 $prototype-box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),
                        0 2px 10px 0 rgba(0,0,0,.12);
+*/
+$prototype-box-shadow: 0 2px 4px 0 rgba(14,30,37,.12),
+                       0 2px 10px 0 rgba(14,30,37,.12);
+
 
 // 41. Prototype Sizing
 // --------------------
