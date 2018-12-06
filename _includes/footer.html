@@ -1,7 +1,7 @@
 {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 <!-- Footer -->
-<footer class="grid-x grid-padding-x grid-padding-y align-left primary-background sans-bold">
+<footer class="grid-x grid-padding-x grid-padding-y align-justify primary-background sans-bold">
   
   <div class="small-12 medium-6 large-6 xxlarge-shrink cell show-for-large">
     <div class="grid-y height-100 align-justify">
@@ -31,7 +31,7 @@
     </ul>
   </div>
 
-  <div class="small-6 medium-6 large-3 xxlarge-shrink cell show-for-large-only">
+  <div class="small-6 medium-6 large-3 xxlarge-shrink cell">
     <ul class="vertical menu">
       <li class="menu-text serif-italic">Follow the project on</li>
       {% for item in site.social %}  
@@ -42,7 +42,7 @@
 
   <div class="small-12 medium-6 large-6 xxlarge-shrink cell">
   <div class="serif-italic margin-bottom-1">Join the newsletter</div>
-    <form action="https://garethjohnsdesign.us2.list-manage.com/subscribe/post?u=e039fb7155e1e79ced51e3aff&amp;id=69043a24a2" method="post">
+    <form action="https://openownership.us19.list-manage.com/subscribe/post?u=5a522bc71b24b7202b6bf2c95&amp;id=57602bb40c" method="post">
       <div class="input-group">
       <input type="email" value="" class="input-group-field" name="EMAIL" placeholder="your@email.com">
       <div class="input-group-button">
