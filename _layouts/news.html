@@ -12,35 +12,37 @@ layout: default
 </section>
 <!-- End Page Title -->
 
-<!-- Page Content -->
-<section class="grid-container padding-bottom-2">
+<!-- Posts -->
+<section class="grid-container padding-vertical-2">
   {% for post in paginator.posts %}
 
-      <div class="grid-x padding-top-2 border-top">
+      <div class="grid-x grid-padding-y border-top">
         <div class="small-12 cell">
           <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           <div class="medium-gray">{% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}</div>
         </div>
       </div>
 
-      <!-- Tags -->
-      {% if post.tags %}
-      <div class="grid-x grid-padding-y">
-        <div class="small-12 cell">
-        {% for tag in post.tags %}
-        <a href="/tag/{{ tag }}" class="button hollow text-capitalize">{{ tag }}</a>
-        {% endfor %}
-        </div>
-      </div>
-      {% endif %}
-      <!-- End Tags -->
+<!-- Tags -->
+<!--
+{% if post.tags %}
+<div class="grid-x grid-padding-y">
+  <div class="small-12 cell">
+  {% for tag in post.tags %}
+  <a href="/tag/{{ tag }}" class="button hollow text-capitalize">{{ tag }}</a>
+  {% endfor %}
+  </div>
+</div>
+{% endif %}
+-->
+<!-- End Tags -->
   
       {% if post.feature-image %}
       <div class="grid-x">
         <div class="small-12 cell">
         <a href="{{ post.url }}">
           {% assign image = post.feature-image %}
-          {% include images/excerpt.html %}
+          <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
         </a>
         </div>
       </div>
@@ -69,7 +71,7 @@ layout: default
 
   {% endfor %}
 </section>
-<!-- End Page Content -->
+<!-- End Posts -->
 
 <!-- Pagination -->  
 {% include pagination-news.html %}
