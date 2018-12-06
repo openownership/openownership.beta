@@ -1,4 +1,4 @@
-$(document).on('turbolinks:load', function() {
+// $(document).on('turbolinks:load', function() {
 
 // 1. Foundation
 // --------------------
@@ -28,8 +28,4 @@ $(function() {
 window.addEventListener('load', AOS.refresh);
 });
 
-jQuery(window).on('load', function ($) {
-    Foundation.reInit('equalizer');
-});
-
-});
+// });
