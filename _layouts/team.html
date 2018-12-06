@@ -22,26 +22,17 @@ layout: default
     </div>
   </div>
 
-  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3" data-equalizer data-equalize-on-stack="false">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3">
   {% assign sorted_team_bods = site.team | sort:"position" | where: "categories", "project-team" %}
   {% for member in sorted_team_bods %}
     <div class="cell">
       
       {% if member.image %}
-      <div class="card" data-equalizer-watch>
+      <div class="card">
 
-          <img src="{{ member.image }}">
+          {% assign image = member.image %}
+          <img data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}">
 
-      </div>
-      {% else %}
-      <div class="card" data-equalizer-watch>
-      <div class="grid-y align-center height-100">
-        <div class="shrink cell">
-          <div class="card-section text-center">
-            <svg class="icon icon-user"><use xlink:href="/assets/icons/symbol-defs.svg#icon-user"></use></svg>
-          </div>
-        </div>
-      </div>
       </div>
      {% endif %}
 
@@ -71,19 +62,8 @@ layout: default
       
       {% if member.image %}
       <div class="card" data-equalizer-watch>
-
-          <img src="{{ member.image }}">
-
-      </div>
-      {% else %}
-      <div class="card" data-equalizer-watch>
-      <div class="grid-y align-center height-100">
-        <div class="shrink cell">
-          <div class="card-section text-center">
-            <svg class="icon icon-user"><use xlink:href="/assets/icons/symbol-defs.svg#icon-user"></use></svg>
-          </div>
-        </div>
-      </div>
+        {% assign image = member.image %}
+        <img data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}">
       </div>
      {% endif %}
 
