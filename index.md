@@ -1,5 +1,5 @@
 ---
-title: Open Ownership
+title: OpenOwnership
 position: 0
 image: "/assets/img/og-image.png"
 header: Ending anonymous company ownership
