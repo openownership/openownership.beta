@@ -702,6 +702,16 @@
 		"oAP": "/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf",
 		"oF": 0
 		},
+	"/_uploads/building.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/building.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/_uploads/calling.jpg": {
 		"ft": 16384,
 		"iS": 139487,
@@ -1005,6 +1015,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/one-on-one.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/one-on-one.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/_uploads/open-data-doc.jpg": {
 		"ft": 16384,
 		"iS": 237366,
@@ -1015,6 +1035,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_uploads/pilot.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/pilot.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/_uploads/priorities.jpg": {
 		"ft": 16384,
@@ -1027,6 +1057,26 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/private-sector.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/private-sector.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/_uploads/register.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/register.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/_uploads/resource-introducing.jpg": {
 		"ft": 16384,
 		"iS": 97119,
@@ -1037,6 +1087,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_uploads/sharing.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/sharing.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/_uploads/the-case-doc.jpg": {
 		"ft": 16384,
