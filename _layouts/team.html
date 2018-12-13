@@ -41,13 +41,13 @@ layout: default
       <h5 class="sans-bold">{{member.title}}</h5>
       <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
       {{member.content}}
-      <ul class="menu">
 <!--
+      <ul class="menu">
       {% for item in member.social %}  
       <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
       {% endfor %} 
--->
       </ul>
+-->
 
     </div>
   {% endfor %}
@@ -74,11 +74,13 @@ layout: default
       <h5 class="sans-bold">{{member.title}}</h5>
       <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
       {{member.content}}
+<!--
       <ul class="menu">
       {% for item in member.social %}  
       <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
       {% endfor %} 
       </ul>
+-->
 
     </div>
   {% endfor %}
