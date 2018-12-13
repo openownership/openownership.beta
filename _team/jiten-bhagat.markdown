@@ -1,7 +1,7 @@
 ---
 title: Jiten Bhagat
 categories:
-- bods
+- project-team
 position: 3
 job-title: Developer
 social:

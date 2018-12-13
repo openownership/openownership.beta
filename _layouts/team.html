@@ -7,7 +7,7 @@ layout: default
   <div class="grid-x grid-padding-x padding-vertical-3">
     <div class="small-12 cell">
       <h1>{{page.title}}</h1>
-      {{ page.content }}
+      <h5 class="sans-regular">{{page.content}}</h5>
     </div>
   </div>
 </section>
@@ -27,6 +27,7 @@ layout: default
   {% for member in sorted_team_bods %}
     <div class="cell">
       
+<!--
       {% if member.image %}
       <div class="card">
 
@@ -35,14 +36,17 @@ layout: default
 
       </div>
      {% endif %}
+-->
 
       <h5 class="sans-bold">{{member.title}}</h5>
       <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
       {{member.content}}
       <ul class="menu">
+<!--
       {% for item in member.social %}  
       <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
       {% endfor %} 
+-->
       </ul>
 
     </div>

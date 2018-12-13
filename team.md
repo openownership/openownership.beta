@@ -4,4 +4,4 @@ position: 5
 layout: team
 ---
 
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus.
+Our team is made up of talented individuals committed to the values of transparency, openness, and fairness. We work in an agile and collaborative environment, with each of us bringing our skills and knowledge to OpenOwnership, committed to achieving our aims.

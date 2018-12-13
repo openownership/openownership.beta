@@ -3,7 +3,7 @@ title: Jack Lord
 categories:
 - bods
 position: 3
-job-title: Communications Associate
+job-title: Beneficial Ownership Lead
 social:
   twitter: https://twitter.com/
   instagram: https://www.instagram.com/

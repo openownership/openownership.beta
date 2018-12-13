@@ -621,18 +621,25 @@
 		"oAP": "/build/_site",
 		"oF": 0
 		},
-	"/_team/aimen-chouchane.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_team/aimen-chouchane.markdown",
-		"oF": 0
-		},
 	"/_team/amy-guy.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_team/amy-guy.markdown",
+		"oF": 0
+		},
+	"/_team/claire-reichenbach.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/claire-reichenbach.markdown",
+		"oF": 0
+		},
+	"/_team/francesca-baker.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/francesca-baker.markdown",
 		"oF": 0
 		},
 	"/_team/jack-lord.markdown": {
@@ -9694,8 +9701,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/team.html",
-		"oF": 0,
+		"oAP": "/team.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

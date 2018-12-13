@@ -317,7 +317,7 @@ footer {
 }
 
 footer .menu .active a {
-color: $primary-color;
+  color: $primary-color;
 }
 
 footer .menu a, footer .menu .menu-text {
@@ -333,11 +333,11 @@ footer .menu a, footer .menu .menu-text {
 }
 
 .external a svg {
-transition: transform 0.25s; 
+  transition: transform 0.25s; 
 }
 
 .external a:hover svg {
-transform: translate(5px, 0);
+  transform: translate(5px, 0);
 }
 
 .what-we-do {
