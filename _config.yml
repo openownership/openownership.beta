@@ -19,7 +19,7 @@ collections:
     output: true
   what-we-do:
     title: What We Do
-    output: false
+    output: true
 defaults:
 - scope:
     path: ''
