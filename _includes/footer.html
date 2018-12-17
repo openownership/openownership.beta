@@ -1,4 +1,4 @@
-{% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+{% for entry in site.data.navigation.footer %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 <!-- Footer -->
 <footer class="grid-x grid-padding-x grid-padding-y align-justify primary-background sans-bold padding-1">
@@ -20,7 +20,7 @@
 
   <div class="small-6 medium-6 large-6 xxlarge-shrink cell">
     <ul class="vertical menu">
-      {% for entry in site.data.navigation.header %}
+      {% for entry in site.data.navigation.footer %}
       {% if entry.url == current_page %}
       {% assign current = ' class="active"' %}
       {% else %}

@@ -7,5 +7,16 @@ header:
     url: /news/
   - title: Resources
     url: /resources/
+
+footer:
+  - title: What we do
+    url: /what-we-do/  
+  - title: Get Involved
+    url: /get-involved/ 
+  - title: News
+    url: /news/
+  - title: Resources
+    url: /resources/
   - title: Team
     url: /team/
+
