@@ -10,9 +10,11 @@ sectors:
     Contact our helpdesk if you need support or more information [support@openownership.org](mailto:support@openownership.org).
 - title: Private sector
   text: |-
-    [Add your company data](https://register.openownership.org/users/sign_up) to the OpenOwnership Register
-    Download our OpenOwnership for the private sector introductory briefing
-    Get in touch if you have any questions about using the OpenOwnership Register or the Beneficial Ownership Data Standard
+    [Add your company data](https://register.openownership.org/users/sign_up) to the OpenOwnership Register  
+
+    Download our OpenOwnership for the private sector introductory briefing  
+
+    Get in touch if you have any questions about using the OpenOwnership Register or the Beneficial Ownership Data Standard   
 - title: Journalists and law enforcement agencies
   text: "[Contact our helpdesk](mailto:support@openownership.org) about using our
     data - no question is too big or small! We’re always keen to support people wanting
