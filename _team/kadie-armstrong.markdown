@@ -1,7 +1,7 @@
 ---
 title: Kadie Armstrong
 categories:
-- project-team
+- bods
 position: 1
 job-title: Open Standards Adoption Lead
 social:
