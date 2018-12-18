@@ -31,9 +31,9 @@ priorities-text: |-
 priorities-image: "/uploads/priorities.jpg"
 support-title: Support + Funding
 support-text: 'OpenOwnership is driven by the leading transparency NGOs: Transparency
-  International, Global Witness, ONE, Open Contracting Partnership,
-  and the B Team, along with OpenCorporates, and initially funded by the Department
-  for International Development (UK).'
+  International, Global Witness, ONE, Open Contracting Partnership, and the B Team,
+  along with OpenCorporates, and initially funded by the Department for International
+  Development (UK).'
 layout: home
 ---
 
