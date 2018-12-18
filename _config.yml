@@ -81,6 +81,7 @@ future: true
 social:
   twitter: https://twitter.com/openownership
   medium: https://medium.com/beneficial-ownership
+  github: https://github.com/openownership/data-standard
 compress_html:
   comments:
   - "<!-- "
