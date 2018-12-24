@@ -566,6 +566,13 @@
 		"oAP": "/_posts/2018-10-29-can-beneficial-ownership-transparency-really-be-compatible-with-data-protection.markdown",
 		"oF": 0
 		},
+	"/_posts/2018-12-18-openownership-in-kiev.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_posts/2018-12-18-openownership-in-kiev.markdown",
+		"oF": 0
+		},
 	"/_resources/briefing-the-case-for-beneficial-ownership-as-open-data.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -900,6 +907,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/kiev-03.jpg": {
+		"ft": 16384,
+		"iS": 211875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kiev-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kiev.jpg": {
+		"ft": 16384,
+		"iS": 177848,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kiev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/kyrgyzstan.jpg": {
@@ -9694,8 +9723,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/team.html",
-		"oF": 0,
+		"oAP": "/team.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

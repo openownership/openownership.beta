@@ -9,6 +9,3 @@ thumbnail-image: "/uploads/resource-introducing.jpg"
 ---
 
 Collated presentations from the OpenOwnership Beneficial Ownership Data Standard workshop in Tblisi, Georgia on 16 July 2018 as part of the OGP Global Summit.
-
-**Contents**
-Session 1: Introduction | Session 2: Beneficial ownership - the key concepts | Session 3: Piecing together beneficial ownership information | Session 4: Modelling beneficial ownership data using | Session 5: Collecting data on beneficial ownership: aligning policy & technology | Session 6: Advanced modelling of beneficial ownership data | Session 7: Next steps, needs & support
