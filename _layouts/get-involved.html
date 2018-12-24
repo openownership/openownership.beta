@@ -17,7 +17,7 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y padding-bottom-3" data-equalizer data-equalize-on-stack="true">
   {% for sector in page.sectors %}
-    <div class="small-12 medium-12 large-6 cell padding-1">
+    <div class="small-12 medium-12 large-6 {% if sector.is-full-width %}large-12{% endif %} cell padding-1">
     <div class="callout shadow large margin-bottom-0" data-equalizer-watch>
       <h3 class="serif-bold padding-bottom-1">{{sector.title}}</h3>
       {{sector.text | markdownify}}
