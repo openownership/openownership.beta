@@ -167,39 +167,18 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
-	"/_includes/analytics.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_includes/analytics.html",
-		"oF": 0
-		},
-	"/_includes/excerpt.html": {
+	"/_includes/blocks/analytics.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/excerpt.html",
+		"oAP": "/_includes/blocks/analytics.html",
 		"oF": 0
 		},
-	"/_includes/footer.html": {
+	"/_includes/blocks/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/footer.html",
-		"oF": 0
-		},
-	"/_includes/head.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/head.html",
-		"oF": 0
-		},
-	"/_includes/header.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/header.html",
+		"oAP": "/_includes/blocks/excerpt.html",
 		"oF": 0
 		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell-dev.html": {
@@ -237,39 +216,60 @@
 		"oAP": "/_includes/images/interchange-img-small-12-medium-6-cell.html",
 		"oF": 0
 		},
-	"/_includes/offcanvas.html": {
+	"/_includes/off-canvas/menu.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/offcanvas.html",
+		"oAP": "/_includes/off-canvas/menu.html",
 		"oF": 0
 		},
-	"/_includes/pagination-news.html": {
+	"/_includes/pagination/collection.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/pagination-news.html",
+		"oAP": "/_includes/pagination/collection.html",
 		"oF": 0
 		},
-	"/_includes/pagination-post.html": {
+	"/_includes/pagination/post.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/pagination-post.html",
+		"oAP": "/_includes/pagination/post.html",
 		"oF": 0
 		},
-	"/_includes/scripts.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/_includes/scripts.html",
-		"oF": 0
-		},
-	"/_includes/sponsors.html": {
+	"/_includes/site/footer.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_includes/sponsors.html",
+		"oAP": "/_includes/site/footer.html",
+		"oF": 0
+		},
+	"/_includes/site/head.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/site/head.html",
+		"oF": 0
+		},
+	"/_includes/site/header.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/site/header.html",
+		"oF": 0
+		},
+	"/_includes/site/scripts.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/site/scripts.html",
+		"oF": 0
+		},
+	"/_includes/site/sponsors.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/site/sponsors.html",
 		"oF": 0
 		},
 	"/_layouts/compress.html": {
@@ -277,6 +277,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_layouts/compress.html",
+		"oF": 0
+		},
+	"/_layouts/connect.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/connect.html",
 		"oF": 0
 		},
 	"/_layouts/default.html": {
@@ -340,13 +347,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_layouts/tags.html",
-		"oF": 0
-		},
-	"/_layouts/team.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/team.html",
 		"oF": 0
 		},
 	"/_layouts/what-we-do.html": {
@@ -1503,20 +1503,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/assets/fonts/atlas-grotesk-regular.woff2",
-		"oF": 0
-		},
-	"/assets/fonts/gallery.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/gallery.woff",
-		"oF": 0
-		},
-	"/assets/fonts/gallery.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/publico-bold.ttf": {
@@ -8754,638 +8740,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/bower_components/turbolinks5/.blade.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/.blade.yml",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/.bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/.bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/turbolinks5/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/.gitignore",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/.ruby-version": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/.ruby-version",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/.travis.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/.travis.yml",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/bin/blade": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/bin/blade",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/bin/ci": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/bin/ci",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/bin/rackup": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/bin/rackup",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/CHANGELOG.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/CHANGELOG.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/bower_components/turbolinks5/CONDUCT.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/CONDUCT.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/bower_components/turbolinks5/config.ru": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/config.ru",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/dist/turbolinks.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/bower_components/turbolinks5/dist/turbolinks.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/bower_components/turbolinks5/Gemfile": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/Gemfile",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/Gemfile.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/Gemfile.lock",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/LICENSE": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/LICENSE",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/package.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/package.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/turbolinks5/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/README.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/bower_components/turbolinks5/src/turbolinks/BANNER.js.erb": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/BANNER.js.erb",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/src/turbolinks/browser_adapter.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/browser_adapter.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/compatibility.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/compatibility.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/controller.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/controller.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/error_renderer.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/error_renderer.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/head_details.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/head_details.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/helpers.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/helpers.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/history.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/history.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/http_request.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/http_request.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/index.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/index.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/location.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/location.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/progress_bar.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/progress_bar.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/renderer.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/renderer.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/script_warning.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/script_warning.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/scroll_manager.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/scroll_manager.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/snapshot.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/snapshot.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/snapshot_cache.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/snapshot_cache.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/snapshot_renderer.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/snapshot_renderer.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/start.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/start.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/VERSION": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/VERSION",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/src/turbolinks/view.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/view.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/src/turbolinks/visit.coffee": {
-		"ft": 32,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/src/turbolinks/visit.coffee",
-		"oF": 0,
-		"oS": 0,
-		"sC": 1,
-		"tS": 1
-		},
-	"/bower_components/turbolinks5/test/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/.gitignore",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/.vscode/launch.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/.vscode/launch.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/turbolinks5/test/environment.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/environment.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/additional_assets.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/additional_assets.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/body_script.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/body_script.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/eval_false_script.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/eval_false_script.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/head_script.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/head_script.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/navigation.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/navigation.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/one.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/one.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/permanent_element.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/permanent_element.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/rendering.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/rendering.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/test.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/test.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/tracked_asset_change.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/tracked_asset_change.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/visit.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/visit.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/fixtures/visit_control_reload.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/fixtures/visit_control_reload.html",
-		"oF": 0
-		},
-	"/bower_components/turbolinks5/test/intern.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/intern.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/turbolinks5/test/lib/browser_test_case.ts": {
-		"cDF": 0,
-		"ft": 128,
-		"jxM": 0,
-		"ma": 0,
-		"mi": 0,
-		"moR": 0,
-		"moT": 2,
-		"oA": 1,
-		"oAP": "/bower_components/turbolinks5/test/lib/browser_test_case.ts",
-		"oF": 0,
-		"rC": 0,
-		"tEC": 0
-		},
-	"/bower_components/turbolinks5/test/lib/intern_test_case.ts": {
-		"cDF": 0,
-		"ft": 128,
-		"jxM": 0,
-		"ma": 0,
-		"mi": 0,
-		"moR": 0,
-		"moT": 2,
-		"oA": 1,
-		"oAP": "/bower_components/turbolinks5/test/lib/intern_test_case.ts",
-		"oF": 0,
-		"rC": 0,
-		"tEC": 0
-		},
-	"/bower_components/turbolinks5/test/lib/remote_channel.ts": {
-		"cDF": 0,
-		"ft": 128,
-		"jxM": 0,
-		"ma": 0,
-		"mi": 0,
-		"moR": 0,
-		"moT": 2,
-		"oA": 1,
-		"oAP": "/bower_components/turbolinks5/test/lib/remote_channel.ts",
-		"oF": 0,
-		"rC": 0,
-		"tEC": 0
-		},
-	"/bower_components/turbolinks5/test/lib/turbolinks_test_case.ts": {
-		"cDF": 0,
-		"ft": 128,
-		"jxM": 0,
-		"ma": 0,
-		"mi": 0,
-		"moR": 0,
-		"moT": 2,
-		"oA": 1,
-		"oAP": "/bower_components/turbolinks5/test/lib/turbolinks_test_case.ts",
-		"oF": 0,
-		"rC": 0,
-		"tEC": 0
-		},
-	"/bower_components/turbolinks5/test/package.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/package.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/turbolinks5/test/suites/navigation_tests.ts": {
-		"cDF": 0,
-		"ft": 128,
-		"jxM": 0,
-		"ma": 0,
-		"mi": 0,
-		"moR": 0,
-		"moT": 2,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/suites/navigation_tests.ts",
-		"oF": 0,
-		"rC": 0,
-		"tEC": 0
-		},
-	"/bower_components/turbolinks5/test/suites/rendering_tests.ts": {
-		"cDF": 0,
-		"ft": 128,
-		"jxM": 0,
-		"ma": 0,
-		"mi": 0,
-		"moR": 0,
-		"moT": 2,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/suites/rendering_tests.ts",
-		"oF": 0,
-		"rC": 0,
-		"tEC": 0
-		},
-	"/bower_components/turbolinks5/test/suites/visit_tests.ts": {
-		"cDF": 0,
-		"ft": 128,
-		"jxM": 0,
-		"ma": 0,
-		"mi": 0,
-		"moR": 0,
-		"moT": 2,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/suites/visit_tests.ts",
-		"oF": 0,
-		"rC": 0,
-		"tEC": 0
-		},
-	"/bower_components/turbolinks5/test/tsconfig.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/tsconfig.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/bower_components/turbolinks5/test/yarn.lock": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/bower_components/turbolinks5/test/yarn.lock",
-		"oF": 0
-		},
 	"/bower_components/what-input/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -9570,6 +8924,24 @@
 		"oAP": "/bower_components/what-input/yarn.lock",
 		"oF": 0
 		},
+	"/connect-with-us.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "/connect-with-us.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
@@ -9714,24 +9086,6 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"/team.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "/team.md",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"/terms.md": {
 		"cB": 0,
 		"cS": 0,
@@ -9801,14 +9155,6 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
 			"position": 4,
-			"type": 0
-			}
-		],
-	"/assets/js/links.js": [
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/turbolinks5/dist/turbolinks.js",
-			"position": 0,
 			"type": 0
 			}
 		]
