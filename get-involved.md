@@ -32,12 +32,6 @@ sectors:
     from our implementation support, please [get in touch](mailto:support@openownership.org)
     \ \n\nOur research and resources can be powerful advocacy tools - these are available
     to [download here](/resources)"
-- title: Use the Beneficial Ownership Data Standard
-  text: If you're publishing or sharing beneficial ownership data use the open and
-    community-driven BODS [format](http://standard.openownership.org/en/). To follow
-    or shape development of the standard sign up for the OpenOwnership newsletter
-    or delve into our [GitHub repository](https://github.com/openownership/data-standard)
-  is-full-width: true
 layout: get-involved
 ---
 
