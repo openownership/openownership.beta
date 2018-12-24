@@ -6,20 +6,20 @@ layout: compress
 <html class="no-js" lang="en" dir="ltr">
 
 <!-- Head -->
-{% include head.html %}
+{% include site/head.html %}
 <!-- End Head -->
 
 <body class="{{page.layout | slugify}}">
 
 <!-- Off Canvas Navigation -->
 <div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="push" data-close-on-click="true">
-{% include offcanvas.html %}
+{% include off-canvas/menu.html %}
 </div>
 <!-- End Off Canvas Navigation -->
 
 <div class="off-canvas-content {{page.layout | slugify}}" data-off-canvas-content>
 <!-- Header -->
-{% include header.html %}
+{% include site/header.html %}
 <!-- End Header -->
 
 <!-- Content -->
@@ -27,11 +27,11 @@ layout: compress
 <!-- End Content -->
 
 <!-- Sponsors -->
-{% include sponsors.html %}
+{% include site/sponsors.html %}
 <!-- End Sponsors-->
 
 <!-- Footer -->
-{% include footer.html %}
+{% include site/footer.html %}
 <!-- End Footer-->
 </div>
 
