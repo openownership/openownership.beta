@@ -105,6 +105,10 @@ line-height: 1.2;
   color: $white;
 }
 
+.light-gray-background {
+  background-color: $light-gray;
+}
+
 // 5. Typography
 // -------------
 
@@ -348,4 +352,30 @@ background-color: #f4f7f8;
 .get-involved {
 background-color: #f4f7f8;
 // background-color: scale-color(get-color(snow), $lightness: 50%);
+}
+
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+  > .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+height: 100%;
+width: 100%;
+  }
+}
+
+.image {
+  @include aspect-ratio (16, 9);
+  background-size: cover; 
+  background-position: 50%;
+  background-color: $light-gray;
 }

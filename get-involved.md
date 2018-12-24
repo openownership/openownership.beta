@@ -13,6 +13,12 @@ sectors:
     to the OpenOwnership Register  \n\nDownload our OpenOwnership for the private
     sector introductory briefing  \n\nGet in touch if you have any questions about
     using the OpenOwnership Register or the Beneficial Ownership Data Standard   "
+- title: Use the Beneficial Ownership Data Standard
+  text: If you're publishing or sharing beneficial ownership data use the open and
+    community-driven BODS [format](http://standard.openownership.org/en/). To follow
+    or shape development of the standard sign up for the OpenOwnership newsletter
+    or delve into our [GitHub repository](https://github.com/openownership/data-standard)
+  is-full-width: true
 - title: Journalists and law enforcement agencies
   text: "[Contact our helpdesk](mailto:support@openownership.org) about using our
     data - no question is too big or small! We’re always keen to support people wanting
@@ -22,12 +28,6 @@ sectors:
     If you would like to use our data, or think your government could benefit from our implementation support, please [get in touch](mailto:support@openownership.org)  
 
     Our research and resources can be powerful advocacy tools - these are available to [download here](/resources)
-- title: Use the Beneficial Ownership Data Standard
-  text: If you're publishing or sharing beneficial ownership data use the open and
-    community-driven BODS [format](http://standard.openownership.org/en/). To follow
-    or shape development of the standard sign up for the OpenOwnership newsletter
-    or delve into our [GitHub repository](https://github.com/openownership/data-standard)
-  is-full-width: true
 layout: get-involved
 ---
 

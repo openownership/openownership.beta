@@ -167,13 +167,6 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
-	"/_includes/blocks/analytics.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/blocks/analytics.html",
-		"oF": 0
-		},
 	"/_includes/blocks/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -235,6 +228,20 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_includes/pagination/post.html",
+		"oF": 0
+		},
+	"/_includes/site/analytics.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/site/analytics.html",
+		"oF": 0
+		},
+	"/_includes/site/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/site/contact.html",
 		"oF": 0
 		},
 	"/_includes/site/footer.html": {
