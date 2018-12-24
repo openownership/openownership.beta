@@ -18,10 +18,10 @@ sectors:
     data - no question is too big or small! We’re always keen to support people wanting
     to use our data in cool new ways and can help with the creation of bespoke datasets"
 - title: Civil society
-  text: |-
-    If you would like to use our data, or think your government could benefit from our implementation support, please [get in touch](mailto:support@openownership.org)  
-
-    Our research and resources can be powerful advocacy tools - these are available to [download here](/resources)
+  text: "If you would like to use our data, or think your government could benefit
+    from our implementation support, please [get in touch](mailto:support@openownership.org)
+    \ \n\nOur research and resources can be powerful advocacy tools - these are available
+    to [download here](/resources)"
 - title: Use the Beneficial Ownership Data Standard
   text: If you're publishing or sharing beneficial ownership data use the open and
     community-driven BODS [format](http://standard.openownership.org/en/). To follow
