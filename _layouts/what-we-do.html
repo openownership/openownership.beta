@@ -22,7 +22,7 @@ layout: default
 
         <div class="grid-y align-justify height-100">
           <div class="shrink cell text-center">
-            <img src="{{service.image}}" class="margin-bottom-2">
+            <svg class="icon icon-services icon-{{service.icon}} margin-bottom-2"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{service.icon}}"></use></svg>
             <h3 class="serif-bold text-center">{{service.title}}</h3>
             {{service.text | markdownify}}
           </div>

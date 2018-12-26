@@ -4,6 +4,7 @@ position: 1
 services:
 - title: The OpenOwnership Register
   image: "/uploads/register.svg"
+  icon: one-on-one
   text: The Register is an easy-to-use, cloud-based, platform that links beneficial
     ownership information from multiple sources and makes it available for free to
     all, allowing for powerful global searches with just a couple of clicks. Data
@@ -16,6 +17,7 @@ services:
 - title: Building a stable and trusted beneficial ownership data standard and user
     base
   image: "/uploads/building.svg"
+  icon: building
   text: The Beneficial Ownership Data Standard (the Standard, or BODS) is being developed
     in collaboration with dozens of international experts in company data and in technical
     standard-setting. It will enable the resulting beneficial ownership data to be
@@ -26,6 +28,7 @@ services:
   link: "/what-we-do/the-beneficial-ownership-data-standard"
 - title: The OpenOwnership pilot program
   image: "/uploads/pilot.svg"
+  icon: pilot
   text: Our pilot program supports data publishers in national governments and multinational
     institutions to publish high quality, highly usable beneficial ownership data.
     The ultimate outcome is a beneficial ownership data infrastructure that is fit
@@ -35,6 +38,7 @@ services:
   link: "/what-we-do/the-openownership-pilot-program"
 - title: 1-1 technical assistance
   image: "/uploads/one-on-one.svg"
+  icon: one-on-one
   text: Whether this occurs within the pilot program or on a bespoke basis, we are
     committed to providing technical assistance to beneficial ownership data publishers
     in both the public and private sectors. Through our helpdesk we can answer questions
@@ -44,6 +48,7 @@ services:
   link: "/what-we-do/1-1-technical-assistance"
 - title: Private sector engagement
   image: "/uploads/private-sector.svg"
+  icon: private-sector
   text: We are encouraging corporations and financial institutions to use the OpenOwnership
     Register (and eventually our API) as part of their due diligence processes and
     to submit their ownership data to the Register. We are currently seeking early
@@ -52,6 +57,7 @@ services:
   link: "/what-we-do/private-sector-engagement"
 - title: Sharing knowledge and best practice
   image: "/uploads/sharing.svg"
+  icon: sharing
   text: We will continue to champion beneficial ownership transparency amongst all
     our key stakeholder groups. To do this, we regularly hold workshops and events
     to engage users and gather feedback, and we collate and share case studies of
