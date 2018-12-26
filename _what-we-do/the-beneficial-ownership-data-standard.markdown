@@ -1,7 +1,7 @@
 ---
 title: The Beneficial Ownership Data Standard
 date: 2018-08-17 07:31:00 Z
-layout: page
+layout: page-what-we-do
 ---
 
 The Beneficial Ownership Data Standard has been developed to serve as a solid conceptual and practical framework for collecting and publishing beneficial ownership data, and enabling the resulting data to be interoperable, more easily reused, and higher quality. A common data standard enables the exchange of data between implementing countries and allows for a rapid build-up of best practice on collecting, storing, and publishing beneficial ownership data.
@@ -17,6 +17,3 @@ There are four key benefits to implementers using the Standard:
 3. Customizable to your context. The schema is flexible and data publishers may choose to use some fields and not others. We believe there is no one-size-fits all solution and are happy to work with you on finding the best fit for your context.
 
 4. Desirable network effects. Implementers using the Standard will show leadership to others by proactively seeking to publish high-quality, interoperable beneficial ownership data. This will enable a build-up of best practice on beneficial ownership implementation -- and yield even more data sets that can be linked transnationally.
-
-<a class="btn btn-primary btn-lg" href="/the-openownership-pilot-program" role="button">Next: The OpenOwnership pilot program</a>
-<div><a class="btn btn-secondary" href="/what-we-do" role="button">Back: What we do</a></div>

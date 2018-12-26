@@ -335,6 +335,13 @@
 		"oAP": "/_layouts/news.html",
 		"oF": 0
 		},
+	"/_layouts/page-what-we-do.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/page-what-we-do.html",
+		"oF": 0
+		},
 	"/_layouts/page.html": {
 		"cB": 0,
 		"ft": 8192,

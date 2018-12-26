@@ -60,17 +60,8 @@ svg {
 }
 
 .button {
-line-height: 1.2;
+line-height: 1.4;
 }
-
-// 3. Plugins
-// ----------
-
-.turbolinks-progress-bar {
-  height: 5px;
-  background-color: $primary-color;
-}
-
 
 // 4. Color
 // --------
@@ -400,8 +391,11 @@ width: 100%;
 }
 
 .page__title {
-  @include padding(1.5, 1.5, null, 1.5);
+  @include padding(1.5, null, null, null);
+  @include breakpoint(small only) {
+  @include padding(1.5, 1.5, 1.5, 1.5);
+  }
   @include breakpoint(medium) {
-  @include padding(3, null, null, null);
+  @include padding(2, null, null, null);
   }
 }

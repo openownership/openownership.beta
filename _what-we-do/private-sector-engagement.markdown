@@ -1,7 +1,7 @@
 ---
 title: Private sector engagement
 date: 2018-08-17 07:39:00 Z
-layout: page
+layout: page-what-we-do
 ---
 
 **How does beneficial ownership affect business?**
@@ -29,6 +29,3 @@ The Register has been designed to serve the needs of a wide range of users inclu
 3. **Demonstrating commitment to transparency** — Companies can demonstrate their commitment to transparency to investors and stakeholders by providing data about their own beneficial ownership to the OpenOwnership platform and encouraging organisations they work with or purchase from to do the same.
 
 We invite all businesses to consider using the Register. We want to shape OpenOwnership into a valuable due diligence platform and welcome all feedback and insights on how we can make OpenOwnership better suit your needs. Please contact [support@openownership.org](support@openownership.org) for more information.
-
-<a class="btn btn-primary btn-lg" href="/the-beneficial-ownership-data-standard" role="button">Next: The Beneficial Ownership Data Standard</a>
-<div><a class="btn btn-secondary" href="/what-we-do" role="button">Back: What we do</a></div>

@@ -1,7 +1,7 @@
 ---
 title: The OpenOwnership pilot program
 date: 2018-08-17 07:33:00 Z
-layout: page
+layout: page-what-we-do
 ---
 
 Our pilot program supports data publishers in national governments and multinational institutions to publish high quality beneficial ownership data. Current pilot countries include Kyrgyzstan and Ukraine.
@@ -19,7 +19,3 @@ There are three main benefits to countries participating in OpenOwnership’s pi
 3. **Desirable network effects** — By using the BODS and helping to create a global, linked beneficial ownership register, pilot countries show that they are thought leaders on transparency, integrity, and stemming corruption. Other countries will follow their leadership, further reducing the burden on data submitters and increasing the quality of data to users. 
 
 Should you wish to discuss the support OpenOwnership can offer your country as part of its pilot program, please contact Zosia Sztykowski, OpenOwnership Project Lead, at [zosia@openownership.org](zosia@openownership.org).
-
-<a class="btn btn-primary btn-lg" href="/1-1-technical-assistance" role="button">Next: 1-1 technical assistance</a>
-
-<div><a class="btn btn-secondary" href="/what-we-do" role="button">Back: What we do</a></div>

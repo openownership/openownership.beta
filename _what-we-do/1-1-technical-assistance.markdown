@@ -1,7 +1,7 @@
 ---
 title: 1-1 technical assistance
 date: 2018-08-17 07:36:00 Z
-layout: page
+layout: page-what-we-do
 ---
 
 Helpdesk support is provided to governments or organisations implementing, or considering implementing, beneficial ownership disclosure regimes using the Beneficial Ownership Data Standard.
@@ -15,7 +15,3 @@ The Helpdesk is also available to those looking for a broader range of support. 
 * Are a data publisher, and would like light touch guidance on topics within our expertise: collecting and storing beneficial ownership data, developing forms and processes for collection, compatibility with data protection frameworks, verification, compliance, enforcement, and user engagement.
 
 If you have a query please contact the helpdesk at [support@openownership.org](support@openownership.org)
-
-<a class="btn btn-primary btn-lg" href="/private-sector-engagement" role="button">Next: Private sector engagement</a>
-
-<div><a class="btn btn-secondary" href="/what-we-do" role="button">Back: What we do</a></div>
