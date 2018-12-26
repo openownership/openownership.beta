@@ -395,6 +395,13 @@ width: 100%;
 .shadow {
   transition: box-shadow 0.25s; 
   &:hover {
-  box-shadow: 0 2px 20px 0 rgba(14,30,37,.12);
+  box-shadow: 0 2px 15px 0 rgba(14,30,37,.12);
+  }
+}
+
+.page__title {
+  @include padding(1.5, 1.5, null, 1.5);
+  @include breakpoint(medium) {
+  @include padding(3, null, null, null);
   }
 }
