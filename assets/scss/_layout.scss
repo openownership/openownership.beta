@@ -391,3 +391,10 @@ width: 100%;
   background-position: 50%;
   background-color: $light-gray;
 }
+
+.shadow {
+  transition: box-shadow 0.25s; 
+  &:hover {
+  box-shadow: 0 2px 20px 0 rgba(14,30,37,.12);
+  }
+}
