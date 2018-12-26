@@ -354,6 +354,11 @@ background-color: #f4f7f8;
 // background-color: scale-color(get-color(snow), $lightness: 50%);
 }
 
+.connect {
+background-color: #f4f7f8;
+// background-color: scale-color(get-color(snow), $lightness: 50%);
+}
+
 @mixin aspect-ratio($width, $height) {
   position: relative;
   &:before {
@@ -375,6 +380,13 @@ width: 100%;
 
 .image {
   @include aspect-ratio (16, 9);
+  background-size: cover; 
+  background-position: 50%;
+  background-color: $light-gray;
+}
+
+.image--square {
+  @include aspect-ratio (1, 1);
   background-size: cover; 
   background-position: 50%;
   background-color: $light-gray;

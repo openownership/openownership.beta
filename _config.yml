@@ -75,6 +75,7 @@ company: OpenOwnership
 email: info@openownership.org
 analytics: 
 logo: "/assets/img/logo.svg"
+placeholder: "/assets/img/placeholder.jpgs"
 per_page: 12
 date_format: "%b %Y"
 future: true

@@ -1082,6 +1082,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/_uploads/placeholder.jpg": {
+		"ft": 16384,
+		"iS": 25412,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/placeholder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/priorities.jpg": {
 		"ft": 16384,
 		"iS": 413046,
@@ -1604,6 +1615,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/placeholder.jpg": {
+		"ft": 16384,
+		"iS": 25412,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/placeholder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/assets/js/app.js": {

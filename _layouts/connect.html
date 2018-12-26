@@ -16,44 +16,47 @@ layout: default
 <!-- Project Team Content -->
 <section class="grid-container team__members">
 
-   <div class="grid-x grid-padding-x">
+  <div class="grid-x grid-padding-x">
     <div class="small-12 cell">
       <h3>Project Team</h3>
     </div>
   </div>
 
-  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3">
-  {% assign sorted_team_bods = site.team | sort:"position" | where: "categories", "project-team" %}
-  {% for member in sorted_team_bods %}
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3" data-equalizer data-equalize-by-row="true">
+    {% assign sorted_team_bods = site.team | sort:"position" | where: "categories", "project-team" %}
+    {% for member in sorted_team_bods %}
     <div class="cell">
-      
-<!--
-      {% if member.image %}
-      <div class="card">
-
-          {% assign image = member.image %}
-          <img data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}">
-
+      <div class="callout shadow" data-equalizer-watch>
+        <div class="grid-y align-justify height-100">
+          <div class="shrink cell text-center">
+            {% if member.image %}
+            {% assign image = member.image %}
+            <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
+            {% else %}
+            {% assign image = site.placeholder %}
+            <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
+            {% endif %}
+            <h5 class="sans-bold">{{member.title}}</h5>
+            <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
+            {{member.content}}
+          </div>
+          <div class="shrink cell">
+            <ul class="menu align-center">
+            {% if member.email %} 
+            <li><a href="mailto:{{member.email}}"><span class="show-for-sr">Email</span><svg class="icon icon-socials icon-email"><use xlink:href="/assets/icons/symbol-defs.svg#icon-email"></use></svg></a></li>
+            {% endif %}
+            {% for item in member.social %}  
+            <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+            {% endfor %}
+            </ul>
+          </div>
+        </div>
       </div>
-     {% endif %}
--->
-
-      <h5 class="sans-bold">{{member.title}}</h5>
-      <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
-      {{member.content}}
-<!--
-      <ul class="menu">
-      {% for item in member.social %}  
-      <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-      {% endfor %} 
-      </ul>
--->
-
     </div>
-  {% endfor %}
+    {% endfor %}
   </div>
 
-   <div class="grid-x grid-padding-x">
+  <div class="grid-x grid-padding-x">
     <div class="small-12 cell">
       <h3>Beneficial Ownership Data Standard Team</h3>
     </div>
@@ -62,27 +65,34 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3" data-equalizer data-equalize-on-stack="false">
   {% assign sorted_team_bods = site.team | sort:"position" | where: "categories", "bods" %}
   {% for member in sorted_team_bods %}
-    <div class="cell">
-      
-      {% if member.image %}
-      <div class="card" data-equalizer-watch>
-        {% assign image = member.image %}
-        <img data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}">
+  <div class="cell">
+    <div class="callout shadow" data-equalizer-watch>
+      <div class="grid-y align-justify height-100">
+        <div class="shrink cell text-center">
+          {% if member.image %}
+          {% assign image = member.image %}
+          <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
+          {% else %}
+          {% assign image = site.placeholder %}
+          <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
+          {% endif %}
+          <h5 class="sans-bold">{{member.title}}</h5>
+          <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
+          {{member.content}}
+        </div>
+        <div class="shrink cell">
+          <ul class="menu align-center">
+          {% if member.email %} 
+          <li><a href="mailto:{{member.email}}"><span class="show-for-sr">Email</span><svg class="icon icon-socials icon-email"><use xlink:href="/assets/icons/symbol-defs.svg#icon-email"></use></svg></a></li>
+          {% endif %}
+          {% for item in member.social %}  
+          <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+          {% endfor %} 
+          </ul>
+        </div>
       </div>
-     {% endif %}
-
-      <h5 class="sans-bold">{{member.title}}</h5>
-      <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
-      {{member.content}}
-<!--
-      <ul class="menu">
-      {% for item in member.social %}  
-      <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-      {% endfor %} 
-      </ul>
--->
-
     </div>
+  </div>
   {% endfor %}
   </div>
 
