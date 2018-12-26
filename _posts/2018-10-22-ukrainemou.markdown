@@ -5,6 +5,8 @@ date: 2018-10-22 17:55:00 Z
 tags:
 - ukraine
 - mou
+- 1-1 technical assistance
+- private sector engagement
 feature-image: "/uploads/ukraine-signs.jpg"
 author: Louise Russell-Prywata
 ---

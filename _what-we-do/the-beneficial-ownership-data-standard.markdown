@@ -2,6 +2,9 @@
 title: The Beneficial Ownership Data Standard
 date: 2018-08-17 07:31:00 Z
 layout: page-what-we-do
+pagination:
+  enabled: true
+  collection: posts
 ---
 
 The Beneficial Ownership Data Standard has been developed to serve as a solid conceptual and practical framework for collecting and publishing beneficial ownership data, and enabling the resulting data to be interoperable, more easily reused, and higher quality. A common data standard enables the exchange of data between implementing countries and allows for a rapid build-up of best practice on collecting, storing, and publishing beneficial ownership data.

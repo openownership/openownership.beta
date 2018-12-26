@@ -2,6 +2,9 @@
 title: Private sector engagement
 date: 2018-08-17 07:39:00 Z
 layout: page-what-we-do
+pagination:
+  enabled: true
+  collection: posts
 ---
 
 **How does beneficial ownership affect business?**

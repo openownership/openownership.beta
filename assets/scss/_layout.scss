@@ -100,6 +100,10 @@ line-height: 1.4;
   background-color: $light-gray;
 }
 
+.snow-background {
+  background-color: #f4f7f8;
+}
+
 // 5. Typography
 // -------------
 
@@ -386,7 +390,7 @@ width: 100%;
 .shadow {
   transition: box-shadow 0.25s; 
   &:hover {
-  box-shadow: 0 2px 15px 0 rgba(14,30,37,.12);
+  box-shadow: 0 2px 20px 0 rgba(14,30,37,.24);
   }
 }
 

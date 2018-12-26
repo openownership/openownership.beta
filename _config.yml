@@ -90,7 +90,6 @@ compress_html:
   blanklines: true
   profile: false
 pagination:
-  collection: posts
   enabled: true
   per_page: 6
   limit: 0
@@ -99,11 +98,11 @@ pagination:
   sort_field: date
   sort_reverse: true
 autopages:
-  enabled: false
+  enabled: true
   categories:
-    enabled: false
+    enabled: true
   collections:
-    enabled: false
+    enabled: true
   tags:
     slugify:
       mode: raw

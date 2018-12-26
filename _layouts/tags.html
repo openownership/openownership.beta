@@ -4,73 +4,18 @@ layout: default
 
 <!-- Page Title -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x padding-top-3 padding-bottom-2">
-    <div class="small-12 cell">
+  <div class="grid-x grid-padding-x grid-padding-y page__title">
+    <div class="small-12 medium-10 large-8 cell">
       <h1 class="text-capitalize">{{page.autopages.display_name}}</h1>
     </div>
   </div>
 </section>
-<!-- End Page Title -->
+<!-- End Page Title -->        
 
-<!-- Page Content -->
-<section class="grid-container padding-bottom-2">
-  {% for post in paginator.posts %}
-
-      <div class="grid-x padding-top-2 border-top">
-        <div class="small-12 cell">
-          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <div class="medium-gray">{% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}</div>
-        </div>
-      </div>
-
-      <!-- Tags -->
-      {% if post.tags %}
-      <div class="grid-x grid-padding-y">
-        <div class="small-12 cell">
-        {% for tag in post.tags %}
-        <a href="/tag/{{ tag }}" class="button hollow text-capitalize">{{ tag }}</a>
-        {% endfor %}
-        </div>
-      </div>
-      {% endif %}
-      <!-- End Tags -->
-  
-      {% if post.feature-image %}
-      <div class="grid-x">
-        <div class="small-12 cell">
-        <a href="{{ post.url }}">
-          {% assign image = post.feature-image %}
-          <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
-        </a>
-        </div>
-      </div>
-      {% endif %}
-  
-      {% if post.feature-image-caption %}
-      <div class="grid-x margin-top-1">
-        <div class="small-12 cell serif-italic medium-gray">
-        <small>{{post.feature-image-caption}}</small>
-        </div>
-      </div>
-      {% endif %}
-
-      <div class="grid-x grid-padding-y">
-        <div class="small-12 cell">
-        <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
-        </div>
-      </div>
-
-
-      <div class="grid-x margin-bottom-1">
-        <div class="small-12 cell">
-        <a class="button" href="{{ post.url }}">Continue reading <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a>
-        </div>
-      </div>
-
-  {% endfor %}
-</section>
-<!-- End Page Content -->
+<!-- Posts -->
+{% include blocks/posts.html %}
+<!-- End Posts -->
 
 <!-- Pagination -->  
-{% include pagination-news.html %}
+{% include pagination/collection.html %}
 <!-- End Pagination -->

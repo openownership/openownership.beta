@@ -1,6 +1,8 @@
 ---
 title: OpenOwnership is recruiting!
 date: 2017-11-23 19:28:00 Z
+tags:
+- private sector engagement
 author: Zosia Sztykowski
 ---
 

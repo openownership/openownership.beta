@@ -1,6 +1,9 @@
 ---
 title: 1-1 technical assistance
 date: 2018-08-17 07:36:00 Z
+tags:
+- ukraine
+- mou
 layout: page-what-we-do
 ---
 

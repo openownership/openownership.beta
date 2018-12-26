@@ -2,6 +2,9 @@
 title: The OpenOwnership pilot program
 date: 2018-08-17 07:33:00 Z
 layout: page-what-we-do
+pagination:
+  enabled: true
+  collection: posts
 ---
 
 Our pilot program supports data publishers in national governments and multinational institutions to publish high quality beneficial ownership data. Current pilot countries include Kyrgyzstan and Ukraine.

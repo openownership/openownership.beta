@@ -174,6 +174,13 @@
 		"oAP": "/_includes/blocks/excerpt.html",
 		"oF": 0
 		},
+	"/_includes/blocks/posts.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/blocks/posts.html",
+		"oF": 0
+		},
 	"/_includes/blocks/title.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -237,6 +244,13 @@
 		"oAP": "/_includes/pagination/post.html",
 		"oF": 0
 		},
+	"/_includes/pagination/what-we-do.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/pagination/what-we-do.html",
+		"oF": 0
+		},
 	"/_includes/site/analytics.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -284,6 +298,34 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_includes/site/sponsors.html",
+		"oF": 0
+		},
+	"/_layouts/autopage_category.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/autopage_category.html",
+		"oF": 0
+		},
+	"/_layouts/autopage_collection.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/autopage_collection.html",
+		"oF": 0
+		},
+	"/_layouts/autopage_collections_tags.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/autopage_collections_tags.html",
+		"oF": 0
+		},
+	"/_layouts/autopage_tags.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_layouts/autopage_tags.html",
 		"oF": 0
 		},
 	"/_layouts/compress.html": {
