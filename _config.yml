@@ -100,9 +100,9 @@ pagination:
 autopages:
   enabled: true
   categories:
-    enabled: true
+    enabled: false
   collections:
-    enabled: true
+    enabled: false
   tags:
     slugify:
       mode: raw
