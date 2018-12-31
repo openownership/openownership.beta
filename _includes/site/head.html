@@ -7,7 +7,15 @@
   <meta name="format-detection" content="telephone=no">
   
   <title>{% if page.layout == 'home' %}{{ site.title }}{% else %}{{ page.title | escape }} — {{ site.title | escape }}{% endif %}</title>
-  {% seo title=false %}
+
+  <!-- Preload -->
+  <link rel="preload" as="font" href="/assets/fonts/atlas-grotesk-bold.woff2" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" as="font" href="/assets/fonts/atlas-grotesk-regular.woff2" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" as="font" href="/assets/fonts/publico-bold.woff2" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" as="font" href="/assets/fonts/publico-text-italic.woff2" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" as="font" href="/assets/fonts/publico-text-roman.woff2" type="font/woff2" crossorigin="anonymous">
+  
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
   
   <!-- Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
@@ -20,15 +28,9 @@
   <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
 
-  <!-- Preload -->
-  <link rel="preload" as="font" href="/assets/fonts/atlas-grotesk-bold.woff2" type="font/woff2" crossorigin="anonymous">
-  <link rel="preload" as="font" href="/assets/fonts/atlas-grotesk-regular.woff2" type="font/woff2" crossorigin="anonymous">
-  <link rel="preload" as="font" href="/assets/fonts/publico-bold.woff2" type="font/woff2" crossorigin="anonymous">
-  <link rel="preload" as="font" href="/assets/fonts/publico-text-italic.woff2" type="font/woff2" crossorigin="anonymous">
-  <link rel="preload" as="font" href="/assets/fonts/publico-text-roman.woff2" type="font/woff2" crossorigin="anonymous">
-  
-  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
+  {% seo title=false %}
 
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- Scripts -->

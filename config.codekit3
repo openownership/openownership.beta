@@ -300,34 +300,6 @@
 		"oAP": "/_includes/site/sponsors.html",
 		"oF": 0
 		},
-	"/_layouts/autopage_category.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/autopage_category.html",
-		"oF": 0
-		},
-	"/_layouts/autopage_collection.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/autopage_collection.html",
-		"oF": 0
-		},
-	"/_layouts/autopage_collections_tags.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/autopage_collections_tags.html",
-		"oF": 0
-		},
-	"/_layouts/autopage_tags.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/autopage_tags.html",
-		"oF": 0
-		},
 	"/_layouts/compress.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -9246,7 +9218,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 499797547,
-	"displayValue": "Open Ownership",
+	"displayValue": "OpenOwnership",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/assets/favicons/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
