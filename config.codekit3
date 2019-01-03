@@ -8990,8 +8990,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/connect-with-us.md",
-		"oF": 1,
+		"oAP": "/connect-with-us.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -9218,7 +9218,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 499797547,
-	"displayValue": "OpenOwnership",
+	"displayValue": "Open Ownership",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/assets/favicons/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0

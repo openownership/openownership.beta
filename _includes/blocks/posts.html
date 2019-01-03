@@ -20,7 +20,7 @@
             {% if post.tags != empty %}
             <div class="small-12 medium-shrink cell">
               {% for tag in post.tags %}
-              <a href="/tag/{{ tag }}" class="label text-capitalize">{{ tag }}</a>
+              <a href="/tag/{{ tag | slugify }}" class="label text-capitalize">{{ tag }}</a>
               {% endfor %}
             </div>
             {% endif %}
