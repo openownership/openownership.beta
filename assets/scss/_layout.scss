@@ -403,3 +403,7 @@ width: 100%;
   @include padding(2, null, null, null);
   }
 }
+
+.label:hover {
+color: rgba($white, 0.75);
+}
