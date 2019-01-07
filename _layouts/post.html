@@ -5,11 +5,26 @@ layout: default
 <!-- Post Title -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x padding-vertical-3">
+
     <div class="small-12 cell">
-      <h1>{{page.title}}</h1>
-      {% if page.author %}<div class="medium-gray">By {{ page.author }}</div>{% endif %}
-      <div class="medium-gray">{{ page.date | date: site.date_format }}</div>
+      <h2>{{ page.title }}</h2>
     </div>
+  
+
+      <div class="small-12 medium-shrink cell">
+        <div class="margin-right-1 medium-gray">
+        {% if page.author %}{{ page.author }} · {% endif %}{{ page.date | date: site.date_format }}
+        </div>
+      </div>
+    
+      {% if page.tags != empty %}
+      <div class="small-12 medium-shrink cell show-for-medium">
+        {% for tag in page.tags %}
+        <a href="/tag/{{ tag | slugify }}" class="label text-capitalize">{{ tag }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+
   </div>
 </section>
 <!-- End Post Title -->
