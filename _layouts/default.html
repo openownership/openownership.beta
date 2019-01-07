@@ -31,7 +31,9 @@ layout: compress
 <!-- End Sponsors-->
 
 <!-- Contact -->
+{% unless page.layout == 'connect' %}
 {% include site/contact.html %}
+{% endunless %}
 <!-- End Contact -->
 
 <!-- Footer -->
