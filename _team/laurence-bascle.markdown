@@ -4,6 +4,7 @@ categories:
 - project-team
 position: 2
 job-title: Product Owner
+image: "/uploads/laurence-bascle.jpg"
 email: laurence@openownership.org
 social:
   twitter: https://twitter.com/
