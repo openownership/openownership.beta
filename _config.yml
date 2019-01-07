@@ -98,7 +98,7 @@ pagination:
   sort_field: date
   sort_reverse: true
 autopages:
-  enabled: true
+  enabled: false
   categories:
     enabled: false
   collections:
