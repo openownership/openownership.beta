@@ -3,7 +3,6 @@ title: Ukraine signs MOU with OpenOwnership to implement the Beneficial Ownershi
   Data Standard
 date: 2018-10-22 17:55:00 Z
 tags:
-- ukraine
 - mou
 - 1-1 technical assistance
 - private sector engagement
