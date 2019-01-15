@@ -2,7 +2,7 @@
 title: Terms of Service
 position: 8
 layout: page
----							
+---
 
 ### Terms
 
