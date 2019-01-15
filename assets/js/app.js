@@ -13,8 +13,18 @@ $(document).foundation();
 
 $(function() {
   if($.cookie('showed_modal') != "true") {
-    $("#cookiesPolicy").foundation("open");
+
+setTimeout(
+  function() 
+  {
+    //do something special
+$("#cookiesPolicy").foundation("open")
+  }, 2000);
+
+//     $("#cookiesPolicy").foundation("open");
 //     $.cookie('showed_modal', 'true', { expires: 365, path: '/'}); 
+
+
     $.cookie('showed_modal', 'true', { expires: 365 }); 
   }
 });
