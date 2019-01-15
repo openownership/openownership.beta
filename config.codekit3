@@ -705,6 +705,13 @@
 		"oAP": "/_team/louise-russell-prywata.markdown",
 		"oF": 0
 		},
+	"/_team/simon-whitehouse.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_team/simon-whitehouse.markdown",
+		"oF": 0
+		},
 	"/_team/steve-day.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -756,6 +763,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/claire-reichenbach.jpg": {
+		"ft": 16384,
+		"iS": 904681,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/claire-reichenbach.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/coming-soon.jpg": {
@@ -935,6 +953,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/jack-lord.jpg": {
+		"ft": 16384,
+		"iS": 825937,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/jack-lord.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/kiev-03.jpg": {
@@ -1127,6 +1156,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/simon-whitehouse.jpg": {
+		"ft": 16384,
+		"iS": 905958,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/simon-whitehouse.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/steve-day.jpg": {
+		"ft": 16384,
+		"iS": 1458702,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/steve-day.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_uploads/the-case-doc.jpg": {
 		"ft": 16384,
 		"iS": 231433,
@@ -1268,6 +1319,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/wordcloud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/zosia-sztykowski.jpg": {
+		"ft": 16384,
+		"iS": 1068366,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/zosia-sztykowski.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8944,8 +9006,8 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "/connect-with-us.html",
-		"oF": 0,
+		"oAP": "/connect-with-us.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

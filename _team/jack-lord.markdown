@@ -4,12 +4,11 @@ categories:
 - bods
 position: 3
 job-title: Beneficial Ownership Lead
+image: "/uploads/jack-lord.jpg"
 email: jack@openownership.org
 social:
-  twitter: https://twitter.com/
-  instagram: https://www.instagram.com/
-  github: https://www.github.com/
-  linkedin: https://www.linkedin.com
+  twitter: https://twitter.com/jacklord
+  linkedin: https://www.linkedin.com/in/jack-lord-4486237 
 ---
 
 Jack is Beneficial Ownership Lead at Open Data Services Co-Operative and an author of the Beneficial Ownership Data Standard. He enjoys reading laws about beneficial ownership in languages that he doesn't fully understand.

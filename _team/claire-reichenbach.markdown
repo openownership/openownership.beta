@@ -4,12 +4,10 @@ categories:
 - project-team
 position: 4
 job-title: Operations Manager
+image: "/uploads/claire-reichenbach.jpg"
 email: claire@openownership.org
 social:
-  twitter: https://twitter.com/
-  instagram: https://www.instagram.com/
-  github: https://www.github.com/
-  linkedin: https://www.linkedin.com
+  linkedin: https://www.linkedin.com/in/claire-reichenbach-b633b4106/
 ---
 
 Claire aims to keep the project running smoothly, working on the efficiency and effectiveness of its internal systems and processes. She loves nothing more than getting lost in a good excel spreadsheet.

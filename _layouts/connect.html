@@ -6,6 +6,26 @@ layout: default
 {% include blocks/title.html %}
 <!-- End Page Title -->
 
+<div class="grid-container padding-vertical-3">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-3">
+     {% for detail in page.details %}
+      <div class="cell">
+        <h3>{{detail.title}}</h3>
+        {{detail.text | markdownify}}
+      </div>
+      {% endfor %}
+  </div>
+</div>
+
+<div class="grid-container padding-vertical-3">
+  <div class="grid-x grid-padding-x grid-padding-y">
+      <div class="small-12 cell">
+        <h3>Governance and Funding</h3>
+        {{page.legal | markdownify}}
+      </div>
+  </div>
+</div>
+
 <!-- Project Team Content -->
 <section class="grid-container team__members">
 
