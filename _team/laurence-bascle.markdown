@@ -7,7 +7,7 @@ job-title: Product Owner
 image: "/uploads/laurence-bascle.jpg"
 email: laurence@openownership.org
 social:
-  twitter: https://twitter.com/sheislaurence 
+  twitter: https://twitter.com/sheislaurence
   linkedin: https://www.linkedin.com/in/laurencebascle
 ---
 

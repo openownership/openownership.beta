@@ -8,7 +8,7 @@ image: "/uploads/jack-lord.jpg"
 email: jack@openownership.org
 social:
   twitter: https://twitter.com/jacklord
-  linkedin: https://www.linkedin.com/in/jack-lord-4486237 
+  linkedin: https://www.linkedin.com/in/jack-lord-4486237
 ---
 
 Jack is Beneficial Ownership Lead at Open Data Services Co-Operative and an author of the Beneficial Ownership Data Standard. He enjoys reading laws about beneficial ownership in languages that he doesn't fully understand.
