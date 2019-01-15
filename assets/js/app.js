@@ -1,5 +1,3 @@
-// $(document).on('turbolinks:load', function() {
-
 // 1. Foundation
 // --------------------
 
@@ -12,6 +10,15 @@ Foundation.Interchange.SPECIAL_QUERIES['xlarge-retina'] = 'only screen and (min-
 Foundation.Interchange.SPECIAL_QUERIES['xxlarge-retina'] = 'only screen and (min-width: 90em), (min-width: 75em) and (-webkit-min-device-pixel-ratio: 2), (min-width: 75em) and (min--moz-device-pixel-ratio: 2), (min-width: 75em) and (-o-min-device-pixel-ratio: 2/1), (min-width: 75em) and (min-device-pixel-ratio: 2), (min-width: 75em) and (min-resolution: 192dpi), (min-width: 75em) and (min-resolution: 2dppx)';
 
 $(document).foundation();
+
+$(function() {
+  if($.cookie('showed_modal') != "true") {
+    $("#cookiesPolicy").foundation("open");
+//     $.cookie('showed_modal', 'true', { expires: 365, path: '/'}); 
+    $.cookie('showed_modal', 'true', { expires: 365 }); 
+  }
+});
+
 
 // 2. Animate on Scroll
 // --------------------
@@ -27,5 +34,3 @@ $(function() {
 $(function() {
 window.addEventListener('load', AOS.refresh);
 });
-
-// });

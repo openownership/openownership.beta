@@ -39,7 +39,8 @@
     "what-input": "^5.1.1",
     "lightgallery": "^1.6.11",
     "jquery": "^3.3.1",
-    "motion-ui": "^2.0.3"
+    "motion-ui": "^2.0.3",
+    "jquery.cookie": "jquery-cookie#^1.4.1"
   },
   "resolutions": {
     "what-input": "^5.1.1",

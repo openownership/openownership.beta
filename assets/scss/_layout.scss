@@ -245,6 +245,11 @@ p {
   @include links ($white, $primary-color);
 }
 
+.offcanvas p {
+  @include links ($white, $primary-color);
+  color: $white;
+}
+
 .offcanvas .menu .active a {
   color: $primary-color;
 }
