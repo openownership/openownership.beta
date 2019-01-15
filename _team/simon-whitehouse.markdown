@@ -3,7 +3,7 @@ title: Simon Whitehouse
 categories:
 - bods
 position: 3
-job-title: Data Standards Adoption Consultant 
+job-title: Data Standards Adoption Consultant
 image: "/uploads/simon-whitehouse.jpg"
 email: jack@openownership.org
 social:
