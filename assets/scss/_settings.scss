@@ -410,8 +410,10 @@ $closebutton-size: (
   medium: 2em,
 );
 $closebutton-lineheight: 1;
-$closebutton-color: $dark-gray;
-$closebutton-color-hover: $black;
+// $closebutton-color: $dark-gray;
+$closebutton-color: $primary-color;
+// $closebutton-color-hover: $black;
+$closebutton-color-hover: $white;
 
 // 16. Drilldown
 // -------------
@@ -480,14 +482,16 @@ $input-prefix-color: $black;
 $input-prefix-background: $light-gray;
 $input-prefix-border: 1px solid $medium-gray;
 $input-prefix-padding: 1rem;
-$form-label-color: $black;
+// $form-label-color: $black;
+$form-label-color: $white;
 $form-label-font-size: rem-calc(14);
 $form-label-font-weight: $global-weight-normal;
 $form-label-line-height: 1.8;
 $select-background: $white;
 $select-triangle-color: $dark-gray;
 $select-radius: $global-radius;
-$input-color: $black;
+// $input-color: $black;
+$input-color: $medium-gray;
 // $input-placeholder-color: $medium-gray;
 $input-placeholder-color: $white;
 $input-font-family: inherit;
