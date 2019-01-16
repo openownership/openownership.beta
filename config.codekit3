@@ -251,6 +251,13 @@
 		"oAP": "/_includes/pagination/what-we-do.html",
 		"oF": 0
 		},
+	"/_includes/reveal/newsletter.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/reveal/newsletter.html",
+		"oF": 0
+		},
 	"/_includes/site/analytics.html": {
 		"cB": 0,
 		"ft": 8192,

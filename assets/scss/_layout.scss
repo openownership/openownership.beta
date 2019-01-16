@@ -72,6 +72,7 @@ line-height: 1.4;
 
 .white {
   color: $white;
+  @include links ($medium-gray, $primary-color);
 }
 
 .medium-gray {
@@ -414,5 +415,9 @@ width: 100%;
 }
 
 .label:hover {
-color: rgba($white, 0.75);
+  color: rgba($white, 0.75);
+}
+
+.reveal label {
+  color: $medium-gray;
 }
