@@ -2,8 +2,8 @@
 title: Ghana announces partnership with OpenOwnership
 date: 2017-09-19 15:45:00 Z
 image: "/uploads/ghana.jpg"
-image-caption: Ghana's Minister of Public Planning, Professor Gyan Baffour,
-  announing his country's partnership with OpenOwnership at the Concorndia Summit
+image-caption: Ghana's Minister of Public Planning, Professor Gyan Baffour, announing
+  his country's partnership with OpenOwnership at the Concorndia Summit
 author: Zosia Sztykowski
 ---
 
