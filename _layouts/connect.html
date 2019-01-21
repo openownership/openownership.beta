@@ -91,7 +91,7 @@ layout: default
       <h1>Get involved</h1>
       {% assign content = page.get-involved-text | strip_newlines %}
       {% unless content == ""  %}
-      <h5 class="sans-regular">{{content}}</h5>
+      <h5 class="sans-regular">{{content | markdownify}}</h5>
       {% endunless %}
     </div>
   </div>
@@ -100,10 +100,10 @@ layout: default
 
 <!-- Page Content -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y padding-bottom-3" data-equalizer data-equalize-on-stack="true">
+  <div class="grid-x grid-padding-x grid-padding-y padding-bottom-2" data-equalizer data-equalize-on-stack="true" data-equalize-by-row="true">
   {% for sector in page.sectors %}
     <div class="small-12 medium-12 large-6 {% if sector.is-full-width %}large-12{% endif %} cell padding-1">
-    <div class="callout shadow margin-bottom-0" data-equalizer-watch>
+    <div class="callout large margin-bottom-0" data-equalizer-watch>
       <h3 class="serif-bold padding-bottom-1">{{sector.title}}</h3>
       {{sector.text | markdownify}}
     </div>
@@ -113,7 +113,7 @@ layout: default
 </section>
 <!-- End Page Content -->
 
-<div class="grid-container padding-vertical-3">
+<div class="grid-container padding-vertical-1">
   <div class="grid-x grid-padding-x grid-padding-y">
       <div class="small-12 cell">
         <h3>Governance and Funding</h3>
@@ -121,8 +121,6 @@ layout: default
       </div>
   </div>
 </div>
-
-
 
 </section>
 <!-- Project Team Content -->
