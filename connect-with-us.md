@@ -6,8 +6,7 @@ legal: We are fiscally sponsored by the [Fund for the City of New York](http://w
   to launch new programs without needing to complete the full process of establishing
   a new legal entity. As we grow, we will be evaluating the best organizational setup.
 get-involved-text: OpenOwnership thrives on collaboration with a diverse and global
-  range of people and organizations. We are always eager to bring new partners on
-  board. Every new dataset, use case, and referral strengthens our platform and cause.
+  range of people and organizations. Every new dataset, use case, and referral strengthens our platform and cause. If you have a general question, you can get in touch with us [here](mailto:support@openownership.org).
 sectors:
 - title: Public sector
   text: Find out about becoming a partner in our pilot program. Check out our latest
@@ -24,9 +23,6 @@ sectors:
   text: If you would like to use our data, or think your government could benefit
     from our implementation support, please get in touch. Our research and resources
     can be powerful advocacy tools - these are available to download [here](https://openownership.org/resources/).
-- title: Contact
-  text: If you have a general question, are looking for information, or just want
-    to know more, you can get in touch with us here support@openownership.org
 layout: connect
 ---
 
