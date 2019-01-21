@@ -2,7 +2,7 @@
 title: Laurence Bascle
 categories:
 - project-team
-position: 3
+position: 2
 job-title: Product Owner
 image: "/uploads/laurence-bascle.jpg"
 email: laurence@openownership.org
