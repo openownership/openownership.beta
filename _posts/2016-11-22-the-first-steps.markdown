@@ -4,7 +4,8 @@ date: 2016-11-22 14:35:00 Z
 categories:
 - announcements
 tags:
-- beneficial ownership
+- 1-1 technical assistance
+- the-beneficial-ownership-data-standard
 feature-image: "/uploads/first-steps.jpg"
 author: Hera Hussain
 ---
