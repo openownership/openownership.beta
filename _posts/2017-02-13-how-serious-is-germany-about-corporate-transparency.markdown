@@ -1,7 +1,7 @@
 ---
 title: How serious is Germany about corporate transparency?
 date: 2017-02-13 15:17:00 Z
-feature-image: "/uploads/germany.jpg"
+image: "/uploads/germany.jpg"
 author: Andi Pawelke
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Beneficial ownership transparency in Ukraine: what’s next?'
 date: 2018-04-04 13:20:00 Z
-feature-image: "/uploads/ukraine.jpg"
+image: "/uploads/ukraine.jpg"
 author: Zosia Sztykowski
 ---
 

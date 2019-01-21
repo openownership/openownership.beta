@@ -1,7 +1,7 @@
 ---
 title: Going Beyond the Register - our Mission Statement
 date: 2018-08-01 16:02:00 Z
-feature-image: "/uploads/mission-statement.jpg"
+image: "/uploads/mission-statement.jpg"
 author: Zosia Sztykowski
 ---
 

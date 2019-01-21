@@ -6,7 +6,7 @@ categories:
 tags:
 - 1-1 technical assistance
 - the-beneficial-ownership-data-standard
-feature-image: "/uploads/first-steps.jpg"
+image: "/uploads/first-steps.jpg"
 author: Hera Hussain
 ---
 

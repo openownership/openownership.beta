@@ -22,17 +22,17 @@
       </div>
 
   
-      {% if post.feature-image %}
+      {% if post.image %}
       <div class="grid-x grid-padding-y">
         <div class="small-12 cell padding-top-0">
         <a href="{{ post.url }}">
-          {% assign image = post.feature-image %}
+          {% assign image = post.image %}
           <div class="light-gray-background image shadow" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
         </a>
-        {% if post.feature-image-caption %}
+        {% if post.image-caption %}
         <div class="grid-x margin-top-1">
           <div class="small-12 cell serif-italic medium-gray">
-          <small>{{post.feature-image-caption}}</small>
+          <small>{{post.image-caption}}</small>
           </div>
         </div>
         {% endif %}

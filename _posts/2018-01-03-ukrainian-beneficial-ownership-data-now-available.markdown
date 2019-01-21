@@ -1,7 +1,7 @@
 ---
 title: Ukrainian beneficial ownership data now available
 date: 2018-01-03 15:27:00 Z
-feature-image: "/uploads/ukraine-report.jpg"
+image: "/uploads/ukraine-report.jpg"
 author: Zosia Sztykowski
 ---
 

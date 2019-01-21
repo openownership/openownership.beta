@@ -2,7 +2,7 @@
 title: New on the OpenOwnership Register - data from the Danish Business Register
   has been added
 date: 2018-08-21 10:02:00 Z
-feature-image: "/uploads/denmark.jpg"
+image: "/uploads/denmark.jpg"
 author: Aleksi Knuutila
 ---
 

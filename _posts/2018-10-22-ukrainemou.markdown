@@ -6,7 +6,7 @@ tags:
 - mou
 - 1-1 technical assistance
 - private sector engagement
-feature-image: "/uploads/ukraine-signs.jpg"
+image: "/uploads/ukraine-signs.jpg"
 author: Louise Russell-Prywata
 ---
 

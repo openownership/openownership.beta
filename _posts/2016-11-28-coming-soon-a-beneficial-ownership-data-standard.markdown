@@ -6,7 +6,7 @@ categories:
 tags:
 - data standard
 - working groups
-feature-image: "/uploads/coming-soon.jpg"
+image: "/uploads/coming-soon.jpg"
 author: Chris Taggart
 ---
 

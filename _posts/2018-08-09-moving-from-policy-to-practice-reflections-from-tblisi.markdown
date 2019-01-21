@@ -1,7 +1,7 @@
 ---
 title: 'Moving from policy to practice: reflections from Tblisi'
 date: 2018-08-09 09:01:00 Z
-feature-image: "/uploads/tsibli.jpg"
+image: "/uploads/tsibli.jpg"
 author: Kadie Armstrong
 ---
 

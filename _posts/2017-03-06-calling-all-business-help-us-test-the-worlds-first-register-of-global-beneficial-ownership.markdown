@@ -2,7 +2,7 @@
 title: Calling all businesses! Help us test the world's first register of global beneficial
   ownership
 date: 2017-03-06 17:51:00 Z
-feature-image: "/uploads/calling.jpg"
+image: "/uploads/calling.jpg"
 author: Madeleine McCarroll
 ---
 

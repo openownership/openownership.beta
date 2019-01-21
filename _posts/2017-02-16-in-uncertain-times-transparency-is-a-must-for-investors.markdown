@@ -1,7 +1,7 @@
 ---
 title: In uncertain times, transparency is a must for investors
 date: 2017-02-16 11:05:00 Z
-feature-image: "/uploads/uncertain.jpg"
+image: "/uploads/uncertain.jpg"
 author: Eryn Schornick
 ---
 

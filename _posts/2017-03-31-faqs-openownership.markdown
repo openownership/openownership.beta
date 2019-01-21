@@ -1,7 +1,7 @@
 ---
 title: 'FAQs: OpenOwnership'
 date: 2017-03-31 16:17:00 Z
-feature-image: "/uploads/faqs.jpg"
+image: "/uploads/faqs.jpg"
 author: Zosia Sztykowski
 ---
 

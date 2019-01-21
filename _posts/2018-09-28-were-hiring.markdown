@@ -3,9 +3,9 @@ title: We're hiring!
 date: 2018-09-28 13:27:00 Z
 tags:
 - hiring
-feature-image: "/uploads/hiring.jpg"
+image: "/uploads/hiring.jpg"
 author: Zosia Sztykowski
-feature-image-caption: 
+image-caption: 
 ---
 
 Ten years ago, the idea of public registers of beneficial ownership was a campaigner's long-shot. Now, with governments across the world committed to collecting and publishing information on the people who really own companies, we are are making it a reality. 
