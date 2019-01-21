@@ -13,7 +13,9 @@ legal: We are fiscally sponsored by the [Fund for the City of New York](http://w
   to launch new programs without needing to complete the full process of establishing
   a new legal entity. As we grow, we will be evaluating the best organizational setup.
 layout: connect
-get-involved-text: OpenOwnership thrives on collaboration with a diverse and global range of people and organizations. We are always eager to bring new partners on board. Every new dataset, use case, and referral strengthens our platform and cause.
+get-involved-text: OpenOwnership thrives on collaboration with a diverse and global
+  range of people and organizations. We are always eager to bring new partners on
+  board. Every new dataset, use case, and referral strengthens our platform and cause.
 sectors:
 - title: Public sector
   text: |-
