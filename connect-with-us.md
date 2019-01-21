@@ -14,7 +14,7 @@ sectors:
   text: Find out about becoming a partner in our pilot program. Check out our latest
     [briefings](https://openownership.org/resources/) and project [updates](https://openownership.org/news/).
 - title: Private sector
-  text: Download our private sector[introductory briefing](https://openownership.org/resources/)
+  text: Download our private sector [introductory briefing](https://openownership.org/resources/)
     and [add your company data](https://register.openownership.org/users/sign_up)
     to the OpenOwnership Register.
 - title: Journalists and law enforcement agencies
@@ -23,8 +23,8 @@ sectors:
     datasets.
 - title: Civil society
   text: If you would like to use our data, or think your government could benefit
-    from our implementation support, please get in touch. Our research and resources
-    can be powerful advocacy tools - these are available to download [here](https://openownership.org/resources/).
+    from our implementation support, please get in [touch](mailto:support@openownership.org). Our research and resources
+    can be powerful advocacy tools — these are available to download [here](https://openownership.org/resources/).
 layout: connect
 ---
 

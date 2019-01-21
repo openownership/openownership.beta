@@ -4,6 +4,7 @@ categories:
 - project-team
 position: 4
 job-title: Communications Associate
+image: "/uploads/francesca-baker.jpg"
 email: francesca@openownership.org
 social:
   twitter: https://twitter.com/andsoshethinks

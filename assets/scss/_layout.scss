@@ -232,7 +232,7 @@ p {
 }
 
 .image--resource {
-  box-shadow: 4px 4px 0px #3C31D4;
+  box-shadow: 4px 4px 0px $primary-color;
 }
 
 .home ol li p, .home ol {
@@ -398,9 +398,10 @@ width: 100%;
 }
 
 .shadow {
-  transition: box-shadow 0.25s; 
+  transition: box-shadow 0.25s;
+  box-shadow: 5px 5px 0px $primary-color;
   &:hover {
-  box-shadow: 0 2px 20px 0 rgba(14,30,37,.24);
+  box-shadow: 5px 5px 0px $medium-gray;
   }
 }
 

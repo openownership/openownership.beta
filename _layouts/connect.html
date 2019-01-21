@@ -2,14 +2,22 @@
 layout: default
 ---
 
-<!-- Page Title -->
-{% include blocks/title.html %}
-<!-- End Page Title -->   
+<!-- Connect with Us Title -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y page__title">
+    <div class="small-12 medium-10 large-8 cell">
+      <h1>{{page.title}}</h1>
+      {% assign content = page.content | strip_newlines %}
+      {% unless content == ""  %}
+      <h5 class="sans-regular">{{content}}</h5>
+      {% endunless %}
+    </div>
+  </div>
+</div>
+<!-- End Connect with Us Title -->
 
-<!-- Project Team Content -->
-<section class="grid-container team__members">
-
-
+<!-- Core Team Content -->
+<div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3" data-equalizer data-equalize-by-row="true">
     {% assign sorted_team_bods = site.team | sort:"position" | where: "categories", "project-team" %}
     {% for member in sorted_team_bods %}
@@ -43,13 +51,20 @@ layout: default
     </div>
     {% endfor %}
   </div>
+</div>
+<!-- End Core Team Content -->
 
+<!-- BODs Title -->
+<div class="grid-container">
   <div class="grid-x grid-padding-x">
     <div class="small-12 cell">
       <h3>Beneficial Ownership Data Standard Team</h3>
     </div>
   </div>
+</div>
+<!-- End BODs Title -->
 
+<div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3" data-equalizer data-equalize-on-stack="false">
   {% assign sorted_team_bods = site.team | sort:"position" | where: "categories", "bods" %}
   {% for member in sorted_team_bods %}
@@ -83,10 +98,11 @@ layout: default
   </div>
   {% endfor %}
   </div>
+</div>
 
-<!-- Page Title -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y page__title">
+<!-- Get Involved Title -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 medium-10 large-8 cell">
       <h1>Get involved</h1>
       {% assign content = page.get-involved-text | strip_newlines %}
@@ -95,15 +111,15 @@ layout: default
       {% endunless %}
     </div>
   </div>
-</section>
-<!-- End Page Title -->
+</div>
+<!-- End Get Involved Title -->
 
 <!-- Page Content -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y padding-bottom-2" data-equalizer data-equalize-on-stack="true" data-equalize-by-row="true">
   {% for sector in page.sectors %}
     <div class="small-12 medium-12 large-6 {% if sector.is-full-width %}large-12{% endif %} cell padding-1">
-    <div class="callout large margin-bottom-0" data-equalizer-watch>
+    <div class="callout large shadow margin-bottom-0" data-equalizer-watch>
       <h3 class="serif-bold padding-bottom-1">{{sector.title}}</h3>
       {{sector.text | markdownify}}
     </div>
@@ -113,10 +129,10 @@ layout: default
 </section>
 <!-- End Page Content -->
 
-<div class="grid-container padding-vertical-1">
+<div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y">
       <div class="small-12 cell">
-        <h3>Governance and Funding</h3>
+        <h1>Governance and Funding</h1>
         {{page.legal | markdownify}}
       </div>
   </div>
