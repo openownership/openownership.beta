@@ -11,4 +11,4 @@ social:
   linkedin: https://www.linkedin.com/in/zosiasztykowski/
 ---
 
-Zosia steers the ship. She loves untangling complex problems, preferably with the help of a great soundtrack.
+Zosia leads the talented team you see here. She loves untangling complex problems, preferably with the help of a great soundtrack.

@@ -12,4 +12,4 @@ social:
   linkedin: https://www.linkedin.com
 ---
 
-Kadie works on the Beneficial Ownership Data Standard as part of the Open Data Services Co-operative team. She's so passionate about changing the norms around corporate ownership that she joined a workers co-op.
+Kadie works on the Beneficial Ownership Data Standard. She's so passionate about changing the norms around corporate ownership that she joined a workers co-op.

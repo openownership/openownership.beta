@@ -11,4 +11,4 @@ social:
   linkedin: https://www.linkedin.com/in/laurencebascle
 ---
 
-French national Laurence is a project management whizz (she’s a Certified Scrum Professional). When she’s not bringing her technical chops to OpenOwnership’s various programs, you can find her on a surf, skate or any other kind of board you can think of.
+Laurence is a project management whizz (she’s a Certified Scrum Professional). When she’s not bringing her technical chops to OpenOwnership’s various programs, you can find her on a surf, skate or any other kind of board you can think of.

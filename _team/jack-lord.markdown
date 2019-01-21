@@ -11,4 +11,4 @@ social:
   linkedin: https://www.linkedin.com/in/jack-lord-4486237
 ---
 
-Jack is Beneficial Ownership Lead at Open Data Services Co-Operative and an author of the Beneficial Ownership Data Standard. He enjoys reading laws about beneficial ownership in languages that he doesn't fully understand.
+Jack is Beneficial Ownership Lead and an author of the Beneficial Ownership Data Standard. He enjoys reading laws about beneficial ownership in languages that he doesn't fully understand.

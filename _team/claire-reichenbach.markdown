@@ -10,4 +10,4 @@ social:
   linkedin: https://www.linkedin.com/in/claire-reichenbach-b633b4106/
 ---
 
-Claire aims to keep the project running smoothly, working on the efficiency and effectiveness of its internal systems and processes. She loves nothing more than getting lost in a good excel spreadsheet.
+Claire aims to keep the project running smoothly, improving the efficiency and effectiveness of our internal systems and processes. She loves nothing more than getting lost in a good excel spreadsheet.

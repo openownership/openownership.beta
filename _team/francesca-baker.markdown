@@ -10,4 +10,4 @@ social:
   linkedin: https://www.linkedin.com/in/francescabaker
 ---
 
-Francesca is a storyteller, spreading the word about the work we do.
+Francesca is a storyteller, spreading the word about the work we do. She’s passionate about communication and connection.
