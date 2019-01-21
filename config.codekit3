@@ -188,13 +188,6 @@
 		"oAP": "/_includes/blocks/title.html",
 		"oF": 0
 		},
-	"/_includes/images/interchange-img-small-12-medium-12-cell-dev.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/images/interchange-img-small-12-medium-12-cell-dev.html",
-		"oF": 0
-		},
 	"/_includes/images/interchange-img-small-12-medium-12-cell.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -207,13 +200,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_includes/images/interchange-img-small-12-medium-4-cell.html",
-		"oF": 0
-		},
-	"/_includes/images/interchange-img-small-12-medium-6-cell-dev.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/images/interchange-img-small-12-medium-6-cell-dev.html",
 		"oF": 0
 		},
 	"/_includes/images/interchange-img-small-12-medium-6-cell.html": {
