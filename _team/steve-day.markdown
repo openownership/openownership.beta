@@ -1,7 +1,7 @@
 ---
 title: Steve Day
 categories:
-- bods
+- project-team
 position: 3
 job-title: Lead Developer
 image: "/uploads/steve-day.jpg"
