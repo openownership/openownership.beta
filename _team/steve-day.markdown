@@ -2,7 +2,7 @@
 title: Steve Day
 categories:
 - bods
-position: 4
+position: 3
 job-title: Lead Developer
 image: "/uploads/steve-day.jpg"
 email: steve@openownership.org

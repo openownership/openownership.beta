@@ -2,7 +2,7 @@
 title: Francesca Baker
 categories:
 - project-team
-position: 7
+position: 4
 job-title: Communications Associate
 email: francesca@openownership.org
 social:
