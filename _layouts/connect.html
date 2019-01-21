@@ -4,7 +4,7 @@ layout: default
 
 <!-- Page Title -->
 {% include blocks/title.html %}
-<!-- End Page Title -->
+<!-- End Page Title -->   
 
 <!-- Project Team Content -->
 <section class="grid-container team__members">
@@ -83,6 +83,35 @@ layout: default
   </div>
   {% endfor %}
   </div>
+
+<!-- Page Title -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y page__title">
+    <div class="small-12 medium-10 large-8 cell">
+      <h1>Get involved</h1>
+      {% assign content = page.get-involved-text | strip_newlines %}
+      {% unless content == ""  %}
+      <h5 class="sans-regular">{{content}}</h5>
+      {% endunless %}
+    </div>
+  </div>
+</section>
+<!-- End Page Title -->
+
+<!-- Page Content -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y padding-bottom-3" data-equalizer data-equalize-on-stack="true">
+  {% for sector in page.sectors %}
+    <div class="small-12 medium-12 large-6 {% if sector.is-full-width %}large-12{% endif %} cell padding-1">
+    <div class="callout shadow margin-bottom-0" data-equalizer-watch>
+      <h3 class="serif-bold padding-bottom-1">{{sector.title}}</h3>
+      {{sector.text | markdownify}}
+    </div>
+    </div>
+  {% endfor %}
+  </div>
+</section>
+<!-- End Page Content -->
 
 <div class="grid-container padding-vertical-3">
   <div class="grid-x grid-padding-x grid-padding-y">
