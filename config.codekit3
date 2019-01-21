@@ -265,13 +265,6 @@
 		"oAP": "/_includes/site/analytics.html",
 		"oF": 0
 		},
-	"/_includes/site/contact.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_includes/site/contact.html",
-		"oF": 0
-		},
 	"/_includes/site/cookies.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -333,13 +326,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/_layouts/default.html",
-		"oF": 0
-		},
-	"/_layouts/get-involved.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/_layouts/get-involved.html",
 		"oF": 0
 		},
 	"/_layouts/home.html": {
