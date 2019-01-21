@@ -4,7 +4,6 @@ date: 2017-03-31 16:17:00 Z
 tags:
 - 1-1 technical assistance
 - the beneficial ownership data standard
-
 image: "/uploads/faqs.jpg"
 author: Zosia Sztykowski
 ---
