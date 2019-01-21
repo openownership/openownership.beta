@@ -23,8 +23,9 @@ sectors:
     datasets.
 - title: Civil society
   text: If you would like to use our data, or think your government could benefit
-    from our implementation support, please get in [touch](mailto:support@openownership.org). Our research and resources
-    can be powerful advocacy tools — these are available to download [here](https://openownership.org/resources/).
+    from our implementation support, please get in [touch](mailto:support@openownership.org).
+    Our research and resources can be powerful advocacy tools — these are available
+    to download [here](https://openownership.org/resources/).
 layout: connect
 ---
 
