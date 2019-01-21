@@ -265,6 +265,13 @@
 		"oAP": "/_includes/site/analytics.html",
 		"oF": 0
 		},
+	"/_includes/site/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_includes/site/contact.html",
+		"oF": 0
+		},
 	"/_includes/site/cookies.html": {
 		"cB": 0,
 		"ft": 8192,
