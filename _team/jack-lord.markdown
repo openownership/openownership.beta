@@ -2,7 +2,7 @@
 title: Jack Lord
 categories:
 - bods
-position: 6
+position: 7
 job-title: Beneficial Ownership Lead
 image: "/uploads/jack-lord.jpg"
 email: jack@openownership.org
