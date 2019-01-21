@@ -2,7 +2,7 @@
 title: Louise Russell-Prywata
 categories:
 - project-team
-position: 7
+position: 1
 job-title: Communications Associate
 image: "/uploads/louise.jpg"
 email: louise@openownership.org

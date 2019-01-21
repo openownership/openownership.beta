@@ -2,7 +2,7 @@
 title: Kadie Armstrong
 categories:
 - bods
-position: 1
+position: 2
 job-title: Open Standards Adoption Lead
 email: kadie@openownership.org
 social:
