@@ -43,7 +43,9 @@ layout: default
         <div class="callout shadow large" data-equalizer-watch>
         {% if post.feature-image %}
         {% assign image = post.feature-image %}
+<a href="{{ post.url }}">
         <div class="light-gray-background image margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+</a>
         {% endif %}
         <a href="{{ post.url }}" class="{% if post.feature-image %}h5{% else %}h3{% endif %}">{{post.title}}</a>
         </div>
