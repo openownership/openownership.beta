@@ -1,6 +1,8 @@
 ---
 title: OpenOwnership in Kiev
 date: 2018-12-18 11:01:00 Z
+tags:
+- 1-1 technical assistance
 feature-image: "/uploads/kiev-03.jpg"
 author: Louise Russell-Prywata
 ---
