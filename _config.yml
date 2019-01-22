@@ -40,7 +40,7 @@ defaults:
     path: ''
     type: resources
   values:
-    description:
+    description: 
     file: 
     author: 
     thumbnail-image: 
@@ -48,7 +48,7 @@ defaults:
     path: ''
     type: team
   values:
-    job-title:
+    job-title: 
     image: 
     email: 
     social:
