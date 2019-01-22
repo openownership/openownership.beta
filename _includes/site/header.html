@@ -1,0 +1,75 @@
+<div class="grid-x header primary-background">
+<div class="small-12 cell">
+
+<!-- Header Top -->
+
+{% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+
+<div class="grid-x margin-horizontal-2 padding-top-1 padding-bottom-0 align-justify header__top show-for-medium">
+  
+  <div class="auto cell header__navigation sans-bold">
+    <div class="show-for-medium">
+      <ul class="dropdown menu align-middle" data-dropdown-menu>
+        {% for entry in site.data.navigation.header %}
+        {% if entry.url == current_page %}
+        {% assign current = ' class="active"' %}
+        {% else %}
+        {% assign current = null %}
+        {% endif %}
+        {% assign sublinks = entry.sublinks %}
+        {% if sublinks %}
+        <li{{ current }}>
+        <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+        <ul class="menu align-middle">
+        {% for sublink in sublinks %}
+        <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+        {% endfor %}
+        </ul>
+        </li>
+        {% else %}
+        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+        <li class="external"><a href="https://register.openownership.org" class="icon-hover" target="_blank"><span class="show-for-large"> View the</span> Register <span class="show-for-large"><svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></span></a></li>
+        <li class="external"><a href="https://standard.openownership.org" class="icon-hover" target="_blank"><span class="show-for-large"> View the</span> Data Standard <span class="show-for-large"><svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></span></a></li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="shrink cell header__social">
+    <div class="show-for-xlarge">
+      <ul class="menu align-center align-middle">
+        <li class="menu-text padding-right-0">Follow our work on</li>
+        {% for item in site.social %}  
+        <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1 padding-right-0"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+        {% endfor %} 
+      </ul>
+    </div>
+  </div>
+  
+</div>
+<!-- End Navigation -->
+
+<!-- Logo and Tagline -->
+<div class="grid-x grid-padding-x grid-padding-y align-justify header__bottom">  
+  <div class="shrink cell header__logo">
+    <a href="/"><svg class="icon icon-logo-main show-for-medium"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
+    <a href="/"><svg class="icon icon-logo-strapline show-for-small-only"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-strapline"></use></svg></a>
+  </div>
+  
+  <div class="shrink cell serif-regular show-for-medium">
+  <a href="https://register.openownership.org" class="white">The Global Beneficial Ownership Register</a>
+  </div>
+  
+  <div class="shrink cell serif-regular show-for-small-only">
+    <button class="hamburger hamburger--collapse" data-toggler=".is-active" id="toggle" aria-label="menu" type="button" data-toggle="offCanvas">
+      <span class="hamburger-box">
+      <span class="hamburger-inner"></span>
+      </span>
+    </button>
+  </div>
+</div>
+<!-- End Logo and Tagline -->
+
+</div>
+</div>

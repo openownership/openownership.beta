@@ -1,0 +1,43 @@
+<div class="grid-x grid-padding-y padding-2 sans-bold offcanvas">
+  <div class="small-12 cell">
+  
+  {% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+  
+      <ul class="vertical menu" data-accordion-menu>
+      {% for entry in site.data.navigation.header %}
+      {% if entry.url == current_page %}
+      {% assign current = ' class="active"' %}
+      {% else %}
+      {% assign current = null %}
+      {% endif %}
+      {% assign sublinks = entry.sublinks %}
+      {% if sublinks %}
+      <li{{ current }}><a href="#">{{ entry.title }}</a>
+        <ul class="menu vertical nested">
+            {% for sublink in sublinks %}
+            <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+            {% endfor %}
+         </ul>
+      </li>
+      
+    <ul class="vertical menu">
+      {% else %}
+        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+      {% endif %}
+      {% endfor %}
+        <li class="external"><a href="https://register.openownership.org">View the Register <svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></a></li>
+    </ul>
+  
+    <ul class="menu simple social-links margin-top-2">
+      {% for item in site.social %}  
+      <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+      {% endfor %}
+    </ul>
+
+    <ul class="vertical menu">
+      <li><a href="/terms">Terms</a></li>
+      <li><a href="/privacy">Privacy</a></li>
+    </ul>
+  
+  </div>
+</div>

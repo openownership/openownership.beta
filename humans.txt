@@ -1,0 +1,57 @@
+Gareth Johns Design + Development
+
+The team, technology & tools behind this site.
+
+Brendan Gatens
+Original Design + Development
+@brendangatens
+
+GARETH JOHNS DESIGN + DEVELOPMENT TEAM
+--------
+
+Made with love in London.
+
+Gareth Johns
+Design + Development
+@garethjohnsabc
+
+
+TECHNOLOGY
+----------
+
+Siteleaf - Content management system
+siteleaf.com
+
+Foundation - Front-end framework
+foundation.zurb.com
+
+Jekyll - Static site generator
+jekyllrb.com
+
+Sass - CSS pre-processor
+sass-lang.com
+
+Liquid - Templating
+shopify.github.io/liquid
+
+GitHub - Code collaboration & hosting
+github.com
+
+JavaScript libraries include:
+jQuery
+
+
+TOOLS
+-----
+
+Coda - Text editor
+panic.com/coda/
+
+Sketch - Graphics editor
+sketchapp.com
+
+Illustrator & Photoshop - Graphics editor
+adobe.com
+
+Slack - Emojis and GIFs
+slack.com

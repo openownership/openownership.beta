@@ -1,0 +1,49 @@
+{% for entry in site.data.navigation.footer %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+
+<!-- Footer -->
+<footer class="grid-x grid-padding-x grid-padding-y align-justify primary-background sans-bold padding-1">
+  
+  <div class="small-12 medium-6 large-4 xlarge-shrink cell show-for-large">
+    <div class="grid-y height-100 align-justify">
+      <div class="shrink cell">
+      <a href="/"><svg class="icon icon-logo-main margin-bottom-1"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
+      </div>
+      <div class="shrink cell">
+      <ul class="menu">
+      <li class="menu-text">© OpenOwnership</li>
+      <li><a href="/terms">Terms</a></li>
+      <li><a href="/privacy">Privacy</a></li>
+      </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="small-12 medium-6 large-4 xlarge-shrink cell">
+    <ul class="vertical menu text-center medium-text-left">
+      {% for entry in site.data.navigation.footer %}
+      {% if entry.url == current_page %}
+      {% assign current = ' class="active"' %}
+      {% else %}
+      {% assign current = null %}
+      {% endif %}
+      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="small-12 medium-6 large-3 xlarge-shrink cell show-for-xlarge">
+    <ul class="vertical menu">
+      <li class="menu-text serif-italic">Follow our work on</li>
+      {% for item in site.social %}  
+      <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="text-capitalize">{{ item[0] }}</a></li>
+      {% endfor %} 
+    </ul>
+  </div>
+
+  <div class="small-12 medium-6 large-4 xlarge-shrink cell">
+    <div class="serif-italic margin-bottom-1 text-center medium-text-left">Keep up to date</div>
+    <button class="button expanded" data-open="newsletter">Join the newsletter</button>
+  </div>
+
+</footer>
+<!-- End Footer -->

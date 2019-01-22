@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<!-- Page Title -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y page__title">
+    <div class="small-12 medium-10 large-8 cell">
+      <h1 class="text-capitalize">{{page.autopages.display_name}}</h1>
+    </div>
+  </div>
+</section>
+<!-- End Page Title -->        
+
+<!-- Posts -->
+{% include blocks/posts.html %}
+<!-- End Posts -->
+
+<!-- Pagination -->  
+{% include pagination/collection.html %}
+<!-- End Pagination -->

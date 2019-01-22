@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<!-- Post Title -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x padding-vertical-3">
+
+    <div class="small-12 cell">
+      <h2>{{ page.title }}</h2>
+    </div>
+  
+
+      <div class="small-12 medium-shrink cell">
+        <div class="margin-right-1 medium-gray">
+        {% if page.author %}{{ page.author }} · {% endif %}{{ page.date | date: site.date_format }}
+        </div>
+      </div>
+    
+      {% if page.tags != empty %}
+      <div class="small-12 medium-shrink cell show-for-medium">
+        {% for tag in page.tags %}
+        <a href="/tag/{{ tag | slugify }}" class="label text-capitalize">{{ tag }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+  </div>
+</section>
+<!-- End Post Title -->
+
+<!-- Post Content -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 cell border-top">
+      {% if page.image %}
+          {% assign image = page.image %}
+          <div class="light-gray-background image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+<!-- End Post Title -->
+
+<!-- Post Content -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-10 cell">
+
+    {{ page.content | replace: "/uploads", "https://open-ownership.imgix.net/uploads" }}
+
+    </div>
+  </div>
+</section>
+<!-- End Post Title -->
+
+<!-- Pagination -->  
+{% include pagination/post.html %}
+<!-- End Pagination -->

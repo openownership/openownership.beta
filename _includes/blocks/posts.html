@@ -1,0 +1,59 @@
+<section class="grid-container">
+  {% for post in paginator.posts %}
+
+      <div class="grid-x grid-padding-y border-top">
+        <div class="small-12 cell">
+
+          <div class="grid-x">
+            <div class="small-12 cell">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            </div>
+          </div>
+
+          <div class="grid-x grid-padding-y">
+            <div class="small-12 medium-shrink cell">
+              <div class="margin-right-1 medium-gray">
+              {% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+  
+      {% if post.image %}
+      <div class="grid-x grid-padding-y">
+        <div class="small-12 cell padding-top-0">
+        <a href="{{ post.url }}">
+          {% assign image = post.image %}
+          <div class="light-gray-background image shadow" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+        </a>
+        {% if post.image-caption %}
+        <div class="grid-x margin-top-1">
+          <div class="small-12 cell serif-italic medium-gray">
+          <small>{{post.image-caption}}</small>
+          </div>
+        </div>
+        {% endif %}
+        </div>
+      </div>
+      {% endif %}
+  
+
+
+      <div class="grid-x">
+        <div class="small-12 cell">
+        <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
+        </div>
+      </div>
+
+
+      <div class="grid-x margin-bottom-1">
+        <div class="small-12 cell">
+        <a class="button" href="{{ post.url }}">Continue reading <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg></a>
+        </div>
+      </div>
+
+  {% endfor %}
+</section>

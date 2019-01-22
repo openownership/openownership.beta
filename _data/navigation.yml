@@ -1,0 +1,20 @@
+header:
+  - title: What we do
+    url: /what-we-do/  
+  - title: News
+    url: /news/
+  - title: Resources
+    url: /resources/
+  - title: Connect with us
+    url: /connect-with-us/
+
+footer:
+  - title: What we do
+    url: /what-we-do/  
+  - title: News
+    url: /news/
+  - title: Resources
+    url: /resources/
+  - title: Connect with us
+    url: /connect-with-us/
+
