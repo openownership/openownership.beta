@@ -3,9 +3,11 @@ title: OpenOwnership in Kiev
 date: 2018-12-18 11:01:00 Z
 categories:
 - 1-1 technical assistance
+- Building a stable and trusted beneficial ownership data standard and user base
+- The OpenOwnership pilot program
+- Private sector engagement
 tags:
-- 1-1 technical assistance
-- the openownership pilot program
+- Ukraine
 image: "/uploads/kiev-03.jpg"
 author: Louise Russell-Prywata
 ---
