@@ -2,23 +2,23 @@
 title: OpenOwnership
 timezone: UTC
 collections:
-  what-we-do:
-    title: What We Do
-    output: true
-  resources:
-    title: Resources
-    output: false
   authors:
     title: Authors
     output: false
   posts:
     title: Posts
     output: true
+  resources:
+    title: Resources
+    output: false
   team:
     title: Team
     output: false
   uploads:
     title: Uploads
+    output: true
+  what-we-do:
+    title: What We Do
     output: true
 defaults:
 - scope:
@@ -26,7 +26,7 @@ defaults:
     type: posts
   values:
     image: 
-    description:
+    description: 
     author: 
     layout: post
     permalink: "/news/:title/"
