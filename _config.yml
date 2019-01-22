@@ -33,7 +33,7 @@ defaults:
     path: ''
     type: pages
   values:
-    intro: 
+    description:
     layout: page
 - scope:
     path: ''
