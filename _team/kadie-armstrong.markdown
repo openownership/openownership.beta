@@ -5,7 +5,7 @@ categories:
 position: 8
 job-title: Open Standards Adoption Lead
 image: "/uploads/kadie-armstrong.jpg"
-email: kadie@openownership.org
+email: kadie.armstrong@opendataservices.coop
 social:
   github: https://github.com/kd-ods
 ---
