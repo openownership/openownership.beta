@@ -5,7 +5,7 @@ categories:
 position: 7
 job-title: Beneficial Ownership Lead
 image: "/uploads/jack-lord.jpg"
-email: jack@openownership.org
+email: jack.lord@opendataservices.coop
 social:
   twitter: https://twitter.com/jacklord
   linkedin: https://www.linkedin.com/in/jack-lord-4486237
