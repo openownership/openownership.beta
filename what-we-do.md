@@ -3,7 +3,6 @@ title: What we do
 position: 1
 services:
 - title: The OpenOwnership Register
-  image: "/uploads/register.svg"
   icon: one-on-one
   text: The Register is an easy-to-use, cloud-based, platform that links beneficial
     ownership information from multiple sources and makes it available for free to
@@ -16,7 +15,6 @@ services:
   link: https://register.openownership.org/
 - title: Building a stable and trusted beneficial ownership data standard and user
     base
-  image: "/uploads/building.svg"
   icon: building
   text: The Beneficial Ownership Data Standard (the Standard, or BODS) is being developed
     in collaboration with dozens of international experts in company data and in technical
@@ -27,7 +25,6 @@ services:
   button: Find out more
   link: "/what-we-do/the-beneficial-ownership-data-standard"
 - title: The OpenOwnership pilot program
-  image: "/uploads/pilot.svg"
   icon: pilot
   text: Our pilot program supports data publishers in national governments and multinational
     institutions to publish high quality, highly usable beneficial ownership data.
@@ -37,7 +34,6 @@ services:
   button: Find out more
   link: "/what-we-do/the-openownership-pilot-program"
 - title: 1-1 technical assistance
-  image: "/uploads/one-on-one.svg"
   icon: one-on-one
   text: Whether this occurs within the pilot program or on a bespoke basis, we are
     committed to providing technical assistance to beneficial ownership data publishers
@@ -47,7 +43,6 @@ services:
   button: Find out more
   link: "/what-we-do/1-1-technical-assistance"
 - title: Private sector engagement
-  image: "/uploads/private-sector.svg"
   icon: private-sector
   text: We are encouraging corporations and financial institutions to use the OpenOwnership
     Register (and eventually our API) as part of their due diligence processes and
@@ -56,7 +51,6 @@ services:
   button: Find out more
   link: "/what-we-do/private-sector-engagement"
 - title: Sharing knowledge and best practice
-  image: "/uploads/sharing.svg"
   icon: sharing
   text: We will continue to champion beneficial ownership transparency amongst all
     our key stakeholder groups. To do this, we regularly hold workshops and events
