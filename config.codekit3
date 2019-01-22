@@ -1751,16 +1751,6 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/assets/js/links.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/assets/js/min/links-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"/assets/js/min/app-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2432,7 +2422,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/aos/dist/aos.js",
 		"oF": 0,
 		"sC": 1,
@@ -9675,26 +9665,20 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
+			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
+			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "/bower_components/jquery.cookie/jquery.cookie.js",
-			"position": 5,
+			"position": 4,
 			"type": 0
 			}
 		]
