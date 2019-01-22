@@ -1,11 +1,9 @@
 ---
 title: Taking the first steps toward a global and open register of beneficial ownership
 date: 2016-11-22 14:35:00 Z
-categories:
-- announcements
 tags:
 - 1-1 technical assistance
-- the-beneficial-ownership-data-standard
+- the beneficial ownership data standard
 image: "/uploads/first-steps.jpg"
 author: Hera Hussain
 ---
