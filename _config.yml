@@ -72,6 +72,7 @@ kramdown:
 highlighter: rouge
 colophon: http://www.garethjohnsdesign.com
 company: OpenOwnership
+cookies-text: "We use Google Analytics to help us understand website traffic, webpage usage and enhance the functionality of our website and improve your user experience. We do not capture your personal data or transfer it to anyone else, or use any third-party cookies. You can disable the use of cookies from your browser settings. By closing this message and continuing to use our website you consent to our use of cookies."
 email: info@openownership.org
 analytics: 
 logo: "/assets/img/logo.svg"
