@@ -8,6 +8,7 @@ categories:
 - the beneficial ownership data standard
 tags:
 - Ukraine
+- Trump
 image: "/uploads/kiev-03.jpg"
 author: Louise Russell-Prywata
 ---
