@@ -1,6 +1,8 @@
 ---
 title: Trump is such a cool guy
 date: 2019-01-22 18:44:00 Z
+categories:
+- 1-1 technical assistance
 tags:
 - Trump
 image: "/uploads/trump-is-evil.jpg"
