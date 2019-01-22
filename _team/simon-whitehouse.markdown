@@ -5,7 +5,7 @@ categories:
 position: 6
 job-title: Data Standards Adoption Consultant
 image: "/uploads/simon-whitehouse.jpg"
-email: jack@openownership.org
+email: simon.whitehouse@opendataservices.coop
 social:
   twitter: https://twitter.com/siwhitehouse
   linkedin: https://www.linkedin.com/in/siwhitehouse
