@@ -26,6 +26,7 @@ defaults:
     type: posts
   values:
     image: 
+    description: 
     author: 
     layout: post
     permalink: "/news/:title/"
@@ -33,15 +34,24 @@ defaults:
     path: ''
     type: pages
   values:
-    intro: 
+    description: 
     layout: page
 - scope:
     path: ''
     type: resources
   values:
+    description: 
     file: 
     author: 
     thumbnail-image: 
+- scope:
+    path: ''
+    type: team
+  values:
+    job-title: 
+    image: 
+    email: 
+    social: 
 url: https://www.openownership.org
 description: Building an open register of global beneficial ownership in the public
   interest
