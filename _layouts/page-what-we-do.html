@@ -23,9 +23,9 @@ layout: default
 <!-- End Page Content -->
 
 <!-- Projects -->
-{% assign tag = page.title | downcase %}
-{% assign tag_posts = site.tags[tag] %}
-{% if tag_posts.size > 0 %}
+{% assign category = page.title | downcase %}
+{% assign category_posts = site.categories[category] %}
+{% if category_posts.size > 0 %}
 <section class="snow-background padding-bottom-1">
   <div class="grid-container">
   
@@ -36,9 +36,9 @@ layout: default
     </div>
   
     <div class="grid-x grid-padding-x" data-equalizer>
-    {% assign tag = page.title | downcase %}
-    {% assign tag_posts = site.tags[tag] %}
-    {% for post in tag_posts %}
+{% assign category = page.title | downcase %}
+{% assign category_posts = site.categories[category] %}
+    {% for post in category_posts %}
       <div class="small-12 medium-4 cell padding-1">
         <div class="callout shadow large" data-equalizer-watch>
         {% if post.image %}
