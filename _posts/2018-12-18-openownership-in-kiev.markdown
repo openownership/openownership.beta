@@ -3,7 +3,6 @@ title: OpenOwnership in Kiev
 date: 2018-12-18 11:01:00 Z
 categories:
 - 1-1 technical assistance
-- building a stable and trusted beneficial ownership data standard and user base
 - the openownership pilot program
 - private sector engagement
 - the beneficial ownership data standard
