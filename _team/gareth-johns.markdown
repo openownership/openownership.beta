@@ -2,7 +2,6 @@
 title: Gareth Johns
 date: 2019-01-22 19:00:00 Z
 categories:
-- bods
 - project-team
 job-title: Designer
 image: "/uploads/steve-day.jpg"
