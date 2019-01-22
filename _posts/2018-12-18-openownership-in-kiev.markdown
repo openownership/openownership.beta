@@ -1,6 +1,8 @@
 ---
 title: OpenOwnership in Kiev
 date: 2018-12-18 11:01:00 Z
+categories:
+- 1-1 technical assistance
 tags:
 - 1-1 technical assistance
 - the openownership pilot program
