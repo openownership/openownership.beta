@@ -1,6 +1,8 @@
 ---
 title: Trump is such a cool guy
 date: 2019-01-22 18:44:00 Z
+tags:
+- Trump
 image: "/uploads/trump-is-evil.jpg"
 author: Gareth Johns
 ---
