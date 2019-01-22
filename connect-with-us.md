@@ -1,10 +1,6 @@
 ---
 title: Connect with us
 position: 5
-legal: We are fiscally sponsored by the [Fund for the City of New York](http://www.fcny.org/fcny/).
-  Fiscal sponsorship is a common mechanism in the non-profit sector that enables organizations
-  to launch new programs without needing to complete the full process of establishing
-  a new legal entity. As we grow, we will be evaluating the best organizational setup.
 get-involved-text: OpenOwnership thrives on collaboration with a diverse and global
   range of people and organizations. Every new dataset, use case, and referral strengthens
   our platform and cause. If you have a general question, you can get in touch with
@@ -26,6 +22,10 @@ sectors:
     from our implementation support, please get in [touch](mailto:support@openownership.org).
     Our research and resources can be powerful advocacy tools — these are available
     to download [here](https://openownership.org/resources/).
+legal: We are fiscally sponsored by the [Fund for the City of New York](http://www.fcny.org/fcny/).
+  Fiscal sponsorship is a common mechanism in the non-profit sector that enables organizations
+  to launch new programs without needing to complete the full process of establishing
+  a new legal entity. As we grow, we will be evaluating the best organizational setup.
 layout: connect
 ---
 
