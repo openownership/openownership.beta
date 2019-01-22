@@ -594,6 +594,13 @@
 		"oAP": "/_posts/2018-12-18-openownership-in-kiev.markdown",
 		"oF": 0
 		},
+	"/_resources/BODS-tools-presentation.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_resources/BODS-tools-presentation.markdown",
+		"oF": 0
+		},
 	"/_resources/briefing-the-case-for-beneficial-ownership-as-open-data.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -606,6 +613,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/_resources/briefing-the-case-for-beneficial-ownership-registers.markdown",
+		"oF": 0
+		},
+	"/_resources/IACC-privacy-data-protection.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_resources/IACC-privacy-data-protection.markdown",
 		"oF": 0
 		},
 	"/_resources/introducing-the-beneficial-ownership-data-standard-slides-from-the-ogp-global-summit-2018.markdown": {
@@ -722,6 +736,24 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_uploads/BOT-network-support-tools for-implementation.jpg": {
+		"ft": 16384,
+		"iS": 44722,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/BOT-network-support-tools for-implementation.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/BOT-network-support-tools for-implementation.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/BOT-network-support-tools for-implementation.pdf",
+		"oF": 0
 		},
 	"/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf": {
 		"cB": 0,
@@ -892,6 +924,24 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/IACC-slides.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/IACC-slides.pdf",
+		"oF": 0
+		},
+	"/_uploads/IACC-the-engine-room.jpg": {
+		"ft": 16384,
+		"iS": 21448,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/IACC-the-engine-room.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/iacc.jpg": {
