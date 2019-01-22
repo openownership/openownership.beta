@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-position: 8
+position: 6
 layout: page
 ---
 
