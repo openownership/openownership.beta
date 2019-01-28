@@ -1,6 +1,11 @@
 ---
 title: Introducing the Beneficial Ownership Data Standard
 date: 2017-06-29 09:36:00 Z
+categories:
+- the beneficial ownership data standard
+tags:
+- the beneficial ownership data standard
+- beneficial ownership
 image: "/uploads/introducing.jpg"
 author: Tim Davies
 ---
