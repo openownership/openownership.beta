@@ -8,7 +8,7 @@ layout: default
 
 <!-- Page Content -->
 <section class="grid-container padding-bottom-3">
-  {% assign sorted_resources = site.resources | sort:"position" %}
+  {% assign sorted_resources = site.resources | sort:"date" | reverse %}
   {% for resource in sorted_resources %}
 
   <div class="grid-x grid-padding-x grid-padding-y align-center border-top">

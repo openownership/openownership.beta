@@ -69,6 +69,13 @@
 		"oAP": "/_authors/eryn-schornick.markdown",
 		"oF": 0
 		},
+	"/_authors/gareth-johns.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_authors/gareth-johns.markdown",
+		"oF": 0
+		},
 	"/_authors/hera-hussain.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -636,6 +643,13 @@
 		"oAP": "/_resources/openownership-mission-statement-2018.markdown",
 		"oF": 0
 		},
+	"/_resources/openownership-pilot-program-summary-of-methodology.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_resources/openownership-pilot-program-summary-of-methodology.markdown",
+		"oF": 0
+		},
 	"/_resources/the-beneficial-ownership-transparency-network.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -719,33 +733,22 @@
 		"oAP": "/_team/zosia-sztykowski.markdown",
 		"oF": 0
 		},
-	"/_uploads/aimen.jpg": {
-		"ft": 16384,
-		"iS": 292600,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/aimen.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/BOT-network-support-tools for-implementation.jpg": {
+	"/_uploads/BOT-network-support-tools-for-implementation.jpg": {
 		"ft": 16384,
 		"iS": 44722,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/BOT-network-support-tools for-implementation.jpg",
+		"oAP": "/_uploads/BOT-network-support-tools-for-implementation.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/BOT-network-support-tools for-implementation.pdf": {
+	"/_uploads/BOT-network-support-tools-for-implementation.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/_uploads/BOT-network-support-tools for-implementation.pdf",
+		"oAP": "/_uploads/BOT-network-support-tools-for-implementation.pdf",
 		"oF": 0
 		},
 	"/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf": {
@@ -754,16 +757,6 @@
 		"oA": 2,
 		"oAP": "/_uploads/briefing-on-beneficial-ownership-as-open-data.pdf",
 		"oF": 0
-		},
-	"/_uploads/building.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/_uploads/building.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"/_uploads/calling.jpg": {
 		"ft": 16384,
@@ -782,17 +775,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/claire-reichenbach-rev.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/claire-reichenbach.jpg": {
-		"ft": 16384,
-		"iS": 904681,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/claire-reichenbach.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1123,6 +1105,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/methodology.jpg": {
+		"ft": 16384,
+		"iS": 25365,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/methodology.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/mission-statement-doc.jpg": {
 		"ft": 16384,
 		"iS": 165557,
@@ -1184,6 +1177,13 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_uploads/pilot-program-summary-of-metholodogy.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/_uploads/pilot-program-summary-of-metholodogy.pdf",
+		"oF": 0
 		},
 	"/_uploads/placeholder.jpg": {
 		"ft": 16384,
@@ -1257,6 +1257,17 @@
 		"oA": 2,
 		"oAP": "/_uploads/the-case-for-public-beneficial-ownership.pdf",
 		"oF": 0
+		},
+	"/_uploads/trump-is-evil.jpg": {
+		"ft": 16384,
+		"iS": 466453,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/trump-is-evil.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_uploads/truth.jpg": {
 		"ft": 16384,
@@ -1392,17 +1403,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/zosia-sztykowski.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/zosia.jpg": {
-		"ft": 16384,
-		"iS": 200647,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/zosia.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

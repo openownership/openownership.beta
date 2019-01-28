@@ -5,7 +5,6 @@ date: 2017-09-26 15:10:00 Z
 tags:
 - authentication
 - verification
-- beneficial ownership
 author: Zosia Sztykowski and Chris Taggart
 ---
 

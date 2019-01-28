@@ -8,7 +8,6 @@ tags:
 - business
 - AML
 - openownership register
-- beneficial ownership
 image: "/uploads/calling.jpg"
 author: Madeleine McCarroll
 ---

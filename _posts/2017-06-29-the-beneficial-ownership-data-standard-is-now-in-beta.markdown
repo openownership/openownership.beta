@@ -5,7 +5,6 @@ categories:
 - the beneficial ownership data standard
 tags:
 - the beneficial ownership data standard
-- beneficial ownership
 image: "/uploads/introducing.jpg"
 author: Tim Davies
 ---

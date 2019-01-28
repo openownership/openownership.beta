@@ -7,8 +7,7 @@ categories:
 - private sector engagement
 - the beneficial ownership data standard
 tags:
-- Ukraine
-- Trump
+- ukraine
 image: "/uploads/kiev-03.jpg"
 author: Louise Russell-Prywata
 ---

@@ -6,7 +6,6 @@ categories:
 tags:
 - verification
 - the beneficial ownership data standard
-- beneficial ownership
 image: "/uploads/verification.jpg"
 author: Zosia Sztykowski and Chris Taggart
 ---
