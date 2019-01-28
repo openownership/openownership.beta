@@ -6,6 +6,12 @@ categories:
 tags:
 - methodology
 - pilot program
+description: "The OpenOwnership Pilot Program supports national governments to establish
+  \ open beneficial ownership registers that meets policy goals - from improving the
+  business environment to tackling corruption and money laundering. It distinguishes
+  itself from similar programs in that support is provided in-kind, and across the
+  the range of policy and technnical issues that are involved in publishing effective,
+  high-quality data. \n"
 ---
 
 The OpenOwnership Pilot Program supports national governments to establish  open beneficial ownership registers that meets policy goals - from improving the business environment to tackling corruption and money laundering. It distinguishes itself from similar programs in that support is provided in-kind, and across the the range of policy and technnical issues that are involved in publishing effective, high-quality data. 
