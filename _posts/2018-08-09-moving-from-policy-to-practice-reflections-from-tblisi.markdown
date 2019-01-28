@@ -8,6 +8,7 @@ tags:
 - Tbilisi
 - open government partnership global summit
 - beneficial ownership transparency network
+- georgia
 image: "/uploads/tsibli.jpg"
 author: Kadie Armstrong
 ---
