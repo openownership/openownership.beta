@@ -12,6 +12,7 @@ description: "The OpenOwnership Pilot Program supports national governments to e
   itself from similar programs in that support is provided in-kind, and across the
   the range of policy and technnical issues that are involved in publishing effective,
   high-quality data. \n"
+file: "/uploads/Pilot%20Program%20Summary%20of%20Metholodogy%20Final%20%20(1).pdf"
 author: Zosia Sztykowski, Louise Rusell Prywata & Francesca Baker
 thumbnail-image: "/uploads/OOmethodology-baee35.JPG"
 ---
