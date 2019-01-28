@@ -1,9 +1,6 @@
 ---
 title: Can beneficial ownership transparency really be compatible with data protection?
 date: 2018-10-29 14:42:00 Z
-categories:
-- beneficial ownership
-- data protection
 tags:
 - beneficial ownership
 - data protection
