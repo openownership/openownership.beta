@@ -1,6 +1,11 @@
 ---
 title: 'Beneficial ownership transparency in Ukraine: what’s next?'
 date: 2018-04-04 13:20:00 Z
+categories:
+- the openownership pilot program
+tags:
+- ukraine
+- openownership register
 image: "/uploads/ukraine.jpg"
 author: Zosia Sztykowski
 ---
