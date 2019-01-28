@@ -1,6 +1,14 @@
 ---
-title: 'Moving from policy to practice: reflections from Tblisi'
+title: 'Moving from policy to practice: reflections from Tbilisi'
 date: 2018-08-09 09:01:00 Z
+categories:
+- beneficial ownership
+- the beneficial ownership data standard
+tags:
+- Tbilisi
+- open government partnership global summit
+- beneficial ownership transparency network
+- georgia
 image: "/uploads/tsibli.jpg"
 author: Kadie Armstrong
 ---

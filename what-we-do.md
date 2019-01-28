@@ -1,6 +1,8 @@
 ---
 title: What we do
 position: 1
+description: We are dedicated to increasing corporate transparency across the world
+  by making it easy to publish and access high-quality data about who owns companies.
 services:
 - title: The OpenOwnership Register
   icon: one-on-one

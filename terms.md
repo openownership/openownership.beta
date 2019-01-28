@@ -1,6 +1,8 @@
 ---
 title: Terms of Service
 position: 6
+description: 'This section explains all the terms and conditions for accessing our
+  website. '
 layout: page
 ---
 

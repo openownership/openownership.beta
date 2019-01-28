@@ -2,6 +2,11 @@
 title: 'What we really mean when we talk about verification: Truth verification (part
   4 of 4)'
 date: 2018-04-17 12:54:00 Z
+categories:
+- the beneficial ownership data standard
+tags:
+- verification
+- data standard
 image: "/uploads/truth.jpg"
 author: Zosia Sztykowski
 ---

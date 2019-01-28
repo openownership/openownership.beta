@@ -1,6 +1,9 @@
 ---
 title: OpenOwnership
 position: 0
+description: Our mission is to make knowledge about who owns & controls companies
+  open and impactful. We do this through the Beneficial Ownership Register and Beneficial
+  Ownership Data Standard.
 image: "/assets/img/og-image.png"
 header: Ending anonymous company ownership
 intro-text: |-

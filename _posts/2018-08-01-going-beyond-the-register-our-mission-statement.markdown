@@ -1,6 +1,11 @@
 ---
 title: Going Beyond the Register - our Mission Statement
 date: 2018-08-01 16:02:00 Z
+tags:
+- mission statement
+- open data
+- the beneficial ownership data standard
+- transparency
 image: "/uploads/mission-statement.jpg"
 author: Zosia Sztykowski
 ---

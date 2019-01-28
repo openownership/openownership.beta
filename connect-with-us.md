@@ -1,6 +1,9 @@
 ---
 title: Connect with us
 position: 4
+description: 'OpenOwnership thrives on collaboration with a diverse and global range
+  of people and organizations. If you want to know more about how OpenOwnership can
+  help you, please get in touch. '
 get-involved-text: OpenOwnership thrives on collaboration with a diverse and global
   range of people and organizations. Every new dataset, use case, and referral strengthens
   our platform and cause. If you have a general question, you can get in touch with

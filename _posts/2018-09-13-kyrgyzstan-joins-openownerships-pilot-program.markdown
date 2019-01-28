@@ -1,6 +1,10 @@
 ---
 title: Kyrgyzstan joins OpenOwnership’s pilot program
 date: 2018-09-13 10:55:00 Z
+categories:
+- the openownership pilot program
+tags:
+- pilot program
 image: "/uploads/kyrgyzstan.jpg"
 author: Louise Russell-Prywata
 ---
