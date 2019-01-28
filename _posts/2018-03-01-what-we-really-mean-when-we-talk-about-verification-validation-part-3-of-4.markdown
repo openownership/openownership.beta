@@ -4,6 +4,7 @@ title: 'What we really mean when we talk about verification: Validation (part 3 
 date: 2018-03-01 07:09:00 Z
 tags:
 - verification
+- validation
 image: "/uploads/what-we-mean.jpg"
 author: Zosia Sztykowski and Chris Taggart
 ---
