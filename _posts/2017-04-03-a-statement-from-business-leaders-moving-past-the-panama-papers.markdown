@@ -1,6 +1,13 @@
 ---
 title: 'A statement from business leaders: Moving past the Panama Papers'
 date: 2017-04-03 08:55:00 Z
+categories:
+- private sector engagement
+tags:
+- panama papers
+- business
+- corruption
+- data register
 image: "/uploads/mo.jpg"
 author: The B Team Leaders
 ---

@@ -1,6 +1,12 @@
 ---
 title: 'What I learned from you at #17IACC and #OGP16'
 date: 2016-12-27 12:13:00 Z
+tags:
+- International Anti-Corruption Conference
+- global
+- beneficial ownership
+- data register
+- conference
 author: Zosia Sztykowski
 ---
 
