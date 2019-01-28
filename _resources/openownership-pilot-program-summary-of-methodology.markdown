@@ -14,7 +14,7 @@ description: "The OpenOwnership Pilot Program supports national governments to e
   high-quality data. \n"
 file: "/uploads/pilot-program-summary-of-metholodogy.pdf"
 author: Zosia Sztykowski, Louise Rusell Prywata & Francesca Baker
-thumbnail-image: "/uploads/OOmethodology-baee35.JPG"
+thumbnail-image: "/uploads/methodology.jpg"
 ---
 
 The OpenOwnership Pilot Program supports national governments to establish  open beneficial ownership registers that meets policy goals - from improving the business environment to tackling corruption and money laundering. It distinguishes itself from similar programs in that support is provided in-kind, and across the the range of policy and technnical issues that are involved in publishing effective, high-quality data. 
