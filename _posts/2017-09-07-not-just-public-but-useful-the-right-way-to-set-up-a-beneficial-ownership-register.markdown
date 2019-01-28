@@ -8,7 +8,6 @@ tags:
 - panama papers
 - money laundering
 - AML
-- beneficial ownership
 - data register
 image: "/uploads/flags.jpg"
 author: Zosia Sztykowski
