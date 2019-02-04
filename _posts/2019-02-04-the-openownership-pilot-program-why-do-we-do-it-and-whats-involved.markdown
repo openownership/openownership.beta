@@ -18,7 +18,7 @@ description: OpenOwnership’s goal is to to create an open data and policy ecos
 author: Louise Russell-Prywata
 ---
 
-OpenOwnership’s goal is to to create an open data and policy ecosystem that ends the abuse of anonymously owned companies. We create tools, provide assistance, and work with governments, companies and civil society to  to increase access to, and use of, information about the true ‘beneficial’ owners of companies.
+OpenOwnership’s goal is to create an open data and policy ecosystem that ends the abuse of anonymously owned companies. We create tools, provide assistance, and work with governments, companies and civil society to  to increase access to, and use of, information about the true ‘beneficial’ owners of companies.
 
 Central to our work is the [Beneficial Ownership Data Standard](https://standard.openownership.org/en/v0-1/) ([BODS](https://www.openownership.org/what-we-do/the-beneficial-ownership-data-standard/)) - a standard format for publishing information about who owns companies, in ways that enable the data to be easily used and linked to other public datasets.
 
