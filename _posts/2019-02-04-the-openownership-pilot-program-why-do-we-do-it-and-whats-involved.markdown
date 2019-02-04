@@ -18,7 +18,7 @@ description: OpenOwnership’s goal is to to create an open data and policy ecos
 author: Louise Russell-Prywata
 ---
 
-OpenOwnership’s goal is to create an open data and policy ecosystem that ends the abuse of anonymously owned companies. We create tools, provide assistance, and work with governments, companies and civil society to  to increase access to, and use of, information about the true ‘beneficial’ owners of companies.
+OpenOwnership’s goal is to create an open data and policy ecosystem that ends the abuse of anonymously owned companies. We create tools, provide assistance, and work with governments, companies and civil society to increase access to, and use of, information about the true ‘beneficial’ owners of companies.
 
 Central to our work is the [Beneficial Ownership Data Standard](https://standard.openownership.org/en/v0-1/) ([BODS](https://www.openownership.org/what-we-do/the-beneficial-ownership-data-standard/)) - a standard format for publishing information about who owns companies, in ways that enable the data to be easily used and linked to other public datasets.
 
@@ -30,7 +30,7 @@ The first step is to formally agree the partnership and the role that OpenOwners
  
 The second step is to understand the current situation and context in greater depth, both in terms of the technical aspects such as software and database architecture and the policy framework that mandates publication of company ownership information. We use this to identify areas what changes are needed to establish an open beneficial ownership register that uses BODS, writing up our findings into a report. 
 
-Then, we support the partner government in making the changes to policy identified in our report. What’s needed will be different in each case. In Ukraine, for example, we are supporting the Ministry of Justice to increase legal penalties for failing to accurately declare company ownership.
+Then, we support the partner government in making the changes to policy identified in our report. What’s needed will be different in each case. In [Ukraine](https://www.openownership.org/news/ukrainemou/), for example, we are supporting the Ministry of Justice to increase legal penalties for failing to accurately declare company ownership.
  
 The next stage focuses on supporting the partner government to collect data on company ownership according to the Beneficial Ownership Data Standard. This is critical in order for the data to be correctly understood by anyone who uses it, and it enables the data to be easily linked with other datasets. The goal is to get company ownership data in an open format that can be accessed by all, in machine readable format, and used and reused by anyone. 
 
