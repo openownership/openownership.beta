@@ -7,7 +7,6 @@ categories:
 tags:
 - pilot program
 - BODS
-- the beneficial ownership data standard
 - ukraine
 - Kyrgyz Republic
 image: "/uploads/max-libertine-758750-unsplash.jpg"
