@@ -9,7 +9,7 @@ tags:
 - BODS
 - ukraine
 - Kyrgyz Republic
-image: "/uploads/max-libertine-758750-unsplash.jpg"
+image: "/uploads/pilot-program-why.jpg"
 description: OpenOwnership’s goal is to to create an open data and policy ecosystem
   that ends the abuse of anonymously owned companies. We create tools, provide assistance,
   and work with governments, companies and civil society to  to increase access to,
@@ -42,6 +42,6 @@ Over time we will draw on our Pilot Program experiences to produce a comprehensi
 If you’re interested in learning more about the Pilot Program, a more detailed summary of the process is available to read and download [here](https://www.openownership.org/uploads/pilot-program-summary-of-metholodogy.pdf). Alternatively, you can always:
  
 Sign up for [email updates](https://www.openownership.org/connect-with-us/)
-Follow us on Twitter - @openownership
-Get in touch with our team - support@openownership.org
+Follow us on Twitter - [@openownership](https://twitter.com/OpenOwnership)
+Get in touch with our team - [support@openownership.org](mailto: support@openownership.org)
  
