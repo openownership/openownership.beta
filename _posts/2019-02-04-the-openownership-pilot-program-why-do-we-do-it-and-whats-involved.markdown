@@ -39,7 +39,7 @@ Finally, we review the overall impact of the pilot, and draw together what has b
 
 Over time we will draw on our Pilot Program experiences to produce a comprehensive “how-to” toolbox for other governments around the world to publish open data information on who really owns companies, and grow the number of countries publishing standardised, open information.
  
-If you’re interested in learning more about the Pilot Program, a more detailed summary of the process is available to read and download [here](https://bit.ly/2MP22Bc). Alternatively, you can always:
+If you’re interested in learning more about the Pilot Program, a more detailed summary of the process is available to read and download [here](https://www.openownership.org/uploads/pilot-program-summary-of-metholodogy.pdf). Alternatively, you can always:
  
 Sign up for [email updates](https://www.openownership.org/connect-with-us/)
 Follow us on Twitter - [@openownership](https://twitter.com/OpenOwnership)
