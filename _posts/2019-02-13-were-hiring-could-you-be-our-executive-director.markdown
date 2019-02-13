@@ -10,6 +10,7 @@ image: "/uploads/joinus.jpg"
 description: 'We are now seeking our first Executive Director, to move us to our next
   phase of development as we seek scale and impact for our cutting-edge work to end
   anonymous companies.  '
+author: Francesca Baker
 ---
 
 OpenOwnership is dedicated to increasing corporate transparency across the world by making it easy to publish and access high-quality data about who owns companies. Anonymous shell companies enable corruption, fraud, organised crime and tax evasion. The wider the access to high quality data on who owns what, the harder it will be for corrupt individuals to hide.  
