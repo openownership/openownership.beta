@@ -15,3 +15,4 @@ author: 'Louise Russell-Prywata & Jack Lord '
 thumbnail-image: "/uploads/report-cover.JPG"
 ---
 
+Implementing beneficial ownership transparency in the Kyrgyz Republic extractives sector: findings and recommendations.
