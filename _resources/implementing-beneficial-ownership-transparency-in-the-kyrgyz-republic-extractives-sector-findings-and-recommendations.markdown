@@ -7,7 +7,7 @@ categories:
 - the open ownership pilot program
 tags:
 - scoping report
-- kyrguz republic
+- kyrgyz republic
 description: |-
   This report summarizes findings from Open Ownership’s
   scoping visit to the Kyrgyz Republic in September 2018,
