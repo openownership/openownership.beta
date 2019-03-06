@@ -2,6 +2,8 @@
 title: 'Guest Post: Evaluating the Personal Privacy Objections to Public Beneficial
   Ownership Registries'
 date: 2019-03-06 11:37:00 Z
+categories:
+- the beneficial ownership data standard
 tags:
 - privacy
 - data protection
