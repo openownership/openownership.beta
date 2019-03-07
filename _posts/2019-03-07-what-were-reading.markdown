@@ -22,14 +22,12 @@ Louise - ‘It's about financial secrecy and the role of offshore finance in ena
 
 ***Failing Forward***** by John C Maxwell**
 
-
 Claire - ‘I choose this book because in my experience, start-up organisations are made stronger by trial and error. But too often we are worried about admitting mistakes and we fear them or cannot see the growth and maturity that would ensue. I believe this book explains this concept and hopefully will go some way towards changing society's attitude and honesty about mistakes. Ultimately it is all about transparency...’.
 
 ***[Information Is Beautiful ](https://informationisbeautiful.net/)*****[by David McCandless](https://informationisbeautiful.net/)**
 
 Francesca - ‘This popular book shows how data and information can be presented in creative ways. Data, information, knowledge is distilled into beautiful, useful graphics and diagrams that engage and captivate the viewer. Our work at OpenOwnership can be complicated and complex, so it’s good to be reminded and inspired by different ways to communicate ideas and concepts so that they are intelligible and accessible.’
 
-***Economic Science Fictions***** edited by William Davies**
-
+***Economic Science Fictions ***** edited by William Davies**
 
 Zosia - ‘The premise of this collection is that the economy is the product of human design, and so it can be redesigned. The essays and stories it contains push visions of the status quo to their dystopian edges, and also explore the transformative potential of new ideas. Just 10 years ago, the idea of a public, global register of who owns companies was itself a science fiction; now, as we make it a reality, books like this inspire us to maintain an ambitious and creative outlook. As Davies writes, the "mock futures" of science fiction can empower us to "see the present as amenable to conscious transformation."’
