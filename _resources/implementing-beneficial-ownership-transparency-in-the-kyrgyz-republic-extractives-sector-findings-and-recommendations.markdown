@@ -1,13 +1,6 @@
 ---
-title: 'Implementing beneficial ownership transparency in the Kyrgyz Republic extractives
-  sector: findings and recommendations'
+title: 'Implementing beneficial ownership transparency in the Kyrgyz Republic extractives sector: findings and recommendations'
 date: 2019-03-01 13:23:00 Z
-categories:
-- beneficial ownership data standard
-- the open ownership pilot program
-tags:
-- scoping report
-- kyrgyz republic
 description: |-
   This report summarizes findings from Open Ownership’s
   scoping visit to the Kyrgyz Republic in September 2018,
