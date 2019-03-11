@@ -12,7 +12,7 @@ tags:
 description: 'Russian version. This report summarizes findings from Open Ownership’s
   scoping visit to the Kyrgyz Republic in September 2018, and the research surrounding
   the visit. '
-file: "/uploads/OPO%20Kyrgyz%20Republic%20Scoping%20Report%20(Russian).pdf"
+file: "/uploads/OPO%20Kyrgyz%20Republic%20Scoping%20Report%20(Russian)%20Final.pdf"
 author: Louise Russell-Prywata
 thumbnail-image: "/uploads/Russian%20version-c5ddf8.JPG"
 ---
