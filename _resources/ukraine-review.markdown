@@ -8,7 +8,7 @@ tags:
 position: 3
 file: "/uploads/OPO%20Ukraine%20Report.pdf"
 author: Zosia Sztykowski and Tom Mayne
-thumbnail-image: "/uploads/improving-ukraine-doc.jpg"
+thumbnail-image: "/uploads/OPO%20Ukraine%20Report-19cafa.pdf"
 Date: 2018-03-29 00:00:00 Z
 ---
 
