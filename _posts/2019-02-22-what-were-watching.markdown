@@ -2,8 +2,7 @@
 title: What we're watching
 date: 2019-02-22 15:24:00 Z
 tags:
-- films
-- podcasts
+- team
 image: "/uploads/films.jpg"
 description: At our recent team retreat we shared the films we’re watching and podcasts
   we’re listening to. As well as giving us some ideas of media to tuck into, it was

@@ -6,9 +6,7 @@ categories:
 - the openownership pilot program
 tags:
 - Kyrgyz Republic
-- report
 - EITI
-- extractives
 image: "/uploads/kyrgyz-report.jpg"
 description: In February 2019, alongside the 42nd EITI International Board meeting
   in Kiev, Ukraine, we launched our report and recommendations for beneficial ownership
