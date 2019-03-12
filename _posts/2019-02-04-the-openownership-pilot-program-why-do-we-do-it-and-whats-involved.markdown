@@ -41,6 +41,6 @@ Over time we will draw on our Pilot Program experiences to produce a comprehensi
 
 If you’re interested in learning more about the Pilot Program, a more detailed summary of the process is available to read and download [here](/uploads/pilot-program-summary-of-metholodogy.pdf). Alternatively, you can always:
 
-Sign up for [email updates](https://www.openownership.org/connect-with-us/)
-Follow us on Twitter - [@openownership](https://twitter.com/OpenOwnership)
-Get in touch with our team - \[support@openownership.org\](mailto: support@openownership.org)
+Sign up for [email updates](https://www.openownership.org/connect-with-us/)  
+Follow us on Twitter - [@openownership](https://twitter.com/OpenOwnership)  
+Get in touch with our team - [support@openownership.org](mailto: support@openownership.org)  
