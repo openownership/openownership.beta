@@ -2,10 +2,9 @@
 title: 'Improving beneficial ownership transparency in Ukraine: Review and recommendations'
 date: 2018-03-29 13:51:00 Z
 position: 3
-file: "/uploads/OPO-Ukraine-Report-9105a7.pdf"
+file: "/uploads/opo-ukraine-report.pdf"
 author: Zosia Sztykowski and Tom Mayne
-thumbnail-image: "/uploads/OPO-Ukraine-Report.pdf"
-Date: 2018-03-29 00:00:00 Z
+thumbnail-image: "/uploads/opo-ukraine-report.jpg"
 ---
 
 Ukraine became the second country in the world after the United Kingdom to implement a public register of the beneficial owners of corporate entities registered in country. Laws were passed in 2014 and 2015, and a decree of the Cabinet of Ministers stipulated that this information should be published by Spring 2016. 

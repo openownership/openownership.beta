@@ -1383,84 +1383,61 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/OPO Kyrgyz Republic Scoping Report (2).pdf": {
+	"/_uploads/opo-kyrgyz-republic-scoping-report-russian.jpg": {
+		"ft": 16384,
+		"iS": 1271515,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/opo-kyrgyz-republic-scoping-report-russian.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/opo-kyrgyz-republic-scoping-report-russian.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_uploads/OPO Kyrgyz Republic Scoping Report (2).pdf",
+		"oAP": "/_uploads/opo-kyrgyz-republic-scoping-report-russian.pdf",
 		"oF": 0
 		},
-	"/_uploads/OPO Kyrgyz Republic Scoping Report (Russian) Final.pdf": {
+	"/_uploads/opo-kyrgyz-republic-scoping-report.jpg": {
+		"ft": 16384,
+		"iS": 1202665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/opo-kyrgyz-republic-scoping-report.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/opo-kyrgyz-republic-scoping-report.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_uploads/OPO Kyrgyz Republic Scoping Report (Russian) Final.pdf",
+		"oAP": "/_uploads/opo-kyrgyz-republic-scoping-report.pdf",
 		"oF": 0
 		},
-	"/_uploads/OPO Kyrgyz Republic Scoping Report (Russian).pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_uploads/OPO Kyrgyz Republic Scoping Report (Russian).pdf",
-		"oF": 0
+	"/_uploads/opo-ukraine-report.jpg": {
+		"ft": 16384,
+		"iS": 1494208,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/opo-ukraine-report.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
-	"/_uploads/OPO Kyrgyz Republic Scoping Report Final.pdf": {
+	"/_uploads/opo-ukraine-report.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_uploads/OPO Kyrgyz Republic Scoping Report Final.pdf",
-		"oF": 0
-		},
-	"/_uploads/OPO Ukraine Report Final-1d6193.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_uploads/OPO Ukraine Report Final-1d6193.pdf",
-		"oF": 0
-		},
-	"/_uploads/OPO Ukraine Report Final.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_uploads/OPO Ukraine Report Final.pdf",
-		"oF": 0
-		},
-	"/_uploads/OPO Ukraine Report-19cafa.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_uploads/OPO Ukraine Report-19cafa.pdf",
-		"oF": 0
-		},
-	"/_uploads/OPO Ukraine Report.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_uploads/OPO Ukraine Report.pdf",
-		"oF": 0
-		},
-	"/_uploads/OPO-Ukraine-Report-9105a7.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_uploads/OPO-Ukraine-Report-9105a7.pdf",
-		"oF": 0
-		},
-	"/_uploads/OPO-Ukraine-Report.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_uploads/OPO-Ukraine-Report.pdf",
+		"oAP": "/_uploads/opo-ukraine-report.pdf",
 		"oF": 0
 		},
 	"/_uploads/pilot-program-summary-of-metholodogy.jpg": {
@@ -1521,28 +1498,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/resource-introducing.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/Russian version-c5ddf8.JPG": {
-		"ft": 16384,
-		"iS": 54913,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/Russian version-c5ddf8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/Russian version.JPG": {
-		"ft": 16384,
-		"iS": 54913,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/Russian version.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
