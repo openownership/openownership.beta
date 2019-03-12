@@ -1,5 +1,5 @@
 ---
-title: What we're Reading
+title: What we're reading
 date: 2019-03-07 09:25:00 Z
 tags:
 - team
