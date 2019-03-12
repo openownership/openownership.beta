@@ -4,9 +4,9 @@ date: 2019-02-13 18:17:00 Z
 tags:
 - team
 image: "/uploads/join-us.jpg"
-description: 'We are now seeking our first Executive Director, to move us to our next
+description: We are now seeking our first Executive Director, to move us to our next
   phase of development as we seek scale and impact for our cutting-edge work to end
-  anonymous companies.'
+  anonymous companies.
 author: Francesca Baker
 ---
 
