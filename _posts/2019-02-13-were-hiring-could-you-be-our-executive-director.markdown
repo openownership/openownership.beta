@@ -2,11 +2,11 @@
 title: We're hiring! Could you be our Executive Director?
 date: 2019-02-13 18:17:00 Z
 tags:
-- hiring
-image: "/uploads/joinus.jpg"
-description: 'We are now seeking our first Executive Director, to move us to our next
+- team
+image: "/uploads/join-us.jpg"
+description: We are now seeking our first Executive Director, to move us to our next
   phase of development as we seek scale and impact for our cutting-edge work to end
-  anonymous companies.  '
+  anonymous companies.
 author: Francesca Baker
 ---
 
@@ -16,9 +16,9 @@ The organisation was established by multiple civil society and private sector st
 
 We are now seeking our first Executive Director, to move us to our next phase of development as we seek scale and impact for our cutting-edge work to end anonymous companies.  
 
-**Executive Director
-Location:  London
-Salary: Circa £80,000 negotiable, depending on skills and experience**
+#### Executive Director
+**Location: London**  
+**Salary: Circa £80,000 negotiable, depending on skills and experience** 
 
 The Executive Director will have overall responsibility for leading the organisation and delivering our new strategy, supported by a strong Steering Group and talented and committed staff team.  
 
@@ -30,9 +30,9 @@ An understanding of issues around corporate transparency, corruption and benefic
 
 Candidates must have the right to work in the UK and be willing and able to travel internationally.  
 
-**Closing date:  Monday, 4 March 2019
-Prospectus interviews: 11 – 14 March 2019
-First interviews with Nomination Committee: w/c 25th March 2019 
-Second interviews with Steering Group: w/c 1st April 2019**
+**Closing date:  Monday, 4 March 2019**  
+**Prospectus interviews: 11 – 14 March 2019**  
+**First interviews with Nomination Committee: w/c 25th March 2019**    
+**Second interviews with Steering Group: w/c 1st April 2019**   
 
-To apply and for further details, please download the appointment brief.  If you have further queries, please contact our retained advisors at Prospectus, Fiona Wansborough and Eva Farina, at Fiona.wansborough@prospect-us.co.uk / eva.farina@prospect-us.co.uk, +44 (0)207 691 1920 and see the advert [here](https://www.prospect-us.co.uk/jobs/details/hq00174274).
+To apply and for further details, please download the appointment brief. If you have further queries, please contact our retained advisors at Prospectus, Fiona Wansborough and Eva Farina, at Fiona.wansborough@prospect-us.co.uk / eva.farina@prospect-us.co.uk, +44 (0)207 691 1920 and see the advert [here](https://www.prospect-us.co.uk/jobs/details/hq00174274).
