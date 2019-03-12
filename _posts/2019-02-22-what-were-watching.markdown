@@ -3,7 +3,7 @@ title: What we're watching
 date: 2019-02-22 15:24:00 Z
 tags:
 - team
-image: "/uploads/films.jpg"
+image: "/uploads/what-were-watching.jpg"
 description: At our recent team retreat we shared the films we’re watching and podcasts
   we’re listening to. As well as giving us some ideas of media to tuck into, it was
   a great way to learn more about our colleagues. Some of them overtly address issues

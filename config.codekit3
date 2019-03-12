@@ -1002,17 +1002,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/films.jpg": {
-		"ft": 16384,
-		"iS": 17125,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/films.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/first-steps.jpg": {
 		"ft": 16384,
 		"iS": 209387,
@@ -1180,12 +1169,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/joinus.jpg": {
+	"/_uploads/join-us.jpg": {
 		"ft": 16384,
-		"iS": 758989,
+		"iS": 480632,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/joinus.jpg",
+		"oAP": "/_uploads/join-us.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1224,12 +1213,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/kyrgyz-report.jpg": {
+	"/_uploads/kyrgyz-report-02.jpg": {
 		"ft": 16384,
-		"iS": 355241,
+		"iS": 743573,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/kyrgyz-report.jpg",
+		"oAP": "/_uploads/kyrgyz-report-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1315,17 +1304,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/louise.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/max-libertine-758750-unsplash.jpg": {
-		"ft": 16384,
-		"iS": 13812130,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/max-libertine-758750-unsplash.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1504,28 +1482,6 @@
 		"oAP": "/_uploads/pilot-program-summary-of-metholodogy.pdf",
 		"oF": 0
 		},
-	"/_uploads/pilot-program-why.jpg": {
-		"ft": 16384,
-		"iS": 45296,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/pilot-program-why.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 25412,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/_uploads/priorities.jpg": {
 		"ft": 16384,
 		"iS": 413046,
@@ -1632,17 +1588,6 @@
 		"oA": 2,
 		"oAP": "/_uploads/the-case-for-public-beneficial-ownership.pdf",
 		"oF": 0
-		},
-	"/_uploads/trump-is-evil.jpg": {
-		"ft": 16384,
-		"iS": 466453,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/trump-is-evil.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"/_uploads/truth.jpg": {
 		"ft": 16384,
@@ -1762,12 +1707,23 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/why-pilot-program.jpg": {
+	"/_uploads/what-were-watching.jpg": {
 		"ft": 16384,
-		"iS": 1019029,
+		"iS": 344498,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/why-pilot-program.jpg",
+		"oAP": "/_uploads/what-were-watching.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/why-pilot-program-02.jpg": {
+		"ft": 16384,
+		"iS": 729628,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/why-pilot-program-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

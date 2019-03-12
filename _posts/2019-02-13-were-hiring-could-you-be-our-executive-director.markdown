@@ -2,11 +2,11 @@
 title: We're hiring! Could you be our Executive Director?
 date: 2019-02-13 18:17:00 Z
 tags:
-- hiring
-image: "/uploads/joinus.jpg"
+- team
+image: "/uploads/join-us.jpg"
 description: 'We are now seeking our first Executive Director, to move us to our next
   phase of development as we seek scale and impact for our cutting-edge work to end
-  anonymous companies.  '
+  anonymous companies.'
 author: Francesca Baker
 ---
 

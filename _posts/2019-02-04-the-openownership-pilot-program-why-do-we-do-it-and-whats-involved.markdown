@@ -9,7 +9,7 @@ tags:
 - BODS
 - ukraine
 - Kyrgyz Republic
-image: "/uploads/why-pilot-program.jpg"
+image: "/uploads/why-pilot-program-02.jpg"
 description: OpenOwnership’s goal is to to create an open data and policy ecosystem
   that ends the abuse of anonymously owned companies. We create tools, provide assistance,
   and work with governments, companies and civil society to  to increase access to,

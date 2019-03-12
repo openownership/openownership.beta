@@ -7,7 +7,7 @@ categories:
 tags:
 - Kyrgyz Republic
 - EITI
-image: "/uploads/kyrgyz-report.jpg"
+image: "/uploads/kyrgyz-report-02.jpg"
 description: In February 2019, alongside the 42nd EITI International Board meeting
   in Kiev, Ukraine, we launched our report and recommendations for beneficial ownership
   transparency in the Kyrgyz Republic’s extractives sector. This blog post explains
