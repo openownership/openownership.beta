@@ -40,6 +40,6 @@ Third, we highlight the need for cross government coordination throughout the de
 
 #### Next steps
 
-Whether a country is implementing a central beneficial ownership register, or an extractives specific register such as in Kyrgyz Republic, our [report](https://www.openownership.org/uploads/OPO%20Kyrgyz%20Republic%20Scoping%20Report%20(2).pdf) can help identify solutions to common issues, and prompt further reflection on the benefits of moving towards open data publication – where structured data is freely available to the public.
+Whether a country is implementing a central beneficial ownership register, or an extractives specific register such as in Kyrgyz Republic, our [report ](https://www.openownership.org/uploads/opo-kyrgyz-republic-scoping-report.pdf)can help identify solutions to common issues, and prompt further reflection on the benefits of moving towards open data publication – where structured data is freely available to the public.
 
 As EITI countries work to meet the 2020 January deadline to implement beneficial ownership disclosure for their extractives sectors, there is a real opportunity to establish open data registers as best practice. We’re excited to take forward our work with EITI at a time when the EITI Standard is being updated and strengthened, and we will continue to support countries implementing the EITI beneficial ownership requirement.
