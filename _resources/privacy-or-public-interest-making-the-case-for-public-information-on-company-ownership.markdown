@@ -14,7 +14,7 @@ description: This is a summary of a research report from OpenOwnership, The B Te
   ownership data to the public, evaluated from both the perspective of the companies
   holding that information and the authorities requiring it to be disclosed publicly,
   and the relationship with data protection and privacy laws.
-file: "/uploads/Privacy%20Report%20Summary.pdf"
+file: "/uploads/privacy-report-summary-cb05d5.pdf"
 author: OpenOwnership, The B Team and The Engine Room
 thumbnail-image: "/uploads/privacy-summary.JPG"
 ---
