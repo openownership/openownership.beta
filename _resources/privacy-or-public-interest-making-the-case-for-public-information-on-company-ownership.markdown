@@ -1,6 +1,6 @@
 ---
 title: Privacy or public interest? Making the case for public information on company
-  ownership.
+  ownership
 date: 2019-03-27 18:08:00 Z
 categories:
 - beneficial ownership data standard
