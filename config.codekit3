@@ -708,20 +708,20 @@
 		"oAP": "/_posts/2019-03-01-three-takeaways-from-kyrgyz-republic-on-implementing-beneficial-ownership-transparency.markdown",
 		"oF": 0
 		},
-	"/_posts/2019-03-06-guest-post-evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_posts/2019-03-06-guest-post-evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries.markdown",
-		"oF": 0
-		},
 	"/_posts/2019-03-07-what-were-reading.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_posts/2019-03-07-what-were-reading.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-03-21-guest-post-evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-03-21-guest-post-evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries.markdown",
 		"oF": 0
 		},
 	"/_resources/BODS-tools-presentation.markdown": {
@@ -1432,12 +1432,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/opo-ukraine-report.pdf": {
+	"/_uploads/OPO-Ukraine-Report.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_uploads/opo-ukraine-report.pdf",
+		"oAP": "/_uploads/OPO-Ukraine-Report.pdf",
 		"oF": 0
 		},
 	"/_uploads/pilot-program-summary-of-metholodogy.jpg": {
@@ -1476,6 +1476,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/privacy-laws.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/privacy.jpg": {
+		"ft": 16384,
+		"iS": 982614,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/privacy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
