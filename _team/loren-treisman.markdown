@@ -1,6 +1,9 @@
 ---
 title: Loren Treisman
 date: 2019-04-30 09:43:00 Z
+categories:
+- project-team
+position: 5
 job-title: Communications Associate
 image: "/uploads/loren-treisman.jpg"
 email: loren@openownership.org
