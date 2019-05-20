@@ -1,8 +1,8 @@
 ---
 title: |-
-  DATA PROTECTION AND
-  PRIVACY IN BENEFICIAL
-  OWNERSHIP DISCLOSURE
+  Data Protection And
+  Privacy In Beneficial
+  Ownership Disclosure
 date: 2019-05-20 13:53:00 Z
 categories:
 - Report
