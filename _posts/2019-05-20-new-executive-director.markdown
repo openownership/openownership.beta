@@ -21,11 +21,13 @@ After an extensive search and grilling several amazing candidates, we selected s
 
 Pretty cool, right!
 
-> As Thom explains, I'm thrilled to be joining the amazing team at OpenOwnership. It's more critical now than ever before that we end the abuse of anonymous companies and build the right data and data architecture to make accurate, reusable information about the true owners of companies available around the world.
+As Thom explains, "I'm thrilled to be joining the amazing team at OpenOwnership. It's more critical now than ever before that we end the abuse of anonymous companies and build the right data and data architecture to make accurate, reusable information about the true owners of companies available around the world.
 
-> While our mission isn't a panacea for ending corruption, as part of a broader transparency movement, it's a critical step towards creating a world with greater trust between companies, governments and citizens, where businesses are efficient, serve a public good and operate on a more level playing field.
+While our mission isn't a panacea for ending corruption, as part of a broader transparency movement, it's a critical step towards creating a world with greater trust between companies, governments and citizens, where businesses are efficient, serve a public good and operate on a more level playing field."
 
-Thom is an excellent fit for the organisation’s fast-moving culture and for our ambitions to change the world: he’s a dynamic leader with an entrepreneurial approach and has deep expertise on data, policy and politics. As the COO of a start-up in a past life, he’s used to being agile and thinking how to scale. In short, he encapsulates the ambition and the smarts required to lead OO to our next level of scale and impact and to drive change at the highest levels of national and international government.\
+Thom is an excellent fit for the organisation’s fast-moving culture and for our ambitions to change the world: he’s a dynamic leader with an entrepreneurial approach and has deep expertise on data, policy and politics. As the COO of a start-up in a past life, he’s used to being agile and thinking how to scale. In short, he encapsulates the ambition and the smarts required to lead OO to our next level of scale and impact and to drive change at the highest levels of national and international government.
+
+\
 He was also a death metal fan but weren’t we all (those of you above a certain age!). If you ask him nicely, he might show you a striking picture of him as a rock god.
 
 He officially joins OpenOwnership on 17th June but his first outing for OO will be at the OGP Summit in Ottawa at the end of the month. This is perfect timing as we partner with the UK Government which will announce the launch of the Beneficial Ownership Leadership Group.
