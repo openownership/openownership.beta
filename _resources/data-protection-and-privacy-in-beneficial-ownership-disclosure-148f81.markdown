@@ -1,8 +1,8 @@
 ---
 title: |-
-  DATA PROTECTION AND
-  PRIVACY IN BENEFICIAL
-  OWNERSHIP DISCLOSURE
+  Data Protection And
+  Privacy In Beneficial
+  Ownership Disclosure
 date: 2019-05-20 13:53:00 Z
 categories:
 - Report
@@ -20,7 +20,7 @@ description: 'This is a research report from OpenOwnership, The B Team and The E
   that information and the authorities requiring it to be disclosed publicly, and
   the relationship with data protection and privacy laws.  '
 file: "/uploads/FINAL%20long%20Privacy%20Report%20web.pdf"
-author: 'OpenOwnership, The B Team and The Engine Room · May 2019 '
+author: OpenOwnership, The B Team and The Engine Room
 thumbnail-image: "/uploads/Cover.JPG"
 ---
 
