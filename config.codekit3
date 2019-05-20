@@ -188,6 +188,14 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
+	"/_drafts/a-big-announcement-we-have-a-new-executive-director.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_drafts/a-big-announcement-we-have-a-new-executive-director.markdown",
+		"oF": 0
+		},
 	"/_includes/blocks/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -724,6 +732,14 @@
 		"oAP": "/_posts/2019-03-21-guest-post-evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries.markdown",
 		"oF": 0
 		},
+	"/_posts/2019-05-20-new-executive-director.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-05-20-new-executive-director.markdown",
+		"oF": 0
+		},
 	"/_resources/BODS-tools-presentation.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -746,6 +762,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_resources/briefing-the-case-for-beneficial-ownership-registers.markdown",
+		"oF": 0
+		},
+	"/_resources/data-protection-and-privacy-in-beneficial-ownership-disclosure-148f81.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/data-protection-and-privacy-in-beneficial-ownership-disclosure-148f81.markdown",
+		"oF": 0
+		},
+	"/_resources/data-protection-and-privacy-in-beneficial-ownership-disclosure.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/data-protection-and-privacy-in-beneficial-ownership-disclosure.markdown",
 		"oF": 0
 		},
 	"/_resources/IACC-privacy-data-protection.markdown": {
@@ -796,6 +828,14 @@
 		"oAP": "/_resources/openownership-pilot-program-summary-of-methodology.markdown",
 		"oF": 0
 		},
+	"/_resources/privacy-or-public-interest-making-the-case-for-public-information-on-company-ownership.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/privacy-or-public-interest-making-the-case-for-public-information-on-company-ownership.markdown",
+		"oF": 0
+		},
 	"/_resources/the-beneficial-ownership-transparency-network.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -834,14 +874,6 @@
 		"oAP": "/_team/claire-reichenbach.markdown",
 		"oF": 0
 		},
-	"/_team/francesca-baker.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_team/francesca-baker.markdown",
-		"oF": 0
-		},
 	"/_team/jack-lord.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -864,6 +896,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_team/laurence-bascle.markdown",
+		"oF": 0
+		},
+	"/_team/loren-treisman.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/loren-treisman.markdown",
 		"oF": 0
 		},
 	"/_team/louise-russell-prywata.markdown": {
@@ -958,6 +998,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/Cover.JPG": {
+		"ft": 16384,
+		"iS": 55596,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/danish-data.jpg": {
 		"ft": 16384,
 		"iS": 87070,
@@ -1001,6 +1052,14 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
+		},
+	"/_uploads/FINAL long Privacy Report web.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/FINAL long Privacy Report web.pdf",
+		"oF": 0
 		},
 	"/_uploads/first-steps.jpg": {
 		"ft": 16384,
@@ -1470,12 +1529,47 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/Privacy Report Summary.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Privacy Report Summary.pdf",
+		"oF": 0
+		},
 	"/_uploads/privacy-laws.jpg": {
 		"ft": 16384,
 		"iS": 674545,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/privacy-laws.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/privacy-report-summary-cb05d5.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/privacy-report-summary-cb05d5.pdf",
+		"oF": 0
+		},
+	"/_uploads/privacy-report-summary.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/privacy-report-summary.pdf",
+		"oF": 0
+		},
+	"/_uploads/privacy-summary.JPG": {
+		"ft": 16384,
+		"iS": 76074,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/privacy-summary.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1554,6 +1648,17 @@
 		"oA": 2,
 		"oAP": "/_uploads/the-case-for-public-beneficial-ownership.pdf",
 		"oF": 0
+		},
+	"/_uploads/thom-townsend.jpg": {
+		"ft": 16384,
+		"iS": 742274,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/thom-townsend.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_uploads/truth.jpg": {
 		"ft": 16384,
