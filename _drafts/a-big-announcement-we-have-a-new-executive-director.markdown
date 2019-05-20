@@ -16,7 +16,6 @@ description: 'Over the past two months, I’ve been leading the search for an aw
 author: Dr. Gavin Hayman
 ---
 
-![Thom photo2 small crop-c21404.jpg](/uploads/Thom%20photo2%20small%20crop-c21404.jpg)
 
 I’ve big news for everyone, everywhere working on ending impunity and financial crime.
 
