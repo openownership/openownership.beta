@@ -36,4 +36,6 @@ I’d also like to thank the fabulous Zosia Sztykowski who’s driven OO forward
 
 So, awesome job Zosia and congratulations to Thom. We can’t wait to see them hit the ground running and drive company ownership out of the shadows and into the light.
 
-Dr. Gavin Hayman is the Executive Director of the Open Contracting Partnership and Chair of the Open Ownerships Steering Group.
+-----------------------------------------------------------------------------------------------------------------
+
+Dr. Gavin Hayman is the Executive Director of the [Open Contracting Partnership](https://www.open-contracting.org/) and Chair of the Open Ownerships Steering Group.
