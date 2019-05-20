@@ -39,4 +39,4 @@ So, awesome job Zosia and congratulations to Thom. We can’t wait to see them h
 
 -----------------------------------------------------------------------------------------------------------------
 
-Dr. Gavin Hayman is the Executive Director of the [Open Contracting Partnership](https://www.open-contracting.org/) and Chair of the Open Ownerships Steering Group.
+Dr. Gavin Hayman is the Executive Director of the [Open Contracting Partnership](https://www.open-contracting.org/) and Chair of the OpenOwnership's Steering Group.
