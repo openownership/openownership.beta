@@ -4,7 +4,7 @@ date: 2019-05-20 14:35:00 Z
 published: false
 ---
 
-                                     ![Thom photo2 small crop-c21404.jpg](/uploads/Thom%20photo2%20small%20crop-c21404.jpg)
+      ![Thom photo2 small crop-c21404.jpg](/uploads/Thom%20photo2%20small%20crop-c21404.jpg)
 
 A Big Announcement: We have a New Executive Director
 \
