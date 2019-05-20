@@ -20,10 +20,9 @@ author: Dr. Gavin Hayman
 
 I’ve big news for everyone, everywhere working on ending impunity and financial crime.
 
-
 Over the past two months, I’ve been leading the search for an awesome Executive Director for Open Ownership to take the organisation’s work to the next level of global scale and impact. This big news is that we’ve found someone amazing...
 
-After an extensive search and grilling several amazing candidates, we selected someone superb: no less than Thom Townsend. We are delighted to be stealing him from under the nose of the British Government where he led on open government and digital innovation in the Cabinet Office, Government Digital Service and most recently, the Department for Digital, Culture, Media and Sport.\
+After an extensive search and grilling several amazing candidates, we selected someone superb: no less than Thom Townsend. We are delighted to be stealing him from under the nose of the British Government where he led on open government and digital innovation in the Cabinet Office, Government Digital Service and most recently, the Department for Digital, Culture, Media and Sport.
 
 Pretty cool, right!
 
