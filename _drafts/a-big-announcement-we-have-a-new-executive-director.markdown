@@ -7,7 +7,6 @@ tags:
 - Executive Director
 - beneficial ownership
 - Thom Townsend
-image: "/uploads/Thom%20photo2%20edit2.jpg"
 description: 'Over the past two months, I’ve been leading the search for an awesome
   Executive Director for Open Ownership to take the organisation’s work to the next
   level of global scale and impact. This big news is that we’ve found someone amazing...
@@ -30,3 +29,6 @@ He officially joins OpenOwnership on 17th June but his first outing for OO will 
 The group brings together vanguard countries that will both drive a global policy shift towards free, open source publicly accessible beneficial ownership data for companies, and set ambitious international best practice on beneficial ownership transparency. A report from Global Witness last week shows that the battle on this issue is far from won and that we need to jump from laws to data to enforcement to create real change. 
 I’d also like to thank the fabulous Zosia Sztykowski who’s driven OO forwards from the start as our Project Lead and who worked so closely with me and the Steering Committee in selecting Thom. Zosia is now becoming OO’s Head of Policy to help drive that change in global norms.
 So, awesome job Zosia and congratulations to Thom. We can’t wait to see them hit the ground running and drive company ownership out of the shadows and into the light. 
+
+Dr. Gavin Hayman is the Executive Director of the Open Contracting Partnership and Chair of the Open Ownerships Steering Group. 
+
