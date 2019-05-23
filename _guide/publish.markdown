@@ -1,6 +1,7 @@
 ---
 title: Publish
 position: 5
+date: 2019-02-16 00:06:00 Z
 description: There are many ways to publish beneficial ownership information publicly;
   some will better promote policy impact than others. This section offers guidance
   on how to publish information in order to drive policy impact.

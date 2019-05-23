@@ -1,6 +1,7 @@
 ---
 title: Consider
 position: 0
+date: 2019-02-16 00:01:00 Z
 description: More countries around the world are considering beneficial ownership
   transparency. This section covers what beneficial ownership transparency is, why
   it matters, and outlines recent international and national developments towards

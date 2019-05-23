@@ -1,6 +1,7 @@
 ---
 title: Commit
 position: 1
+date: 2019-02-16 00:02:00 Z
 description: Countries around the world are making public commitments to beneficial
   ownership transparency. This section offers guidance on what to think about and
   include.

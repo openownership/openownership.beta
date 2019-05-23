@@ -600,7 +600,7 @@ $publish: #1BB0A7;
   @include links ($publish, $medium-gray);
   p {
     a {
-    border-bottom: 1px solid $consider;
+    border-bottom: 1px solid $publish;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
       border-bottom: 1px solid transparent;   
@@ -610,4 +610,9 @@ $publish: #1BB0A7;
   .black {
   @include links ($black, $medium-gray);
   }
+}
+
+
+.button.white:hover, .button.white:focus {
+background-color: $light-gray;
 }

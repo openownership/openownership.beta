@@ -1,5 +1,6 @@
 ---
 title: Legal
+date: 2019-02-16 00:03:00 Z
 position: 2
 description: Implementing beneficial ownership transparency is likely to require changes
   to legislation and regulation. This section outlines the aspects relevant to putting

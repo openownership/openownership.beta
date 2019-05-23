@@ -1,6 +1,7 @@
 ---
 title: Systems
 position: 3
+date: 2019-02-16 00:04:00 Z
 description: Beneficial ownership transparency involves the collection, storage and
   publication of data. This section offers guidance on how to develop systems and
   software that collect, store and publish structured beneficial ownership information

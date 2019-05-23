@@ -1,6 +1,7 @@
 ---
 title: Data
 position: 4
+date: 2019-02-16 00:05:00 Z
 description: Throughout the implementation journey, actions can be taken to improve
   the quality of the data in your beneficial ownership register. This section breaks
   down the topic of data quality and verification into three steps and offers guidance
