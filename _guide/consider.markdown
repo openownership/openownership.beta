@@ -1,6 +1,6 @@
 ---
 title: Consider
-position: 1
+position: 0
 description: More countries around the world are considering beneficial ownership
   transparency. This section covers what beneficial ownership transparency is, why
   it matters, and outlines recent international and national developments towards
