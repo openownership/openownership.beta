@@ -1,10 +1,15 @@
 ---
 title: Consider
 layout: guide-page
-description: More countries around the world are considering beneficial ownership transparency. This section covers what beneficial ownership transparency is, why it matters, and outlines recent international and national developments towards beneficial ownership transparency.
-tip: At the 2019 Open Government Partnership Summit in Ottawa, Canada, a new transnational Leadership Group commenced. This coalition of governments will drive global policy shift and set ambitious international best practice on beneficial ownership transparency.
-questions:
-number: 01
+description: More countries around the world are considering beneficial ownership
+  transparency. This section covers what beneficial ownership transparency is, why
+  it matters, and outlines recent international and national developments towards
+  beneficial ownership transparency.
+tip: At the 2019 Open Government Partnership Summit in Ottawa, Canada, a new transnational
+  Leadership Group commenced. This coalition of governments will drive global policy
+  shift and set ambitious international best practice on beneficial ownership transparency.
+questions: 
+number: 1
 ---
 
 Helpdesk support is provided to governments or organisations implementing, or considering implementing, beneficial ownership disclosure regimes using the Beneficial Ownership Data Standard.
