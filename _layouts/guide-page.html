@@ -28,14 +28,16 @@ layout: default
 </section>
 <!-- End Tip -->
 
-<!-- Page Content -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y align-center">
+<div class="grid-container">
+  <div class="grid-x grid-padding-y align-center">
     <div class="small-12 medium-8 cell">
-      {{page.content | markdownify}}
+        {% for question in page.questions %}
+          <h3>{{question.title}}</h3>
+
+            {{ question.text | markdownify }}
+        {% endfor %}
     </div>
   </div>
-</section>
-<!-- End Page Content -->
+</div>
 
 </section>
