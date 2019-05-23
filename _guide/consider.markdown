@@ -18,13 +18,13 @@ questions:
     owner(s) of the entity in question. However, the legal owner of an entity such
     as a company can be another company; in such cases the beneficial owner is the
     human being(s) who ultimately own or control the company. If you’d like to learn
-    more, our partner Open Data Services has created this primer that introduces the
-    key concepts of beneficial ownership."
+    more, our partner Open Data Services has created this [primer](http://standard.openownership.org/en/v0-1/primer/index.html)
+    that introduces the key concepts of beneficial ownership."
 - title: Why beneficial ownership transparency matters?
   text: |-
     Anonymous shell companies enable corruption, fraud, organised crime and tax evasion. This undermines trust in companies and discourages investment. Public access to high quality data on who owns companies is essential to prevent corruption, organised crime and tax evasion. It improves the business environment by increasing competitiveness and reducing risk, and helps businesses and governments understand who they are doing business with.
 
-    Read our briefing and FAQs on why public beneficial ownership registers are important.
+    Read our [briefing and FAQs](https://www.openownership.org/uploads/the-case-for-public-beneficial-ownership.pdf) on why public beneficial ownership registers are important.
 - title: What is international best practice for beneficial ownership transparency?
   text: "More countries around the world are considering beneficial ownership transparency,
     including through making Open Government Partnership (OGP) National Action Plan
@@ -48,11 +48,11 @@ questions:
   text: |-
     There is no one-size-fits-all approach to beneficial ownership transparency, but there are some characteristics of effective beneficial ownership data that help drive policy impact across most contexts. These are:
 
-    The published data specifies how beneficial ownership is exerted, and the percentage ownership
-    Published data is structured and granular
-    Published data includes sufficient information to allow disambiguation
-    Historical data is kept and published
-    Data is collected and published in a timely manner
+    1. The published data specifies how beneficial ownership is exerted, and the percentage ownership
+    1. Published data is structured and granular
+    1. Published data includes sufficient information to allow disambiguation
+    1. Historical data is kept and published
+    1. Data is collected and published in a timely manner
 
     Our short briefing Characteristics of Effective Beneficial Ownership Data discusses recommendations for implementing each characteristic, and may serve as a useful summary of key things to think about when considering beneficial ownership transparency.
 
@@ -60,17 +60,19 @@ questions:
 - title: 'Working with us '
   text: |-
     In addition to this implementation guide, other OpenOwnership resources are:
-    the OpenOwnership Helpdesk, which provides support with a range of technical and policy issues
-    the OpenOwnership Pilot Program, which provides in kind technical assistance to governments implementing beneficial ownership transparency
 
-    If you need additional support, please contact our team on support@openownership.org.
+    * the [OpenOwnership Helpdesk](mailto: support@openownership.org), which provides support with a range of technical and policy issues
+    * the [OpenOwnership Pilot Program](https://www.openownership.org/uploads/pilot-program-summary-of-metholodogy.pdf), which provides in kind technical assistance to governments implementing beneficial ownership transparency
+
+    If you need additional support, please contact our team on [support@openownership.org](mailto:support@openownership.org).
 resource-text:
-- Primer outlining what beneficial ownership transparency is
-- 'Briefing: The case for public beneficial ownership registers'
-- 'Briefing: The case for beneficial ownership as open data'
+- "[Primer](http://standard.openownership.org/en/v0-1/primer/index.html) outlining
+  what beneficial ownership transparency is"
+- 'Briefing: [The case for public beneficial ownership registers](https://www.openownership.org/uploads/the-case-for-public-beneficial-ownership.pdf)'
+- 'Briefing: [The case for beneficial ownership as open data](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf)'
 - 'Briefing: Characteristics of effective beneficial ownership data'
 - Beneficial Ownership Transparency Disclosure Principles
-- Overview of the OpenOwnership Pilot Program
+- "[Overview of the OpenOwnership Pilot Program](https://www.openownership.org/uploads/pilot-program-summary-of-metholodogy.pdf)"
 layout: guide-page
 ---
 
