@@ -102,12 +102,12 @@ social:
   medium: https://medium.com/beneficial-ownership
   github: https://github.com/openownership/data-standard
 guides:
-  consider: /guide/consider
-  commit: /guide/commit
-  legal: /guide/legal
-  systems: /guide/sytems
-  data: /guide/data
-  publish: /guide/publish
+  consider: "/guide/consider"
+  commit: "/guide/commit"
+  legal: "/guide/legal"
+  systems: "/guide/sytems"
+  data: "/guide/data"
+  publish: "/guide/publish"
 compress_html:
   comments:
   - "<!-- "
