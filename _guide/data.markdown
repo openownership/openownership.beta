@@ -11,67 +11,51 @@ tip-text: Verification is critical for generating useful and reliable beneficial
   false information, and increase the likelihood that information in the register
   is true.
 questions:
-- title: What is beneficial ownership transparency?
-  text: "Beneficial ownership transparency is a requirement for legal entities such
-    as companies to disclose information about the people who ultimately own or control
-    them. This person or people are the beneficial owner(s) of the legal entity. \n\nIn
-    many cases, the beneficial owner is simply the person or people who are legal
-    owner(s) of the entity in question. However, the legal owner of an entity such
-    as a company can be another company; in such cases the beneficial owner is the
-    human being(s) who ultimately own or control the company. If you’d like to learn
-    more, our partner Open Data Services has created this primer that introduces the
-    key concepts of beneficial ownership."
-- title: Why beneficial ownership transparency matters?
+- title: What is verification of beneficial ownership information?
+  text: |
+    Verification is critical to generating high quality beneficial ownership information, but the term is used to mean many different types of checks and processes. Based on our research, we break down verification into three steps, to be taken together: authentication and authorisation, validation and truth verification. Understanding these steps can help design measures to improve data quality.
+
+    1. Authentication & authorisation - ensure the person submitting the information is who they say they are and that they are authorised to make the declaration
+    1. Validation - ensure that the data submitted is a legitimate possible value
+    1. “Truth” verification - identify potential mistakes and irregularities in the data, which may indicate that the statement made is not true, and publish the data openly so that others can also do so.
+
+    Our working paper What We Really Mean by Verification, and How to Do It, provides practical examples that can be applied at each of the three steps. Some verification activities are likely to require legal mandate whilst others can be adopted by making technical, system design or workflow changes.
+- title: Five ways to improve data quality
+  text: |
+    1. Require identification for the person making the declaration, and the beneficial owner themselves, and where practical check this against existing government data to validate they are real people. This increases the risks associated with submitting false information, provided sanctions are present and enforced.
+
+    1. Use an electronic form that includes as many fields as possible from our template paper form, and incorporate validation to constrain the responses that can be entered to certain fields (such as address, zip code, date of birth).
+
+    1. Publish sufficient information about beneficial ownership so that people can identify them - e.g. publish unique identifiers for each beneficial owner in the system, and contact address, month and year of birth.
+
+    1. Publish beneficial ownership information as open data using BODS so that others can easily use it and link it to other datasets.
+
+    1. Ensure adequate sanctions are in place for submission of false information, and that these are enforced in practice.
+- title: What information should be collected and published to improve verification
+    and data quality?
   text: |-
-    Anonymous shell companies enable corruption, fraud, organised crime and tax evasion. This undermines trust in companies and discourages investment. Public access to high quality data on who owns companies is essential to prevent corruption, organised crime and tax evasion. It improves the business environment by increasing competitiveness and reducing risk, and helps businesses and governments understand who they are doing business with.
+    We have created a template form that includes the information that we recommend companies should complete when declaring their beneficial ownership to a national register. This form can be adapted to collect information using paper forms, or it can be transferred to an electronic system (see Systems section).
 
-    Read our briefing and FAQs on why public beneficial ownership registers are important.
-- title: What is international best practice for beneficial ownership transparency?
-  text: "More countries around the world are considering beneficial ownership transparency,
-    including through making Open Government Partnership (OGP) National Action Plan
-    commitments, meeting the beneficial ownership requirement in the Extractive Industries
-    Transparency Initiative (EITI) Standard, and in Europe through implementing the
-    5th Anti-Money Laundering Directive.\n\nAt the 2019 OGP Summit in Ottawa, Canada,
-    a new transnational coalition of governments commenced that will drive a global
-    policy shift towards free, open source publicly accessible beneficial ownership
-    data for companies, and set ambitious international best practice on beneficial
-    ownership transparency. \n\nMembers of this Leadership Group are governments that
-    are united by a common vision of simple access by business, civil society, and
-    other government actors to public, open data of corporate beneficial ownership
-    that is linked transnationally. OpenOwnership coordinates the Leadership Group,
-    provides technical assistance and facilitates discussions on international best
-    practice and produces related guidance. You can read more about the Leadership
-    Group and the international Beneficial Ownership Transparency Disclosure Principles
-    here.\n\nIn addition, OpenOwnership is compiling case studies of how particular
-    countries are implementing beneficial ownership transparency; these will be available
-    on this website in the future."
-- title: What are the key things to consider?
+    Some of the information collected should only be for government use and should not be publicly published (for example, a taxpayer number to check identification). Other information should be published openly (for example, name of the beneficial owner). However, there is no one-size-fits-all approach to beneficial ownership transparency and the information you collect will depend on the intended policy impact and wider legal framework.
+- title: What sanctions help ensure compliance with beneficial ownership transparency?
   text: |-
-    There is no one-size-fits-all approach to beneficial ownership transparency, but there are some characteristics of effective beneficial ownership data that help drive policy impact across most contexts. These are:
+    In order to be an effective deterrent to non-compliance, sanctions must be sufficiently harsh to outweigh the perceived benefits of non-compliance, whilst being proportionate within a country’s overall legal framework.
 
-    The published data specifies how beneficial ownership is exerted, and the percentage ownership
-    Published data is structured and granular
-    Published data includes sufficient information to allow disambiguation
-    Historical data is kept and published
-    Data is collected and published in a timely manner
+    The UK's model allows for sanctions against beneficial owners, companies and company officers. The sanctions include imprisonment for up to 12 months (or two years if convicted on indictment), a fine, or both and the ability to strike off any companies that default on their obligations to report to the register. See the [legislation](https://www.legislation.gov.uk/ukpga/2006/46/part/21A) for details.
 
-    Our short briefing Characteristics of Effective Beneficial Ownership Data discusses recommendations for implementing each characteristic, and may serve as a useful summary of key things to think about when considering beneficial ownership transparency.
-
-    Throughout the implementation, countries should foster a community of people and organisations - across government, business and civil society - who use beneficial ownership data for public good, and who can contribute to ongoing refinements and improvements of your beneficial ownership transparency policy. This will help sustain and improve policy impact over time.
-- title: 'Working with us '
-  text: |-
-    In addition to this implementation guide, other OpenOwnership resources are:
-    the OpenOwnership Helpdesk, which provides support with a range of technical and policy issues
-    the OpenOwnership Pilot Program, which provides in kind technical assistance to governments implementing beneficial ownership transparency
-
-    If you need additional support, please contact our team on support@openownership.org.
+    Sanctions are irrelevant unless they are enforced. When an individual does not cooperate with disclosure requirements, a company should be able to sanction a beneficial owner or an individual suspected of being a beneficial owner, by restricting their right to sell or otherwise benefit from the legal ownership of their shares. See the UK [legislation](http://www.legislation.gov.uk/uksi/2016/339/part/5/made) for an example.
+- title: What is good practice for evaluating and improving data quality?
+  text: Good practice on how to collect and verify beneficial ownership data is still
+    emerging, and there are likely to be many useful innovations in the coming years.
+    An effective approach to ongoing improvements in data quality will include monitoring
+    compliance with the disclosure requirements, analysing the data to identify and
+    investigate suspicious entries, and monitoring the use and effectiveness of sanctions
+    for non-compliance. The processes put in place should involve stakeholders, including
+    users of beneficial ownership data, to efficiently identify where and how data
+    quality can be improved.
 resource-text:
-- Primer outlining what beneficial ownership transparency is
-- 'Briefing: The case for public beneficial ownership registers'
-- 'Briefing: The case for beneficial ownership as open data'
-- 'Briefing: Characteristics of effective beneficial ownership data'
-- Beneficial Ownership Transparency Disclosure Principles
-- Overview of the OpenOwnership Pilot Program
+- 'Working Paper: What We Really Mean by Verification, and How to Do It'
+- 'Tool: Example Paper Forms for Collecting Beneficial Ownership Data'
 layout: guide-page
 ---
 
