@@ -55,6 +55,13 @@ questions:
     Our short briefing Characteristics of Effective Beneficial Ownership Data discusses recommendations for implementing each characteristic, and may serve as a useful summary of key things to think about when considering beneficial ownership transparency.
 
     Throughout the implementation, countries should foster a community of people and organisations - across government, business and civil society - who use beneficial ownership data for public good, and who can contribute to ongoing refinements and improvements of your beneficial ownership transparency policy. This will help sustain and improve policy impact over time.
+- title: 'Working with us '
+  text: |-
+    In addition to this implementation guide, other OpenOwnership resources are:
+    the OpenOwnership Helpdesk, which provides support with a range of technical and policy issues
+    the OpenOwnership Pilot Program, which provides in kind technical assistance to governments implementing beneficial ownership transparency
+
+    If you need additional support, please contact our team on support@openownership.org.
 number: 1
 layout: guide-page
 ---
