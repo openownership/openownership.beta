@@ -574,7 +574,7 @@ $publish: #1BB0A7;
   .question {
   color: $data;
   }
-  @include links ($consider, $medium-gray);
+  @include links ($data, $medium-gray);
   p {
     a {
     border-bottom: 1px solid $data;
