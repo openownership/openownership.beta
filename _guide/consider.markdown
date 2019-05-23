@@ -73,4 +73,3 @@ resource-text:
 layout: guide-page
 ---
 
-test
