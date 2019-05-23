@@ -444,7 +444,12 @@ width: 100%;
 }
 */
 
-$consider: #373A3C;
+$consider: #DB00C9;
+$commit: #7F12E0;
+$legal: #009BFE;
+$systems: #00C7E2;
+$data: #1EC16F;
+$publish: #1BB0A7;
 
 .guide__page--consider  {
   border-top: 1rem solid $consider;
@@ -453,5 +458,55 @@ $consider: #373A3C;
   }
   .question {
   color: $consider;
+  }
+}
+
+.guide__page--commit  {
+  border-top: 1rem solid $commit;
+  .shadow {
+  box-shadow: 5px 5px 0px $commit;
+  }
+  .question {
+  color: $commit;
+  }
+}
+
+.guide__page--legal  {
+  border-top: 1rem solid $legal;
+  .shadow {
+  box-shadow: 5px 5px 0px $legal;
+  }
+  .question {
+  color: $legal;
+  }
+}
+
+.guide__page--systems  {
+  border-top: 1rem solid $systems;
+  .shadow {
+  box-shadow: 5px 5px 0px $systems;
+  }
+  .question {
+  color: $systems;
+  }
+}
+
+.guide__page--data  {
+  border-top: 1rem solid $data;
+  .shadow {
+  box-shadow: 5px 5px 0px $data;
+  }
+  .question {
+  color: $data;
+  }
+}
+
+.guide__page--publish  {
+  border-top: 1rem solid $publish;
+  .shadow {
+  box-shadow: 5px 5px 0px $publish;
+  }
+  .question {
+  color: $publish;
   }
 }
