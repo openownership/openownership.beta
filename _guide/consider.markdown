@@ -63,6 +63,13 @@ questions:
 
     If you need additional support, please contact our team on support@openownership.org.
 number: 1
+resource-text:
+- Primer outlining what beneficial ownership transparency is
+- 'Briefing: The case for public beneficial ownership registers'
+- 'Briefing: The case for beneficial ownership as open data'
+- 'Briefing: Characteristics of effective beneficial ownership data'
+- Beneficial Ownership Transparency Disclosure Principles
+- Overview of the OpenOwnership Pilot Program
 layout: guide-page
 ---
 
