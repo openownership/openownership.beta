@@ -19,7 +19,7 @@ OpenOwnership is a team of policy and technical experts working with governments
 
 This guide brings together useful content, expertise and tools we have developed through providing technical assistance and policy support to a range of countries that are considering or implementing beneficial ownership transparency.  It is also informed by the expertise of many partners including the Open Government Partnership, Extractive Industries Transparency Initiative and leading transparency NGOs. 
 
-This guide is built on a set of Characteristics of Effective Beneficial Ownership Data. It incorporates the Beneficial Ownership Data Standard (BODS), an open source (free for anyone to use) product that OpenOwnership is developing in partnership with Open Data Services. BODS makes it easier for people to understand and use beneficial ownership information, and link it with other datasets.
+This guide is built on a set of Characteristics of Effective Beneficial Ownership Data. It incorporates the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/v0-1/) (BODS), an open source (free for anyone to use) product that OpenOwnership is developing in partnership with [Open Data Services](http://www.opendataservices.coop/). BODS makes it easier for people to understand and use beneficial ownership information, and link it with other datasets.
 
 
 ### We’re all on the implementation journey together
@@ -30,11 +30,11 @@ However, it is clear from tracking progress to date that it is important to unde
 
 Objectives, policies and systems may change over time, and the guide is designed to be adaptable to what we learn as more countries design systems, registers, and more people use and share data.
 
-We are also here to learn. We really want to know what works for you and what doesn’t. Please send us your feedback on the guide here. If you can’t find what you need, or you have further questions, our Helpdesk is on hand to answer questions about a range of technical and policy issues relating to beneficial ownership transparency. 
+We are also here to learn. We really want to know what works for you and what doesn’t. Please send us your feedback on the guide [here](mailto:support@openownership.org). If you can’t find what you need, or you have further questions, our [Helpdesk](mailto:support@openownership.org) is on hand to answer questions about a range of technical and policy issues relating to beneficial ownership transparency. 
 
 
 ### Let’s get started! 
 
 Beneficial ownership transparency is a global movement. People are becoming increasingly aware of the harm anonymous company ownership is having on communities, economies and business, and more governments are making public commitments to beneficial ownership transparency.
 
-Depending on your role, your level of knowledge about beneficial ownership and where your country is on the implementation journey, you can find an overview of everything in the Consider section, access information by focus area using the buttons below, or jump straight to the technical information for the Beneficial Ownership Data Standard.
+Depending on your role, your level of knowledge about beneficial ownership and where your country is on the implementation journey, you can find an overview of everything in the Consider section, access information by focus area using the buttons below, or jump straight to the technical information for the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/v0-1/).
