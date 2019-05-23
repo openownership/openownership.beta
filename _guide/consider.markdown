@@ -4,9 +4,10 @@ description: More countries around the world are considering beneficial ownershi
   transparency. This section covers what beneficial ownership transparency is, why
   it matters, and outlines recent international and national developments towards
   beneficial ownership transparency.
-tip: At the 2019 Open Government Partnership Summit in Ottawa, Canada, a new transnational
-  Leadership Group commenced. This coalition of governments will drive global policy
-  shift and set ambitious international best practice on beneficial ownership transparency.
+tip-text: At the 2019 Open Government Partnership Summit in Ottawa, Canada, a new
+  transnational Leadership Group commenced. This coalition of governments will drive
+  global policy shift and set ambitious international best practice on beneficial
+  ownership transparency.
 questions:
 - title: What is beneficial ownership transparency?
   text: "Beneficial ownership transparency is a requirement for legal entities such
