@@ -1,14 +1,15 @@
 ---
 title: Data
 position: 4
-description: More countries around the world are considering beneficial ownership
-  transparency. This section covers what beneficial ownership transparency is, why
-  it matters, and outlines recent international and national developments towards
-  beneficial ownership transparency.
-tip-text: At the 2019 Open Government Partnership Summit in Ottawa, Canada, a new
-  transnational Leadership Group commenced. This coalition of governments will drive
-  global policy shift and set ambitious international best practice on beneficial
-  ownership transparency.
+description: Throughout the implementation journey, actions can be taken to improve
+  the quality of the data in your beneficial ownership register. This section breaks
+  down the topic of data quality and verification into three steps and offers guidance
+  on how to incorporate these as you implement beneficial ownership transparency.
+tip-text: Verification is critical for generating useful and reliable beneficial ownership
+  data and should be considered and embedded throughout the implementation journey.
+  In practice, it should be a series of actions that reduce the potential for submitting
+  false information, and increase the likelihood that information in the register
+  is true.
 questions:
 - title: What is beneficial ownership transparency?
   text: "Beneficial ownership transparency is a requirement for legal entities such
