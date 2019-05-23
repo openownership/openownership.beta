@@ -349,6 +349,16 @@ footer .menu a, footer .menu .menu-text {
   transform: translate(5px, 0);
 }
 
+.guide {
+background-color: #f4f7f8;
+// background-color: scale-color(get-color(snow), $lightness: 50%);
+}
+
+.guide-page {
+background-color: #f4f7f8;
+// background-color: scale-color(get-color(snow), $lightness: 50%);
+}
+
 .what-we-do {
 background-color: #f4f7f8;
 // background-color: scale-color(get-color(snow), $lightness: 50%);
@@ -424,3 +434,7 @@ width: 100%;
   color: $medium-gray;
 }
 */
+
+.guide__page  {
+  border-top: 1rem solid #3C31D5;
+}

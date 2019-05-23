@@ -188,12 +188,20 @@
 		"oAP": "/_data/navigation.yml",
 		"oF": 0
 		},
-	"/_drafts/a-big-announcement-we-have-a-new-executive-director.markdown": {
+	"/_drafts/who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_drafts/a-big-announcement-we-have-a-new-executive-director.markdown",
+		"oAP": "/_drafts/who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest.markdown",
+		"oF": 0
+		},
+	"/_guide/consider.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_guide/consider.markdown",
 		"oF": 0
 		},
 	"/_includes/blocks/excerpt.html": {
@@ -362,6 +370,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_layouts/default.html",
+		"oF": 0
+		},
+	"/_layouts/guide-page.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/guide-page.html",
+		"oF": 0
+		},
+	"/_layouts/guide.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/guide.html",
 		"oF": 0
 		},
 	"/_layouts/home.html": {
@@ -772,14 +796,6 @@
 		"oAP": "/_resources/data-protection-and-privacy-in-beneficial-ownership-disclosure-148f81.markdown",
 		"oF": 0
 		},
-	"/_resources/data-protection-and-privacy-in-beneficial-ownership-disclosure.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_resources/data-protection-and-privacy-in-beneficial-ownership-disclosure.markdown",
-		"oF": 0
-		},
 	"/_resources/IACC-privacy-data-protection.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1053,14 +1069,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/FINAL long Privacy Report web.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_uploads/FINAL long Privacy Report web.pdf",
-		"oF": 0
-		},
 	"/_uploads/first-steps.jpg": {
 		"ft": 16384,
 		"iS": 209387,
@@ -1115,6 +1123,16 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
+		},
+	"/_uploads/guide.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/guide.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/_uploads/hiring.jpg": {
 		"ft": 16384,
@@ -1431,6 +1449,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/oo-data-protection-and-privacy.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-data-protection-and-privacy.pdf",
+		"oF": 0
+		},
 	"/_uploads/open-data-doc.jpg": {
 		"ft": 16384,
 		"iS": 237366,
@@ -1491,13 +1517,24 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/OPO-Ukraine-Report.pdf": {
+	"/_uploads/opo-ukraine-report.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_uploads/OPO-Ukraine-Report.pdf",
+		"oAP": "/_uploads/opo-ukraine-report.pdf",
 		"oF": 0
+		},
+	"/_uploads/Photo for Huff Post privacy blog.jpg": {
+		"ft": 16384,
+		"iS": 3035327,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Photo for Huff Post privacy blog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_uploads/pilot-program-summary-of-metholodogy.jpg": {
 		"ft": 16384,
@@ -10384,6 +10421,25 @@
 		"oA": 2,
 		"oAP": "/Gemfile.lock",
 		"oF": 0
+		},
+	"/guide.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/guide.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/humans.txt": {
 		"cB": 0,

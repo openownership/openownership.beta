@@ -20,6 +20,9 @@ collections:
   what-we-do:
     title: What We Do
     output: true
+  guide:
+    title: Guide
+    output: true
 defaults:
 - scope:
     path: ''
