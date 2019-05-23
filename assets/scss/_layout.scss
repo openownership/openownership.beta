@@ -451,6 +451,29 @@ $systems: #00C7E2;
 $data: #1EC16F;
 $publish: #1BB0A7;
 
+.guide__page  {
+  border-top: 1rem solid $primary-color;
+  .shadow {
+  box-shadow: 5px 5px 0px $primary-color;
+  }
+  .question {
+  color: $primary-color;
+  }
+  @include links ($primary-color, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $primary-color;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
+}
+
 .guide__page--consider  {
   border-top: 1rem solid $consider;
   .shadow {
@@ -458,6 +481,19 @@ $publish: #1BB0A7;
   }
   .question {
   color: $consider;
+  }
+  @include links ($consider, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $consider;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
   }
 }
 
@@ -469,6 +505,19 @@ $publish: #1BB0A7;
   .question {
   color: $commit;
   }
+  @include links ($commit, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $commit;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
 }
 
 .guide__page--legal  {
@@ -478,6 +527,19 @@ $publish: #1BB0A7;
   }
   .question {
   color: $legal;
+  }
+  @include links ($legal, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $legal;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
   }
 }
 
@@ -489,6 +551,19 @@ $publish: #1BB0A7;
   .question {
   color: $systems;
   }
+  @include links ($systems, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $systems;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
 }
 
 .guide__page--data  {
@@ -499,6 +574,19 @@ $publish: #1BB0A7;
   .question {
   color: $data;
   }
+  @include links ($consider, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $data;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
 }
 
 .guide__page--publish  {
@@ -508,5 +596,18 @@ $publish: #1BB0A7;
   }
   .question {
   color: $publish;
+  }
+  @include links ($publish, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $consider;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
   }
 }

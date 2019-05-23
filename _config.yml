@@ -105,7 +105,7 @@ guides:
   consider: "/guide/consider"
   commit: "/guide/commit"
   legal: "/guide/legal"
-  systems: "/guide/sytems"
+  systems: "/guide/systems"
   data: "/guide/data"
   publish: "/guide/publish"
 compress_html:

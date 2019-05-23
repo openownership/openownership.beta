@@ -44,8 +44,16 @@ layout: default
 </section>
 <!-- End Page Content -->
 
-<!-- Pagination -->  
-{% include pagination/guide.html %}
+<!-- Pagination -->
+<div class="grid-container padding-vertical-3">
+  <div class="grid-x small-up-1 medium-up-6 align-center align-middle">
+    {% for item in site.guides %}  
+    <div class="cell text-center padding-3 black hexagon">
+      <a href="{{ item[1] }}" class="sans-bold"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-guide icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg><sup>{{ forloop.index0 | plus: 1 | prepend: '0' }}</sup> {{ item[0] | capitalize }}</a>
+    </div>
+    {% endfor %} 
+  </div>
+</div>
 <!-- End Pagination -->
 
 </section>
