@@ -4,18 +4,30 @@ layout: default
 
 <section class="guide__page--{{page.title | slugify}}">
 
+
+
+<!-- Page Title -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y page__title align-center">
+    <div class="small-12 medium-4 cell">
+      <h1>{{page.title}}</h1>
+    </div>
+    <div class="small-12 medium-4 cell text-right">
+      <svg class="icon icon-guide icon-commit"><use xlink:href="/assets/icons/symbol-defs.svg#icon-commit"></use></svg>
+    </div>
+  </div>
+</section>
+<!-- End Page Title -->       
+
 <!-- Page Title -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y page__title align-center">
     <div class="small-12 medium-10 large-8 cell">
-      <h4>{{page.number}}</h4>
-      <h1>{{page.title}}</h1>
       <h5 class="sans-regular">{{page.description}}</h5>
-      <svg class="icon icon-commit"><use xlink:href="/assets/icons/symbol-defs.svg#icon-commit"></use></svg>
     </div>
   </div>
 </section>
-<!-- End Page Title -->        
+<!-- End Page Title -->     
 
 <!-- Tip -->
 <section class="grid-container">
