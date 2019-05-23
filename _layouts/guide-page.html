@@ -10,10 +10,11 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y page__title align-center">
     <div class="small-12 medium-4 cell">
+      <h5 class="sans-bold medium-gray">{{page.position | plus: 1 | prepend: '0'}}</h5>
       <h1>{{page.title}}</h1>
     </div>
     <div class="small-12 medium-4 cell text-right">
-      <svg class="icon icon-guide icon-commit"><use xlink:href="/assets/icons/symbol-defs.svg#icon-commit"></use></svg>
+      <svg class="icon icon-guide icon-{{page.title | slugify}}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{page.title | slugify}}"></use></svg>
     </div>
   </div>
 </section>
@@ -21,7 +22,7 @@ layout: default
 
 <!-- Page Title -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y page__title align-center">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 large-8 cell">
       <h5 class="sans-regular">{{page.description}}</h5>
     </div>
@@ -46,7 +47,7 @@ layout: default
     <div class="small-12 medium-8 cell">
         <h3>Things to consider</h3>
         {% for question in page.questions %}
-          <h5 class="sans-regular">{{question.title}}</h5>
+          <h6 class="sans-regular question">{{question.title}}</h6>
         {% endfor %}
     </div>
   </div>
@@ -57,10 +58,35 @@ layout: default
     <div class="small-12 medium-8 cell">
         {% for question in page.questions %}
           <h3>{{question.title}}</h3>
-            {{ question.text | markdownify }}
+          <div class="padding-bottom-2">{{ question.text | markdownify }}</div>
         {% endfor %}
     </div>
   </div>
 </div>
+
+<!-- Resources -->
+<div class="grid-container">
+  <div class="grid-x align-center">
+    <div class="small-12 medium-8 cell">
+      <h3>Resources</h3>
+      {% for resource in page.resource-text %}
+        <div>{{resource | markdownify}}</div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- End Resources -->
+
+<!-- Pagination -->
+<div class="grid-container padding-vertical-3">
+  <div class="grid-x small-up-1 medium-up-6 align-center align-middle">
+    {% for item in site.guides %}  
+    <div class="cell text-center padding-3 medium-gray">
+      <a href="{{ item[1] }}"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-guide icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a>
+    </div>
+    {% endfor %} 
+  </div>
+</div>
+<!-- End Pagination -->
 
 </section>

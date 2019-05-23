@@ -75,8 +75,17 @@ line-height: 1.4;
   @include links ($medium-gray, $primary-color);
 }
 
+.black {
+  color: $black;
+  @include links ($black, $medium-gray);
+  sup {
+    color: $medium-gray;
+  }
+}
+
 .medium-gray {
   color: $medium-gray;
+  @include links ($medium-gray, $primary-color);
 }
 
 .light-gray {
@@ -435,14 +444,14 @@ width: 100%;
 }
 */
 
-.guide__page  {
-  border-top: 1rem solid #3C31D5;
-}
+$consider: #373A3C;
 
 .guide__page--consider  {
-  border-top: 1rem solid #DB00C9;
-}
-
-.guide__page--consider .shadow {
-box-shadow: 5px 5px 0px #DB00C9;
+  border-top: 1rem solid $consider;
+  .shadow {
+  box-shadow: 5px 5px 0px $consider;
+  }
+  .question {
+  color: $consider;
+  }
 }

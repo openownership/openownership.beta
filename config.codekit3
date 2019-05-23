@@ -212,6 +212,38 @@
 		"oAP": "/_guide/consider.markdown",
 		"oF": 0
 		},
+	"/_guide/data.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_guide/data.markdown",
+		"oF": 0
+		},
+	"/_guide/legal.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_guide/legal.markdown",
+		"oF": 0
+		},
+	"/_guide/publish.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_guide/publish.markdown",
+		"oF": 0
+		},
+	"/_guide/systems.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_guide/systems.markdown",
+		"oF": 0
+		},
 	"/_includes/blocks/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2189,16 +2221,6 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/assets/icons/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/assets/icons/symbol-defs.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/icons/symbol-defs.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -10933,7 +10955,7 @@
 	"bowerSaveDependencies": 1,
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
-	"browserRefreshDelay": 3,
+	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
