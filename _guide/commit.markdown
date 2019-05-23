@@ -15,7 +15,7 @@ questions:
 
     * Be ambitious, specific and achievable
     * Articulate your policy objectives and the intended benefits for the country
-    * Be mutually reinforcing with relevant international standards, such as the EITI Standard and Beneficial Ownership Disclosure Principles
+    * Be mutually reinforcing with relevant international standards, such as the [EITI Standard](https://eiti.org/document/eiti-standard-requirements-2016) and Beneficial Ownership Disclosure Principles
     * Build on the current context (for example, if a non-public register already exists, commit to making it publicly available as open data)
     * Identify the agencies that will be involved in implementation, and name a lead agency
     * Be developed in participation with relevant stakeholders including data users and policy makers
