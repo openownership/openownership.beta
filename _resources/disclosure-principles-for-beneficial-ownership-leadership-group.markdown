@@ -17,7 +17,8 @@ description: As a group of countries, the Beneficial Ownership Leadership Group 
   time help to reduce the abuse of assets for criminal means. Members of the Beneficial
   Ownership Leadership Group commit to the Disclosure Principles outlined in this
   document.
-file: "/uploads/Disclosure%20Principles%20for%20BOT%20-%20March%202019%20(1).docx"
+file: "/uploads/oo-disclosure-principles.pdf"
+author: Zosia Sztykowski
 thumbnail-image: "/uploads/OGP.jpg"
 ---
 
