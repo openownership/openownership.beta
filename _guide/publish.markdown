@@ -1,76 +1,57 @@
 ---
 title: Publish
 position: 5
-description: More countries around the world are considering beneficial ownership
-  transparency. This section covers what beneficial ownership transparency is, why
-  it matters, and outlines recent international and national developments towards
-  beneficial ownership transparency.
-tip-text: At the 2019 Open Government Partnership Summit in Ottawa, Canada, a new
-  transnational Leadership Group commenced. This coalition of governments will drive
-  global policy shift and set ambitious international best practice on beneficial
-  ownership transparency.
+description: There are many ways to publish beneficial ownership information publicly;
+  some will better promote policy impact than others. This section offers guidance
+  on how to publish information in order to drive policy impact.
+tip-text: Open data is the best way to publish beneficial ownership information, as
+  it allows the widest possible range of people and organisations to use it to drive
+  policy impact. Understanding the different ways in which people want to access and
+  use the data will help you design publication systems that enable this.
 questions:
-- title: What is beneficial ownership transparency?
-  text: "Beneficial ownership transparency is a requirement for legal entities such
-    as companies to disclose information about the people who ultimately own or control
-    them. This person or people are the beneficial owner(s) of the legal entity. \n\nIn
-    many cases, the beneficial owner is simply the person or people who are legal
-    owner(s) of the entity in question. However, the legal owner of an entity such
-    as a company can be another company; in such cases the beneficial owner is the
-    human being(s) who ultimately own or control the company. If you’d like to learn
-    more, our partner Open Data Services has created this primer that introduces the
-    key concepts of beneficial ownership."
-- title: Why beneficial ownership transparency matters?
+- title: Publish as open data
+  text: "Open data is digital “structured” and “machine-readable” data that is available
+    free of charge and can be used and reused by anyone. Making the beneficial ownership
+    data that you publish available as open data means it is easier for people and
+    organisations to use it for public benefit. Structured data makes is possible
+    to link beneficial ownership information with other data and improves the quality
+    of the data. This helps ensure that your beneficial ownership register fulfills
+    your policy goals.\n\nTo realise these benefits, it is advisable to enshrine in
+    law that the data you publish will be available as open data. Whilst enshrining
+    in law public access to the data is of course important, open data goes further
+    and can unlock additional policy impact. For example, you could include reference
+    to publishing data “in accordance with the globally accepted principles and standards
+    for open data in the [Open Data Charter](https://opendatacharter.net/principles/).\n\nThe
+    graphic below shows how open data differs from information that is simply publicly
+    available.\n\nYou can read more about the benefits of open data beneficial ownership
+    information in our briefing - [the case for open data registers](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf).
+    In addition, OpenOwnership is drafting guidance on what to consider when deciding
+    which type of open data license to use for beneficial ownership data. This will
+    be available in the coming months. "
+- title: What is best practice for publishing beneficial ownership data?
   text: |-
-    Anonymous shell companies enable corruption, fraud, organised crime and tax evasion. This undermines trust in companies and discourages investment. Public access to high quality data on who owns companies is essential to prevent corruption, organised crime and tax evasion. It improves the business environment by increasing competitiveness and reducing risk, and helps businesses and governments understand who they are doing business with.
+    Understanding the different ways in which government departments, businesses and civil society will want to access and use your beneficial ownership register to drive policy impact, will help design systems that enable this. In general, some people will want to search for a particular record, while others will want to analyse many records at once. This means publishing the data in ways that both humans and computers can read, understand and use it.
 
-    Read our briefing and FAQs on why public beneficial ownership registers are important.
-- title: What is international best practice for beneficial ownership transparency?
-  text: "More countries around the world are considering beneficial ownership transparency,
-    including through making Open Government Partnership (OGP) National Action Plan
-    commitments, meeting the beneficial ownership requirement in the Extractive Industries
-    Transparency Initiative (EITI) Standard, and in Europe through implementing the
-    5th Anti-Money Laundering Directive.\n\nAt the 2019 OGP Summit in Ottawa, Canada,
-    a new transnational coalition of governments commenced that will drive a global
-    policy shift towards free, open source publicly accessible beneficial ownership
-    data for companies, and set ambitious international best practice on beneficial
-    ownership transparency. \n\nMembers of this Leadership Group are governments that
-    are united by a common vision of simple access by business, civil society, and
-    other government actors to public, open data of corporate beneficial ownership
-    that is linked transnationally. OpenOwnership coordinates the Leadership Group,
-    provides technical assistance and facilitates discussions on international best
-    practice and produces related guidance. You can read more about the Leadership
-    Group and the international Beneficial Ownership Transparency Disclosure Principles
-    here.\n\nIn addition, OpenOwnership is compiling case studies of how particular
-    countries are implementing beneficial ownership transparency; these will be available
-    on this website in the future."
-- title: What are the key things to consider?
-  text: |-
-    There is no one-size-fits-all approach to beneficial ownership transparency, but there are some characteristics of effective beneficial ownership data that help drive policy impact across most contexts. These are:
+    OpenOwnership recommends the following:
+    * Data is freely available online, is searchable, downloadable and reusable by the public, without a fee, proprietary software, or the need for registration.
+    is important to plan for publication processes and tools to be updated regularly, and in response to user feedback.
+    * Data is available in bulk, in structured, machine-readable format that complies with the Beneficial Ownership Data Standard (BODS). This could be via an API (which allows data users to access the data in machine-readable format such as JSON, direct from a website) and/or a bulk download service (where a copy of the entire registry data is put online at regular intervals in a downloadable open file format such as .csv).
+    * The published data is synchronised to the global OpenOwnership Register, which links beneficial ownership data from across the world. This links national data with beneficial ownership data from other countries, increasing policy impact. This can be done using the API or bulk download solution mentioned above, and you can contact us for more information.
 
-    The published data specifies how beneficial ownership is exerted, and the percentage ownership
-    Published data is structured and granular
-    Published data includes sufficient information to allow disambiguation
-    Historical data is kept and published
-    Data is collected and published in a timely manner
-
-    Our short briefing Characteristics of Effective Beneficial Ownership Data discusses recommendations for implementing each characteristic, and may serve as a useful summary of key things to think about when considering beneficial ownership transparency.
-
-    Throughout the implementation, countries should foster a community of people and organisations - across government, business and civil society - who use beneficial ownership data for public good, and who can contribute to ongoing refinements and improvements of your beneficial ownership transparency policy. This will help sustain and improve policy impact over time.
-- title: 'Working with us '
-  text: |-
-    In addition to this implementation guide, other OpenOwnership resources are:
-    the OpenOwnership Helpdesk, which provides support with a range of technical and policy issues
-    the OpenOwnership Pilot Program, which provides in kind technical assistance to governments implementing beneficial ownership transparency
-
-    If you need additional support, please contact our team on support@openownership.org.
+    As with other aspects of implementing beneficial ownership transparency, it is important to plan for publication processes and tools to be updated regularly, and in response to user feedback.
+- title: How are other countries publishing beneficial ownership information?
+  text: Coming soon! We are compiling case studies of how open beneficial ownership
+    registers operate around the world.
+- title: What is good practice for evaluating and improving publication?
+  text: Publication processes and technologies are fast changing, and an iterative
+    approach to reviewing and improving publication will help ensure your published
+    data continues to meet the needs of users, and drives policy impact. The Beneficial
+    Ownership Data Standard will continue to develop under an open standards development
+    process, and the OpenOwnership Helpdesk will provide technical support with updates.
 resource-text:
-- Primer outlining what beneficial ownership transparency is
-- 'Briefing: The case for public beneficial ownership registers'
-- 'Briefing: The case for beneficial ownership as open data'
-- 'Briefing: Characteristics of effective beneficial ownership data'
-- Beneficial Ownership Transparency Disclosure Principles
-- Overview of the OpenOwnership Pilot Program
+- 'Website: [Open Data Charter](https://opendatacharter.net/principles/)'
+- Briefing:[The case for open data registers](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf)
+- 'Website: [OpenOwnership Register](https://register.openownership.org/)'
 layout: guide-page
 ---
 
