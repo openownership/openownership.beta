@@ -63,7 +63,6 @@ questions:
     the OpenOwnership Pilot Program, which provides in kind technical assistance to governments implementing beneficial ownership transparency
 
     If you need additional support, please contact our team on support@openownership.org.
-number: 1
 resource-text:
 - Primer outlining what beneficial ownership transparency is
 - 'Briefing: The case for public beneficial ownership registers'
