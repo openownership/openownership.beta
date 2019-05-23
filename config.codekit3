@@ -196,6 +196,14 @@
 		"oAP": "/_drafts/who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest.markdown",
 		"oF": 0
 		},
+	"/_guide/commit.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_guide/commit.markdown",
+		"oF": 0
+		},
 	"/_guide/consider.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -2181,6 +2189,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "/assets/icons/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/icons/symbol-defs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/icons/symbol-defs.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
