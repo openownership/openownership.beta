@@ -21,7 +21,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y align-center">
      <div class="small-12 medium-8 cell">
         <div class="callout shadow large">
-        {{page.tip}}
+        {{page.tip-text}}
        </div>
     </div>
   </div>
@@ -31,6 +31,7 @@ layout: default
 <div class="grid-container">
   <div class="grid-x grid-padding-y align-center">
     <div class="small-12 medium-8 cell">
+        <h3>Things to consider</h3>
         {% for question in page.questions %}
           <h5 class="sans-regular">{{question.title}}</h5>
         {% endfor %}
