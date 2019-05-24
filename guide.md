@@ -13,7 +13,7 @@ layout: guide
 
 The guide helps you navigate the journey from considering beneficial ownership transparency through to publishing data on a public register. We’ve divided the guide into six focus areas, so it can be used wherever you are in your implementation; whether you are considering the options, working to make an existing beneficial ownership register public, or establishing a new register. There is no one-size-fits-all approach to beneficial ownership transparency, and this guide is designed to help you design and implement policies and systems that work within your country context and can bring about your intended policy impact.
 
-### From policy to practice test
+### From policy to practice
 
 OpenOwnership is a team of policy and technical experts working with governments, the private sector, civil society and journalists. We’re leading the development of an open data and policy ecosystem that ends the abuse of anonymously owned companies, and makes it easy to publish and access high-quality, linked data about who owns and controls companies.
 
