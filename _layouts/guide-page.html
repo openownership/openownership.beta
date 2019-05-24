@@ -41,7 +41,7 @@ pagination:
             <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
             </div>
             <div class="auto cell text-right">
-            <div></div>
+            <div class="white">00</div>
             <h3 class="margin-bottom-0">Guide</h3>
             </div>
           </div>
@@ -104,6 +104,24 @@ pagination:
         </div>
         </div>
         </a>
+{% else %}
+
+        <a href="/guide" class="guide-pagination--guide button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
+        
+        <div class="grid-y height-100 align-center">
+        <div class="shrink cell">
+          <div class="grid-x align-middle">
+            <div class="shrink cell">
+            <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
+            </div>
+            <div class="auto cell text-right">
+            <div class="white">00</div>
+            <h3 class="margin-bottom-0">Guide</h3>
+            </div>
+          </div>
+        </div>
+        </div>
+        </a>
       {% endif %}
     </div>
     
@@ -154,11 +172,13 @@ pagination:
 
 <div class="grid-container">
   <div class="grid-x grid-padding-y align-center">
-    <div class="small-12 medium-8 cell">
+    <div class="small-12 medium-8 cell things-to-consider">
         <h3>Things to consider</h3>
+        <ul class="menu vertical">
         {% for question in page.questions %}
-          <h6 class="sans-regular question">{{question.title}}</h6>
+        <li><a href="" class="sans-regular question">{{question.title}}</a></li>
         {% endfor %}
+        </ul>
     </div>
   </div>
 </div>
@@ -166,10 +186,10 @@ pagination:
 <div class="grid-container">
   <div class="grid-x grid-padding-y align-center">
     <div class="small-12 medium-8 cell">
-        {% for question in page.questions %}
-          <h3>{{question.title}}</h3>
-          <div class="padding-bottom-3">{{ question.text | markdownify }}</div>
-        {% endfor %}
+      {% for question in page.questions %}
+        <h3>{{question.title}}</h3>
+        <div class="padding-bottom-3">{{ question.text | markdownify }}</div>
+      {% endfor %}
     </div>
   </div>
 </div>

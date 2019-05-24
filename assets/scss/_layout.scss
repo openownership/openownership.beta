@@ -764,3 +764,14 @@ border-color: $publish;
 .guide-pagination--guide:hover {
 border-color: $primary-color;
 }
+
+.things-to-consider {
+.menu a, .menu .button {
+padding: 0.5rem 0rem;
+line-height: 1.4;
+}
+}
+
+.guide-home-content h3 {
+padding-top: 3rem;
+}
