@@ -38,6 +38,10 @@ body {
   font-kerning: normal;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 svg {
   max-width: 100%;
 }
@@ -729,12 +733,14 @@ background-color:  $white;
 border-radius: 0;
 border: 0px solid transparent;
 border-left: 4px solid $light-gray;
+  transition: all .35s cubic-bezier(.39, .575, .565, 1);
 }
 
 .guide-pagination-previous {
 border-radius: 0;
 border: 0px solid transparent;
 border-right: 4px solid $light-gray;
+  transition: all .35s cubic-bezier(.39, .575, .565, 1);
 }
 
 .guide-pagination--consider:hover {
