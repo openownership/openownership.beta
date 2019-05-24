@@ -364,6 +364,14 @@
 		"oAP": "/_includes/site/footer.html",
 		"oF": 0
 		},
+	"/_includes/site/guide.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/site/guide.html",
+		"oF": 0
+		},
 	"/_includes/site/head.html": {
 		"cB": 0,
 		"ft": 8192,
