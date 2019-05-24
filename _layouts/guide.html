@@ -6,10 +6,10 @@ layout: default
 
 <!-- Pagination Desktop -->
   <div class="grid-x grid-padding-y align-justify padding-top-2" data-equalizer>
-
+  
     <div class="small-6 medium-3 large-2 cell show-for-large">
       {% if page.previous.url %}
-        <a href="{{page.previous.url}}" class="button white expanded align-middle" data-equalizer-watch>
+        <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
         
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
@@ -29,19 +29,24 @@ layout: default
     </div>
 
 <!-- Page Title -->
-    <div class="small-6 medium-8 cell padding-3">
+    <div class="small-6 medium-4 cell padding-3">
+      <h5 class="sans-bold medium-gray">{{page.position | plus: 1 | prepend: '0'}}</h5>
       <h1>{{page.title}}</h1>
+    </div>
+    <div class="small-6 medium-4 cell padding-3 text-right">
+      <svg class="icon icon-guide icon-{{page.title | slugify}}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{page.title | slugify}}"></use></svg>
     </div>
 <!-- End Page Title -->
     
     <div class="small-6 medium-3 large-2 cell text-right show-for-large">
-      <a href="/guide/consider" class="button white expanded align-middle" data-equalizer-watch>
+      {% if page.next.url %}
+      <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
             <div class="auto cell text-left">
-            <div>01</div>
-            <h3 class="margin-bottom-0">Consider</h3>
+            <div>{{page.next.position | plus: 1 | prepend: '0'}}</div>
+            <h3 class="margin-bottom-0">{{page.next.title}}</h3>
             </div>
             <div class="shrink cell">
             <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
@@ -50,16 +55,17 @@ layout: default
         </div>
         </div>
       </a>
+      {% endif %}
     </div>
   
   </div>
 <!-- End Pagination -->
 
- <div class="grid-x grid-padding-y align-justify padding-top-2 hide-for-large" data-equalizer>
+  <div class="grid-x grid-padding-y align-justify padding-top-2 hide-for-large" data-equalizer>
   
     <div class="small-6 padding-right-1 cell">
       {% if page.previous.url %}
-        <a href="{{page.previous.url}}" class="button white expanded align-middle" data-equalizer-watch>
+        <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
         
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
@@ -79,13 +85,14 @@ layout: default
     </div>
     
     <div class="small-6 padding-left-1 text-right cell">
-      <a href="/guide/consider" class="button white expanded align-middle" data-equalizer-watch>
+      {% if page.next.url %}
+      <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
             <div class="auto cell text-left">
-            <div>01</div>
-            <h3 class="margin-bottom-0">Consider</h3>
+            <div>{{page.next.position | plus: 1 | prepend: '0'}}</div>
+            <h3 class="margin-bottom-0">{{page.next.title}}</h3>
             </div>
             <div class="shrink cell">
             <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
@@ -94,10 +101,11 @@ layout: default
         </div>
         </div>
       </a>
+      {% endif %}
     </div>
   
   </div>
-<!-- End Pagination --> 
+<!-- End Pagination -->
 
 <!-- Page Content -->
 <section class="grid-container">
