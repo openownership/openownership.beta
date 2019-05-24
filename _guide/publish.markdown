@@ -24,7 +24,7 @@ questions:
     to publishing data “in accordance with the globally accepted principles and standards
     for open data in the [Open Data Charter](https://opendatacharter.net/principles/).\n\nThe
     graphic below shows how open data differs from information that is simply publicly
-    available.\n\n![data-spectrum.png](/uploads/data-spectrum.png)\n\nYou can read
+    available.\n\n![publish-spectrum.png](/uploads/publish-spectrum.png)\n\nYou can read
     more about the benefits of open data beneficial ownership information in our briefing
     - [the case for open data registers](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf).
     In addition, OpenOwnership is drafting guidance on what to consider when deciding

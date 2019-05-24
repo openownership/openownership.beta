@@ -172,7 +172,7 @@ pagination:
 
 <div class="grid-container">
   <div class="grid-x grid-padding-y align-center">
-    <div class="small-12 medium-8 cell things-to-consider">
+    <div class="small-12 medium-8 large-9 cell things-to-consider">
         <h3>Things to consider</h3>
         <ul class="menu vertical">
         {% for question in page.questions %}
@@ -185,7 +185,7 @@ pagination:
 
 <div class="grid-container">
   <div class="grid-x grid-padding-y align-center">
-    <div class="small-12 medium-8 cell">
+    <div class="small-12 medium-8 large-9 cell">
       {% for question in page.questions %}
         <h3 id="{{question.title | slugify}}">{{question.title}}</h3>
         <div class="padding-bottom-3">{{ question.text | markdownify }}</div>
@@ -197,7 +197,7 @@ pagination:
 <!-- Resources -->
 <div class="grid-container">
   <div class="grid-x align-center">
-    <div class="small-12 medium-8 cell">
+    <div class="small-12 medium-8 large-9 cell">
       <h3>Resources</h3>
       {% for resource in page.resource-text %}
         <div>{{resource | markdownify}}</div>

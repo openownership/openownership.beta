@@ -852,6 +852,14 @@
 		"oAP": "/_resources/data-protection-and-privacy-in-beneficial-ownership-disclosure-148f81.markdown",
 		"oF": 0
 		},
+	"/_resources/disclosure-principles-for-beneficial-ownership-leadership-group.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/disclosure-principles-for-beneficial-ownership-leadership-group.markdown",
+		"oF": 0
+		},
 	"/_resources/IACC-privacy-data-protection.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1092,6 +1100,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/data-spectrum.png": {
+		"ft": 32768,
+		"iS": 1062096,
+		"oA": 0,
+		"oAP": "/_uploads/data-spectrum.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/data.jpg": {
 		"ft": 16384,
 		"iS": 582018,
@@ -1113,6 +1132,14 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
+		},
+	"/_uploads/Disclosure Principles for BOT - March 2019 (1).docx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Disclosure Principles for BOT - March 2019 (1).docx",
+		"oF": 0
 		},
 	"/_uploads/faqs.jpg": {
 		"ft": 16384,
@@ -1505,6 +1532,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/OGP.jpg": {
+		"ft": 16384,
+		"iS": 18863,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/OGP.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/oo-beneficial-ownership-policy-reviewer.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -1535,6 +1573,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_uploads/oo-data-protection-and-privacy.pdf",
+		"oF": 0
+		},
+	"/_uploads/oo-disclosure-principles.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-disclosure-principles.pdf",
 		"oF": 0
 		},
 	"/_uploads/oo-example-paper-forms.pdf": {
@@ -1711,6 +1757,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/publish-spectrum.png": {
+		"ft": 32768,
+		"iS": 1484204,
+		"oA": 0,
+		"oAP": "/_uploads/publish-spectrum.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/report-cover.JPG": {
 		"ft": 16384,
 		"iS": 48707,
@@ -1743,6 +1800,49 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/_uploads/spectrum-2.0.png": {
+		"ft": 32768,
+		"iS": 2313615,
+		"oA": 0,
+		"oAP": "/_uploads/spectrum-2.0.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/spectrum.jpg": {
+		"ft": 16384,
+		"iS": 231707,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/spectrum.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/spectrum.png": {
+		"ft": 32768,
+		"iS": 2313615,
+		"oA": 0,
+		"oAP": "/_uploads/spectrum.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/spectrum.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_uploads/spectrum.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/_uploads/steve-day.jpg": {
 		"ft": 16384,
