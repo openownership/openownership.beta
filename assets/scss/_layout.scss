@@ -779,6 +779,7 @@ padding-top: 3rem;
 .hexagon {
   fill: #f4f7f8;
   fill-opacity:0;
+  transition: all .35s cubic-bezier(.39, .575, .565, 1);
 }
 .hexagon:hover {
   fill: #f4f7f8; 
