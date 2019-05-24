@@ -100,7 +100,7 @@ layout: default
 <!-- End Pagination -->
 
 <!-- Image -->
-<section class="grid-container">
+<section class="grid-container show-for-large">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-10 cell text-center">
 <!-- Guide -->  
@@ -110,6 +110,12 @@ layout: default
   </div>
 </section>
 <!-- End Image -->
+
+<!-- Pagination -->
+<div class="hide-for-large">
+{% include pagination/guide.html %}
+</div>
+<!-- End Pagination -->
 
 <!-- Page Content -->
 <section class="grid-container">
