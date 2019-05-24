@@ -27,13 +27,17 @@ questions:
   text: |-
     The following tips will help your technical team and/or contractors to design, build and test systems and software to implement beneficial ownership transparency. For each tip, we provide practical tools that OpenOwnership has developed and tested with countries participating in our Pilot Program. Whilst systems design and development may be led by the technical team responsible for building the beneficial ownership register, OpenOwnership recommends that it is done with close participation of policy staff and other stakeholders involved in implementing beneficial ownership transparency.
 
+    1. Review existing systems and identify what is needed for beneficial ownership transparency. This diagram illustrates the components of a typical beneficial ownership transparency system, and how they are connected.  You can use this to identify how your current systems relate to beneficial ownership, and what new or amended systems are required.
 
-    * Review existing systems and identify what is needed for beneficial ownership transparency. This diagram illustrates the components of a typical beneficial ownership transparency system, and how they are connected.  You can use this to identify how your current systems relate to beneficial ownership, and what new or amended systems are required.
-    * Map current systems to the functional requirements for BODS. This will help you think through what changes are required to design a system for capturing beneficial ownership data.
-    * Map any current data to the BODS schema. If you currently collect some beneficial ownership data (which may or may not be public), map this to the fields in the BODS schema using our Field Mapper (when opening this link, click ‘make a copy’ to open the file). The Field Mapper flags where your data is different from the BODS schema, highlights fields that you are not currently collecting, and fields where additional measures such as in-line validation could be used to make the data more structured.
-    * Design your system to export BODS data. You can view example data in JSON format to understand what is required: At this stage, draw up a clear technical specification for your systems before commencing your technical build or amending existing systems. Use the example data to help you think through what beneficial ownership data might look like for different company types and what system specifications you will need in order to collect this information.
-    * Use the results from previous steps to create specifications for developing new or amended systems, and commission the necessary work.
-    * Test & validate your data. When your system is in place, you can test the data it outputs against the BODS schema using our Data Review Tool.
+    1. Map current systems to the functional requirements for BODS. This will help you think through what changes are required to design a system for capturing beneficial ownership data.
+
+    1. Map any current data to the BODS schema. If you currently collect some beneficial ownership data (which may or may not be public), map this to the fields in the BODS schema using our Field Mapper (when opening this link, click ‘make a copy’ to open the file). The Field Mapper flags where your data is different from the BODS schema, highlights fields that you are not currently collecting, and fields where additional measures such as in-line validation could be used to make the data more structured.
+
+    1. Design your system to export BODS data. You can view example data in JSON format to understand what is required: At this stage, draw up a clear technical specification for your systems before commencing your technical build or amending existing systems. Use the example data to help you think through what beneficial ownership data might look like for different company types and what system specifications you will need in order to collect this information.
+
+    1. Use the results from previous steps to create specifications for developing new or amended systems, and commission the necessary work.
+
+    1. Test & validate your data. When your system is in place, you can test the data it outputs against the BODS schema using our Data Review Tool.
 - title: What is the Beneficial Ownership Data Standard and how does it help?
   text: "The Beneficial Ownership Data Standard (BODS) is a template for publishing
     structured data about beneficial ownership in a format (JSON) that can be read
