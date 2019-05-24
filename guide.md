@@ -1,5 +1,5 @@
 ---
-title: Beneficial Ownership Transparency Implementation Guide
+title: A Guide to Implementing Beneficial Ownership Transparency
 position: 5
 description: This guide is designed to support governments that are considering or
   implementing beneficial ownership transparency. It provides practical resources,
