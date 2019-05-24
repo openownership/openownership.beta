@@ -176,7 +176,7 @@ pagination:
         <h3>Things to consider</h3>
         <ul class="menu vertical">
         {% for question in page.questions %}
-        <li><a href="#{{question.title | slugify}}" class="sans-regular question">{{question.title}} <svg class="icon icon-arrow icon-arrow-down"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-down"></use></svg></a></li>
+        <li><a href="#{{question.title | slugify}}" class="sans-regular question h5">{{question.title}} <svg class="icon icon-arrow icon-arrow-down"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-down"></use></svg></a></li>
         {% endfor %}
         </ul>
     </div>
