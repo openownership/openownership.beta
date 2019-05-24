@@ -29,24 +29,19 @@ layout: default
     </div>
 
 <!-- Page Title -->
-    <div class="small-6 medium-4 cell padding-3">
-      <h5 class="sans-bold medium-gray">{{page.position | plus: 1 | prepend: '0'}}</h5>
+    <div class="small-12 medium-8 cell padding-3">
       <h1>{{page.title}}</h1>
-    </div>
-    <div class="small-6 medium-4 cell padding-3 text-right">
-      <svg class="icon icon-guide icon-{{page.title | slugify}}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{page.title | slugify}}"></use></svg>
     </div>
 <!-- End Page Title -->
     
     <div class="small-6 medium-3 large-2 cell text-right show-for-large">
-      {% if page.next.url %}
-      <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
+      <a href="/guide/consider" class="guide-pagination--consider button white guide-pagination-next expanded align-middle" data-equalizer-watch>
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
             <div class="auto cell text-left">
-            <div>{{page.next.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.next.title}}</h3>
+            <div>01</div>
+            <h3 class="margin-bottom-0">Consider</h3>
             </div>
             <div class="shrink cell">
             <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
@@ -55,7 +50,6 @@ layout: default
         </div>
         </div>
       </a>
-      {% endif %}
     </div>
   
   </div>
@@ -85,14 +79,13 @@ layout: default
     </div>
     
     <div class="small-6 padding-left-1 text-right cell">
-      {% if page.next.url %}
       <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
             <div class="auto cell text-left">
-            <div>{{page.next.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.next.title}}</h3>
+            <div>01</div>
+            <h3 class="margin-bottom-0">Consider</h3>
             </div>
             <div class="shrink cell">
             <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
@@ -101,7 +94,6 @@ layout: default
         </div>
         </div>
       </a>
-      {% endif %}
     </div>
   
   </div>
