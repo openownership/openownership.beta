@@ -1,0 +1,144 @@
+---
+layout: default
+---
+
+<section class="guide__page">
+
+<!-- Pagination Desktop -->
+  <div class="grid-x grid-padding-y align-justify padding-top-2" data-equalizer>
+  
+    <div class="small-6 medium-3 large-2 cell show-for-large">
+      {% if page.previous.url %}
+        <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
+        
+        <div class="grid-y height-100 align-center">
+        <div class="shrink cell">
+          <div class="grid-x align-middle">
+            <div class="shrink cell">
+            <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
+            </div>
+            <div class="auto cell text-right">
+            <div>{{page.previous.position | plus: 1 | prepend: '0'}}</div>
+            <h3 class="margin-bottom-0">{{page.previous.title}}</h3>
+            </div>
+          </div>
+        </div>
+        </div>
+        </a>
+      {% endif %}
+    </div>
+
+<!-- Page Title -->
+    <div class="small-12 medium-8 cell padding-3">
+      <h1>{{page.title}}</h1>
+    </div>
+<!-- End Page Title -->
+    
+    <div class="small-6 medium-3 large-2 cell text-right show-for-large">
+      <a href="/guide/consider" class="guide-pagination--consider button white guide-pagination-next expanded align-middle" data-equalizer-watch>
+        <div class="grid-y height-100 align-center">
+        <div class="shrink cell">
+          <div class="grid-x align-middle">
+            <div class="auto cell text-left">
+            <div>01</div>
+            <h3 class="margin-bottom-0">Consider</h3>
+            </div>
+            <div class="shrink cell">
+            <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+            </div>
+          </div>
+        </div>
+        </div>
+      </a>
+    </div>
+  
+  </div>
+<!-- End Pagination -->
+
+  <div class="grid-x grid-padding-y align-justify padding-top-2 hide-for-large" data-equalizer>
+  
+    <div class="small-6 padding-right-1 cell">
+      {% if page.previous.url %}
+        <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
+        
+        <div class="grid-y height-100 align-center">
+        <div class="shrink cell">
+          <div class="grid-x align-middle">
+            <div class="shrink cell">
+            <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
+            </div>
+            <div class="auto cell text-right">
+            <div>{{page.previous.position | plus: 1 | prepend: '0'}}</div>
+            <h3 class="margin-bottom-0">{{page.previous.title}}</h3>
+            </div>
+          </div>
+        </div>
+        </div>
+        </a>
+      {% endif %}
+    </div>
+    
+    <div class="small-6 padding-left-1 text-right cell">
+      <a href="/guide/consider" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
+        <div class="grid-y height-100 align-center">
+        <div class="shrink cell">
+          <div class="grid-x align-middle">
+            <div class="auto cell text-left">
+            <div>01</div>
+            <h3 class="margin-bottom-0">Consider</h3>
+            </div>
+            <div class="shrink cell">
+            <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+            </div>
+          </div>
+        </div>
+        </div>
+      </a>
+    </div>
+  
+  </div>
+<!-- End Pagination -->
+
+<!-- Image -->
+<section class="grid-container show-for-large">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-10 cell text-center">
+<!-- Guide -->  
+{% include site/guide.html %}
+<!-- End Guide -->
+    </div>
+  </div>
+</section>
+<!-- End Image -->
+
+<!-- Pagination -->
+<div class="hide-for-large">
+{% include pagination/guide.html %}
+</div>
+<!-- End Pagination -->
+
+<!-- Page Content -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-8 cell">
+    <h5 class="sans-regular">{{page.description}}</h5>
+    </div>
+  </div>
+</section>
+<!-- End Page Content -->
+
+<!-- Page Content -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-8 cell guide-home-content">
+      {{page.content | markdownify}}
+    </div>
+  </div>
+</section>
+<!-- End Page Content -->
+
+<!-- Pagination -->  
+{% include pagination/guide.html %}
+<!-- End Pagination -->
+
+</section>

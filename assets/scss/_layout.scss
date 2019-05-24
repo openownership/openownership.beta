@@ -38,6 +38,10 @@ body {
   font-kerning: normal;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 svg {
   max-width: 100%;
 }
@@ -75,8 +79,17 @@ line-height: 1.4;
   @include links ($medium-gray, $primary-color);
 }
 
+.black {
+  color: $black;
+  @include links ($black, $medium-gray);
+  sup {
+    color: $medium-gray;
+  }
+}
+
 .medium-gray {
   color: $medium-gray;
+  @include links ($medium-gray, $primary-color);
 }
 
 .light-gray {
@@ -349,6 +362,16 @@ footer .menu a, footer .menu .menu-text {
   transform: translate(5px, 0);
 }
 
+.guide {
+background-color: #f4f7f8;
+// background-color: scale-color(get-color(snow), $lightness: 50%);
+}
+
+.guide-page {
+background-color: #f4f7f8;
+// background-color: scale-color(get-color(snow), $lightness: 50%);
+}
+
 .what-we-do {
 background-color: #f4f7f8;
 // background-color: scale-color(get-color(snow), $lightness: 50%);
@@ -424,3 +447,347 @@ width: 100%;
   color: $medium-gray;
 }
 */
+
+$consider: #DB00C9;
+$commit: #7F12E0;
+$legal: #009BFE;
+$systems: #00C7E2;
+$data: #1EC16F;
+$publish: #1BB0A7;
+
+.guide__page  {
+  border-top: 1rem solid $primary-color;
+  .shadow {
+  box-shadow: 5px 5px 0px $primary-color;
+  }
+  .question {
+  color: $primary-color;
+  }
+  @include links ($primary-color, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $primary-color;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
+}
+
+.guide__page--consider  {
+  border-top: 1rem solid $consider;
+  .shadow {
+  box-shadow: 5px 5px 0px $consider;
+  }
+  .question {
+  color: $consider;
+  }
+  @include links ($consider, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $consider;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 0.25
+  }
+  .legal {
+  opacity: 0.25
+  }
+  .systems {
+  opacity: 0.25
+  }
+  .data {
+  opacity: 0.25
+  }
+  .publish {
+  opacity: 0.25
+  }
+}
+
+.guide__page--commit  {
+  border-top: 1rem solid $commit;
+  .shadow {
+  box-shadow: 5px 5px 0px $commit;
+  }
+  .question {
+  color: $commit;
+  }
+  @include links ($commit, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $commit;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 0.25
+  }
+  .systems {
+  opacity: 0.25
+  }
+  .data {
+  opacity: 0.25
+  }
+  .publish {
+  opacity: 0.25
+  }
+}
+
+.guide__page--legal  {
+  border-top: 1rem solid $legal;
+  .shadow {
+  box-shadow: 5px 5px 0px $legal;
+  }
+  .question {
+  color: $legal;
+  }
+  @include links ($legal, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $legal;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 1
+  }
+  .systems {
+  opacity: 0.25
+  }
+  .data {
+  opacity: 0.25
+  }
+  .publish {
+  opacity: 0.25
+  }
+}
+
+.guide__page--systems  {
+  border-top: 1rem solid $systems;
+  .shadow {
+  box-shadow: 5px 5px 0px $systems;
+  }
+  .question {
+  color: $systems;
+  }
+  @include links ($systems, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $systems;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 1
+  }
+  .systems {
+  opacity: 1
+  }
+  .data {
+  opacity: 0.25
+  }
+  .publish {
+  opacity: 0.25
+  }
+}
+
+.guide__page--data  {
+  border-top: 1rem solid $data;
+  .shadow {
+  box-shadow: 5px 5px 0px $data;
+  }
+  .question {
+  color: $data;
+  }
+  @include links ($data, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $data;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 1
+  }
+  .systems {
+  opacity: 1
+  }
+  .data {
+  opacity: 1
+  }
+  .publish {
+  opacity: 0.25
+  }
+}
+
+.guide__page--publish  {
+  border-top: 1rem solid $publish;
+  .shadow {
+  box-shadow: 5px 5px 0px $publish;
+  }
+  .question {
+  color: $publish;
+  }
+  @include links ($publish, $medium-gray);
+  p {
+    a {
+    border-bottom: 1px solid $publish;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid transparent;   
+    }
+    }
+  }
+  .black {
+  @include links ($black, $medium-gray);
+  }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 1
+  }
+  .systems {
+  opacity: 1
+  }
+  .data {
+  opacity: 1
+  }
+  .publish {
+  opacity: 1
+  }
+}
+
+
+.button.white:hover, .button.white:focus {
+background-color:  $white;
+}
+
+.guide-pagination-next {
+border-radius: 0;
+border: 0px solid transparent;
+border-left: 4px solid $light-gray;
+  transition: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.guide-pagination-previous {
+border-radius: 0;
+border: 0px solid transparent;
+border-right: 4px solid $light-gray;
+  transition: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.guide-pagination--consider:hover {
+border-color: $consider;
+}
+
+.guide-pagination--commit:hover {
+border-color: $commit;
+}
+
+.guide-pagination--legal:hover {
+border-color: $legal;
+}
+
+.guide-pagination--systems:hover {
+border-color: $systems;
+}
+
+.guide-pagination--data:hover {
+border-color: $data;
+}
+
+.guide-pagination--publish:hover {
+border-color: $publish;
+}
+
+.guide-pagination--guide:hover {
+border-color: $primary-color;
+}
+
+.things-to-consider {
+.menu a, .menu .button {
+padding: 0.5rem 0rem;
+line-height: 1.4;
+}
+}
+
+.guide-home-content h3 {
+padding-top: 3rem;
+}
+
+.hexagon {
+  fill: #f4f7f8;
+  fill-opacity:0;
+  transition: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+.hexagon:hover {
+  fill: #f4f7f8; 
+  fill-opacity:0.6;
+}
