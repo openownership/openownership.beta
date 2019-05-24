@@ -2,7 +2,7 @@
 <div class="grid-container padding-vertical-3">
   <div class="grid-x small-up-2 medium-up-3 large-up-6 align-center align-middle">
     {% for item in site.guides %}  
-    <div class="cell text-center padding-3 black">
+    <div class="cell text-center padding-3 black {{ item[0] }}">
       <a href="{{ item[1] }}" class="sans-bold"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-guide icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg><sup>{{ forloop.index0 | plus: 1 | prepend: '0' }}</sup> {{ item[0] | capitalize }}</a>
     </div>
     {% endfor %} 

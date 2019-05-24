@@ -495,6 +495,24 @@ $publish: #1BB0A7;
   .black {
   @include links ($black, $medium-gray);
   }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 0.25
+  }
+  .legal {
+  opacity: 0.25
+  }
+  .systems {
+  opacity: 0.25
+  }
+  .data {
+  opacity: 0.25
+  }
+  .publish {
+  opacity: 0.25
+  }
 }
 
 .guide__page--commit  {
@@ -517,6 +535,24 @@ $publish: #1BB0A7;
   }
   .black {
   @include links ($black, $medium-gray);
+  }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 0.25
+  }
+  .systems {
+  opacity: 0.25
+  }
+  .data {
+  opacity: 0.25
+  }
+  .publish {
+  opacity: 0.25
   }
 }
 
@@ -541,6 +577,24 @@ $publish: #1BB0A7;
   .black {
   @include links ($black, $medium-gray);
   }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 1
+  }
+  .systems {
+  opacity: 0.25
+  }
+  .data {
+  opacity: 0.25
+  }
+  .publish {
+  opacity: 0.25
+  }
 }
 
 .guide__page--systems  {
@@ -563,6 +617,24 @@ $publish: #1BB0A7;
   }
   .black {
   @include links ($black, $medium-gray);
+  }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 1
+  }
+  .systems {
+  opacity: 1
+  }
+  .data {
+  opacity: 0.25
+  }
+  .publish {
+  opacity: 0.25
   }
 }
 
@@ -587,6 +659,24 @@ $publish: #1BB0A7;
   .black {
   @include links ($black, $medium-gray);
   }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 1
+  }
+  .systems {
+  opacity: 1
+  }
+  .data {
+  opacity: 1
+  }
+  .publish {
+  opacity: 0.25
+  }
 }
 
 .guide__page--publish  {
@@ -610,9 +700,63 @@ $publish: #1BB0A7;
   .black {
   @include links ($black, $medium-gray);
   }
+  .consider {
+  opacity: 1
+  }
+  .commit {
+  opacity: 1
+  }
+  .legal {
+  opacity: 1
+  }
+  .systems {
+  opacity: 1
+  }
+  .data {
+  opacity: 1
+  }
+  .publish {
+  opacity: 1
+  }
 }
 
 
 .button.white:hover, .button.white:focus {
-background-color: $light-gray;
+background-color:  $white;
+}
+
+.guide-pagination-next {
+border-radius: 0;
+border: 0px solid transparent;
+border-left: 4px solid $light-gray;
+}
+
+.guide-pagination-previous {
+border-radius: 0;
+border: 0px solid transparent;
+border-right: 4px solid $light-gray;
+}
+
+.guide-pagination--consider:hover {
+border-color: $consider;
+}
+
+.guide-pagination--commit:hover {
+border-color: $commit;
+}
+
+.guide-pagination--legal:hover {
+border-color: $legal;
+}
+
+.guide-pagination--systems:hover {
+border-color: $systems;
+}
+
+.guide-pagination--data:hover {
+border-color: $data;
+}
+
+.guide-pagination--publish:hover {
+border-color: $publish;
 }

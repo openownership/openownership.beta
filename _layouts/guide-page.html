@@ -14,7 +14,7 @@ pagination:
   
     <div class="small-6 medium-3 large-2 cell show-for-large">
       {% if page.previous.url %}
-        <a href="{{page.previous.url}}" class="button white expanded align-middle" data-equalizer-watch>
+        <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
         
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
@@ -45,7 +45,7 @@ pagination:
     
     <div class="small-6 medium-3 large-2 cell text-right show-for-large">
       {% if page.next.url %}
-      <a href="{{page.next.url}}" class="button white expanded align-middle" data-equalizer-watch>
+      <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
