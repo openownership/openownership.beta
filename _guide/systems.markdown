@@ -11,17 +11,14 @@ tip-text: Put in place systems that can store and publish structured data so tha
   is the easiest way to achieve this.
 questions:
 - title: What kind of systems are needed?
-  text: "The diagram below shows a typical flow of information, and the key components
-    of a system to collect, store and publish beneficial ownership information. Establishing
-    effective systems does require investment, but creates sustained economic and
-    social benefits. \n\nThe specification of software and hardware systems required
-    to implement beneficial ownership transparency will depend on the requirements
-    in your legal framework, any relevant existing registers and how you want people
-    to access and use the data. This diagram shows the typical components of a beneficial
-    ownership transparency system.\n\nAll systems need to have some basic [functional
-    requirements](http://standard.openownership.org/en/v0-1/schema/guidance/functional-requirements.html)
-    to enable them to publish structured beneficial ownership data that complies with
-    the Beneficial Ownership Data Standard."
+  text: |-
+    The diagram below shows a typical flow of information, and the key components of a system to collect, store and publish beneficial ownership information. Establishing effective systems does require investment, but creates sustained economic and social benefits
+
+    ![data-process.png](/uploads/data-process.png)
+
+    The specification of software and hardware systems required to implement beneficial ownership transparency will depend on the requirements in your legal framework, any relevant existing registers and how you want people to access and use the data. This diagram shows the typical components of a beneficial ownership transparency system.
+
+    All systems need to have some basic [functional requirements](http://standard.openownership.org/en/v0-1/schema/guidance/functional-requirements.html) to enable them to publish structured beneficial ownership data that complies with the Beneficial Ownership Data Standard.
 - title: Six tools & tips for implementing software and systems for beneficial ownership
     transparency
   text: |-
