@@ -12,7 +12,7 @@ tip-text: Put in place systems that can store and publish structured data so tha
 questions:
 - title: What kind of systems are needed?
   text: |-
-    The diagram below shows a typical flow of information, and the key components of a system to collect, store and publish beneficial ownership information. Establishing effective systems does require investment, but creates sustained economic and social benefits
+    The diagram below shows a typical flow of information, and the key components of a system to collect, store and publish beneficial ownership information. Establishing effective systems does require investment, but creates sustained economic and social benefits.
 
     ![data-process.png](/uploads/data-process.png)
 
