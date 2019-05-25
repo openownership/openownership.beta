@@ -1447,6 +1447,17 @@
 		"oAP": "/_uploads/learning-the-lessons.pdf",
 		"oF": 0
 		},
+	"/_uploads/legal-spectrum.jpg": {
+		"ft": 16384,
+		"iS": 246647,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/legal-spectrum.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/library.jpg": {
 		"ft": 16384,
 		"iS": 903657,
@@ -1752,6 +1763,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/privacy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/publish-spectrum-rev.jpg": {
+		"ft": 16384,
+		"iS": 228629,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/publish-spectrum-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
