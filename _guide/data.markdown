@@ -13,14 +13,21 @@ tip-text: Verification is critical for generating useful and reliable beneficial
   is true.
 questions:
 - title: What is verification of beneficial ownership information?
-  text: |
-    Verification is critical to generating high quality beneficial ownership information, but the term is used to mean many different types of checks and processes. Based on our research, we break down verification into three steps, to be taken together: authentication and authorisation, validation and truth verification. Understanding these steps can help design measures to improve data quality.
-
-    1. Authentication & authorisation - ensure the person submitting the information is who they say they are and that they are authorised to make the declaration
-    1. Validation - ensure that the data submitted is a legitimate possible value
-    1. “Truth” verification - identify potential mistakes and irregularities in the data, which may indicate that the statement made is not true, and publish the data openly so that others can also do so.
-
-    Our working paper What We Really Mean by Verification, and How to Do It, provides practical examples that can be applied at each of the three steps. Some verification activities are likely to require legal mandate whilst others can be adopted by making technical, system design or workflow changes.
+  text: "Verification is critical to generating high quality beneficial ownership
+    information, but the term is used to mean many different types of checks and processes.
+    Based on our research, we break down verification into three steps, to be taken
+    together: authentication and authorisation, validation and truth verification.
+    Understanding these steps can help design measures to improve data quality.\n\n1.
+    Authentication & authorisation - ensure the person submitting the information
+    is who they say they are and that they are authorised to make the declaration\n\n2.
+    Validation - ensure that the data submitted is a legitimate possible value\n\n3.
+    “Truth” verification - identify potential mistakes and irregularities in the data,
+    which may indicate that the statement made is not true, and publish the data openly
+    so that others can also do so.\n\nWhilst some verification activities are likely
+    to require legal mandate whilst others can be adopted by making technical, system
+    design or workflow changes. We will shortly publish a working paper, What We Really
+    Mean by Verification and How It Can be Done, which will provide practical examples
+    that can be applied at each of the three steps. "
 - title: Five ways to improve data quality
   text: |
     1. Require identification for the person making the declaration, and the beneficial owner themselves, and where practical check this against existing government data to validate they are real people. This increases the risks associated with submitting false information, provided sanctions are present and enforced.
@@ -55,7 +62,7 @@ questions:
     users of beneficial ownership data, to efficiently identify where and how data
     quality can be improved.
 resource-text:
-- 'Working Paper: What We Really Mean by Verification, and How to Do It'
+- 
 - 'Tool: Example Paper Forms for Collecting Beneficial Ownership Data'
 layout: guide-page
 ---
