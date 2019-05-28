@@ -99,14 +99,21 @@ questions:
     Cooperation & Development (OECD), and how the Beneficial Ownership Disclosure
     Principles build on these.
 - title: 'How can I draft legislation that embeds ways to verify the data? '
-  text: |-
-    Verification is critical to generating high quality beneficial ownership information, but the term is used to mean many different types of checks and processes. Based on our research, we break down verification into three steps, to be taken together: authentication and authorisation, validation and truth verification. Understanding these steps can help design effective legislation.
-
-    * Authentication & authorisation - ensure the person submitting the information is who they say they are and that they are authorised to make the declaration
-    * Validation - ensure that the data submitted is a legitimate possible value
-    * “Truth” verification - identify potential mistakes and irregularities in the data, which may indicate that the statement made is not true, and publish the data openly so that others can also do so.
-
-    Our briefing What We Really Mean by Verification, and How to Do It, provides practical examples that can be applied at each of the three steps. Some verification activities are likely to require legal mandate whilst others can be adopted by making technical, system design or workflow changes.
+  text: "Verification is critical to generating high quality beneficial ownership
+    information, but the term is used to mean many different types of checks and processes.
+    Based on our research, we break down verification into three steps, to be taken
+    together: authentication and authorisation, validation and truth verification.
+    Understanding these steps can help design effective legislation.\n\n* Authentication
+    & authorisation - ensure the person submitting the information is who they say
+    they are and that they are authorised to make the declaration\n\n* Validation
+    - ensure that the data submitted is a legitimate possible value\n\n* “Truth” verification
+    - identify potential mistakes and irregularities in the data, which may indicate
+    that the statement made is not true, and publish the data openly so that others
+    can also do so.\n\nWhilst some verification activities are likely to require legal
+    mandate whilst others can be adopted by making technical, system design or workflow
+    changes. We will shortly publish a working paper, What We Really Mean by Verification
+    and How It Can be Done, which will provide practical examples that can be applied
+    at each of the three steps. "
 - title: How should the legal framework specify what information should be collected
     and published?
   text: |-
@@ -136,10 +143,10 @@ resource-text:
 - "[Report: Kyrgyz Republic Country Report](https://www.openownership.org/uploads/opo-kyrgyz-republic-scoping-report.pdf)"
 - "[Briefing: The case for open data registers](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf)"
 - 'Report: [Data Protection & Privacy in Beneficial Ownership Disclosure](https://www.openownership.org/uploads/oo-data-protection-and-privacy.pdf)'
-- 'Working Paper: What We Really Mean by Verification, and How to Do It'
 - 'Presentation: [Beneficial Ownership Transparency, Privacy & Data Protection](https://www.openownership.org/uploads/IACC-slides.pdf)
 
 '
+- 
 - 'Tool: Policy Reviewer'
 - 'Tool: Example Paper Forms for Collecting Beneficial Ownership Data'
 - 'Website: [Open Data Charter](https://opendatacharter.net/principles/)'
