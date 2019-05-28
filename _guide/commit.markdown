@@ -51,7 +51,7 @@ questions:
     countries are implementing beneficial ownership transparency; these will be available
     on this website in the future. "
 resource-text:
-- 'Briefing: Beneficial Ownership Transparency Disclosure Principles'
+- "[Beneficial Ownership Transparency Disclosure Principles](/uploads/oo-disclosure-principles.pdf)"
 - "[Extractive Industries Transparency Initiative (EITI) Standard](https://eiti.org/document/eiti-standard-requirements-2016)"
 layout: guide-page
 ---
