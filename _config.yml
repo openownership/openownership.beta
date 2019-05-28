@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: false
+  guide:
+    title: Guide
+    output: true
   posts:
     title: Posts
     output: true
@@ -98,6 +101,13 @@ social:
   twitter: https://twitter.com/openownership
   medium: https://medium.com/beneficial-ownership
   github: https://github.com/openownership/data-standard
+guides:
+  consider: "/guide/consider"
+  commit: "/guide/commit"
+  legal: "/guide/legal"
+  systems: "/guide/systems"
+  data: "/guide/data"
+  publish: "/guide/publish"
 compress_html:
   comments:
   - "<!-- "

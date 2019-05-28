@@ -1,6 +1,6 @@
 ---
 title: Privacy
-position: 5
+position: 6
 description: Your privacy is important to us. We only ask for personal information
   when we truly need it to provide a service to you. We collect it by fair and lawful
   means, with your knowledge and consent. We also let you know why we’re collecting
