@@ -72,7 +72,7 @@ resource-text:
 - 'Briefing: [The case for public beneficial ownership registers](https://www.openownership.org/uploads/the-case-for-public-beneficial-ownership.pdf)'
 - 'Briefing: [The case for beneficial ownership as open data](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf)'
 - 'Briefing: [Characteristics of Effective Beneficial Ownership Data](/uploads/oo-characteristics-effective-bo-data.pdf)'
-- Beneficial Ownership Transparency Disclosure Principles
+- "[Beneficial Ownership Transparency Disclosure Principles](/uploads/oo-disclosure-principles.pdf)"
 - "[Overview of the OpenOwnership Pilot Program](https://www.openownership.org/uploads/pilot-program-summary-of-metholodogy.pdf)"
 layout: guide-page
 ---

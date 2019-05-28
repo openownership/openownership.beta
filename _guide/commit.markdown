@@ -16,7 +16,7 @@ questions:
 
     * Be ambitious, specific and achievable
     * Articulate your policy objectives and the intended benefits for the country
-    * Be mutually reinforcing with relevant international standards, such as the [EITI Standard](https://eiti.org/document/eiti-standard-requirements-2016) and Beneficial Ownership Disclosure Principles
+    * Be mutually reinforcing with relevant international standards, such as the [EITI Standard](https://eiti.org/document/eiti-standard-requirements-2016) and [Beneficial Ownership Transparency Disclosure Principles](/uploads/oo-disclosure-principles.pdf)
     * Build on the current context (for example, if a non-public register already exists, commit to making it publicly available as open data)
     * Identify the agencies that will be involved in implementation, and name a lead agency
     * Be developed in participation with relevant stakeholders including data users and policy makers
@@ -47,11 +47,11 @@ questions:
     provides technical assistance and facilitates discussions on international best
     practice and produces related guidance. You can read more about the Leadership
     Group and the international Beneficial Ownership Transparency Disclosure Principles
-    here.\n\nIn addition, OpenOwnership is compiling case studies of how particular
-    countries are implementing beneficial ownership transparency; these will be available
-    on this website in the future. "
+    [here](/uploads/oo-disclosure-principles.pdf).\n\nIn addition, OpenOwnership is
+    compiling case studies of how particular countries are implementing beneficial
+    ownership transparency; these will be available on this website in the future. "
 resource-text:
-- 'Briefing: Beneficial Ownership Transparency Disclosure Principles'
+- "[Beneficial Ownership Transparency Disclosure Principles](/uploads/oo-disclosure-principles.pdf)"
 - "[Extractive Industries Transparency Initiative (EITI) Standard](https://eiti.org/document/eiti-standard-requirements-2016)"
 layout: guide-page
 ---
