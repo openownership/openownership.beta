@@ -138,7 +138,7 @@ questions:
     civil society to contribute, and will recognise that systemic evidence is likely
     to take several years to fully emerge.
 resource-text:
-- 'Briefing: Characteristics of Effective Beneficial Ownership Data'
+- 'Briefing: [Characteristics of Effective Beneficial Ownership Data](/uploads/oo-characteristics-effective-bo-data.pdf)'
 - "[Report: Improving beneficial ownership transparency in Ukraine: Review & Recommendations](https://www.openownership.org/uploads/opo-ukraine-report.pdf)"
 - "[Report: Kyrgyz Republic Country Report](https://www.openownership.org/uploads/opo-kyrgyz-republic-scoping-report.pdf)"
 - "[Briefing: The case for open data registers](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf)"
@@ -147,8 +147,8 @@ resource-text:
 
 '
 - 
-- 'Tool: Policy Reviewer'
-- 'Tool: Example Paper Forms for Collecting Beneficial Ownership Data'
+- 'Tool: [Policy Reviewer](/uploads/oo-beneficial-ownership-policy-reviewer.pdf)'
+- 'Tool: [Example Paper Forms for Collecting Beneficial Ownership Data](/uploads/oo-example-paper-forms.pdf)'
 - 'Website: [Open Data Charter](https://opendatacharter.net/principles/)'
 layout: guide-page
 ---
