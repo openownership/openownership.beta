@@ -15,13 +15,13 @@ tags:
 - Implementation Guidance
 - Open Government
 image: "/uploads/david-clode-438752-unsplash.jpg"
-description: "**We’re delighted that today the UK Anti-Corruption Champion John Penrose
-  is launching a new Beneficial Ownership Leadership Group at the [Open Government
-  Partnership Summit in Ottawa](http://ogpsummit.org). This transnational coalition
-  of governments will drive a global policy shift towards free, open beneficial ownership
-  data and set ambitious best practice. OpenOwnership will coordinate key Leadership
-  Group activities, facilitate discussions on international best practice and produces
-  related public guidance.**"
+Photo by David Clode on Unsplash: "**We’re delighted that today the UK Anti-Corruption
+  Champion John Penrose is launching a new Beneficial Ownership Leadership Group at
+  the [Open Government Partnership Summit in Ottawa](http://ogpsummit.org). This transnational
+  coalition of governments will drive a global policy shift towards free, open beneficial
+  ownership data and set ambitious best practice. OpenOwnership will coordinate key
+  Leadership Group activities, facilitate discussions on international best practice
+  and produces related public guidance.**"
 author: Dr Loren Treisman
 ---
 
@@ -41,7 +41,7 @@ author: Dr Loren Treisman
 
 **The Guide is designed to support both Leadership Group members and other governments implementing beneficial ownership transparency. It includes practical tools for policy and technical experts, shares emerging good practice on key issues such as verification, and provides thought leadership to address common implementation hurdles, such as privacy concerns.**
 
-**As our Program Manager Louise Russell-Prywata explains, “To achieve policy impact, beneficial ownership data needs to be used by stakeholders across government, civil society and business; this means increasing the focus on how the data is published and who will use it. Our [Guide ](http://www.openownership.org/guide)brings together lessons, tools and good practice from the policy advice and technical assistance we’ve provided to governments around the world, in particular countries implementing open data registers using the Beneficial Ownership Data Standard. We hope the Guide will help both Leadership Group members and other governments as they implement, as well as supporting those in civil society who play a crucial role in driving progress towards a global norm of beneficial ownership transparency.”**
+**As our Program Manager Louise Russell-Prywata explains, “To achieve policy impact, beneficial ownership data needs to be used by stakeholders across government, civil society and business; this means increasing the focus on how the data is published and who will use it. Our [Guide](https://www.openownership.org/guide/) brings together lessons, tools and good practice from the policy advice and technical assistance we’ve provided to governments around the world, in particular countries implementing open data registers using the Beneficial Ownership Data Standard. We hope the Guide will help both Leadership Group members and other governments as they implement, as well as supporting those in civil society who play a crucial role in driving progress towards a global norm of beneficial ownership transparency.”**
 
 **The Guide breaks down implementation into six focus areas, with dedicated resources for each:**
 
