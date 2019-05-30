@@ -15,14 +15,15 @@ tags:
 - Implementation Guidance
 - Open Government
 image: "/uploads/david-clode-438752-unsplash.jpg"
-Photo by David Clode on Unsplash: "**We’re delighted that today the UK Anti-Corruption
-  Champion John Penrose is launching a new Beneficial Ownership Leadership Group at
-  the [Open Government Partnership Summit in Ottawa](http://ogpsummit.org). This transnational
+description: "\\*\\*We’re delighted that today the UK Anti-Corruption Champion John
+  Penrose is launching a new Beneficial Ownership Leadership Group at the \\[Open
+  Government Partnership Summit in Ottawa\\](http://ogpsummit.org). This transnational
   coalition of governments will drive a global policy shift towards free, open beneficial
   ownership data and set ambitious best practice. OpenOwnership will coordinate key
   Leadership Group activities, facilitate discussions on international best practice
-  and produces related public guidance.**"
+  and produces related public guidance.\\*\\*"
 author: Dr Loren Treisman
+Photo by David Clode on Unsplash: 
 ---
 
 **We’re delighted that today the UK Anti-Corruption Champion John Penrose is launching a new Beneficial Ownership Leadership Group at the [Open Government Partnership Summit in Ottawa](http://ogpsummit.org). This transnational coalition of governments will drive a global policy shift towards free, open beneficial ownership data and set ambitious best practice. OpenOwnership will coordinate key Leadership Group activities, facilitate discussions on international best practice and produces related public guidance.**
@@ -35,7 +36,7 @@ author: Dr Loren Treisman
 
 **Money laundering through corporate structures is a borderless problem that requires a borderless solution. Transnational collaboration through the Leadership Group will help ensure that open beneficial ownership data allows us to “follow the money” across borders.**
 
-**Members of the Leadership Group work towards this by committing to implement a set of [Disclosure Principles](https://www.openownership.org/uploads/oo-disclosure-principles.pdf), which were drafted by OpenOwnership, OGP and the UK Government and OGP. As Zosia Sztykowski, our Head of Policy explains, “We’re really excited to see cross-national collaboration on this issue become a reality through the Leadership Group. It is politically innovative, and will help deliver good beneficial ownership data by aligning top-level political support with technical capacity to implement political commitments”.**
+**Members of the Leadership Group work towards this by committing to implement a set of [Disclosure Principles](https://www.openownership.org/uploads/oo-disclosure-principles.pdf), which were drafted by OpenOwnership, the UK Government and OGP. As Zosia Sztykowski, our Head of Policy explains, “We’re really excited to see cross-national collaboration on this issue become a reality through the Leadership Group. It is politically innovative, and will help deliver good beneficial ownership data by aligning top-level political support with technical capacity to implement political commitments.”**
 
 **Over the coming months we will be coordinating the Leadership Group and facilitating discussions on international best practice. We’ll also provide bespoke technical assistance to Leadership Group members to support national implementations of beneficial ownership transparency. At this week’s OGP Summit, we’re excited to launch a new product to support this work: [A Guide to Implementing Beneficial Ownership Transparency](http://www.openownership.org/guide).**
 
