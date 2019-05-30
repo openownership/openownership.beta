@@ -5,10 +5,10 @@ position: 1
 description: Countries around the world are making public commitments to beneficial
   ownership transparency. This section offers guidance on what to think about and
   include.
-tip-text: 'Making a strong public commitment through a forum such as Open Government
-  Partnership or Extractive Industries Transparency Initiative can help implementation
-  stay on track, and solidify your intended policy impact.  This will also enable
-  you to share knowledge, experiences and good practice with other countries.  '
+tip-text: 'Making strong public commitment through fora such as Open Government Partnership
+  and Extractive Industries Transparency Initiative can help implementation stay on
+  track, and solidify your intended policy impact.  This will also enable you to share
+  knowledge, experiences and good practice with other countries.  '
 questions:
 - title: What does an effective commitment look like?
   text: |-
