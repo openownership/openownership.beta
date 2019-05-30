@@ -42,7 +42,7 @@ questions:
 - title: What information should be collected and published to improve verification
     and data quality?
   text: |-
-    We have created a template form that includes the information that we recommend companies should complete when declaring their beneficial ownership to a national register. This form can be adapted to collect information using paper forms, or it can be transferred to an electronic system (see Systems section).
+    We have created a set of example forms that includes the information that we recommend companies should complete when declaring their beneficial ownership to a national register. These can be adapted to collect information using paper forms, or it can be transferred to an electronic system (see Systems section).
 
     Some of the information collected should only be for government use and should not be publicly published (for example, a taxpayer number to check identification). Other information should be published openly (for example, name of the beneficial owner). However, there is no one-size-fits-all approach to beneficial ownership transparency and the information you collect will depend on the intended policy impact and wider legal framework.
 - title: What sanctions help ensure compliance with beneficial ownership transparency?
@@ -63,7 +63,7 @@ questions:
     quality can be improved.
 resource-text:
 - 
-- 'Tool: Example Paper Forms for Collecting Beneficial Ownership Data'
+- 'Tool: [Example Paper Forms for Collecting Beneficial Ownership Data](https://www.openownership.org/uploads/oo-example-paper-forms.pdf)'
 layout: guide-page
 ---
 
