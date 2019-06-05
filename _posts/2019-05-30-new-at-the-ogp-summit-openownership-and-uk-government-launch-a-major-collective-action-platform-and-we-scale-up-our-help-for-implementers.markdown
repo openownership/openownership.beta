@@ -26,7 +26,7 @@ author: Dr Loren Treisman
 Photo by David Clode on Unsplash: 
 ---
 
-**We’re delighted that today the UK Anti-Corruption Champion John Penrose is launching a new Beneficial Ownership Leadership Group at the [Open Government Partnership Summit in Ottawa](http://ogpsummit.org). This transnational coalition of governments will drive a global policy shift towards free, open beneficial ownership data and set ambitious best practice. OpenOwnership will coordinate key Leadership Group activities, facilitate discussions on international best practice and produces related public guidance.**
+**We’re delighted that today the UK Anti-Corruption Champion John Penrose is launching a new Beneficial Ownership Leadership Group at the [Open Government Partnership Summit in Ottawa](http://ogpsummit.org). This transnational coalition of governments will drive a global policy shift towards free, open beneficial ownership data and set ambitious best practice. OpenOwnership will coordinate key Leadership Group activities, facilitate discussions on international best practice and produce related guidance.**
 
 **Let’s start with some background. In July 2018, we launched the Beneficial Ownership Transparency Network in partnership with the Open Government Partnership (OGP). The first meeting brought together national government pathfinders from Nigeria, Kenya, Ukraine, Slovakia, Indonesia, Denmark and the UK to exchange approaches to verifying beneficial ownership data. This made it clear that there is a strong desire to share knowledge with peers and receive practical guidance.**
 

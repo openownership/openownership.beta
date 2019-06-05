@@ -29,16 +29,16 @@ questions:
     Mean by Verification and How It Can be Done, which will provide practical examples
     that can be applied at each of the three steps. "
 - title: Five ways to improve data quality
-  text: |
+  text: |-
     1. Require identification for the person making the declaration, and the beneficial owner themselves, and where practical check this against existing government data to validate they are real people. This increases the risks associated with submitting false information, provided sanctions are present and enforced.
 
-    1. Use an electronic form that includes as many fields as possible from our template paper form, and incorporate validation to constrain the responses that can be entered to certain fields (such as address, zip code, date of birth).
+    2. Use an electronic form that includes as many fields as possible from our [example paper forms](https://www.openownership.org/uploads/oo-example-paper-forms.pdf), and incorporate validation to constrain the responses that can be entered to certain fields (such as address, zip code, date of birth).
 
-    1. Publish sufficient information about beneficial ownership so that people can identify them - e.g. publish unique identifiers for each beneficial owner in the system, and contact address, month and year of birth.
+    3. Publish sufficient information about beneficial ownership so that people can identify them - e.g. publish unique identifiers for each beneficial owner in the system, and contact address, month and year of birth.
 
-    1. Publish beneficial ownership information as open data using BODS so that others can easily use it and link it to other datasets.
+    4. Publish beneficial ownership information as open data using BODS so that others can easily use it and link it to other datasets.
 
-    1. Ensure adequate sanctions are in place for submission of false information, and that these are enforced in practice.
+    5. Ensure adequate sanctions are in place for submission of false information, and that these are enforced in practice.
 - title: What information should be collected and published to improve verification
     and data quality?
   text: |-
