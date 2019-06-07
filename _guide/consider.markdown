@@ -50,12 +50,16 @@ questions:
     There is no one-size-fits-all approach to beneficial ownership transparency, but there are some characteristics of effective beneficial ownership data that help drive policy impact across most contexts. These are:
 
     1. The published data specifies how beneficial ownership is exerted, and the percentage ownership
-    1. Published data is structured and granular
-    1. Published data includes sufficient information to allow disambiguation
-    1. Historical data is kept and published
-    1. Data is collected and published in a timely manner
 
-    Our short briefing Characteristics of Effective Beneficial Ownership Data discusses recommendations for implementing each characteristic, and may serve as a useful summary of key things to think about when considering beneficial ownership transparency.
+    2. Published data is structured and granular
+
+    3. Published data includes sufficient information to allow disambiguation
+
+    4. Historical data is kept and published
+
+    5. Data is collected and published in a timely manner
+
+    Our short briefing [Characteristics of Effective Beneficial Ownership Data](https://www.openownership.org/uploads/oo-characteristics-effective-bo-data.pdf) discusses recommendations for implementing each characteristic, and may serve as a useful summary of key things to think about when considering beneficial ownership transparency.
 
     Throughout the implementation, countries should foster a community of people and organisations - across government, business and civil society - who use beneficial ownership data for public good, and who can contribute to ongoing refinements and improvements of your beneficial ownership transparency policy. This will help sustain and improve policy impact over time.
 - title: 'Working with us '
