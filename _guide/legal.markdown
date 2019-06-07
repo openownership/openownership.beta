@@ -11,35 +11,32 @@ tip-text: 'When designing law and regulation, it is important to understand how 
   legal framework should then be designed to meet these needs. '
 questions:
 - title: What legislation and regulation is required for beneficial ownership transparency
-  text: "Whilst the policy making process varies between countries, there are a number
-    of aspects that need to be considered when designing a legal framework for beneficial
-    ownership transparency. These are: \n\n- The scope of the policy\n\t- The types
-    of legal entity and natural persons covered.\n\t- Whether information about Politically
-    Exposed Persons is to be collected.\n\n- The definition of beneficial ownership\n\t-
-    How beneficial ownership is defined in law, for example through shareholdings,
-    voting rights and rights to appoint/remove directors.\n\t- The granularity of
-    beneficial ownership interests that need to be declared, and whether thresholds
-    or banding are to be used.\n\t- Where beneficial ownership is exerted indirectly,
-    the extent to which ownership chains are described.\n\n- Requirements for companies
-    to submit and update beneficial ownership information.\n\t- If a new policy is
-    being implemented, when companies will be required to submit beneficial ownership
-    information.\n\t- What conditions will require companies to update their beneficial
-    ownership information.\n\n- Whether the use of identifiers for legal and natural
-    persons needs to be specified in law or regulation\n\n- What steps will be taken
-    to verify the information that is submitted, and analyse submissions to identify
-    suspicious entries for investigation.\n\n- What sanctions will be put in place
-    for non-compliance against the beneficial owner and/or legal entity for failing
-    to declare, or declaring false information.\n\nOur Policy Reviewer tool works
-    through each of these areas in turn, and helps implementers to identify specific
-    decision points around what data is to be collected and what is to be published,
-    and helps identify the legal changes necessary to achieve this. The Policy Reviewer
-    does not prescribe a particular policy approach, but is designed to help implementers
-    to explore the relevant areas. For OpenOwnership’s recommendations of good practice,
-    please see our briefing on Characteristics of Effective Beneficial Ownership Data,
-    and other content throughout this guide.\n\nOpenOwnership’s experience suggests
-    that as with many policy areas, once an initial beneficial ownership transparency
-    policy is in place, further changes to legislation or regulation may be needed
-    to refine it and improve effectiveness over time.\n"
+  text: |-
+    Whilst the policy making process varies between countries, there are a number of aspects that need to be considered when designing a legal framework for beneficial ownership transparency. These are:
+
+    * The scope of the policy
+
+    The types of legal entity and natural persons covered, and whether information about Politically Exposed Persons is to be collected.
+
+    * The definition of beneficial ownership
+
+    How beneficial ownership is defined in law, for example through shareholdings, voting rights and rights to appoint/remove directors; the granularity of beneficial ownership interests that need to be declared, and whether thresholds or banding are to be used; where beneficial ownership is exerted indirectly, the extent to which ownership chains are described.
+
+    * Requirements for identifiers to be collected and published for legal entities and natural persons
+
+
+    * Requirements for companies to submit and update beneficial ownership information.
+
+    If a new policy is being implemented, when companies will be required to submit beneficial ownership information; whether historical data will be kept and published.
+
+    * Steps taken to verify the information that is submitted, and analyse submissions to identify suspicious entries for investigation.
+
+
+    * What sanctions will be put in place for non-compliance against the beneficial owner and/or legal entity for failing to declare, or declaring false information.
+
+    Our [Policy Reviewer](https://www.openownership.org/uploads/oo-beneficial-ownership-policy-reviewer.pdf) tool works through each of these areas in turn, and helps implementers to identify specific decision points around what data is to be collected and what is to be published, and helps identify the legal changes necessary to achieve this. The [Policy Reviewer](https://www.openownership.org/uploads/oo-beneficial-ownership-policy-reviewer.pdf) does not prescribe a particular policy approach, but is designed to help implementers to explore the relevant areas. For OpenOwnership’s recommendations of good practice, please see our briefing on [Characteristics of Effective Beneficial Ownership Data](https://www.openownership.org/uploads/oo-characteristics-effective-bo-data.pdf), and other content throughout this guide.
+
+    OpenOwnership’s experience suggests that as with many policy areas, once an initial beneficial ownership transparency policy is in place, further changes to legislation or regulation may be needed to refine it and improve effectiveness over time.
 - title: Which agencies should be involved in developing the legal framework?
   text: |-
     Putting in place an effective legal framework for beneficial ownership transparency may require involvement from a number of government departments/agencies and non-government agencies. Whilst a single agency (e.g. Ministry of Justice) should lead the legal reforms, involving other departments such as the Ministry of Finance, Financial Intelligence Unit, or Mining Licence Agency will help ensure that your legal framework responds to policy needs.

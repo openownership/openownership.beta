@@ -18,38 +18,30 @@ questions:
 
     The specification of software and hardware systems required to implement beneficial ownership transparency will depend on the requirements in your legal framework, any relevant existing registers and how you want people to access and use the data. This diagram shows the typical components of a beneficial ownership transparency system.
 
-    All systems need to have some basic [functional requirements](http://standard.openownership.org/en/v0-1/schema/guidance/functional-requirements.html) to enable them to publish structured beneficial ownership data that complies with the Beneficial Ownership Data Standard.
+    All systems need to have some basic [functional requirements](http://standard.openownership.org/en/v0-1/schema/guidance/functional-requirements.html) to enable them to publish structured beneficial ownership data that complies with the [Beneficial Ownership Data Standard](http://standard.openownership.org/).
 - title: Six tools & tips for implementing software and systems for beneficial ownership
     transparency
   text: |-
     The following tips will help your technical team and/or contractors to design, build and test systems and software to implement beneficial ownership transparency. For each tip, we provide practical tools that OpenOwnership has developed and tested with countries participating in our Pilot Program. Whilst systems design and development may be led by the technical team responsible for building the beneficial ownership register, OpenOwnership recommends that it is done with close participation of policy staff and other stakeholders involved in implementing beneficial ownership transparency.
 
-    1. Review existing systems and identify what is needed for beneficial ownership transparency. This diagram illustrates the components of a typical beneficial ownership transparency system, and how they are connected.  You can use this to identify how your current systems relate to beneficial ownership, and what new or amended systems are required.
+    1. Review existing systems and identify what is needed for beneficial ownership transparency. The diagram above illustrates the components of a typical beneficial ownership transparency system, and how they are connected.  You can use this to identify how your current systems relate to beneficial ownership, and what new or amended systems are required.
 
-    1. Map current systems to the functional requirements for BODS. This will help you think through what changes are required to design a system for capturing beneficial ownership data.
+    2. Map current systems to the [functional requirements](http://standard.openownership.org/en/v0-1/schema/guidance/functional-requirements.html) for BODS. This will help you think through what changes are required to design a system for capturing beneficial ownership data.
 
-    1. Map any current data to the BODS schema. If you currently collect some beneficial ownership data (which may or may not be public), map this to the fields in the BODS schema using our Field Mapper (when opening this link, click ‘make a copy’ to open the file). The Field Mapper flags where your data is different from the BODS schema, highlights fields that you are not currently collecting, and fields where additional measures such as in-line validation could be used to make the data more structured.
+    3. Map any current data to the [BODS schema](http://standard.openownership.org/en/v0-1/schema/index.html). If you currently collect some beneficial ownership data (which may or may not be public), map this to the fields in the BODS schema using our [Field Mapper](https://docs.google.com/spreadsheets/d/1Ps7CpO-bOQO3c0ytTqvnp8B2u2oxbk7-DchOgqpP_kQ/copy) (when opening this link, click ‘make a copy’ to open the file). The [Field Mapper](https://docs.google.com/spreadsheets/d/1Ps7CpO-bOQO3c0ytTqvnp8B2u2oxbk7-DchOgqpP_kQ/copy) flags where your data is different from the BODS schema, highlights fields that you are not currently collecting, and fields where additional measures such as in-line validation could be used to make the data more structured.
 
-    1. Design your system to export BODS data. You can view example data in JSON format to understand what is required: At this stage, draw up a clear technical specification for your systems before commencing your technical build or amending existing systems. Use the example data to help you think through what beneficial ownership data might look like for different company types and what system specifications you will need in order to collect this information.
+    4. Design your system to export BODS data. You can view [example data](http://standard.openownership.org/en/v0-1/examples/index.html) in JSON format to understand what is required: At this stage, draw up a clear technical specification for your systems before commencing your technical build or amending existing systems. Use the [example data](http://standard.openownership.org/en/v0-1/examples/index.html) to help you think through what beneficial ownership data might look like for different company types and what system specifications you will need in order to collect this information.
 
-    1. Use the results from previous steps to create specifications for developing new or amended systems, and commission the necessary work.
+    5. Use the results from previous steps to create specifications for developing new or amended systems, and commission the necessary work.
 
-    1. Test & validate your data. When your system is in place, you can test the data it outputs against the BODS schema using our Data Review Tool.
+    6. Test & validate your data. When your system is in place, you can test the data it outputs against the BODS schema using our [Data Review Tool](https://datareview.openownership.org/).
 - title: What is the Beneficial Ownership Data Standard and how does it help?
-  text: "The Beneficial Ownership Data Standard (BODS) is a template for publishing
-    structured data about beneficial ownership in a format (JSON) that can be read
-    and understood by computer systems around the world. It makes it easier for users
-    of beneficial ownership information, from government departments to civil society
-    and businesses, to utilise the information published in your register and link
-    it with other datasets. This is essential to drive policy impact.\n\nThe Beneficial
-    Ownership Data Standard is an open source (free for anyone to use) product that
-    OpenOwnership is developing in partnership with Open Data Services Cooperative.
-    If you are new to BODS, you can read Open Data Services’ [primer](http://standard.openownership.org/en/v0-1/primer/index.html)
-    that introduces BODS. If you are a developer or data analyst, you can jump straight
-    to the BODS [data schema](http://standard.openownership.org/en/v0-1/schema/index.html).
-    \n\nAll information relating to the Beneficial Ownership Data Standard is available
-    at a dedicated website: standard.openownership.org. If you can’t find what you
-    need, you can ask our technical team by contacting our [Helpdesk](mailto:support@openownership.org)."
+  text: |-
+    The [Beneficial Ownership Data Standard](http://standard.openownership.org/) (BODS) is a template for publishing structured data about beneficial ownership in a format (JSON) that can be read and understood by computer systems around the world. It makes it easier for users of beneficial ownership information, from government departments to civil society and businesses, to utilise the information published in your register and link it with other datasets. This is essential to drive policy impact.
+
+    The Beneficial Ownership Data Standard is an open source (free for anyone to use) product that OpenOwnership is developing in partnership with Open Data Services Cooperative. If you are new to BODS, you can read Open Data Services’ [primer](http://standard.openownership.org/en/v0-1/primer/index.html) that introduces BODS. If you are a developer or data analyst, you can jump straight to the BODS [data schema](http://standard.openownership.org/en/v0-1/schema/index.html).
+
+    All information relating to the Beneficial Ownership Data Standard is available at a dedicated website: standard.openownership.org. If you can’t find what you need, you can ask our technical team by contacting our [Helpdesk](mailto:support@openownership.org).
 - title: Can my country add beneficial ownership to our existing company register?
   text: "Most countries have central registers of companies that include, for example,
     information about the directors/founders, registered address etc. If a country

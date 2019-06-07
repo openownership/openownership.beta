@@ -32,24 +32,14 @@ questions:
     Cooperation & Development (OECD), and how the Beneficial Ownership Disclosure
     Principles build on these.
 - title: What is international best practice for beneficial ownership transparency?
-  text: "More countries around the world are making commitments to beneficial ownership
-    transparency, including through Open Government Partnership (OGP) National Action
-    Plans, meeting the beneficial ownership requirement in the Extractive Industries
-    Transparency Initiative (EITI) Standard, and in Europe through implementing the
-    5th Anti-Money Laundering Directive.\n\nAt the 2019 OGP Summit in Ottawa, Canada,
-    a new transnational coalition of governments commenced that will both drive a
-    global norms shift towards free, open source publicly accessible beneficial ownership
-    data for companies, and set ambitious international best practice on beneficial
-    ownership transparency. \n\nMembers of this Leadership Group are governments that
-    are united by a common vision of simple access by business, civil society, and
-    other government actors to public, open data of corporate beneficial ownership
-    that is linked transnationally. OpenOwnership coordinates the Leadership Group,
-    provides technical assistance and facilitates discussions on international best
-    practice and produces related guidance. You can read more about the Leadership
-    Group and the international Beneficial Ownership Transparency Disclosure Principles
-    [here](/uploads/oo-disclosure-principles.pdf).\n\nIn addition, OpenOwnership is
-    compiling case studies of how particular countries are implementing beneficial
-    ownership transparency; these will be available on this website in the future. "
+  text: |-
+    More countries around the world are making commitments to beneficial ownership transparency, including through Open Government Partnership (OGP) National Action Plans, meeting the beneficial ownership requirement in the Extractive Industries Transparency Initiative (EITI) Standard, and in Europe through implementing the 5th Anti-Money Laundering Directive.
+
+    At the 2019 OGP Summit in Ottawa, Canada, a new transnational coalition of governments commenced that will both drive a global norms shift towards free, open source publicly accessible beneficial ownership data for companies, and set ambitious international best practice on beneficial ownership transparency.
+
+    Members of this Leadership Group are governments that are united by a common vision of simple access by business, civil society, and other government actors to public, open data of corporate beneficial ownership that is linked transnationally. OpenOwnership coordinates the Leadership Group, provides technical assistance and facilitates discussions on international best practice and produces related guidance. You can read more about the Leadership Group [here ](/uploads/oo-disclosure-principles.pdf)and view the draft international [Beneficial Ownership Transparency Disclosure Principles](https://www.openownership.org/uploads/oo-disclosure-principles.pdf).
+
+    In addition, OpenOwnership is compiling case studies of how particular countries are implementing beneficial ownership transparency; these will be available on this website in the future.
 resource-text:
 - "[Beneficial Ownership Transparency Disclosure Principles](/uploads/oo-disclosure-principles.pdf)"
 - "[Extractive Industries Transparency Initiative (EITI) Standard](https://eiti.org/document/eiti-standard-requirements-2016)"
