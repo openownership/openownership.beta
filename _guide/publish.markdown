@@ -36,8 +36,7 @@ questions:
 
     OpenOwnership recommends the following:
 
-    * Data is freely available online, is searchable, downloadable and reusable by the public, without a fee, proprietary software, or the need for registration.
-      is important to plan for publication processes and tools to be updated regularly, and in response to user feedback.
+    * Data is freely available online, is searchable, downloadable and reusable by the public, without a fee, proprietary software, or the need for registration. It is important to plan for publication processes and tools to be updated regularly, and in response to user feedback.
 
     * Data is available in bulk, in structured, machine-readable format that complies with the [Beneficial Ownership Data Standard](https://standard.openownership.org/en/v0-1/) (BODS). This could be via an API (which allows data users to access the data in machine-readable format such as JSON, direct from a website) and/or a bulk download service (where a copy of the entire registry data is put online at regular intervals in a downloadable open file format such as .csv).
 
