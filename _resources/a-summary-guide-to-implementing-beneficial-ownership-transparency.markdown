@@ -10,14 +10,4 @@ file: "/uploads/oo-implementation-guide-booklet.pdf"
 thumbnail-image: "/uploads/oo-implementation-guide-image.JPG"
 ---
 
-This booklet summarises our online guide to implementing beneficial ownership
-\
-transparency. This guide provides practical resources for governments
-\
-implementing beneficial ownership transparency, and shares the knowledge
-\
-and good practice being developed by countries around the world. It
-\
-breaks down implementation into six focus areas: Consider, Commit, Legal,
-\
-Systems, Data and Publish. www.openownership.org/guide
+This booklet summarises our online guide to implementing beneficial ownership transparency. This guide provides practical resources for governments implementing beneficial ownership transparency, and shares the knowledge and good practice being developed by countries around the world. It breaks down implementation into six focus areas: Consider, Commit, Legal, Systems, Data and Publish. www.openownership.org/guide
