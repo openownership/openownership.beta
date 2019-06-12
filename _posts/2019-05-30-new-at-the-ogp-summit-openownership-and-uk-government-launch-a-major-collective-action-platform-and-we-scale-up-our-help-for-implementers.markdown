@@ -23,7 +23,7 @@ description: "\\*\\*We’re delighted that today the UK Anti-Corruption Champion
   Leadership Group activities, facilitate discussions on international best practice
   and produces related public guidance.\\*\\*"
 author: Dr Loren Treisman
-Photo by David Clode on Unsplash: 
+Photo by David Clode on Unsplash: Photo by David Clode
 ---
 
 We’re delighted that today the UK Anti-Corruption Champion John Penrose is launching a new Beneficial Ownership Leadership Group at the [Open Government Partnership Summit in Ottawa](http://ogpsummit.org). This transnational coalition of governments will drive a global policy shift towards free, open beneficial ownership data and set ambitious best practice. OpenOwnership will coordinate key Leadership Group activities, facilitate discussions on international best practice and produce related guidance.
