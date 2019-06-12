@@ -1,5 +1,5 @@
 ---
-title: Five characteristics of effective beneficial ownership data
+title: Five Characteristics of Effective Beneficial Ownership Data
 date: 2019-06-06 09:23:00 Z
 tags:
 - data
