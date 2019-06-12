@@ -6,7 +6,7 @@ categories:
 tags:
 - Beneficial Ownership
 - public good
-file: "/uploads/oo-implementation-guide-booklet.pdf"
+file: "/uploads/oo-implementation-guide-booklet-68508a.pdf"
 thumbnail-image: "/uploads/oo-implementation-guide-image.JPG"
 ---
 
