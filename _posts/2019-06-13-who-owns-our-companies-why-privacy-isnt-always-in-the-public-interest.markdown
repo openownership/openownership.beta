@@ -2,6 +2,12 @@
 title: 'Who owns our companies: why privacy isn’t always in the public interest'
 date: 2019-06-13 09:05:00 Z
 image: "/uploads/markus-spiske-666905-unsplash%20Privacy%20photo.jpg"
+description: The Panama Papers leak shook society and seriously undermined public
+  trust in both business and government. The Papers revealed how anonymous companies
+  have been used to hide corruption, finance terrorism, help the wealthiest avoid
+  tax and launder money made through criminal activities like human trafficking and
+  the drug trade.
+author: Dr Loren Treisman
 ---
 
 The Panama Papers leak shook society and seriously undermined public trust in both business and government. The Papers revealed how anonymous companies have been used to hide corruption, finance terrorism, help the wealthiest avoid tax and launder money made through criminal activities like human trafficking and the drug trade.
