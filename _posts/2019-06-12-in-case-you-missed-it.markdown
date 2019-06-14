@@ -8,13 +8,8 @@ categories:
 tags:
 - beneficial ownership
 - Beneficial Ownership Leadership Group
-- corporate transparency
 - Implementation Guidance
 - open government partnership global summit
-- anonymous companies
-- Anticorruption
-- John Penrose
-- open data
 - Open Government
 image: "/uploads/omar-sotillo-franco-1325433-unsplash-83da4f.jpg"
 description: A blog post summarising key news and activities from May 2019 including
