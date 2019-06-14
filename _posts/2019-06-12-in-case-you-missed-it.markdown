@@ -11,7 +11,7 @@ tags:
 - Implementation Guidance
 - open government partnership global summit
 - Open Government
-image: "/uploads/omar-sotillo-franco-1325433-unsplash-83da4f.jpg"
+image: "/uploads/fabrizio-verrecchia-448425-unsplash.jpg"
 description: A blog post summarising key news and activities from May 2019 including
   the launch of a Beneficial Ownership Leadership Group, our Guide to Implementing
   Beneficial Ownership Transparency, recruiting a new Executive Director and showcasing
