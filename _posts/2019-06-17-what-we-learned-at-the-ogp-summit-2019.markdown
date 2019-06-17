@@ -1,7 +1,6 @@
 ---
 title: What we learned at the OGP Summit 2019
 date: 2019-06-17 12:03:00 Z
-published: false
 categories:
 - Open Government Partnership
 image: "/uploads/OpenOwnership%20technical%20meeting.png"
