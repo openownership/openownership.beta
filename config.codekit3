@@ -820,6 +820,14 @@
 		"oAP": "/_posts/2019-05-20-new-executive-director.markdown",
 		"oF": 0
 		},
+	"/_posts/2019-05-30-new-at-the-ogp-summit-openownership-and-uk-government-launch-a-major-collective-action-platform-and-we-scale-up-our-help-for-implementers.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-05-30-new-at-the-ogp-summit-openownership-and-uk-government-launch-a-major-collective-action-platform-and-we-scale-up-our-help-for-implementers.markdown",
+		"oF": 0
+		},
 	"/_resources/BODS-tools-presentation.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1100,6 +1108,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/data-process.png": {
+		"ft": 32768,
+		"iS": 178491,
+		"oA": 0,
+		"oAP": "/_uploads/data-process.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/data-spectrum.png": {
 		"ft": 32768,
 		"iS": 1062096,
@@ -1117,6 +1136,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/data.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/david-clode-438752-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 2220372,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/david-clode-438752-unsplash.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1578,6 +1608,14 @@
 		"oAP": "/_uploads/oo-characteristics-effective-bo-data.pdf",
 		"oF": 0
 		},
+	"/_uploads/oo-data-protection-and-privacy-188205.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-data-protection-and-privacy-188205.pdf",
+		"oF": 0
+		},
 	"/_uploads/oo-data-protection-and-privacy.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -1662,12 +1700,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/opo-ukraine-report.pdf": {
+	"/_uploads/OPO-Ukraine-Report.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_uploads/opo-ukraine-report.pdf",
+		"oAP": "/_uploads/OPO-Ukraine-Report.pdf",
 		"oF": 0
 		},
 	"/_uploads/Photo for Huff Post privacy blog.jpg": {
