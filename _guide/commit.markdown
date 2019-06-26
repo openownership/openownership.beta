@@ -15,10 +15,15 @@ questions:
     An effective public commitment to beneficial ownership transparency should:
 
     * Be ambitious, specific and achievable
+
     * Articulate your policy objectives and the intended benefits for the country
-    * Be mutually reinforcing with relevant international standards, such as the [EITI Standard](https://eiti.org/document/eiti-standard-requirements-2016) and [Beneficial Ownership Transparency Disclosure Principles](/uploads/oo-disclosure-principles.pdf)
+
+    * Be mutually reinforcing with relevant international standards, such as the [EITI Standard](https://eiti.org/document/standard-2019) and [Beneficial Ownership Transparency Disclosure Principles](/uploads/oo-disclosure-principles.pdf)
+
     * Build on the current context (for example, if a non-public register already exists, commit to making it publicly available as open data)
+
     * Identify the agencies that will be involved in implementation, and name a lead agency
+
     * Be developed in participation with relevant stakeholders including data users and policy makers
 
     Beneficial ownership transparency is a relatively new policy area, and best practice is still emerging. Therefore, commitments should be revisited, reiterated and, where needed, extended to ensure continuing progress towards beneficial ownership transparency.
