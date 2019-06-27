@@ -22,7 +22,7 @@ questions:
 
     3. “Truth” verification - identify potential mistakes and irregularities in the data, which may indicate that the statement made is not true, and publish the data openly so that others can also do so.
 
-    Whilst some verification activities are likely to require legal mandate, others can be adopted by making technical, system design or workflow changes. We will shortly publish a working paper, What We Really Mean by Verification and How It Can be Done, which will provide practical examples that can be applied at each of the three steps.
+    Whilst some verification activities are likely to require legal mandate, others can be adopted by making technical, system design or workflow changes. You can view our conference presentation [What We Really Mean When We Talk About Verification](https://drive.google.com/open?id=18QDrK_NtbQ2gjFWQznnAANazcfCOvPi1) and we will shortly publish a working paper, What We Really Mean by Verification and How It Can be Done, which will provide practical examples that can be applied at each of the three steps.
 - title: Five ways to improve data quality
   text: |-
     1. Require identification for the person making the declaration, and the beneficial owner themselves, and where practical check this against existing government data to validate they are real people. This increases the risks associated with submitting false information, provided sanctions are present and enforced.
@@ -58,7 +58,10 @@ questions:
     quality can be improved.
 resource-text:
 - 
-- 'Tool: [Example Paper Forms for Collecting Beneficial Ownership Data](https://www.openownership.org/uploads/oo-example-paper-forms.pdf)'
+- |-
+  Tool: [Example Paper Forms for Collecting Beneficial Ownership Data](https://www.openownership.org/uploads/oo-example-paper-forms.pdf)
+
+  Presentation: [What We Really Mean When We Talk About Verification](https://drive.google.com/open?id=18QDrK_NtbQ2gjFWQznnAANazcfCOvPi1)
 layout: guide-page
 ---
 
