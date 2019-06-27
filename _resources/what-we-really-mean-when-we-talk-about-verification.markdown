@@ -14,3 +14,4 @@ file: "/uploads/oo-verification-presentation.pdf"
 thumbnail-image: "/uploads/oo-verification-image.JPG"
 ---
 
+A guide to data quality and verification
