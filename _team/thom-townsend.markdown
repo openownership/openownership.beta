@@ -11,4 +11,4 @@ social:
   linkedin: https://uk.linkedin.com/in/thom-townsend-64637a18
 ---
 
-Thom leads OpenOwnership. Thom joined us from the UK Government where he was head of Data Policy and lead on some of the UK's biggest open data commitments of the last few years. He struggled to come up with anything personal to add at the end of this biography that makes him sound well-rounded.
+Thom leads OpenOwnership. Thom joined us from the UK Government where he was head of Data Policy and lead on some of the UK's biggest open data commitments of the last few years.
