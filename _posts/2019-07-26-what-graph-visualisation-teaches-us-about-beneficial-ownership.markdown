@@ -23,7 +23,7 @@ When the OpenOwnership Register launched in 2017 with the UK’s PSC register da
 
 In order to support data use, we quickly released the ability to search not just by company name or number, but also by beneficial owner name - a feature still missing on the official [Companies House website](https://beta.companieshouse.gov.uk/search/). We later developed a very basic family tree graph featuring UBOs (Ultimate Beneficial Owners) at the top. Two years on, with the addition of beneficial ownership data from Denmark, Slovakia, Ukraine and [EITI](https://eiti.org/beneficial-ownership), and having amassed significant research on investigation and due diligence best practice, it was time to take graph visualisation to the next level.
 
-**How graph visualisation became a feature in our evidence-based roadmap**
+***How graph visualisation became a feature in our evidence-based roadmap***
 
 <img src="/uploads/image3.jpg"
      alt="OpenOwnership DataJam"
@@ -45,7 +45,7 @@ Adding to this, we were also able to significantly improve on our previous graph
 
 * Updating company records: this was to ensure that we knew whether a company had changed names or been dissolved: they would now appear as greyed out entities when dissolved.
 
-** How graph visualisation is a game-changing analytical tool** 
+*** Why graph visualisation is a game-changing analytical tool for beneficial ownership networks*** 
 
 In order to demonstrate how powerful decent visualisation can be, let’s take a couple of examples from the [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft).
 
