@@ -47,12 +47,12 @@ Adding to this, we were also able to significantly improve on our previous graph
 
 ***Graph visualisation is a game-changing analytical tool for complex beneficial ownership networks*** 
 
-In order to demonstrate how powerful decent visualisation can be, let’s take a couple of examples from the [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft).
+In order to demonstrate how powerful graph visualisation can be, even when the feature is only an MVP (Minimum Viable Product), let’s look at specific data examples from the OpenOwnership Register. 
 
-Looking at one small portion of his empire, we will zoom in on ‘Marlowe 2016 Limited’. The previous visualisation showed the ultimate beneficial owner (UBO) of ‘Marlowe 2016’ as being Ashcroft himself and it showed the company in-between, referred to as RLE (Relevant Legal Entity), here ‘Marlowe PLC’. But nothing else. If the purpose was purely to identify the UBO, it worked.
+The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft) has a vast financial empire, spanning from the UK to Belize. We will concentrate on a small subset via one specific company, ‘Marlowe 2016 Limited’. The previous visualisation showed the ultimate beneficial owner (UBO) of ‘Marlowe 2016’ as being Ashcroft himself and it showed the company in-between, referred to as RLE (Relevant Legal Entity), here ‘Marlowe PLC’. But nothing else. If the purpose was purely to identify the UBO, it worked.
 
-With the new graph, which now displays the companies owned by ‘Marlowe 2016’ by default, a couple of things quickly become obvious: the significance of ‘Marlowe 2016’, the complexity of the ownership network (which could be questioned or red-flagged in itself), and the sphere of influence of Michael Ashcroft as a beneficial owner.
+With the new graph, which now displays the companies owned by ‘Marlowe 2016’ by default, a couple of things quickly become obvious: the significance of ‘Marlowe 2016’, the complexity of the ownership network (which could be questioned in itself), and the sphere of influence of Michael Ashcroft as a beneficial owner.
 
-With the ability to view a person’s network, previously unavailable on the Register, it is now possible to understand how far reaching a single person’s control can be. This also allows analysts to navigate ownership from a single lead (you can click through each name/entity and navigate to the relevant list or graph).
+With the ability to view a person’s network, previously unavailable on the Register, it is now possible to understand how far reaching a single person’s control can be. We have allowed analysts to uncover ownership from a single lead, and have enough of an overview to explore specific nodes in depth, if required. This can currently be done by clicking through each name/entity. Further improvements would accelerate node navigation (including being able to do it in a single space rather than clicking away, as is now the case), but already from one name you can uncover a vast beneficial ownership network in one click and one screen, when it was before either entirely unavailable, or hidden in unwieldy rows of data.
 
 So now we have a more powerful way of visualising beneficial ownership data, but what does this mean in terms of policy impact? Read our next blog to find out...
