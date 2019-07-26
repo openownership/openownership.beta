@@ -1,6 +1,7 @@
 ---
 title: What graph visualisation teaches us about beneficial ownership
 date: 2019-07-26 10:08:00 Z
+published: false
 tags:
 - graph visualisation
 - data
