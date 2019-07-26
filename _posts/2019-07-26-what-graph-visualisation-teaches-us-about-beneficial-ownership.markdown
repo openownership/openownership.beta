@@ -24,7 +24,7 @@ In order to support data use, we quickly released the ability to search not just
 
 **An evidence-based roadmap will generate powerful beneficial ownership analysis tools**
 
-![image3.jpg](/uploads/image3.jpg)
+![OpenOwnership DataJam](/uploads/image3.jpg)
 The first step on this journey was to verify some of our assumptions with users themselves. We convened a [discovery session or ‘Data Jam’](https://twitter.com/sheislaurence/status/1123940093679538177) with beneficial ownership data users, in order to understand how they used visualisation in their work (be it journalistic investigation, Know Your Customer (KYC) or due diligence), and the tools that some of the more tech-savvy users were already using. Graph tools such as [Linkurious](https://linkurio.us/) and [Neo4J Bloom](https://neo4j.com/bloom/) were reasonably popular amongst data journalists; there were also many custom-made solutions being developed (using [D3](https://www.d3-graph-gallery.com/network) for example). However, it quickly became clear that the expense and steep learning curve required to use these tools excluded a number of users. This also meant that many key stakeholders interacting with governments and decision-makers didn’t use visualisation at all. We wanted to open up this functionality as visualisation can act as a powerful storytelling tool to showcase the importance of disclosure and open data.
 
 With those insights gained, we were ready to ship a minimum viable product through our 3-week sprint cycle. We chose to use [Cytoscape JS](http://js.cytoscape.org/) due to its broad set of features and ecosystem of plugins, We committed to the following features, previously unavailable on the Register:
