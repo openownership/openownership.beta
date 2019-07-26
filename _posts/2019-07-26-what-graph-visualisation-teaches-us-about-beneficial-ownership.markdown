@@ -52,9 +52,11 @@ In order to demonstrate how powerful graph visualisation can be, even when the f
 
 The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft) has a vast financial empire, spanning from the UK to Belize. We will concentrate on a small subset of that empire: ‘Marlowe 2016 Limited’. [The previous visualisation](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/tree) showed the ultimate beneficial owner (UBO) of ‘Marlowe 2016’ as being Ashcroft himself and it showed the company in-between, referred to as RLE (Relevant Legal Entity), here ‘Marlowe PLC’. But nothing else. If the purpose was purely to identify the UBO, it worked.
 
+**Before**
 <img src="/uploads/image2.png"
      alt="Michael Ashcroft - basic view"
      style="float: left; margin-right: 90px" />
+**After**
 <img src="/uploads/image1.png"
      alt="Michael Ashcroft- complex view"
      style="float: left; margin-right: 90px" />
