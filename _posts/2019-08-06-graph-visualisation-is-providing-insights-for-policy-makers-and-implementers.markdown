@@ -1,6 +1,7 @@
 ---
 title: Graph visualisation is providing insights for policy-makers and implementers
 date: 2019-08-06 10:00:00 Z
+published: false
 tags:
 - the beneficial ownership data standard
 - openownership register
