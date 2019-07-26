@@ -56,6 +56,7 @@ The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcr
 <img src="/uploads/image2.png"
      alt="Michael Ashcroft - basic view"
      style="float: left; margin-right: 90px" />
+
 **After**
 <img src="/uploads/image1.png"
      alt="Michael Ashcroft- complex view"
