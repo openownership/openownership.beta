@@ -23,11 +23,11 @@ When the OpenOwnership Register launched in 2017 with the UK’s PSC register da
 
 In order to support data use, we quickly released the ability to search not just by company name or number, but also by beneficial owner name - a feature still missing on the official [Companies House website](https://beta.companieshouse.gov.uk/search/). We later developed a very basic family tree graph featuring UBOs (Ultimate Beneficial Owners) at the top. Two years on, with the addition of beneficial ownership data from Denmark, Slovakia, Ukraine and [EITI](https://eiti.org/beneficial-ownership), and having amassed significant research on investigation and due diligence best practice, it was time to take graph visualisation to the next level.
 
-*How graph visualisation became a feature in our evidence-based roadmap*
+**How graph visualisation became a feature in our evidence-based roadmap**
 
 <img src="/uploads/image3.jpg"
      alt="OpenOwnership DataJam"
-     style="float: left; margin-right: 100px" />
+     style="float: left; margin-right: 90px" />
 
 The first step on this journey was to verify some of our assumptions with users themselves. We convened a [discovery session or ‘Data Jam’](https://twitter.com/sheislaurence/status/1123940093679538177) with beneficial ownership data users, in order to understand how they used visualisation in their work (be it journalistic investigation, Know Your Customer (KYC) or due diligence), and the tools that some of the more tech-savvy users were already using. Graph tools such as [Linkurious](https://linkurio.us/) and [Neo4J Bloom](https://neo4j.com/bloom/) turned out to be reasonably popular amongst data journalists and campaigners, who had become increasingly dependent on the analytical power of graph visualisation to investigate very complex networks of ownership. Unsurprisingly, there were custom solutions being developed by KYC and due diligence providers, but sometimes by end users as well (using [D3](https://www.d3-graph-gallery.com/network) for example). However, it quickly became clear that the expense and steep learning curve required to customise and use these tools excluded a number of users. Many key stakeholders interacting with governments and decision-makers didn’t use visualisation at all. We wanted to open up this functionality as visualisation can act as a powerful storytelling tool to showcase the importance of disclosure and open data.
 
@@ -44,6 +44,8 @@ Adding to this, we were also able to significantly improve on our previous graph
 * Deduping of person records: this was particularly valuable for the UK PSC data, which is missing unique identifiers, meaning the same person was previously appearing as different people in the same graph.
 
 * Updating company records: this was to ensure that we knew whether a company had changed names or been dissolved: they would now appear as greyed out entities when dissolved.
+
+** How graph visualisation is a game-changing analytical tool** 
 
 In order to demonstrate how powerful decent visualisation can be, let’s take a couple of examples from the [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft).
 
