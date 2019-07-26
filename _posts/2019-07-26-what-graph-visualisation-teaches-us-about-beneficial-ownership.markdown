@@ -23,7 +23,7 @@ When the OpenOwnership Register launched in 2017 with the UK’s PSC register da
 
 In order to support data use, we quickly released the ability to search not just by company name or number, but also by beneficial owner name - a feature still missing on the official [Companies House website](https://beta.companieshouse.gov.uk/search/). We later developed a very basic family tree graph featuring UBOs (Ultimate Beneficial Owners) at the top. Two years on, with the addition of beneficial ownership data from Denmark, Slovakia, Ukraine and [EITI](https://eiti.org/beneficial-ownership), and having amassed significant research on investigation and due diligence best practice, it was time to take graph visualisation to the next level.
 
-**An evidence-based roadmap will generate powerful beneficial ownership analysis tools**
+*An evidence-based roadmap will generate powerful beneficial ownership analysis tools*
 
 <img src="/uploads/image3.jpg"
      alt="OpenOwnership DataJam"
