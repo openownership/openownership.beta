@@ -45,7 +45,7 @@ Adding to this, we were also able to significantly improve on our previous graph
 
 * Updating company records: this was to ensure that we knew whether a company had changed names or been dissolved: they would now appear as greyed out entities when dissolved.
 
-*** Why graph visualisation is a game-changing analytical tool for beneficial ownership networks*** 
+***Why graph visualisation is a game-changing analytical tool for beneficial ownership networks*** 
 
 In order to demonstrate how powerful decent visualisation can be, let’s take a couple of examples from the [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft).
 
