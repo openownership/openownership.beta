@@ -50,7 +50,7 @@ Adding to this, we were also able to significantly improve on our previous graph
 
 In order to demonstrate how powerful graph visualisation can be, even when the feature is only an MVP (Minimum Viable Product), let’s look at specific data examples from the OpenOwnership Register. 
 
-The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft) has a vast financial empire, spanning from the UK to Belize. We will concentrate on a small subset of that empire: ‘Marlowe 2016 Limited’. [The previous visualisation](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/tree) showed the ultimate beneficial owner (UBO) of ‘Marlowe 2016’ as being Ashcroft himself and it showed the company in-between, called an RLE (Relevant Legal Entity - [beneficial ownership legal concept specific to the UK](https://register.openownership.org/data_sources/uk-psc-register)-), here ‘Marlowe PLC’. But nothing else. If the purpose was purely to identify the UBO, it worked.
+The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft) has a vast financial empire, spanning from the UK to Belize. We will concentrate on a small subset of that empire: ‘Marlowe 2016 Limited’. [The previous visualisation](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/tree) showed the UBO of ‘Marlowe 2016’ as being Ashcroft himself and it showed the company in-between, called an RLE (Relevant Legal Entity - [beneficial ownership legal concept specific to the UK](https://register.openownership.org/data_sources/uk-psc-register)-), here ‘Marlowe PLC’. But nothing else. If the purpose was purely to identify the UBO, it worked.
 
 **Before**
 <img src="/uploads/image2.png"
