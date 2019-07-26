@@ -8,6 +8,7 @@ tags:
 - the beneficial ownership data standard
 - openownership register
 - data jam
+image: "/uploads/IMGP1652.jpg"
 description: We’re excited to be launching a new version of our graph visualisation
   functionality to the OpenOwnership Register.  We hope this will act as a powerful
   resource for journalists, policy makers and civil society by allowing them to more
