@@ -23,7 +23,7 @@ When the OpenOwnership Register launched in 2017 with the UK’s PSC register da
 
 In order to support data use, we quickly released the ability to search not just by company name or number, but also by beneficial owner name - a feature still missing on the official [Companies House website](https://beta.companieshouse.gov.uk/search/). We later developed a very basic family tree graph featuring UBOs (Ultimate Beneficial Owners) at the top. Two years on, with the addition of beneficial ownership data from Denmark, Slovakia, Ukraine and [EITI](https://eiti.org/beneficial-ownership), and having amassed significant research on investigation and due diligence best practice, it was time to take graph visualisation to the next level.
 
-### Expert beneficial ownership data users already rely on graph visualisation, but many users are still excluded
+#### Expert beneficial ownership data users already rely on graph visualisation, but many users are still excluded
 
 <p>
 <img src="/uploads/image3.jpg"
@@ -48,7 +48,7 @@ Adding to this, we were also able to significantly improve on our previous graph
 
 * Updating company records: this was to ensure that we knew whether a company had changed names or been dissolved: they would now appear as greyed out entities when dissolved.
 
-## Graph visualisation is a game-changing analytical tool for complex beneficial ownership networks
+#### Graph visualisation is a game-changing analytical tool for complex beneficial ownership networks
 
 In order to demonstrate how powerful graph visualisation can be, even when the feature is only an MVP (Minimum Viable Product), let’s look at specific data examples from the OpenOwnership Register. 
 
@@ -58,7 +58,7 @@ The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcr
 <p><img src="/uploads/image2.png"
      alt="Michael Ashcroft - basic view"
      style="float: left; margin-right: 90px" /></p>
-<br>
+<br><br>
 **After**
 <p><img src="/uploads/image1.png"
      alt="Michael Ashcroft- complex view"
@@ -66,7 +66,7 @@ The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcr
 
 <br>
 
-With [the new graph](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/graph), which now displays the companies owned by ‘Marlowe 2016’ by default, a couple of things quickly become obvious: the significance of ‘Marlowe 2016’, the complexity of the ownership network (which could be questioned in itself), and the sphere of influence of Michael Ashcroft as a beneficial owner. This assessment can be made in a blink and is facilitated by the graph's ability to connect direct and indirect owners, corporate and personal ownership, and this in all 'directions', up to the UBO but also down to other corporate entities, the ownership of which could inform the main investigation.
+<p>With [the new graph](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/graph), which now displays the companies owned by ‘Marlowe 2016’ by default, a couple of things quickly become obvious: the significance of ‘Marlowe 2016’, the complexity of the ownership network (which could be questioned in itself), and the sphere of influence of Michael Ashcroft as a beneficial owner. This assessment can be made in a blink and is facilitated by the graph's ability to connect direct and indirect owners, corporate and personal ownership, and this in all 'directions', up to the UBO but also down to other corporate entities, the ownership of which could inform the main investigation.</p>
 
 With the ability to view a [person’s network](https://register.openownership.org/entities/59b94f1a67e4ebf340bca93d/graph), previously unavailable on the Register, it is now possible to understand how far reaching a single person’s control can be. We have allowed analysts to uncover ownership from a single lead, and have enough of an overview to explore specific nodes in depth, if required. This can currently be done by clicking through each name/entity. Further improvements would accelerate node navigation (including being able to do it in a single space rather than clicking away, as is now the case), but already from one name and with one click you can uncover a vast beneficial ownership network, when it was previously either entirely unavailable, or hidden in unwieldy rows of data.
 
