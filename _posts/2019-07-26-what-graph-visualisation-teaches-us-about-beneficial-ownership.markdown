@@ -23,13 +23,13 @@ When the OpenOwnership Register launched in 2017 with the UK’s PSC register da
 
 In order to support data use, we quickly released the ability to search not just by company name or number, but also by beneficial owner name - a feature still missing on the official [Companies House website](https://beta.companieshouse.gov.uk/search/). We later developed a very basic family tree graph featuring UBOs (Ultimate Beneficial Owners) at the top. Two years on, with the addition of beneficial ownership data from Denmark, Slovakia, Ukraine and [EITI](https://eiti.org/beneficial-ownership), and having amassed significant research on investigation and due diligence best practice, it was time to take graph visualisation to the next level.
 
-##Expert beneficial ownership data users already rely on graph visualisation, but many users are still excluded
+### Expert beneficial ownership data users already rely on graph visualisation, but many users are still excluded
 
+<p>
 <img src="/uploads/image3.jpg"
      alt="OpenOwnership DataJam"
-     style="float: left; margin-right: 90px" />
+     style="float: left; margin-right: 90px" /></p>
 
-<br>
 <br>
 
 The first step on this journey was to verify some of our assumptions with users themselves. We convened a [discovery session or ‘Data Jam’](https://twitter.com/sheislaurence/status/1123940093679538177) with beneficial ownership data users, in order to understand how they used visualisation in their work (be it journalistic investigation, Know Your Customer (KYC) or due diligence), and the tools that some of the more tech-savvy users were already using. Graph tools such as [Linkurious](https://linkurio.us/) and [Neo4J Bloom](https://neo4j.com/bloom/) turned out to be reasonably popular amongst data journalists and campaigners, who had become increasingly dependent on the analytical power of graph visualisation to investigate very complex networks of ownership. Unsurprisingly, there were custom solutions being developed by KYC and due diligence providers, but sometimes by end users as well (using [D3](https://www.d3-graph-gallery.com/network) for example). However, it quickly became clear that the expense and steep learning curve required to customise and use these tools excluded a number of users. Many key stakeholders interacting with governments and decision-makers didn’t use visualisation at all. We wanted to open up this functionality as visualisation can act as a powerful storytelling tool to showcase the importance of disclosure and open data.
@@ -55,16 +55,16 @@ In order to demonstrate how powerful graph visualisation can be, even when the f
 The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft) has a vast financial empire, spanning from the UK to Belize. We will concentrate on a small subset of that empire: ‘Marlowe 2016 Limited’. [The previous visualisation](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/tree) showed the UBO of ‘Marlowe 2016’ as being Ashcroft himself and it showed the company in-between, called an RLE (Relevant Legal Entity - [beneficial ownership legal concept specific to the UK](https://register.openownership.org/data_sources/uk-psc-register)-), here ‘Marlowe PLC’. But nothing else. If the purpose was purely to identify the UBO, it worked.
 
 **Before**
-<img src="/uploads/image2.png"
+<p><img src="/uploads/image2.png"
      alt="Michael Ashcroft - basic view"
-     style="float: left; margin-right: 90px" />
-
+     style="float: left; margin-right: 90px" /></p>
+<br>
 **After**
-<img src="/uploads/image1.png"
+<p><img src="/uploads/image1.png"
      alt="Michael Ashcroft- complex view"
-     style="float: left; margin-right: 90px" />
+     style="float: left; margin-right: 90px" /></p>
 
-
+<br>
 
 With [the new graph](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/graph), which now displays the companies owned by ‘Marlowe 2016’ by default, a couple of things quickly become obvious: the significance of ‘Marlowe 2016’, the complexity of the ownership network (which could be questioned in itself), and the sphere of influence of Michael Ashcroft as a beneficial owner. This assessment can be made in a blink and is facilitated by the graph's ability to connect direct and indirect owners, corporate and personal ownership, and this in all 'directions', up to the UBO but also down to other corporate entities, the ownership of which could inform the main investigation.
 
