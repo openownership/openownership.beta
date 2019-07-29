@@ -1,7 +1,6 @@
 ---
 title: What graph visualisation teaches us about beneficial ownership
-date: 2019-07-26 10:08:00 Z
-published: false
+date: 2019-07-30 09:00:00 Z
 tags:
 - graph visualisation
 - data
@@ -26,7 +25,7 @@ In order to support data use, we quickly released the ability to search not just
 #### Expert beneficial ownership data users already rely on graph visualisation, but many users are still excluded
 
 
-<img src="/uploads/image3.jpg" alt="OpenOwnership DataJam" style="float: left; margin-right: 90px; max-width: 50%" />The first step on this journey was to verify some of our assumptions with users themselves. We convened a [discovery session or ‘Data Jam’](https://twitter.com/sheislaurence/status/1123940093679538177) with beneficial ownership data users, in order to understand how they used visualisation in their work (be it journalistic investigation, Know Your Customer (KYC) or due diligence), and the tools that some of the more tech-savvy users were already using. Graph tools such as [Linkurious](https://linkurio.us/) and [Neo4J Bloom](https://neo4j.com/bloom/) turned out to be reasonably popular amongst data journalists and campaigners, who had become increasingly dependent on the analytical power of graph visualisation to investigate very complex networks of ownership. Unsurprisingly, there were custom solutions being developed by KYC and due diligence providers, and sometimes by end users as well (using [D3](https://www.d3-graph-gallery.com/network) for example). However, it quickly became clear that the expense and steep learning curve required to customise and use these tools excluded a number of users. Many key stakeholders interacting with governments and decision-makers didn’t use visualisation at all. We wanted to open up this functionality as visualisation can act as a powerful storytelling tool to showcase the importance of disclosure and open data.
+<img src="/uploads/image3.jpg" alt="OpenOwnership DataJam" style="float: left; margin-right: 1rem; margin-bottom: 0.5rem; max-width: 50%;" />The first step on this journey was to verify some of our assumptions with users themselves. We convened a [discovery session or ‘Data Jam’](https://twitter.com/sheislaurence/status/1123940093679538177) with beneficial ownership data users, in order to understand how they used visualisation in their work (be it journalistic investigation, Know Your Customer (KYC) or due diligence), and the tools that some of the more tech-savvy users were already using. Graph tools such as [Linkurious](https://linkurio.us/) and [Neo4J Bloom](https://neo4j.com/bloom/) turned out to be reasonably popular amongst data journalists and campaigners, who had become increasingly dependent on the analytical power of graph visualisation to investigate very complex networks of ownership. Unsurprisingly, there were custom solutions being developed by KYC and due diligence providers, and sometimes by end users as well (using [D3](https://www.d3-graph-gallery.com/network) for example). However, it quickly became clear that the expense and steep learning curve required to customise and use these tools excluded a number of users. Many key stakeholders interacting with governments and decision-makers didn’t use visualisation at all. We wanted to open up this functionality as visualisation can act as a powerful storytelling tool to showcase the importance of disclosure and open data.
 
 With those insights gained, we were ready to ship a minimum viable product through our 3-week sprint cycle. We chose to use [Cytoscape JS](http://js.cytoscape.org/) due to its broad set of features and ecosystem of plugins. We committed to the following features, previously unavailable on the Register:
 
@@ -49,15 +48,16 @@ In order to demonstrate how powerful graph visualisation can be, even when the f
 The [Right Honourable Lord Ashcroft](https://en.wikipedia.org/wiki/Michael_Ashcroft) has a vast financial empire, spanning from the UK to Belize. We will concentrate on a small subset of that empire: ‘Marlowe 2016 Limited’. [The previous visualisation](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/tree) showed the UBO of ‘Marlowe 2016’ as being Ashcroft himself and it showed the company in-between, called an RLE (Relevant Legal Entity - [beneficial ownership legal concept specific to the UK](https://register.openownership.org/data_sources/uk-psc-register)-), here ‘Marlowe PLC’. But nothing else. If the purpose was purely to identify the UBO, it worked.
 
 **Before**
+
 <img src="/uploads/image2.png"
      alt="Michael Ashcroft - basic view"
-     style="float: left; margin-right: 90px" />
-<br><br>
-**After**<img src="/uploads/image1.png"
-     alt="Michael Ashcroft- complex view"
-     style="float: left; margin-right: 90px" />
+     style="margin-bottom: 1rem;" />
 
-<br>
+**After**
+
+<img src="/uploads/image1.png"
+     alt="Michael Ashcroft- complex view"
+     style="margin-bottom: 1rem;" />
 
 With [the new graph](https://register.openownership.org/entities/59b91b0767e4ebf340d816e1/graph), which now displays the companies owned by ‘Marlowe 2016’ by default, a couple of things quickly become obvious: the significance of ‘Marlowe 2016’, the complexity of the ownership network (which could be questioned in itself), and the sphere of influence of Michael Ashcroft as a beneficial owner. This assessment can be made in the blink of an eye and is facilitated by the graph's ability to connect direct and indirect owners, corporate and personal ownership in all 'directions', up to the UBO but also down to other corporate entities, the ownership of which could inform the main investigation.
 
