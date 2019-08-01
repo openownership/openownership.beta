@@ -31,7 +31,7 @@ The momentum towards transparent registers of beneficial ownership is huge. Eigh
 
 # Our direction of travel
 
-### **Winning the argument**
+# **Winning the argument**
 
 But we cannot rest on our laurels. We haven’t yet convincingly, irrevocably won the argument that [open](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf) registers are the best way to use this data to meet the challenges our societies face. No one disagrees that beneficial ownership data is valuable, but we are unequivocal about why open registers create more effective economies, reduce friction in trade and are the best way to use this beneficial ownership data to tackle corruption and deliver improved accountability. We will continue to demonstrate why this is the case by delivering high-quality data through our open register, showing how open delivers real benefits and supporting more countries to publish.
 
