@@ -1,5 +1,5 @@
 ---
-title: 'From the "Why" to the "How":  Working with EITI'
+title: 'From the "Why" to the "How":  Working with EITI and OGP'
 date: 2019-08-01 11:06:00 Z
 tags:
 - EITI
