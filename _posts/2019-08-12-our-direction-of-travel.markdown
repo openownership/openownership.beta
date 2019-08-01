@@ -31,7 +31,7 @@ The momentum towards transparent registers of beneficial ownership is huge. Eigh
 
 # Our direction of travel
 
-### **Winning the argument**
+# **Winning the argument**
 
 But we cannot rest on our laurels. We haven’t yet convincingly, irrevocably won the argument that [open](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf) registers are the best way to use this data to meet the challenges our societies face. No one disagrees that beneficial ownership data is valuable, but we are unequivocal about why open registers create more effective economies, reduce friction in trade and are the best way to use this beneficial ownership data to tackle corruption and deliver improved accountability. We will continue to demonstrate why this is the case by delivering high-quality data through our open register, showing how open delivers real benefits and supporting more countries to publish.
 
@@ -41,7 +41,7 @@ OpenOwnership was founded by the extraordinary community of organisations and pe
 
 I believe that open data about who ultimately benefits from a company’s activities is going to play a vital role in helping us make sense of our increasingly confusing world, where complex layers of corporate entities obscure power and control. Chris Taggart, CEO of [OpenCorporates](https://opencorporates.com/) has written compellingly about the sorts of challenges that may lie ahead with a “massive increase in the speed, number and complexity of companies, all powered by automation of company formation, and driven by demand from new technologies.”
 
-Governments already struggle to keep up with the changes wrought by new technology and the threats and pressures placed on the citizen to make sense of our new world is immense. OpenOwnership will be exploring how data about who controls and benefits from companies can help citizens contextualise their world- who is really making money from a news story or an advert we encounter, who are the real winners and losers in our economies and, where does true power lie in our societies? This information also has the potential to continue deepening our knowledge on the ways in which transparency about who owns our companies supports tax justice, builds trust between citizens, business and government and can really level the playing field for businesses, big and small.
+Governments already struggle to keep up with the changes wrought by new technology and the threats and pressures placed on the citizen to make sense of our new world is immense. OpenOwnership will be exploring how data about who controls and benefits from companies can help citizens contextualise their world-who is really making money from a news story or an advert we encounter, who are the real winners and losers in our economies and, where does true power lie in our societies? This information also has the potential to continue deepening our knowledge on the ways in which transparency about who owns our companies supports tax justice, builds trust between citizens, business and government and can really level the playing field for businesses, big and small.
 
 ### Deepening our expertise
 
