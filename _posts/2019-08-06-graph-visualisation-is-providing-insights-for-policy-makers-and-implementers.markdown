@@ -8,6 +8,7 @@ tags:
 - graph visualisation
 - policy impact
 - Anticorruption
+image: "/uploads/congostate%20cropped.png"
 description: In our last blog, we showcased the new features of our data visualisation
   tool which enable us to better understand the complexities of beneficial ownership
   networks and the wide sphere of influence of named individuals. These examples helped
