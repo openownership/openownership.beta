@@ -1,6 +1,7 @@
 ---
 title: Our direction of travel
 date: 2019-08-12 09:30:00 Z
+published: false
 tags:
 - beneficial ownership
 - scaling
