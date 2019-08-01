@@ -1,6 +1,12 @@
 ---
 title: 'From the "Why" to the "How":  Working with EITI'
 date: 2019-08-01 11:06:00 Z
+tags:
+- EITI
+- extractives
+- transparency
+- beneficial ownership
+- Beneficial Ownership Leadership Group
 image: "/uploads/Photo%20Extractive-d11722.jpg"
 description: Over the last few years, there’s been significant progress towards making
   beneficial ownership transparency (BOT) a global norm, with 18 countries making
