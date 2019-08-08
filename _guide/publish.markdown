@@ -11,25 +11,16 @@ tip-text: Open data is the best way to publish beneficial ownership information,
   use the data will help you design publication systems that enable this.
 questions:
 - title: Publish as open data
-  text: "Open data is digital “structured” and “machine-readable” data that is available
-    free of charge and can be used and reused by anyone. Making the beneficial ownership
-    data that you publish available as open data means it is easier for people and
-    organisations to use it for public benefit. Structured data makes is possible
-    to link beneficial ownership information with other data and improves the quality
-    of the data. This helps ensure that your beneficial ownership register fulfills
-    your policy goals.\n\nTo realise these benefits, it is advisable to enshrine in
-    law that the data you publish will be available as open data. Whilst enshrining
-    in law public access to the data is of course important, open data goes further
-    and can unlock additional policy impact. For example, you could include reference
-    to publishing data “in accordance with the globally accepted principles and standards
-    for open data in the [Open Data Charter](https://opendatacharter.net/principles/).\n\nThe
-    graphic below shows how open data differs from information that is simply publicly
-    available.\n\n![data-spectrum-rev.jpg](/uploads/data-spectrum-rev.jpg)\n\nYou
-    can read more about the benefits of open data beneficial ownership information
-    in our briefing - [the case for open data registers](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf).
-    In addition, OpenOwnership is drafting guidance on what to consider when deciding
-    which type of open data license to use for beneficial ownership data. This will
-    be available in the coming months. "
+  text: |-
+    Open data is digital “structured” and “machine-readable” data that is available free of charge and can be used and reused by anyone. Making the beneficial ownership data that you publish available as open data means it is easier for people and organisations to use it for public benefit. Structured data makes is possible to link beneficial ownership information with other data and improves the quality of the data. This helps ensure that your beneficial ownership register fulfills your policy goals.
+
+    To realise these benefits, it is advisable to enshrine in law that the data you publish will be available as open data. Whilst enshrining in law public access to the data is of course important, open data goes further and can unlock additional policy impact. For example, you could include reference to publishing data “in accordance with the globally accepted principles and standards for open data in the [Open Data Charter](https://opendatacharter.net/principles/)".
+
+    The graphic below shows how open data differs from information that is simply publicly available.
+
+    ![data-spectrum-rev.jpg](/uploads/data-spectrum-rev.jpg)
+
+    You can read more about the benefits of open data beneficial ownership information in our briefing - [the case for open data registers](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf). In addition, OpenOwnership is drafting guidance on what to consider when deciding which type of open data license to use for beneficial ownership data. This will be available in the coming months.
 - title: What is best practice for publishing beneficial ownership data?
   text: |-
     Understanding the different ways in which government departments, businesses and civil society will want to access and use your beneficial ownership register to drive policy impact, will help design systems that enable this. In general, some people will want to search for a particular record, while others will want to analyse many records at once. This means publishing the data in ways that both humans and computers can read, understand and use it.
