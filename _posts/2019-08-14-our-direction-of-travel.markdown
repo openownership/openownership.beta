@@ -1,6 +1,6 @@
 ---
 title: 'Building on momentum: our direction of travel'
-date: 2019-08-12 09:30:00 Z
+date: 2019-08-14 10:40:00 Z
 tags:
 - beneficial ownership
 - scaling
