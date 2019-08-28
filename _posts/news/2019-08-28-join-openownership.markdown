@@ -1,5 +1,5 @@
 ---
-title: 'We’re hiring: Join OpenOwnership'
+title: 'We’re Hiring: Join OpenOwnership'
 date: 2019-08-28 10:08:00 Z
 tags:
 - hiring
