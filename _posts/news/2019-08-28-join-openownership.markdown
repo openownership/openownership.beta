@@ -22,4 +22,4 @@ We’re hiring through [Be Applied](https://www.beapplied.com/), a platform desi
 
 If you have any further questions or issues with the application process, please feel free to reach out to us via [recruitment@openownership.org](recruitment@openownership.org).
 
-Good luck, please spread the word, and we look forward to hearing from you!
+Good luck, spread the word, and we look forward to hearing from you!
