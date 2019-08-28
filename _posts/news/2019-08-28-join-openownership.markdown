@@ -15,7 +15,7 @@ description: |-
 author: Mollie Hanley
 ---
 
-![join-openownership.jpg](/uploads/join-openownership.jpg)
+![join-openownership.jpg]
 
 For the past three years OpenOwnership has been at the forefront of the campaign for transparent data about who owns companies. With a small team we’ve achieved a lot, including creating the world’s first [Beneficial Ownership Data Standard](https://standard.openownership.org/en/v0-1/), building the first [Global Beneficial Ownership Register](https://register.openownership.org/), and [supporting](https://www.openownership.org/what-we-do/the-openownership-pilot-program/) Ukraine, Kyrgyz Republic, Nigeria, Ghana and a number of other countries on their path to implementation.
 
