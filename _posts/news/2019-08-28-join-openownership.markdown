@@ -18,7 +18,7 @@ As the demand for transparency is growing, so is OpenOwnership. We’re currentl
 
 We know that good policy and solutions are informed by diverse and inclusive teams, and we strongly encourage people from marginalized backgrounds and communities to apply. We’re also actively looking to diversify our geographical presence, and are accepting applications within 5 hours \+/- of GMT.
 
-We’re hiring through [Be Applied](https://www.beapplied.com/), a platform designed to promote diversity and inclusion through anonymized applications and screening questions. We’ll be adding more positions soon, so keep an eye on our Twitter and jobs page for updates.
+We’re hiring through [Be Applied](https://www.beapplied.com/), a platform designed to promote diversity and inclusion through anonymized applications and screening questions. We’ll be adding more positions soon, so keep an eye on our [Twitter](https://twitter.com/openownership) and jobs page for updates.
 
 If you have any further questions or issues with the application process, please feel free to reach out to us via [recruitment@openownership.org](recruitment@openownership.org).
 
