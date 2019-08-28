@@ -1,5 +1,5 @@
 ---
-title: 'Building on momentum: our direction of travel'
+title: 'Building on Momentum: Our Direction of Travel'
 date: 2019-08-14 10:30:00 Z
 tags:
 - beneficial ownership
