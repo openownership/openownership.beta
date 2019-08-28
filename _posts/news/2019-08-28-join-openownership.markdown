@@ -1,7 +1,6 @@
 ---
 title: 'We’re hiring: Join OpenOwnership'
 date: 2019-08-28 10:08:00 Z
-permalink: openownership.beta/news/join-openownership
 author: Mollie Hanley
 ---
 
