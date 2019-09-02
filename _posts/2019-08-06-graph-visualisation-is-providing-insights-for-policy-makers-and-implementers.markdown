@@ -9,13 +9,13 @@ tags:
 - policy impact
 - Anticorruption
 image: "/uploads/IMGP1654.JPG"
-description: In our last blog, we showcased the new features of our data visualisation
-  tool which enable us to better understand the complexities of beneficial ownership
-  networks and the wide sphere of influence of named individuals. These examples helped
-  spark significant policy insights, particularly when thinking about what beneficial
-  ownership data collection should entail. These insights were born from the different
-  national beneficial ownership implementations that we could now visualise in the
-  OpenOwnership Register.
+description: 'In our last in this series, we showcased our new graph visualisation
+  tool, which enables investigators to better understand the complex ownership networks
+  and the sphere of influence of beneficial owners. In this blog, we’ll explore how
+  graph visualisation benefits another, perhaps less obvious, set of users: policy-makers
+  and implementers.
+
+'
 author: Laurence Bascle
 ---
 
