@@ -37,7 +37,7 @@ One insight our graph visualisation surfaced - and in a very visually striking m
 
 a) Asking companies to provide the next level up of legal ownership, whether that ownership is corporate or individual;
 
-and / or
+*and / or*
 
 b) Asking companies to only provide their ultimate beneficial owners (UBOs), which must correspond to actual people.
 
