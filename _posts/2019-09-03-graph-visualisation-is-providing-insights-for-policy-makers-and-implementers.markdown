@@ -64,7 +64,8 @@ As all complex ownership networks are multinational, another checkpoint for eval
 
 For this approach to work, however, beneficial ownership data has to be available as open data, and aggregated in a standardised, machine-readable format. OpenOwnership has been trialling a solutions to this; our [Beneficial Ownership Data Standard](https://www.openownership.org/guide/systems/) (BODS) – but that’s a matter for another blog post.
 
-#Findings
+## Findings
+
 The OpenOwnership graph visualisation tool can be an incredibly powerful storytelling device, enabling policy makers to understand and explain the complexity of international corporate networks. It also illustrates in a very visual way the pros and cons of different beneficial ownership data collection models.
 
 Finally, graph visualisation highlights the importance of publishing beneficial ownership registers as high quality open data, which is critical to widening access. Accessibility is essential to gain insights into good policies and support their ultimate purpose: making it effortless to find out who ultimately owns and controls a company, thus supporting good governance and healthy democracies. 
