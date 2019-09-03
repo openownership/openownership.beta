@@ -8,7 +8,7 @@ tags:
 - policy impact
 - Anticorruption
 image: "/uploads/IMGP1654.JPG"
-description: 'In our last in this series, we showcased our new graph visualisation
+description: 'In our last blog in this series, we showcased our new graph visualisation
   tool, which enables investigators to better understand the complex ownership networks
   and the sphere of influence of beneficial owners. In this blog, we’ll explore how
   graph visualisation benefits another, perhaps less obvious, set of users: policy-makers
