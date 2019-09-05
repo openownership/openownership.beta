@@ -24,7 +24,7 @@ You will join a small distributed team at a time of significant growth, taking o
 
 **Location**: Flexible work location +/-5GMT (with preference for Europe, Central Asia or sub-Saharan Africa), with regular virtual team meetings and in-person sessions
 
-[Apply for this role](https://app.beapplied.com/apply/bmowpus57u)
+[View job details & apply for this role](https://app.beapplied.com/apply/bmowpus57u)
 
 <br>
 
@@ -40,5 +40,5 @@ You will join a small distributed team at a time of significant growth, taking o
 
 **Location**: Flexible work location with bi-weekly virtual team meetings and regular in-person sessions
 
-[Apply for this role](https://app.beapplied.com/apply/0nsvo7swpn)
+[View job details & apply for this role](https://app.beapplied.com/apply/0nsvo7swpn)
 
