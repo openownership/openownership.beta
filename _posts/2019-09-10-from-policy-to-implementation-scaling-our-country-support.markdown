@@ -1,6 +1,16 @@
 ---
 title: 'From Policy to Implementation: Scaling Our Country Support'
 date: 2019-09-10 20:28:00 Z
+tags:
+- hiring
+- policy impact
+- impact
+- eiti
+description: Since OpenOwnership was founded three years ago, the momentum for beneficial
+  ownership transparency has grown enormously. More countries are committing to beneficial
+  ownership transparency, and are increasingly looking to OpenOwnership for guidance
+  on how to implement.
+author: Louise Russell-Prywata
 ---
 
 ![scaling-country-support.jpeg](/uploads/scaling-country-support.jpeg)
