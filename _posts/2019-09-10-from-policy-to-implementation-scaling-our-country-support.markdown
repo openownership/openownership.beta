@@ -3,6 +3,8 @@ title: 'From Policy to Implementation: Scaling Our Country Support'
 date: 2019-09-10 20:28:00 Z
 ---
 
+![scaling-country-support.jpeg](/uploads/scaling-country-support.jpeg)
+
 Since OpenOwnership was founded three years ago, the momentum for beneficial ownership transparency has grown enormously. The EU’s 5th Anti-Money Laundering Directive is shifting the norm towards public beneficial ownership registers, and from 2020 the 52 [Extractive Industries Transparency Initiative](https://eiti.org/homepage) countries will be required to publish beneficial owners of extractives companies. More countries are committing to beneficial ownership transparency, and are increasingly looking to OpenOwnership for guidance on how to implement.
 
 Supporting countries to publish open beneficial ownership data is central to our [mission](https://www.openownership.org/what-we-do/). It helps us deliver high-quality linked data via the OpenOwnership Register, and is the foundation for real world evidence showing how open beneficial ownership data benefits countries, companies, and societies.
