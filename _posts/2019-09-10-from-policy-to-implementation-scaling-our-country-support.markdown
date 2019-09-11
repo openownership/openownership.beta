@@ -27,8 +27,8 @@ Our strategy is to support countries that can lead the way by implementing benef
 
 Our plans for in-country work strengthen this international advocacy by supporting concrete progress in Leadership Group member countries where the needs and potential impact are greatest. In the coming year this is set to include countries as diverse as Armenia, Kenya, Indonesia, Mexico and Nigeria; a unique opportunity to strengthen the global movement towards beneficial ownership transparency.
 
-### *Our approach will be underpinned by two key factors, informed by our work to date:*
-
+*Our approach will be underpinned by two key factors, informed by our work to date:
+*
 First, the countries that request our support will be at different stages of implementing beneficial ownership transparency, and will operate within diverse contexts. To steer our support to where it can have the most impact, we’ll map each country’s activities to the six stages in our [implementation guide](https://www.openownership.org/guide/), and use this to target and prioritise our support\\
 
 Second, To do this we need to increase our capacity to deliver. We’re currently recruiting two new [Country Managers](https://www.openownership.org/jobs/) to lead engagement and delivery with a portfolio of countries. Given the diverse range of countries we’ll be working with more closely, we’re seeking candidates based anywhere within \+/- 5 GMT. We’re particularly keen to hear from applicants with local knowledge of Leadership Group countries ([listed in the job advert](https://app.beapplied.com/apply/bmowpus57u)).
