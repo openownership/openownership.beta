@@ -27,7 +27,7 @@ Our plans for in-country work strengthen this international advocacy by supporti
 
 Our approach will be underpinned by two key factors, informed by our work to date:
 
-First, the countries that request our support will be at different stages of implementing beneficial ownership transparency, and will operate within diverse contexts. To steer our support to where it can have the most impact, we’ll map each country’s activities to the six stages in our [implementation guide](https://www.openownership.org/guide/), and use this to target and prioritise our support\\
+First, the countries that request our support will be at different stages of implementing beneficial ownership transparency, and will operate within diverse contexts. To steer our support to where it can have the most impact, we’ll map each country’s activities to the six stages in our [implementation guide](https://www.openownership.org/guide/), and use this to target and prioritise our support.
 
 Second, identifying how and where OpenOwnership can best add value will depend on a solid understanding of each national context. We know what [effective beneficial ownership data](https://www.openownership.org/uploads/oo-characteristics-effective-bo-data.pdf) looks like, but the pathway to getting there will vary widely between countries, and support needs are likely to political as well as technical. We’ll therefore work directly with governments, and with partners including local civil society, OGP and EITI to assess opportunities and constraints that may affect implementation. We’ll use this to develop a bespoke support package for each country, in partnership with the government and stakeholders across civil society and the private sector.
 
