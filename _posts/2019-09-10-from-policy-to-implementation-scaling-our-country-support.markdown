@@ -1,5 +1,5 @@
 ---
-title: 'From Policy to Implementation: Scaling Our Country Support'
+title: 'Accelerating Implementation: Scaling Our Country Support'
 date: 2019-09-10 20:28:00 Z
 tags:
 - hiring
@@ -13,7 +13,7 @@ description: Since OpenOwnership was founded three years ago, the momentum for b
 author: Louise Russell-Prywata
 ---
 
-![scaling-country-support.jpeg](/uploads/scaling-country-support.jpeg)
+![nasa-whDrFMucHkc-unsplash-0c469a.jpg](/uploads/nasa-whDrFMucHkc-unsplash-0c469a.jpg)
 
 Since OpenOwnership was founded three years ago, the momentum for beneficial ownership transparency has grown enormously. The EU’s 5th Anti-Money Laundering Directive is shifting the norm towards public beneficial ownership registers, and from 2020 the 52 [Extractive Industries Transparency Initiative](https://eiti.org/homepage) countries will be required to publish beneficial owners of extractives companies. More countries are committing to beneficial ownership transparency, and are increasingly looking to OpenOwnership for guidance on how to implement.
 
@@ -29,7 +29,7 @@ Our plans for in-country work strengthen this international advocacy by supporti
 
 ### *Our approach will be underpinned by two key factors, informed by our work to date:*
 
-First, the countries that request our support will be at different stages of implementing beneficial ownership transparency, and will operate within diverse contexts. To steer our support to where it can have the most impact, we’ll map each country’s activities to the six stages in our [implementation guide](https://www.openownership.org/guide/), and use this to target and prioritise our support\
+First, the countries that request our support will be at different stages of implementing beneficial ownership transparency, and will operate within diverse contexts. To steer our support to where it can have the most impact, we’ll map each country’s activities to the six stages in our [implementation guide](https://www.openownership.org/guide/), and use this to target and prioritise our support\\
 
 Second, To do this we need to increase our capacity to deliver. We’re currently recruiting two new [Country Managers](https://www.openownership.org/jobs/) to lead engagement and delivery with a portfolio of countries. Given the diverse range of countries we’ll be working with more closely, we’re seeking candidates based anywhere within \+/- 5 GMT. We’re particularly keen to hear from applicants with local knowledge of Leadership Group countries ([listed in the job advert](https://app.beapplied.com/apply/bmowpus57u)).
 
