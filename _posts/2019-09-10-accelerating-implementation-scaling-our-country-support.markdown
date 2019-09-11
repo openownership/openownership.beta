@@ -34,5 +34,3 @@ Second, To do this we need to increase our capacity to deliver. We’re currentl
 We’re also recruiting a [Policy & Research Manager](https://www.openownership.org/jobs/) to deepen our evidence base for effective policy development and ensure that learning from our in-country work continues to drive the iterative development of our tools, policy recommendations and implementation guide.
 
 We’re thrilled to be gearing up for this new phase, and are excited by the potential to tangibly accelerate progress on beneficial ownership transparency globally. If you are too, please help us spread the word about our job vacancies, or consider applying to join us!
-
-Photo by [Kurt Cotoaga](https://unsplash.com/@kydroon)
