@@ -13,6 +13,8 @@ We are a distributed team, and are actively looking to diversify our geographica
 ## Current vacancies
 Sorry, we don't have any open positions at the moment. Check this page and/or [follow us on twitter](https://twitter.com/openownership) to hear about new opportunities.
 
+<br>
+
 ## Past vacancies
 
 ### [Country Manager (2 roles)](https://app.beapplied.com/apply/bmowpus57u)
@@ -21,7 +23,6 @@ Sorry, we don't have any open positions at the moment. Check this page and/or [f
 
 You’ll proactively work with colleagues across our distributed team to develop and manage a portfolio of country relationships, apply OpenOwnership’s tools to support national governments implementing beneficial ownership transparency, and share this knowledge across and beyond the organisation.
 
-<br>
 
 ### [Policy & Research Manager](https://app.beapplied.com/apply/0nsvo7swpn)
 
