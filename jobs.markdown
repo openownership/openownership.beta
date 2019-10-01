@@ -10,6 +10,8 @@ With backing from multiple funding agencies, including the UK’s Department for
 
 We are a distributed team, and are actively looking to diversify our geographical presence. We are a majority female team and strongly encourage other women and individuals from marginalized communities to apply.
 
+<br>
+
 ## Current vacancies
 Sorry, we don't have any open positions at the moment. Check this page and/or [follow us on twitter](https://twitter.com/openownership) to hear about new opportunities.
 
