@@ -57,7 +57,7 @@ defaults:
     social: 
 url: https://www.openownership.org
 description: Building an open register of global beneficial ownership in the public
-  interest
+  interest.
 permalink: pretty
 exclude:
 - bower.json
