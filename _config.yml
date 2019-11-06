@@ -137,4 +137,4 @@ autopages:
     title: Posts tagged with :tag
     permalink: "/tag/:tag"
 imgix:
-  source: open-ownership.imgix.net
+  source: open-ownership-team.imgix.net
