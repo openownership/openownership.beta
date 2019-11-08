@@ -62,4 +62,4 @@ In its first iteration, the Data Governance Research Network will place eight fe
 
 ---
 
-*Photo by Alexandre Godreau on Unsplash*
+*Photo by Aurelie Tack on Unsplash*
