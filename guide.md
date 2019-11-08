@@ -19,7 +19,7 @@ OpenOwnership is a team of policy and technical experts working with governments
 
 This guide brings together useful content, expertise and tools we have developed through providing technical assistance and policy support to a range of countries that are considering or implementing beneficial ownership transparency.  It is also informed by the expertise of many partners including the Open Government Partnership, Extractive Industries Transparency Initiative and leading transparency NGOs.
 
-This guide is built on a set of [Characteristics of Effective Beneficial Ownership Data](https://www.openownership.org/uploads/oo-characteristics-effective-bo-data.pdf). It incorporates the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/v0-1/) (BODS), an open source (free for anyone to use) product that OpenOwnership is developing in partnership with [Open Data Services](http://www.opendataservices.coop/). BODS makes it easier for people to understand and use beneficial ownership information, and link it with other datasets.
+This guide is built on a set of [Characteristics of Effective Beneficial Ownership Data](https://www.openownership.org/uploads/oo-characteristics-effective-bo-data.pdf). It incorporates the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/latest/) (BODS), an open source (free for anyone to use) product that OpenOwnership is developing in partnership with [Open Data Services](http://www.opendataservices.coop/). BODS makes it easier for people to understand and use beneficial ownership information, and link it with other datasets.
 
 ### We’re all on the implementation journey together
 
@@ -35,4 +35,4 @@ We are also here to learn. We really want to know what works for you and what do
 
 Beneficial ownership transparency is a global movement. People are becoming increasingly aware of the harm anonymous company ownership is having on communities, economies and business, and more governments are making public commitments to beneficial ownership transparency.
 
-Depending on your role, your level of knowledge about beneficial ownership and where your country is on the implementation journey, you can find an overview of everything in the Consider section, access information by focus area using the buttons below, or jump straight to the technical information for the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/v0-1/).
+Depending on your role, your level of knowledge about beneficial ownership and where your country is on the implementation journey, you can find an overview of everything in the Consider section, access information by focus area using the buttons below, or jump straight to the technical information for the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/latest/).
