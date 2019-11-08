@@ -50,6 +50,11 @@ OpenOwnership, obviously, suggests a position on those issues - but what if it m
 
 
 
-*
+
+
+
+
+
+
 ----
-Photo by Alexandre Godreau on Unsplash*
+*Photo by Alexandre Godreau on Unsplash*
