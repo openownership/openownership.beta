@@ -4,6 +4,7 @@ date: 2019-11-07 20:26:00 Z
 tags:
 - open data
 - public good
+image: "/uploads/alexandre-godreau-7YlHU_ZPS34-unsplash.jpg"
 description: Check out our guest blog from Sean Martin McDonald, tackling the questions
   of why we focus Open Ownership, and what those words really mean.  McDonald is a
   CIGI senior fellow and the co-founder of Digital Public, which builds legal trusts
@@ -46,3 +47,9 @@ So. OpenOwnership is at an inflection point.
 Usually, balancing the benefits, costs, opportunities, and risks of public resources is the provenance of governments. As the public realm stretches into the digital, and the digital continues to start global, it seems inevitable that public governance will stretch, too. Beneficial ownership data policies, and the transparency movement around them, are a recognition that people are best served when public resources empower individual equity. There’s very little question that defining public and private approaches to ownership, and the data that makes it institutionally legible, are central to the debate about the future of institutions and governance. 
 
 OpenOwnership, obviously, suggests a position on those issues - but what if it meant something else? What if it meant taking an open approach to the rights, infrastructure, and potential posed by reconsidering ownership? After all - what’s in a name?
+
+
+
+*
+----
+Photo by Alexandre Godreau on Unsplash*
