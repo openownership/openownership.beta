@@ -50,4 +50,16 @@ OpenOwnership, obviously, suggests a position on those issues - but what if it m
 
 ---
 
+**The Data Governance Research Network**
+
+This post poses more questions than it answers. To try and answers these questions and many others about data governance, Digital Public, in partnership with Duke’s Center for Law & Technology, Stanford’s Digital Civil Society Lab, and the Ostrom Workship, at Indiana University, are launching the Data Governance Research Network.
+
+In its first iteration, the Data Governance Research Network will place eight fellows in two types of organisations: 
+
+\(1) partner academic institutions, with an articulated interest in the field and commitment to performing research articulated in the agenda; and 
+
+\(2) practitioner organisations working on a the types of projects or transitions approached by the research agenda.
+
+---
+
 *Photo by Alexandre Godreau on Unsplash*
