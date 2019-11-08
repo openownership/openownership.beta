@@ -29,7 +29,7 @@ questions:
 
     * Data is freely available online, is searchable, downloadable and reusable by the public, without a fee, proprietary software, or the need for registration. It is important to plan for publication processes and tools to be updated regularly, and in response to user feedback.
 
-    * Data is available in bulk, in structured, machine-readable format that complies with the [Beneficial Ownership Data Standard](https://standard.openownership.org/en/v0-1/) (BODS). This could be via an API (which allows data users to access the data in machine-readable format such as JSON, direct from a website) and/or a bulk download service (where a copy of the entire registry data is put online at regular intervals in a downloadable open file format such as .csv).
+    * Data is available in bulk, in structured, machine-readable format that complies with the [Beneficial Ownership Data Standard](https://standard.openownership.org/en/latest/) (BODS). This could be via an API (which allows data users to access the data in machine-readable format such as JSON, direct from a website) and/or a bulk download service (where a copy of the entire registry data is put online at regular intervals in a downloadable open file format such as .csv).
 
     * The published data is synchronised to the global [OpenOwnership Register](https://register.openownership.org/), which links beneficial ownership data from across the world. This links national data with beneficial ownership data from other countries, increasing policy impact. This can be done using the API or bulk download solution mentioned above, and you can contact us for more information.
 
@@ -41,7 +41,7 @@ questions:
   text: Publication processes and technologies are fast changing, and an iterative
     approach to reviewing and improving publication will help ensure your published
     data continues to meet the needs of users, and drives policy impact. The [Beneficial
-    Ownership Data Standard](https://standard.openownership.org/en/v0-1/) will continue
+    Ownership Data Standard](https://standard.openownership.org/en/latest/) will continue
     to develop under an open standards development process, and the OpenOwnership
     [Helpdesk](mailto@support@openownership.org) will provide technical support with
     updates.

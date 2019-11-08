@@ -19,7 +19,7 @@ questions:
     owner(s) of the entity in question. However, the legal owner of an entity such
     as a company can be another company; in such cases the beneficial owner is the
     human being(s) who ultimately own or control the company. If you’d like to learn
-    more, our partner Open Data Services has created this [primer](http://standard.openownership.org/en/v0-1/primer/index.html)
+    more, our partner Open Data Services has created this [primer](http://standard.openownership.org/en/latest/primer/index.html)
     that introduces the key concepts of beneficial ownership."
 - title: Why beneficial ownership transparency matters?
   text: |-
@@ -61,7 +61,7 @@ questions:
 
     If you need additional support, please contact our team on [support@openownership.org](mailto:support@openownership.org).
 resource-text:
-- "[Primer](http://standard.openownership.org/en/v0-1/primer/index.html) outlining
+- "[Primer](http://standard.openownership.org/en/latest/primer/index.html) outlining
   what beneficial ownership transparency is"
 - 'Briefing: [The case for public beneficial ownership registers](https://www.openownership.org/uploads/the-case-for-public-beneficial-ownership.pdf)'
 - 'Briefing: [The case for beneficial ownership as open data](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf)'
