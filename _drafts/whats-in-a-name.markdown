@@ -4,7 +4,7 @@ date: 2019-11-07 20:26:00 Z
 tags:
 - open data
 - public good
-image: "/uploads/alexandre-godreau-7YlHU_ZPS34-unsplash.jpg"
+image: "/uploads/aurelie-tack-D2k_7YlRLTs-unsplash.jpg"
 description: Check out our guest blog from Sean Martin McDonald, tackling the questions
   of why the focus open ownership, and what those words really mean. McDonald is a
   CIGI senior fellow and the co-founder of Digital Public, which builds legal trusts
