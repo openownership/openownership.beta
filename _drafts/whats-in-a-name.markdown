@@ -30,7 +30,7 @@ First, the good news. OpenOwnership has helped governments in difficult places m
 And that, the need to steward data instead of just publish it, raises a number of issues. As it turns out, corruption isn’t the only nomenclature that’s gotten more complicated since OpenOwnership’s founding.
 
 **Ownership.**
-The bad news is that, for all the open data successes, OpenOwnership’s progress hasn’t happened in a vacuum. As recently observed by one of OpenOwnership’s founders, Chris Taggart, globalisation and automation make it increasingly easy to use company ownership to minimise liability and accountability. It’s literally what incorporation structures are for - managing value and risk distribution. Shell corporations are nothing new, or even necessarily bad - but technology has significantly increased the granularity, fluidity, and scale at which corporate ownership can be used to manipulate transparency, accountability, and liability. In other words, transparent corporate ownership data doesn’t necessarily achieve the goals that motivate beneficial ownership transparency.
+The bad news is that, for all the open data successes, OpenOwnership’s progress hasn’t happened in a vacuum. [As recently observed by one of OpenOwnership’s founders, Chris Taggart](https://medium.com/@opencorporates/fireflies-and-algorithms-the-coming-explosion-of-companies-9d53cdb8738f), globalisation and automation make it increasingly easy to use company ownership to minimise liability and accountability. It’s literally what incorporation structures are for - managing value and risk distribution. Shell corporations are nothing new, or even necessarily bad - but technology has significantly increased the granularity, fluidity, and scale at which corporate ownership can be used to manipulate transparency, accountability, and liability. In other words, transparent corporate ownership data doesn’t necessarily achieve the goals that motivate beneficial ownership transparency.
 
 Ownership of everything, including ownership of companies, as it digitises, becomes increasingly fluid and manipulable. Cambridge Analytica - besieged by bad press and regulatory response, shut down - and its principals have gone on to found EmerData, which does substantially the same thing. Apple is holding almost $186 billion USD offshore to manage its domestic tax liability - one of the largest examples of the kind of international asset management laid bare by projects like the Panama Papers. Whether the assets are digital or financial, profits or losses, sophisticated operators have figured out how to structure themselves to force a race to the bottom in nearly every type of ownership. It’s increasingly clear that ownership transparency is a critical aspect of building equitable markets and fair governments, but digitisation, globalisation, and automation raise serious questions around whether company ownership is the most important or effective point of intervention.
 
@@ -54,9 +54,9 @@ OpenOwnership, obviously, suggests a position on those issues - but what if it m
 
 This post poses more questions than it answers. To try and answers these questions and many others about data governance, Digital Public, in partnership with Duke’s Center for Law & Technology, Stanford’s Digital Civil Society Lab, and the Ostrom Workship, at Indiana University, are launching the Data Governance Research Network.
 
-In its first iteration, the Data Governance Research Network will place eight fellows in two types of organisations: 
+In its first iteration, the Data Governance Research Network will place eight fellows in two types of organisations:
 
-\(1) partner academic institutions, with an articulated interest in the field and commitment to performing research articulated in the agenda; and 
+\(1) partner academic institutions, with an articulated interest in the field and commitment to performing research articulated in the agenda; and
 
 \(2) practitioner organisations working on a the types of projects or transitions approached by the research agenda.
 
