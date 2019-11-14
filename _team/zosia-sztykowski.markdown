@@ -11,4 +11,4 @@ social:
   linkedin: https://www.linkedin.com/in/zosiasztykowski/
 ---
 
-Zosia leads the talented team you see here. She loves untangling complex problems, preferably with the help of a great soundtrack.
+After driving the project for its first two years, Zosia now provides invaluable support to the team as a consultant.
