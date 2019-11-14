@@ -3,7 +3,7 @@ title: Zosia Sztykowski
 categories:
 - project-team
 position: 0
-job-title: Head of Policy
+job-title: Consultant
 image: "/uploads/zosia-sztykowski.jpg"
 email: zosia@openownership.org
 social:
