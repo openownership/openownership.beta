@@ -2,7 +2,7 @@
 title: Claire Reichenbach
 categories:
 - project-team
-position: 6
+position: 4
 job-title: Operations Manager
 image: "/uploads/claire-reichenbach-rev.jpg"
 email: claire@openownership.org

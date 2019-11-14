@@ -2,8 +2,8 @@
 title: Zosia Sztykowski
 categories:
 - project-team
-position: 0
-job-title: Head of Policy
+position: 5
+job-title: Consultant
 image: "/uploads/zosia-sztykowski.jpg"
 email: zosia@openownership.org
 social:
@@ -11,4 +11,4 @@ social:
   linkedin: https://www.linkedin.com/in/zosiasztykowski/
 ---
 
-Zosia leads the talented team you see here. She loves untangling complex problems, preferably with the help of a great soundtrack.
+After driving the project for its first two years, Zosia now provides invaluable support to the team as a consultant.
