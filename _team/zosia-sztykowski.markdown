@@ -2,7 +2,7 @@
 title: Zosia Sztykowski
 categories:
 - project-team
-position: 0
+position: 5
 job-title: Consultant
 image: "/uploads/zosia-sztykowski.jpg"
 email: zosia@openownership.org
