@@ -8,7 +8,7 @@ image: "/uploads/joanna-kosinska-1_CMoFsPfso-unsplash.jpg"
 description: 'Tender opportunity: technical research on the collection, processing
   and use of beneficial ownership data in the private sector'
 author: Louise Russell-Prywata
-layout: news
+layout: post
 ---
 
 As OpenOwnership expands it’s Global Register of Beneficial Ownership, we want to better understand in detail the users and use cases of beneficial ownership data (used under any licence open or otherwise) in the private sector, building up a clear understanding of the workflow and lifecycle of information related to ultimate beneficial owners of companies. This research is will support us to better understand the incentives and disincentives for adopting common standards around beneficial ownership data collection and use, and raise our knowledge of the value of this data within the private sector.
@@ -74,6 +74,11 @@ To research and present a small number of end to end use cases of BO data across
 **Budget**
 
 **Total budget £30,000 (GBP) for the completion of all tasks**
+
+**Timeline and Logistics**
+
+We are keen to move quickly to appoint a supplier to this work so would welcome initial **expressions of interest in undertaking the work by the 30th November**. This should, on no more than two pages outline your interpretation of the brief, what additional things you would add and give an outline of your experience. Please use an annex for any CV’s and relevant statements or evidence of experience. Please contact
+[thom@openownership.org](mailto:thom@openownership.org) to discuss this work. Please note, we will publish any questions asked (suitably anonymised) along with our response.
 
 The full brief can be downloaded [here](https://manage.siteleaf.com/api/v2/sites/5bc605d567a1fe473577e112/source/_uploads/20190810PrivateSectorBO_DataUse%20(1).pdf?download)
 
