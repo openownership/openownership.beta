@@ -7,6 +7,7 @@ tags:
 description: 'Tender opportunity: technical research on the collection, processing
   and use of beneficial ownership data in the private sector'
 author: Louise Russell-Prywata
+layout: news
 ---
 
 **Brief**
