@@ -76,5 +76,5 @@ To research and present a small number of end to end use cases of BO data across
 
 **Total budget £30,000 (GBP) for the completion of all tasks**
 
-\
+
 The full brief can be downloaded [here.](http:///uploads/20190810PrivateSectorBO_DataUse%20(1).pdf)
