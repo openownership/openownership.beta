@@ -80,6 +80,6 @@ To research and present a small number of end to end use cases of BO data across
 We are keen to move quickly to appoint a supplier to this work so would welcome initial **expressions of interest in undertaking the work by the 30th November**. This should, on no more than two pages outline your interpretation of the brief, what additional things you would add and give an outline of your experience. Please use an annex for any CV’s and relevant statements or evidence of experience. Please contact
 [thom@openownership.org](mailto:thom@openownership.org) to discuss this work. Please note, we will publish any questions asked (suitably anonymised) along with our response.
 
-The full brief can be downloaded [here](https://manage.siteleaf.com/api/v2/sites/5bc605d567a1fe473577e112/source/_uploads/20190810PrivateSectorBO_DataUse%20(1).pdf?download)
+The full brief can be downloaded [here](http:///openownership.org/uploads/20190810PrivateSectorBO_DataUse%20(1).pdf)
 
 Photo by[Joanna Kosinska](https://unsplash.com/@joannakosinska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on[Unsplash](https://unsplash.com/s/photos/work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
