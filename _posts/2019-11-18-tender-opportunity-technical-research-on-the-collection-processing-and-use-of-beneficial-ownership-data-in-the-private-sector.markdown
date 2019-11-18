@@ -15,7 +15,7 @@ As OpenOwnership expands it’s Global Register of Beneficial Ownership, we want
 
 The end product should be an indicative ‘data map’ of use cases in two categories of private sector entities: industries closely regulated for compliance with AML legislation and those industries that are not. We would anticipate a focus on at least one bank and one multinational company trading in more than ten jurisdictions worldwide. A focus on US and UK headquartered companies would be a good starting point.  A rapid definition of scope at the beginning of the project would be welcome and we are open-minded on which precise businesses should be included.
 
-The data map should include, but not be limited to, a technical specification of systems and tools used for collecting, processing and managing Beneficial Ownership data and an overview of the policy and workflow related to the use of this data. This could include clarity on questions such as;\\
+The data map should include, but not be limited to, a technical specification of systems and tools used for collecting, processing and managing Beneficial Ownership data and an overview of the policy and workflow related to the use of this data. This could include clarity on questions such as;
 
 * How is the data ingested?
 
@@ -80,6 +80,6 @@ To research and present a small number of end to end use cases of BO data across
 We are keen to move quickly to appoint a supplier to this work so would welcome initial **expressions of interest in undertaking the work by the 30th November**. This should, on no more than two pages outline your interpretation of the brief, what additional things you would add and give an outline of your experience. Please use an annex for any CV’s and relevant statements or evidence of experience. Please contact
 [thom@openownership.org](mailto:thom@openownership.org) to discuss this work. Please note, we will publish any questions asked (suitably anonymised) along with our response.
 
-The full brief can be downloaded [here](https://manage.siteleaf.com/api/v2/sites/5bc605d567a1fe473577e112/source/_uploads/20190810PrivateSectorBO_DataUse%20(1).pdf?download)
+The full brief can be downloaded [here](http:///openownership.org/uploads/20190810PrivateSectorBO_DataUse%20(1).pdf)
 
 Photo by[Joanna Kosinska](https://unsplash.com/@joannakosinska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on[Unsplash](https://unsplash.com/s/photos/work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
