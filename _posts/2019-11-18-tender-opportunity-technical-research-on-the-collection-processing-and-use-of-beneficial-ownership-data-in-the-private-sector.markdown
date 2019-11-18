@@ -15,7 +15,7 @@ As OpenOwnership expands it’s Global Register of Beneficial Ownership, we want
 
 The end product should be an indicative ‘data map’ of use cases in two categories of private sector entities: industries closely regulated for compliance with AML legislation and those industries that are not. We would anticipate a focus on at least one bank and one multinational company trading in more than ten jurisdictions worldwide. A focus on US and UK headquartered companies would be a good starting point.  A rapid definition of scope at the beginning of the project would be welcome and we are open-minded on which precise businesses should be included.
 
-The data map should include, but not be limited to, a technical specification of systems and tools used for collecting, processing and managing Beneficial Ownership data and an overview of the policy and workflow related to the use of this data. This could include clarity on questions such as;\\
+The data map should include, but not be limited to, a technical specification of systems and tools used for collecting, processing and managing Beneficial Ownership data and an overview of the policy and workflow related to the use of this data. This could include clarity on questions such as;
 
 * How is the data ingested?
 
