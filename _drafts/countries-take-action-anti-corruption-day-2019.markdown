@@ -11,13 +11,13 @@ author: Victor Ponsford
 
 To mark International Anti-Corruption Day (December 9th), we are taking action with our partners to call time on the use of anonymous company ownership facilitating corruption and societal harms like trafficking and modern slavery. In collaboration with Open Government Partnership, the UK Government and World Bank, we are launching a day of action including two events to advance the shift towards beneficial ownership transparency around the world.
 
-**Anti-corruption day actions:** 
+## Anti-corruption day actions
 
-Action 1: A high level panel event will be taking place at the World Bank HQ on December 9th showcasing support for activity and discussing the key policy opportunities and the importance of beneficial ownership transparency for the global anti-poverty agenda. This event will be live streamed, open to the public and we encourage you to write questions in advance. 
+**Action 1**: A high level panel event will be taking place at the World Bank HQ on December 9th showcasing support for activity and discussing the key policy opportunities and the importance of beneficial ownership transparency for the global anti-poverty agenda. This event will be live streamed, open to the public and we encourage you to write questions in advance. 
 
-Moderator: Thom Townsend, Executive Director, Open Ownership
+**Moderator**: Thom Townsend, Executive Director, Open Ownership
 
-Speakers: 
+**Speakers**: 
 
 * Alex Cobham, Tax Justice Network 
 * David Szakonyi, George Washington University
@@ -25,7 +25,7 @@ Speakers:
 
 More information can be found online here: [https://live.worldbank.org/ending-shell-game](https://live.worldbank.org/ending-shell-game) 
 
-Action 2: We are formally inviting countries to join the Beneficial Ownership Leadership Group, which has been developed by the UK Government with support from OpenOwnership and Open Government Partnership. 
+**Action 2**: We are formally inviting countries to join the Beneficial Ownership Leadership Group, which has been developed by the UK Government with support from OpenOwnership and Open Government Partnership. 
 
 By joining the Beneficial Ownership Leadership Group each country will be signing up to a set of best practice disclosure principles dedicated to:
 
