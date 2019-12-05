@@ -6,7 +6,7 @@ description: To mark International Anti-Corruption Day (December 9th), we are ta
   action, in collaboration with Open Government Partnership, the UK Government and
   World Bank, to call time on the use of anonymous company ownership facilitating
   corruption and societal harms like trafficking and modern slavery.
-author: Victor Ponsford
+author: OpenOwnership
 ---
 
 To mark International Anti-Corruption Day (December 9th), we are taking action with our partners to call time on the use of anonymous company ownership facilitating corruption and societal harms like trafficking and modern slavery. In collaboration with Open Government Partnership, the UK Government and World Bank, we are launching a day of action including two events to advance the shift towards beneficial ownership transparency around the world.
