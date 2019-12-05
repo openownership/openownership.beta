@@ -7,7 +7,7 @@
 		"uuidString": "EDB44E38-DB9B-408C-B9C2-C572FB45B1A6"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "31934",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -132,6 +132,14 @@
 		"oAP": "/_authors/madeleine-mccarroll.markdown",
 		"oF": 0
 		},
+	"/_authors/openownership.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_authors/openownership.markdown",
+		"oF": 0
+		},
 	"/_authors/the-b-team-leaders.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -146,6 +154,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_authors/tim-davies.markdown",
+		"oF": 0
+		},
+	"/_authors/victor-ponsford.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_authors/victor-ponsford.markdown",
 		"oF": 0
 		},
 	"/_authors/zosia-sztykowski-and-chris-taggart.markdown": {
@@ -828,6 +844,126 @@
 		"oAP": "/_posts/2019-05-30-new-at-the-ogp-summit-openownership-and-uk-government-launch-a-major-collective-action-platform-and-we-scale-up-our-help-for-implementers.markdown",
 		"oF": 0
 		},
+	"/_posts/2019-06-12-in-case-you-missed-it.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-06-12-in-case-you-missed-it.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-06-13-who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-06-13-who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-06-17-what-we-learned-at-the-ogp-summit-2019.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-06-17-what-we-learned-at-the-ogp-summit-2019.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-07-30-what-graph-visualisation-teaches-us-about-beneficial-ownership.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-07-30-what-graph-visualisation-teaches-us-about-beneficial-ownership.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-08-01-from-the-why-to-the-how-working-with-eiti.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-08-01-from-the-why-to-the-how-working-with-eiti.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-08-14-our-direction-of-travel.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-08-14-our-direction-of-travel.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-09-03-graph-visualisation-is-providing-insights-for-policy-makers-and-implementers.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-09-03-graph-visualisation-is-providing-insights-for-policy-makers-and-implementers.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-09-10-accelerating-implementation-scaling-our-country-support.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-09-10-accelerating-implementation-scaling-our-country-support.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-10-30-armenia-signs-mou-with-openownership.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-10-30-armenia-signs-mou-with-openownership.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-11-08-whats-in-a-name.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-11-08-whats-in-a-name.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-11-18-tender-opportunity-technical-research-on-the-collection-processing-and-use-of-beneficial-ownership-data-in-the-private-sector.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-11-18-tender-opportunity-technical-research-on-the-collection-processing-and-use-of-beneficial-ownership-data-in-the-private-sector.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-12-04-countries-take-action-anti-corruption-day-2019.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-12-04-countries-take-action-anti-corruption-day-2019.markdown",
+		"oF": 0
+		},
+	"/_posts/news/2019-08-28-join-openownership.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/news/2019-08-28-join-openownership.markdown",
+		"oF": 0
+		},
+	"/_resources/a-summary-guide-to-implementing-beneficial-ownership-transparency.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/a-summary-guide-to-implementing-beneficial-ownership-transparency.markdown",
+		"oF": 0
+		},
+	"/_resources/beneficial-ownership-policy-reviewer.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/beneficial-ownership-policy-reviewer.markdown",
+		"oF": 0
+		},
 	"/_resources/BODS-tools-presentation.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -866,6 +1002,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_resources/disclosure-principles-for-beneficial-ownership-leadership-group.markdown",
+		"oF": 0
+		},
+	"/_resources/example-paper-forms-for-collecting-beneficial-ownership-data.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/example-paper-forms-for-collecting-beneficial-ownership-data.markdown",
+		"oF": 0
+		},
+	"/_resources/five-characteristics-of-effective-beneficial-ownership-data.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/five-characteristics-of-effective-beneficial-ownership-data.markdown",
 		"oF": 0
 		},
 	"/_resources/IACC-privacy-data-protection.markdown": {
@@ -924,6 +1076,14 @@
 		"oAP": "/_resources/privacy-or-public-interest-making-the-case-for-public-information-on-company-ownership.markdown",
 		"oF": 0
 		},
+	"/_resources/privatsphare-oder-offentliches-interesse-ein-pladoyer-fur-offntliche-informationen-zu-wirtschaftlichen-eigentumern.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/privatsphare-oder-offentliches-interesse-ein-pladoyer-fur-offntliche-informationen-zu-wirtschaftlichen-eigentumern.markdown",
+		"oF": 0
+		},
 	"/_resources/the-beneficial-ownership-transparency-network.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -946,6 +1106,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_resources/vniedrieniie-printsipov-prozrachnosti-bieniefitsiarnoi-sobstviennosti-v-dobyvaiushchikh-otrasliakh-kyrghyzskoi-riespubliki-priedvaritielnyie-vyvody-i-riekomiendatsii.markdown",
+		"oF": 0
+		},
+	"/_resources/what-we-really-mean-when-we-talk-about-verification.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/what-we-really-mean-when-we-talk-about-verification.markdown",
 		"oF": 0
 		},
 	"/_site": {
@@ -986,14 +1154,6 @@
 		"oAP": "/_team/laurence-bascle.markdown",
 		"oF": 0
 		},
-	"/_team/loren-treisman.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_team/loren-treisman.markdown",
-		"oF": 0
-		},
 	"/_team/louise-russell-prywata.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1018,6 +1178,14 @@
 		"oAP": "/_team/steve-day.markdown",
 		"oF": 0
 		},
+	"/_team/thom-townsend.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/thom-townsend.markdown",
+		"oF": 0
+		},
 	"/_team/zosia-sztykowski.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1025,6 +1193,47 @@
 		"oA": 2,
 		"oAP": "/_team/zosia-sztykowski.markdown",
 		"oF": 0
+		},
+	"/_uploads/20190810PrivateSectorBO_DataUse (1).pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/20190810PrivateSectorBO_DataUse (1).pdf",
+		"oF": 0
+		},
+	"/_uploads/ACD blog image.png": {
+		"ft": 32768,
+		"iS": 188932,
+		"oA": 0,
+		"oAP": "/_uploads/ACD blog image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/ACD blog large 1440x810.png": {
+		"ft": 32768,
+		"iS": 180762,
+		"oA": 0,
+		"oAP": "/_uploads/ACD blog large 1440x810.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/aurelie-tack-D2k_7YlRLTs-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 6363936,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/aurelie-tack-D2k_7YlRLTs-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"/_uploads/BOT-network-support-tools-for-implementation.jpg": {
 		"ft": 16384,
@@ -1064,6 +1273,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/Characteristics Image.jpg": {
+		"ft": 16384,
+		"iS": 54837,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Characteristics Image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/claire-reichenbach-rev.jpg": {
 		"ft": 16384,
 		"iS": 1523113,
@@ -1075,6 +1295,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/clark-tibbs-oqStl2L5oxI-unsplash-df43c5.jpg": {
+		"ft": 16384,
+		"iS": 307474,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/clark-tibbs-oqStl2L5oxI-unsplash-df43c5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/clark-tibbs-oqStl2L5oxI-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 307474,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/clark-tibbs-oqStl2L5oxI-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_uploads/coming-soon.jpg": {
 		"ft": 16384,
 		"iS": 312466,
@@ -1084,6 +1326,50 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/congostate cropped.png": {
+		"ft": 32768,
+		"iS": 493454,
+		"oA": 0,
+		"oAP": "/_uploads/congostate cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/congostate cropped1.png": {
+		"ft": 32768,
+		"iS": 457926,
+		"oA": 0,
+		"oAP": "/_uploads/congostate cropped1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/congostate cropped2.png": {
+		"ft": 32768,
+		"iS": 364929,
+		"oA": 0,
+		"oAP": "/_uploads/congostate cropped2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/congostate.png": {
+		"ft": 32768,
+		"iS": 493454,
+		"oA": 0,
+		"oAP": "/_uploads/congostate.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/Cover.JPG": {
@@ -1108,6 +1394,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/Data Protection & Privacy Image.JPG": {
+		"ft": 16384,
+		"iS": 38985,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Data Protection & Privacy Image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/data-process.png": {
 		"ft": 32768,
 		"iS": 178491,
@@ -1117,6 +1414,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/data-spectrum-rev.jpg": {
+		"ft": 16384,
+		"iS": 229064,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/data-spectrum-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/data-spectrum.png": {
@@ -1171,6 +1479,28 @@
 		"oAP": "/_uploads/Disclosure Principles for BOT - March 2019 (1).docx",
 		"oF": 0
 		},
+	"/_uploads/EICcuoNXYAAqwNE.jpg": {
+		"ft": 16384,
+		"iS": 150882,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/EICcuoNXYAAqwNE.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/fabrizio-verrecchia-448425-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1040423,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/fabrizio-verrecchia-448425-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/faqs.jpg": {
 		"ft": 16384,
 		"iS": 94144,
@@ -1180,6 +1510,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/FB-WBG-Anticorruption-Postcard.png": {
+		"ft": 32768,
+		"iS": 994151,
+		"oA": 0,
+		"oAP": "/_uploads/FB-WBG-Anticorruption-Postcard.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/first-steps.jpg": {
@@ -1206,7 +1547,7 @@
 		},
 	"/_uploads/francesca-baker.jpg": {
 		"ft": 16384,
-		"iS": 1201679,
+		"iS": 1206010,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/francesca-baker.jpg",
@@ -1288,6 +1629,83 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/image1.png": {
+		"ft": 32768,
+		"iS": 407736,
+		"oA": 0,
+		"oAP": "/_uploads/image1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/image2.png": {
+		"ft": 32768,
+		"iS": 189398,
+		"oA": 0,
+		"oAP": "/_uploads/image2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/image3.jpg": {
+		"ft": 16384,
+		"iS": 738619,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/image3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/IMGP1652-80b1e9.jpg": {
+		"ft": 16384,
+		"iS": 2144529,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/IMGP1652-80b1e9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/IMGP1652-small copy.jpg": {
+		"ft": 16384,
+		"iS": 1628298,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/IMGP1652-small copy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/IMGP1652.jpg": {
+		"ft": 16384,
+		"iS": 2140997,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/IMGP1652.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/IMGP1654.JPG": {
+		"ft": 16384,
+		"iS": 3183425,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/IMGP1654.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -1304,7 +1722,7 @@
 		"oAP": "/_uploads/improving-ukraine-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/intro copy.jpg": {
@@ -1359,6 +1777,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/joanna-kosinska-1_CMoFsPfso-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 3167418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/joanna-kosinska-1_CMoFsPfso-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/join-openownership.jpg": {
+		"ft": 16384,
+		"iS": 181360,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/join-openownership.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_uploads/join-us.jpg": {
 		"ft": 16384,
 		"iS": 480632,
@@ -1398,6 +1838,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/kiev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/kurt-cotoaga-cqbLg3lZEpk-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1087773,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kurt-cotoaga-cqbLg3lZEpk-unsplash.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1466,7 +1917,7 @@
 		"oAP": "/_uploads/learning-lessons-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/learning-the-lessons.pdf": {
@@ -1477,6 +1928,17 @@
 		"oAP": "/_uploads/learning-the-lessons.pdf",
 		"oF": 0
 		},
+	"/_uploads/legal-spectrum-rev.jpg": {
+		"ft": 16384,
+		"iS": 247340,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/legal-spectrum-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_uploads/legal-spectrum.jpg": {
 		"ft": 16384,
 		"iS": 246647,
@@ -1485,7 +1947,7 @@
 		"oAP": "/_uploads/legal-spectrum.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/library.jpg": {
@@ -1499,12 +1961,45 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/loren-treisman.jpg": {
+		"ft": 16384,
+		"iS": 284679,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/loren-treisman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/louise.jpg": {
 		"ft": 16384,
 		"iS": 91889,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/maersk dk.png": {
+		"ft": 32768,
+		"iS": 250518,
+		"oA": 0,
+		"oAP": "/_uploads/maersk dk.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/markus-spiske-666905-unsplash Privacy photo.jpg": {
+		"ft": 16384,
+		"iS": 5868877,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/markus-spiske-666905-unsplash Privacy photo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1570,7 +2065,29 @@
 		"oAP": "/_uploads/mollie-hanley.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/nasa-whDrFMucHkc-unsplash-0c469a.jpg": {
+		"ft": 16384,
+		"iS": 819239,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/nasa-whDrFMucHkc-unsplash-0c469a.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/nasa-whDrFMucHkc-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1110256,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/nasa-whDrFMucHkc-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/OGP.jpg": {
@@ -1579,6 +2096,39 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/OGP.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/omar-sotillo-franco-1325433-unsplash-83da4f.jpg": {
+		"ft": 16384,
+		"iS": 4464800,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/omar-sotillo-franco-1325433-unsplash-83da4f.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/omar-sotillo-franco-1325433-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 4464800,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/omar-sotillo-franco-1325433-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/oo-beneficial-ownership-policy-reviewer-image.JPG": {
+		"ft": 16384,
+		"iS": 80440,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/oo-beneficial-ownership-policy-reviewer-image.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1600,12 +2150,28 @@
 		"oAP": "/_uploads/oo-bo-information-flow-and-systems.pdf",
 		"oF": 0
 		},
+	"/_uploads/oo-bo-policy-reviewer-interactive.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-bo-policy-reviewer-interactive.pdf",
+		"oF": 0
+		},
 	"/_uploads/oo-characteristics-effective-bo-data.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_uploads/oo-characteristics-effective-bo-data.pdf",
+		"oF": 0
+		},
+	"/_uploads/oo-data-protection-and-privacy (Print).pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-data-protection-and-privacy (Print).pdf",
 		"oF": 0
 		},
 	"/_uploads/oo-data-protection-and-privacy-188205.pdf": {
@@ -1624,6 +2190,17 @@
 		"oAP": "/_uploads/oo-data-protection-and-privacy.pdf",
 		"oF": 0
 		},
+	"/_uploads/oo-disclosure-principles-image.JPG": {
+		"ft": 16384,
+		"iS": 97094,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/oo-disclosure-principles-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/oo-disclosure-principles.pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -1632,12 +2209,77 @@
 		"oAP": "/_uploads/oo-disclosure-principles.pdf",
 		"oF": 0
 		},
+	"/_uploads/oo-example-paper-forms-329df2.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-example-paper-forms-329df2.pdf",
+		"oF": 0
+		},
+	"/_uploads/oo-example-paper-forms-image.JPG": {
+		"ft": 16384,
+		"iS": 73152,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/oo-example-paper-forms-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/oo-example-paper-forms.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_uploads/oo-example-paper-forms.pdf",
+		"oF": 0
+		},
+	"/_uploads/oo-implementation-guide-booklet-68508a.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-implementation-guide-booklet-68508a.pdf",
+		"oF": 0
+		},
+	"/_uploads/oo-implementation-guide-booklet.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-implementation-guide-booklet.pdf",
+		"oF": 0
+		},
+	"/_uploads/oo-implementation-guide-image.JPG": {
+		"ft": 16384,
+		"iS": 48464,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/oo-implementation-guide-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/oo-verification-image.JPG": {
+		"ft": 16384,
+		"iS": 102514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/oo-verification-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/oo-verification-presentation.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/oo-verification-presentation.pdf",
 		"oF": 0
 		},
 	"/_uploads/open-data-doc.jpg": {
@@ -1648,7 +2290,34 @@
 		"oAP": "/_uploads/open-data-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/Open-Ownership_Identity_1.1.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Open-Ownership_Identity_1.1.pdf",
+		"oF": 0
+		},
+	"/_uploads/OpenOwnership Privacy Report Summary German.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/OpenOwnership Privacy Report Summary German.pdf",
+		"oF": 0
+		},
+	"/_uploads/OpenOwnership technical meeting.png": {
+		"ft": 32768,
+		"iS": 1231703,
+		"oA": 0,
+		"oAP": "/_uploads/OpenOwnership technical meeting.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/opo-kyrgyz-republic-scoping-report-russian.jpg": {
@@ -1708,12 +2377,45 @@
 		"oAP": "/_uploads/OPO-Ukraine-Report.pdf",
 		"oF": 0
 		},
+	"/_uploads/Photo Extractive-d11722.jpg": {
+		"ft": 16384,
+		"iS": 373286,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Photo Extractive-d11722.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/Photo Extractive.jpg": {
+		"ft": 16384,
+		"iS": 311194,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Photo Extractive.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_uploads/Photo for Huff Post privacy blog.jpg": {
 		"ft": 16384,
 		"iS": 3035327,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/Photo for Huff Post privacy blog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/Photo Thom blogb.jpg": {
+		"ft": 16384,
+		"iS": 1542099,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/Photo Thom blogb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1784,6 +2486,17 @@
 		"oAP": "/_uploads/privacy-report-summary.pdf",
 		"oF": 0
 		},
+	"/_uploads/Privacy-summary-german.png": {
+		"ft": 32768,
+		"iS": 722929,
+		"oA": 0,
+		"oAP": "/_uploads/Privacy-summary-german.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/privacy-summary.JPG": {
 		"ft": 16384,
 		"iS": 76074,
@@ -1814,7 +2527,7 @@
 		"oAP": "/_uploads/publish-spectrum-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/publish-spectrum.png": {
@@ -1847,7 +2560,18 @@
 		"oAP": "/_uploads/resource-introducing.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/scaling-country-support.jpeg": {
+		"ft": 16384,
+		"iS": 2331041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/scaling-country-support.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/simon-whitehouse.jpg": {
@@ -1880,17 +2604,17 @@
 		"oAP": "/_uploads/spectrum.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/spectrum.png": {
 		"ft": 32768,
-		"iS": 2313615,
+		"iS": 874017,
 		"oA": 0,
 		"oAP": "/_uploads/spectrum.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1923,7 +2647,7 @@
 		"oAP": "/_uploads/the-case-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/the-case-for-public-beneficial-ownership.pdf": {
@@ -1936,7 +2660,7 @@
 		},
 	"/_uploads/thom-townsend.jpg": {
 		"ft": 16384,
-		"iS": 742274,
+		"iS": 1510402,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/thom-townsend.jpg",
@@ -2022,6 +2746,14 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/Verification presentation.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Verification presentation.pdf",
+		"oF": 0
+		},
 	"/_uploads/verification.jpg": {
 		"ft": 16384,
 		"iS": 269631,
@@ -2041,7 +2773,7 @@
 		"oAP": "/_uploads/what-we-mean-doc.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_uploads/what-we-mean-when-we-talk-about-verifcation.pdf": {
@@ -2162,7 +2894,7 @@
 		},
 	"/assets/favicons/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 2570,
+		"iS": 1421,
 		"oA": 0,
 		"oAP": "/assets/favicons/android-chrome-192x192.png",
 		"oF": 0,
@@ -2173,7 +2905,7 @@
 		},
 	"/assets/favicons/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 7421,
+		"iS": 2980,
 		"oA": 0,
 		"oAP": "/assets/favicons/android-chrome-512x512.png",
 		"oF": 0,
@@ -2184,7 +2916,7 @@
 		},
 	"/assets/favicons/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 1211,
+		"iS": 1297,
 		"oA": 0,
 		"oAP": "/assets/favicons/apple-touch-icon.png",
 		"oF": 0,
@@ -2203,7 +2935,7 @@
 		},
 	"/assets/favicons/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 546,
+		"iS": 808,
 		"oA": 0,
 		"oAP": "/assets/favicons/favicon-16x16.png",
 		"oF": 0,
@@ -2214,7 +2946,7 @@
 		},
 	"/assets/favicons/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 664,
+		"iS": 975,
 		"oA": 0,
 		"oAP": "/assets/favicons/favicon-32x32.png",
 		"oF": 0,
@@ -2237,14 +2969,14 @@
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
 	"/assets/favicons/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 1678,
+		"iS": 1916,
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-150x150.png",
 		"oF": 0,
@@ -2255,7 +2987,7 @@
 		},
 	"/assets/favicons/mstile-310x150.png": {
 		"ft": 32768,
-		"iS": 2033,
+		"iS": 2098,
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-310x150.png",
 		"oF": 0,
@@ -2266,7 +2998,7 @@
 		},
 	"/assets/favicons/mstile-310x310.png": {
 		"ft": 32768,
-		"iS": 3939,
+		"iS": 3476,
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-310x310.png",
 		"oF": 0,
@@ -2281,8 +3013,8 @@
 		"oA": 0,
 		"oAP": "/assets/favicons/mstile-70x70.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2446,7 +3178,7 @@
 		},
 	"/assets/img/og-image.png": {
 		"ft": 32768,
-		"iS": 21590,
+		"iS": 45664,
 		"oA": 0,
 		"oAP": "/assets/img/og-image.png",
 		"oF": 0,
@@ -2482,7 +3214,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/assets/js/min/min/app-min-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -2626,7 +3358,7 @@
 		"uL": 1
 		},
 	"/assets/scss/app.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -2635,7 +3367,7 @@
 		"oA": 0,
 		"oAP": "/assets/css/app.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 0,
 		"uL": 1
 		},
 	"/assets/scss/hamburgers/_base.scss": {
@@ -10716,6 +11448,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/jobs.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/jobs.markdown",
+		"oF": 0
+		},
 	"/news.md": {
 		"cB": 0,
 		"cS": 0,
@@ -10734,6 +11474,12 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "/build/node_modules",
+		"oF": 0
 		},
 	"/package.json": {
 		"ft": 524288,
@@ -10888,10 +11634,12 @@
 	"displayValue": "OpenOwnership",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/assets/favicons/apple-touch-icon.png",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 597156589.11411095
 	},
 "projectSettings": {
-	"abortBuildOnError": 1,
+	"abortBuildOnError": 0,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -10903,6 +11651,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -11042,6 +11791,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -11073,6 +11825,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -11167,11 +11922,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -11316,6 +12070,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -11417,6 +12172,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -11766,6 +12525,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -12176,6 +12939,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -12187,6 +12954,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -12796,7 +13567,6 @@
 		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -12929,8 +13699,16 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules, /_site",
 	"sourceFolderName": "source",
 	"susyVersion": 3,

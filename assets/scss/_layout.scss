@@ -25,7 +25,7 @@
   a {
     color: $link;
     &:hover {
-      color: $hover;   
+      color: $hover;
     }
   }
 }
@@ -150,7 +150,7 @@ p {
     border-bottom: 1px solid get-color(primary);
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
-      border-bottom: 1px solid transparent;   
+      border-bottom: 1px solid transparent;
     }
   }
 }
@@ -199,18 +199,9 @@ p {
 .header__navigation {
   a {
     border-bottom: 2px solid transparent;
-    color: $medium-gray;
+    color: $light-gray;
     &:hover {
-      color: $white; 
-    }
-  }
-}
-
-.header__navigation .external {
-  a {
-    color: $green;
-    &:hover {
-      color: $white;   
+      color: $white;
     }
   }
 }
@@ -221,7 +212,7 @@ p {
   a {
     color: $white;
     &:hover {
-      color: $primary-color;   
+      color: $primary-color;
     }
   }
 }
@@ -240,7 +231,7 @@ p {
 .image--feature {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: top right;
   min-height: 25vh;
 }
 
@@ -276,7 +267,7 @@ p {
   a {
     color: $green;
     &:hover {
-      color: $white;   
+      color: $white;
     }
   }
 }
@@ -285,17 +276,46 @@ p {
   font-size: 1.5rem;
 }
 
+.home__key_facts {
+  // Calculated to be the same as with other sections on the homepage, but
+  // accounting for the existing top padding on the cells within
+  @include padding(0.5, 1.5, 1.5, 1.5);
+  @include breakpoint(medium) {
+    @include padding(2, 3, 3, 3);
+  }
+}
+
+.home__key_fact {
+  @extend .h5;
+  @extend .sans-regular;
+  padding-top: 0;
+}
+
+.home__key_fact__stat {
+  display: block;
+  margin-bottom: 1rem;
+  width: auto;
+}
+
+.home__key_fact__stat__inner {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  font-family: $serif-headline;
+  padding-bottom: 0.5rem;
+  border-bottom: 4px solid $primary-color;
+}
+
 .home__description__left {
   @include padding(1.5, 1.5, 1.5, 1.5);
   @include breakpoint(medium) {
-  @include padding(3, 3, 3, 3);
+    @include padding(3, 3, 3, 3);
   }
 }
 
 .home__why {
   @include padding(1.5, 0, 1.5, 0);
   @include breakpoint(medium) {
-  @include padding(3, 3, 3, 3);
+    @include padding(3, 3, 3, 3);
   }
 }
 
@@ -346,6 +366,10 @@ footer .menu a, footer .menu .menu-text {
   padding: 0.5rem 1rem 0.5rem 0rem;
 }
 
+footer .icon {
+  font-size: 4rem;
+}
+
 .team__members {
   @include links ($medium-gray, $primary-color);
 }
@@ -355,7 +379,7 @@ footer .menu a, footer .menu .menu-text {
 }
 
 .external a svg {
-  transition: transform 0.25s; 
+  transition: transform 0.25s;
 }
 
 .external a:hover svg {
@@ -408,14 +432,14 @@ width: 100%;
 
 .image {
   @include aspect-ratio (16, 9);
-  background-size: cover; 
+  background-size: cover;
   background-position: 50%;
   background-color: $light-gray;
 }
 
 .image--square {
   @include aspect-ratio (1, 1);
-  background-size: cover; 
+  background-size: cover;
   background-position: 50%;
   background-color: $light-gray;
 }
@@ -469,7 +493,7 @@ $publish: #1BB0A7;
     border-bottom: 1px solid $primary-color;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
-      border-bottom: 1px solid transparent;   
+      border-bottom: 1px solid transparent;
     }
     }
   }
@@ -492,7 +516,7 @@ $publish: #1BB0A7;
     border-bottom: 1px solid $consider;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
-      border-bottom: 1px solid transparent;   
+      border-bottom: 1px solid transparent;
     }
     }
   }
@@ -533,7 +557,7 @@ $publish: #1BB0A7;
     border-bottom: 1px solid $commit;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
-      border-bottom: 1px solid transparent;   
+      border-bottom: 1px solid transparent;
     }
     }
   }
@@ -574,7 +598,7 @@ $publish: #1BB0A7;
     border-bottom: 1px solid $legal;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
-      border-bottom: 1px solid transparent;   
+      border-bottom: 1px solid transparent;
     }
     }
   }
@@ -615,7 +639,7 @@ $publish: #1BB0A7;
     border-bottom: 1px solid $systems;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
-      border-bottom: 1px solid transparent;   
+      border-bottom: 1px solid transparent;
     }
     }
   }
@@ -656,7 +680,7 @@ $publish: #1BB0A7;
     border-bottom: 1px solid $data;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
-      border-bottom: 1px solid transparent;   
+      border-bottom: 1px solid transparent;
     }
     }
   }
@@ -697,7 +721,7 @@ $publish: #1BB0A7;
     border-bottom: 1px solid $publish;
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
     &:hover {
-      border-bottom: 1px solid transparent;   
+      border-bottom: 1px solid transparent;
     }
     }
   }
@@ -788,7 +812,7 @@ padding-top: 3rem;
   transition: all .35s cubic-bezier(.39, .575, .565, 1);
 }
 .hexagon:hover {
-  fill: #f4f7f8; 
+  fill: #f4f7f8;
   fill-opacity:0.6;
 }
 
