@@ -5,7 +5,7 @@ description: Our mission is to make knowledge about who owns & controls companie
   open and impactful. We do this through the Beneficial Ownership Register and Beneficial
   Ownership Data Standard.
 image: "/assets/img/og-image.png"
-header: Driving the global shift towards transparency over who owns and controls companies
+header: Ending anonymous company ownership
 intro-text: |-
   Anonymous shell companies enable corruption, fraud, organised crime and tax evasion. The wider the access to high quality data on who owns what, the harder it will be for corrupt individuals to hide.
 
