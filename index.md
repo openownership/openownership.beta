@@ -12,7 +12,8 @@ key-fact-2-stat: 50+ countries
 key-fact-2-text: committed to disclosing beneficial ownership.
 key-fact-3-stat: 7 million
 key-fact-3-text: beneficial owners from 170 jurisdictions in the global register.
-key-fact-4: To date, over USD 1 billion has been recovered by governments using beneficial ownership data.
+key-fact-4: To date, over USD 1 billion has been recovered by governments using beneficial
+  ownership data.
 intro-text: |-
   To mark International Anti-Corruption Day (December 9th), we are taking action with our partners to call time on the use of anonymous company ownership facilitating corruption and societal harms like trafficking and modern slavery.
 
@@ -29,7 +30,6 @@ why-text: |-
   Beneficial ownership data answers the fundamental question in any anti-corruption investigation: who benefits.
 
   In an age when trust, transparency and purpose are key drivers, ending anonymous company ownership worldwide will stop illicit activity causing economic and societal harms.
-
 priorities-title: Our priorities
 priorities-text: |-
   We are focused on three closely connected strategic priorities:
