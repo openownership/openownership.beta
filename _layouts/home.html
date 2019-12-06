@@ -7,22 +7,49 @@ layout: default
 
   <div class="small-12 cell text-center">
     <h1 class="padding-bottom-2">{{page.header}}</h1>
-
-    <div class="button-group stacked-for-small align-center">
-      <a class="button" href="/what-we-do/">What we do</a>
-      <a class="button" href="/connect-with-us/">Connect with us</a>
-      <a class="button" href="/jobs/">Jobs</a>
-      <a class="button" href="/guide/">Guide <svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></a>
-      <a class="button" href="https://register.openownership.org/" target="_blank" rel="noopener">OpenOwnership Register <svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></a>
-<a class="button" href="https://standard.openownership.org/" target="_blank" rel="noopener">Data Standard <svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></a>
-    </div>
   </div>
 
 </div>
 <!-- End Home Intro -->
 
-<!-- Home Description -->
+<!-- Key facts -->
 <section class="secondary-background">
+  <div class="grid-x grid-padding-x grid-padding-y home__key_facts">
+    <div class="small-12 medium-6 large-4 cell text-center home__key_fact">
+      <span class="home__key_fact__stat">
+        <span class="home__key_fact__stat__inner serif-headline">
+          {{page.key-fact-1-stat}}
+        </span>
+      </span>
+      <span class="home__key_fact__text">{{page.key-fact-1-text}}</span>
+    </div>
+
+    <div class="small-12 medium-6 large-4 cell text-center home__key_fact">
+        <span class="home__key_fact__stat">
+            <span class="home__key_fact__stat__inner">
+              {{page.key-fact-2-stat}}
+            </span>
+          </span>
+        <span class="home__key_fact__text">{{page.key-fact-2-text}}</span>
+    </div>
+
+    <div class="small-12 medium-12 large-4 cell text-center home__key_fact">
+      <span class="home__key_fact__stat">
+          <span class="home__key_fact__stat__inner">
+            {{page.key-fact-3-stat}}
+          </span>
+        </span>
+      <span class="home__key_fact__text">{{page.key-fact-3-text}}</span>
+    </div>
+
+    <div class="small-12 cell text-center home__key_fact">
+      {{page.key-fact-4}}
+    </div>
+  </div>
+</section>
+
+<!-- Home Description -->
+<section class="primary-background">
     <div class="grid-x">
 
       <div class="small-12 medium-6 cell h5 sans-regular home__description__left small-order-2 medium-order-1">
@@ -38,7 +65,7 @@ layout: default
 <!-- End Home Description -->
 
 <!-- Home Why -->
-<section class="primary-background">
+<section class="secondary-background">
 
   <div class="grid-container">
     <div class="grid-x home__why align-center">
@@ -48,7 +75,7 @@ layout: default
         <div class="h5 sans-regular">
         {{page.why-text | markdownify}}
         </div>
-        <a class="button hollow white" href="/resources/">View our beneficial ownership resources</a>
+        <a class="button hollow white" href="/_what-we-do">Read more about what we do</a>
       </div>
 
     </div>
@@ -56,23 +83,3 @@ layout: default
 
 </section>
 <!-- End Home Why -->
-
-<!-- Home Priorities -->
-<section class="secondary-background">
-    <div class="grid-x grid-padding-x grid-padding-y">
-
-      <div class="small-12 medium-6 cell h5 sans-regular home__description__left small-order-2 medium-order-1">
-        <h3>{{page.priorities-title}}</h3>
-        <div class="h5 sans-regular">
-        {{page.priorities-text | markdownify}}
-        </div>
-        <a class="button hollow white" href="/what-we-do/">Learn more about what we do</a>
-      </div>
-
-      {% assign image = page.priorities-image %}
-      <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
-      </div>
-
-    </div>
-</section>
-<!-- End Home Priorities -->

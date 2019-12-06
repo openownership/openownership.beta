@@ -5,23 +5,31 @@ description: Our mission is to make knowledge about who owns & controls companie
   open and impactful. We do this through the Beneficial Ownership Register and Beneficial
   Ownership Data Standard.
 image: "/assets/img/og-image.png"
-header: Ending anonymous company ownership
+header: Driving the global shift towards transparency over who owns and controls companies.
+key-fact-1-stat: 70%
+key-fact-1-text: of corruption cases involve the use of anonymous companies.
+key-fact-2-stat: 50+ countries
+key-fact-2-text: committed to disclosing beneficial ownership.
+key-fact-3-stat: 7 million
+key-fact-3-text: beneficial owners from 170 jurisdictions in the global register.
+key-fact-4: To date, over USD 1 billion has been recovered by governments using beneficial
+  ownership data.
 intro-text: |-
-  Anonymous shell companies enable corruption, fraud, organised crime and tax evasion. The wider the access to high quality data on who owns what, the harder it will be for corrupt individuals to hide.
+  To mark International Anti-Corruption Day (December 9th), we are taking action with our partners to call time on the use of anonymous company ownership facilitating corruption and societal harms like trafficking and modern slavery.
 
-  OpenOwnership drives greater corporate transparency across the world by making it easy to publish and access high-quality, linked data about who owns companies.
+  In collaboration with Open Government Partnership, the UK Government and World Bank, we are launching a day of action including two events to advance the shift towards beneficial ownership transparency around the world.
 
-  By leading the development of an open, global beneficial ownership data and policy ecosystem, we aim to create a new set of norms and end anonymous company ownership.
-intro-image: "/uploads/intro.jpg"
+  <a class="button hollow white" href="/news/countries-take-action-anti-corruption-day-2019/">More details in our blog post</a>
+intro-image: "/uploads/FB-WBG-Anticorruption-Postcard.png"
 why-title: Why beneficial ownership matters
 why-text: |-
-  According to the World Bank, around 70% of corruption cases involve anonymous companies. They are also used to move illicit funds - from laundering money for human trafficking and the drug trade to funding terror groups and criminal gangs.
+  Open Ownership is increasing beneficial ownership transparency across the world by making it easier to access high-quality and connected data about who owns, controls and benefits from companies.
 
-  By masking the identities of criminals and tax evaders, shell companies inhibit the ability of law enforcement agencies, journalists and other civil society actors to investigate, expose and punish illegal activity.
+  Realising the benefits of corporate ownership transparency helps tackle corruption, reduce investment risk and improve global governance.
 
-  This activity is global by default, as corporate structures cross jurisdictions in a deliberate effort to make discovering the true owners impossible. Individual countries holding and maintaining siloed registers of beneficial owners is not enough - this information has to be interlinked so that ownership relationships and financial flows can be tracked across different jurisdictions.
+  Beneficial ownership data answers the fundamental question in any anti-corruption investigation: who benefits.
 
-  The more, and better quality, beneficial ownership data we have, the more expensive and difficult it will be for corrupt individuals to hide. This is good for governments, businesses, and wider society.
+  In an age when trust, transparency and purpose are key drivers, ending anonymous company ownership worldwide will stop illicit activity causing economic and societal harms.
 priorities-title: Our priorities
 priorities-text: |-
   We are focused on three closely connected strategic priorities:
