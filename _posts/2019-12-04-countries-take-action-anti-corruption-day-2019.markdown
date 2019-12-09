@@ -13,8 +13,8 @@ To mark International Anti-Corruption Day (December 9th), we are taking action w
 
 ## Anti-corruption day actions
 
-### Action 1 
-
+**### Action 1 - High level expert panel 
+**
 A high level panel event will be taking place at the World Bank HQ on December 9th showcasing support for activity and discussing the key policy opportunities and the importance of beneficial ownership transparency for the global anti-poverty agenda. This event will be live streamed, open to the public and we encourage you to write questions in advance. 
 
 **Moderator**: Thom Townsend, Executive Director, Open Ownership
@@ -27,7 +27,12 @@ A high level panel event will be taking place at the World Bank HQ on December 9
 
 More information can be found online here: [https://live.worldbank.org/ending-shell-game](https://live.worldbank.org/ending-shell-game) 
 
-### Action 2
+### Action 2 - Countries join beneficial ownership leadership group 
+
+Confirmed signatories as of 13:00 on 9.12.12: 
+
+* Armenia
+* Latvia
 
 We are formally inviting countries to join the Beneficial Ownership Leadership Group, which has been developed by the UK Government with support from OpenOwnership and Open Government Partnership. 
 
