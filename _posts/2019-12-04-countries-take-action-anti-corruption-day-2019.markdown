@@ -29,7 +29,7 @@ More information can be found online here: [https://live.worldbank.org/ending-sh
 
 ### Action 2 - Countries join beneficial ownership leadership group 
 
-Confirmed signatories as of 13:00: 
+Confirmed signatories as of 13:00 on 9.12.12: 
 
 * Armenia
 * Latvia
