@@ -1,7 +1,7 @@
 ---
 title: Countries take leadership to end the shell game on Anti Corruption Day 2019
 date: 2019-12-04 11:04:00 Z
-image: "/uploads/ACD%20blog%20large%201440x810.png"
+image: "/uploads/anticorruptionblogupdate.png"
 description: To mark International Anti-Corruption Day (December 9th), we are taking
   action, in collaboration with Open Government Partnership, the UK Government and
   World Bank, to call time on the use of anonymous company ownership facilitating
