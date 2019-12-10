@@ -1,6 +1,6 @@
 ---
 title: 'Beneficial ownership transparency: at the heart of Armenia’s anti-corruption
-  agenda.'
+  agenda'
 date: 2019-12-09 10:53:00 Z
 tags:
 - Beneficial Ownership Leadership Group
