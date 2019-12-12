@@ -31,8 +31,10 @@ More information can be found online here: [https://live.worldbank.org/ending-sh
 
 Confirmed signatories as of 13:00 on 9.12.12: 
 
-* Armenia
-* Latvia
+* Armenia (announcement) 
+* Latvia (announcement) 
+* Mexico ([announcement](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es)) 
+* Slovakia ([announcement](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611))  
 
 We are formally inviting countries to join the Beneficial Ownership Leadership Group, which has been developed by the UK Government with support from OpenOwnership and Open Government Partnership. 
 
