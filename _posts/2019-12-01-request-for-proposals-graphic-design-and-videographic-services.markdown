@@ -6,11 +6,11 @@ author: OpenOwnership
 Field name: 
 ---
 
-**Summary**
+*Summary*
 
 Proposals are sought from qualified firms or individuals to provide design and videographic services. OpenOwnership will enter into 'call down' contracts for up to a year with a number of selected providers at agreed daily rates. In any given year, Open Ownership has a significant amount of design work. Call down contracts allow for work to be assigned to designers using a one-time approval process that assesses the quality of work and cost in comparison to competitors (more detail on how to propose below). The deadline for proposals is 31 December. 
 
-**Background on OpenOwnership* 
+*Background on OpenOwnership* 
 OpenOwnership is driving the global shift towards transparency over who owns and controls companies. Realising the benefits of corporate ownership transparency helps tackle corruption, reduce investment risk and improve global governance.Beneficial ownership data answers the fundamental question in any anti-corruption investigation: who benefits. In an age when trust, transparency and purpose are key drivers, ending anonymous company ownership worldwide will stop illicit activity causing economic and societal harms.
  
 *What are we looking for?*
