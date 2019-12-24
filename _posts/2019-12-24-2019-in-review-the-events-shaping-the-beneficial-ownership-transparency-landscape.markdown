@@ -7,7 +7,7 @@ author: Victor Ponsford
 
 2019 has been a busy and productive year for OpenOwnership. We appointed our first executive director, Thom Townsend, and hired several more key staff in response to rising demand for our expertise. Alongside significant change internally, the wider beneficial ownership (BO) transparency field has been shifting, as more countries begin to disclose or consider how they can disclose BO data. In this blog, the OpenOwnership team share the stories and developments that got them excited in 2019, and that they believe will significantly shape the beneficial ownership transparency field going forward. 
 
-**Tim Davies **
+**Tim Davies**
 
 This was the year when Beneficial Ownership moved to the top of the Open Government agenda. Back in 2018 at the Open Government Partnership Summit in Tbilisi, beneficial ownership was talked about in side events. This year, at the Ottawa OGP summit, it was a mainstage topic. I was delighted to see the work of [OpenOwnership feature in the State of Open Data Book](https://stateofopendata.od4d.net/chapters/sectors/corporate-ownership.html) that I was at the summit to launch – and even more delighted to get the opportunity this September to start working again with the OpenOwnership team. I have been contributing to developing technology and providing technical assistance that can address the tough problems of representing complex cross-border ownership structures in simple and accessible ways. 
 
