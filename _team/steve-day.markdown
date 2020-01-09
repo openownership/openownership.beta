@@ -3,7 +3,7 @@ title: Steve Day
 categories:
 - project-team
 position: 3
-job-title: Lead Developer
+job-title: Technical Lead
 image: "/uploads/steve-day.jpg"
 email: steve@openownership.org
 social:
