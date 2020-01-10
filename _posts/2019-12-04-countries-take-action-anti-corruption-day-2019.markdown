@@ -32,7 +32,7 @@ More information can be found online here: [https://live.worldbank.org/ending-sh
 Confirmed signatories as of 13:00 on 9.12.12: 
 
 * Armenia ([announcement](/uploads/Declaration_Armenia.pdf)) 
-* Latvia (announcement) 
+* Latvia ([announcement](https://www.tm.gov.lv/lv/aktualitates/tm-informacija-presei/latvija-pievienojas-starptautiska-limena-patieso-labuma-guveju-atklatibas-principiem?fbclid=IwAR3lhCttW44taNbES1B1C6WZ2G8m6U-Ya478aBMJBvSfpn_7PH6Db2xCFs0)) 
 * Mexico ([announcement](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es)) 
 * Slovakia ([announcement](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611))  
 
