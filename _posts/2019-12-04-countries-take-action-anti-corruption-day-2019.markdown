@@ -13,8 +13,8 @@ To mark International Anti-Corruption Day (December 9th), we are taking action w
 
 ## Anti-corruption day actions
 
-**### Action 1 - High level expert panel 
-**
+Action 1 - High level expert panel 
+
 A high level panel event will be taking place at the World Bank HQ on December 9th showcasing support for activity and discussing the key policy opportunities and the importance of beneficial ownership transparency for the global anti-poverty agenda. This event will be live streamed, open to the public and we encourage you to write questions in advance. 
 
 **Moderator**: Thom Townsend, Executive Director, Open Ownership
@@ -32,7 +32,7 @@ More information can be found online here: [https://live.worldbank.org/ending-sh
 Confirmed signatories as of 13:00 on 9.12.12: 
 
 * Armenia ([announcement](/uploads/Declaration_Armenia.pdf)) 
-* Latvia ([announcement](https://www.tm.gov.lv/lv/aktualitates/tm-informacija-presei/latvija-pievienojas-starptautiska-limena-patieso-labuma-guveju-atklatibas-principiem?fbclid=IwAR3lhCttW44taNbES1B1C6WZ2G8m6U-Ya478aBMJBvSfpn_7PH6Db2xCFs0)) 
+* Latvia [[announcement](https://twitter.com/Tieslietas/status/1200052790069989376?s=20)] 
 * Mexico ([announcement](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es)) 
 * Slovakia ([announcement](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611))  
 
