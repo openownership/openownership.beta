@@ -12,7 +12,7 @@ OpenOwnership’s director, Thom Townsend, said: *“Nigeria deserves credit and
 
 OpenOwnership has worked with the Nigerian Corporate Affairs Commission on the development of legislation for a public beneficial ownership register of all companies in Nigeria. We also offered advice to NEITI to help address the challenges of data collection. 
 
-The register and its data: expert reaction 
+**The register and its data: expert reaction** 
 
 The register is searchable by companies, assets and individuals and NEITI intends to keep it continuously updated as more information becomes available. From a user perspective, the website performs and functions well. Significantly, the data is available to bulk download, allowing for systematic analysis of all companies on the register. This means that users can carry out basic investigations on company data, such as checking how many companies have declared their beneficial owners. It also means that the data can be used in connection with global data sets, potentially including OpenOwnership's global register which already hosts data from the NEITI pilot conducted in 2015.
 
