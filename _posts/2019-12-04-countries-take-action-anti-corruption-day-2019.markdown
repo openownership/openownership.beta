@@ -33,7 +33,7 @@ Confirmed signatories as of 13:00 on 9.12.12:
 
 * Armenia ([announcement](/uploads/Declaration_Armenia.pdf))
 * Kenya ([announcement]) 
-* Latvia ([announcement](https://twitter.com/Tieslietas/status/1200052790069989376?s=20)]) 
+* Latvia ([announcement(https://twitter.com/Tieslietas/status/1200052790069989376?s=20)]) 
 * Mexico ([announcement](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es)) 
 * Slovakia ([announcement](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611))  
 
