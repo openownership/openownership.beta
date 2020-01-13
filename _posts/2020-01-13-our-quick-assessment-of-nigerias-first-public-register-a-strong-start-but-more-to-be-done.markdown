@@ -8,7 +8,7 @@ author: OpenOwnership
 
 At the end of last year Nigeria published Africa’s first beneficial ownership register, and the first globally to focus on the lucrative oil, gas and mining sectors. The OpenOwnership team has been assessing the register’s performance and analysing the quality of the data that’s been disclosed. The register itself is a solid first step, with good functionality and innovations such as the inclusion of licencing data, but our preliminary analysis is that more work needs to be done on data quality, echoing issues seen with Nigeria’s pilot data disclosures in 2015. 
 
-OpenOwnership’s director, Thom Townsend, said: *“Nigeria deserves credit and should be extremely proud of publishing the first public beneficial ownership register in the region and linking the data to the nationally vital oil, gas and mineral sectors to aid its anti-corruption efforts. This is a solid first step and OpenOwnership stands ready to support Nigeria’s continuing journey to beneficial ownership transparency” *
+OpenOwnership’s director, Thom Townsend, said: *“Nigeria deserves credit and should be extremely proud of publishing the first public beneficial ownership register in the region and linking the data to the nationally vital oil, gas and mineral sectors to aid its anti-corruption efforts. This is a solid first step and OpenOwnership stands ready to support Nigeria’s continuing journey to beneficial ownership transparency”*
 
 OpenOwnership has worked with the Nigerian Corporate Affairs Commission on the development of legislation for a public beneficial ownership register of all companies in Nigeria. We also offered advice to NEITI to help address the challenges of data collection. 
 
