@@ -9,7 +9,7 @@ A new year, and a new leak of financial information that reveals how shell compa
 
 The familiar cast of service providers – including lawyers, accountants, oil companies and consultants – are all present, as are the usual list of secrecy jurisdictions, with Malta taking centre stage. The same goes for the celebrity bystanders – caught again on camera at a party hosted and paid for by compromised characters. 
 
-We are writing about the ICIJ’s investigation into Isabel Dos Santos, Africa’s richest woman and the daughter of the former Angolan president. But we could be speaking about any number of similar cases involving resource-rich states that have come to light in the past few years. 
+We are writing about the [International Consortium of Investigative Journalists investigation](https://www.icij.org/investigations/luanda-leaks/) into Isabel Dos Santos, Africa’s richest woman and the daughter of the former Angolan president. But we could be speaking about any number of similar cases involving resource-rich states that have come to light in the past few years. 
 
 The investigation by the ICIJ and partners is comprehensive, meticulous and well worth reading. It gives a sense of the ease with which powerful, politically connected people can circumnavigate the norms and rules that everyone else abides by. But as with all leaks, once the outrage has passed, it is difficult to know what practically can be done to make grand corruption harder. 
 
