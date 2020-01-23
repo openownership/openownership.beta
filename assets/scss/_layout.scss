@@ -276,6 +276,15 @@ p {
   font-size: 1.5rem;
 }
 
+// X. Homepage
+//------------
+
+.home__intro {
+  // Calculated to line up with the other items in the header like the logo
+  // and give a bit more vertical space from the header
+  @include padding(2, 2, 1, 2);
+}
+
 .home__key_facts {
   // Calculated to be the same as with other sections on the homepage, but
   // accounting for the existing top padding on the cells within
