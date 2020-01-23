@@ -482,20 +482,20 @@
 		"oAP": "/_layouts/home.html",
 		"oF": 0
 		},
+	"/_layouts/latest.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/latest.html",
+		"oF": 0
+		},
 	"/_layouts/missing.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/missing.html",
-		"oF": 0
-		},
-	"/_layouts/news.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_layouts/news.html",
 		"oF": 0
 		},
 	"/_layouts/page-what-we-do.html": {
@@ -11606,6 +11606,33 @@
 		"oAP": "/jobs.markdown",
 		"oF": 0
 		},
+	"/latest.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/latest.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/news.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/news.html",
+		"oF": 0
+		},
 	"/news.md": {
 		"cB": 0,
 		"cS": 0,
@@ -11616,8 +11643,8 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/news.md",
-		"oF": 1,
+		"oAP": "/news.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,

@@ -1,8 +1,8 @@
 header:
   - title: What we do
     url: /what-we-do/
-  - title: News
-    url: /news/
+  - title: Latest
+    url: /latest/
   - title: Resources
     url: /resources/
   - title: Connect with us
@@ -13,8 +13,8 @@ header:
 footer:
   - title: What we do
     url: /what-we-do/
-  - title: News
-    url: /news/
+  - title: Latest
+    url: /latest/
   - title: Resources
     url: /resources/
   - title: Connect with us
