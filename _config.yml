@@ -28,33 +28,33 @@ defaults:
     path: ''
     type: posts
   values:
-    image: 
-    description: 
-    author: 
+    image:
+    description:
+    author:
     layout: post
     permalink: "/news/:title/"
 - scope:
     path: ''
     type: pages
   values:
-    description: 
+    description:
     layout: page
 - scope:
     path: ''
     type: resources
   values:
-    description: 
-    file: 
-    author: 
-    thumbnail-image: 
+    description:
+    file:
+    author:
+    thumbnail-image:
 - scope:
     path: ''
     type: team
   values:
-    job-title: 
-    image: 
-    email: 
-    social: 
+    job-title:
+    image:
+    email:
+    social:
 url: https://www.openownership.org
 description: Building an open register of global beneficial ownership in the public
   interest.
@@ -133,7 +133,7 @@ autopages:
       mode: raw
       cased: true
     layouts:
-    - tags.html
+      - tags.html
     title: Posts tagged with :tag
     permalink: "/tag/:tag"
 imgix:
