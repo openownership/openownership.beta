@@ -25,6 +25,12 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/.jekyll-cache/Jekyll/Cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/.jekyll-cache/Jekyll/Cache",
+		"oF": 0
+		},
 	"/404.md": {
 		"cB": 0,
 		"cS": 0,
@@ -932,12 +938,52 @@
 		"oAP": "/_posts/2019-11-18-tender-opportunity-technical-research-on-the-collection-processing-and-use-of-beneficial-ownership-data-in-the-private-sector.markdown",
 		"oF": 0
 		},
+	"/_posts/2019-12-01-request-for-proposals-graphic-design-and-videographic-services.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-12-01-request-for-proposals-graphic-design-and-videographic-services.markdown",
+		"oF": 0
+		},
 	"/_posts/2019-12-04-countries-take-action-anti-corruption-day-2019.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_posts/2019-12-04-countries-take-action-anti-corruption-day-2019.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-12-09-beneficial-ownership-transparency-at-the-heart-of-armenias-anti-corruption-agenda.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-12-09-beneficial-ownership-transparency-at-the-heart-of-armenias-anti-corruption-agenda.markdown",
+		"oF": 0
+		},
+	"/_posts/2019-12-24-2019-in-review-the-events-shaping-the-beneficial-ownership-transparency-landscape.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-12-24-2019-in-review-the-events-shaping-the-beneficial-ownership-transparency-landscape.markdown",
+		"oF": 0
+		},
+	"/_posts/2020-01-13-our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2020-01-13-our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done.markdown",
+		"oF": 0
+		},
+	"/_posts/2020-01-22-luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2020-01-22-luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining.markdown",
 		"oF": 0
 		},
 	"/_posts/news/2019-08-28-join-openownership.markdown": {
@@ -1194,6 +1240,17 @@
 		"oAP": "/_team/zosia-sztykowski.markdown",
 		"oF": 0
 		},
+	"/_uploads/2019 blog image.png": {
+		"ft": 32768,
+		"iS": 18158,
+		"oA": 0,
+		"oAP": "/_uploads/2019 blog image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/20190810PrivateSectorBO_DataUse (1).pdf": {
 		"cB": 0,
 		"ft": 8192,
@@ -1222,6 +1279,28 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/anticorruptionblogupdate.png": {
+		"ft": 32768,
+		"iS": 179542,
+		"oA": 0,
+		"oAP": "/_uploads/anticorruptionblogupdate.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/artak-petrosyan-vwvshYHYAZs-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 5098819,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/artak-petrosyan-vwvshYHYAZs-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/aurelie-tack-D2k_7YlRLTs-unsplash.jpg": {
@@ -1460,6 +1539,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/Declaration_Armenia.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/Declaration_Armenia.pdf",
+		"oF": 0
+		},
 	"/_uploads/denmark.jpg": {
 		"ft": 16384,
 		"iS": 1519404,
@@ -1469,6 +1556,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/design IoE blog post image-58e892.png": {
+		"ft": 32768,
+		"iS": 1392282,
+		"oA": 0,
+		"oAP": "/_uploads/design IoE blog post image-58e892.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/design IoE blog post image.png": {
+		"ft": 32768,
+		"iS": 1392282,
+		"oA": 0,
+		"oAP": "/_uploads/design IoE blog post image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/Disclosure Principles for BOT - March 2019 (1).docx": {
@@ -1983,6 +2092,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/Luanda.png": {
+		"ft": 32768,
+		"iS": 2222013,
+		"oA": 0,
+		"oAP": "/_uploads/Luanda.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/maersk dk.png": {
 		"ft": 32768,
 		"iS": 250518,
@@ -2088,6 +2208,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/NEITI portal blog image (1).png": {
+		"ft": 32768,
+		"iS": 238913,
+		"oA": 0,
+		"oAP": "/_uploads/NEITI portal blog image (1).png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/OGP.jpg": {
@@ -2416,6 +2547,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/Photo Thom blogb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/photo-1516415855612-c72c024b0b92.jpeg": {
+		"ft": 16384,
+		"iS": 477643,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/photo-1516415855612-c72c024b0b92.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

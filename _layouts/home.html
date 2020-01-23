@@ -49,23 +49,23 @@ layout: default
 </section>
 
 <!-- Home Description -->
-<section class="primary-background">
-    <div class="grid-x">
+<section class="border-bottom">
+  <div class="grid-x">
 
-      <div class="small-12 medium-6 cell h5 sans-regular home__description__left small-order-2 medium-order-1">
-        {{page.intro-text | markdownify}}
-      </div>
-
-      {% assign image = page.intro-image %}
-      <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"}>
-      </div>
-
+    <div class="small-12 medium-6 cell h5 sans-regular home__description__left small-order-2 medium-order-1">
+      {{page.intro-text | markdownify}}
     </div>
+
+    {% assign image = page.intro-image %}
+    <div class="small-12 medium-6 cell text-center image--feature small-order-1 medium-order-2" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"}>
+    </div>
+
+  </div>
 </section>
 <!-- End Home Description -->
 
 <!-- Home Why -->
-<section class="secondary-background">
+<section>
 
   <div class="grid-container">
     <div class="grid-x home__why align-center">
@@ -75,7 +75,7 @@ layout: default
         <div class="h5 sans-regular">
         {{page.why-text | markdownify}}
         </div>
-        <a class="button hollow white" href="/what-we-do/">Read more about what we do</a>
+        <a class="button hollow" href="/what-we-do/">Read more about what we do</a>
       </div>
 
     </div>
