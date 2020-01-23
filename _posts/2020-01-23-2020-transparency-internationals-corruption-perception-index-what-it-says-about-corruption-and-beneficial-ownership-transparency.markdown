@@ -23,12 +23,3 @@ And whilst Mexico has been highlighted as a “significant decliner” on the CP
 With big leaks like the Panama Papers and the Luanda Leaks, there is clearly an appetite and necessity for publicly available information as a way to combat the opacity that permits the international flow of illicit funds. 
 
 
-**Stocktake of Beneficial Ownership Leadership Group members:
-**
-The Beneficial Ownership Leadership Group (BOLG) came together in 2019 to drive the global policy shift towards free, open beneficial ownership data. Each country, upon joining the BOLG, signs up to a set of best practice disclosure principles. Convened by OpenOwnership and Open Government Partnership, the group is comprised of Armenia, Kenya, Latvia, Mexico and Slovakia. 
-
-Armenia has made significant strides in the last year, and is rightly hailed by Transparency International and The Economist as a “country to watch”. Since the 2018 revolution, the country has demonstrated promising developments in advancing anti-corruption policy reforms. It is working closely with OpenOwnership in the development of its public registers and is set to launch one this year for the extractives industry. 
-
-And whilst Mexico has been highlighted as a “significant decliner” on the CPI since 2012, a focus on anti-corruption reform in the last year has seen its score increase for the first time. Slovakia, Latvia and Kenya are examples of states that have seen stagnation in their CPI scores as of late, though that is not to say that important work is not being done. We envisage that their proposed commitments and legislation on beneficial ownership transparency will bring necessary and positive systemic level changes. 
-
-With big leaks like the Panama Papers and the Luanda Leaks, there is clearly an appetite and necessity for publicly available information as a way to combat the opacity that permits the international flow of illicit funds. 
