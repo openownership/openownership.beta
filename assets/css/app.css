@@ -7811,7 +7811,7 @@ input[type='range'] {
   line-height: 1;
   white-space: nowrap;
   cursor: default;
-  background: #e6e6e6;
+  background: #3C31D5;
   color: #fefefe; }
   .label.primary {
     background: #3C31D5;
@@ -11020,11 +11020,9 @@ footer .icon {
 .label:hover {
   color: rgba(254, 254, 254, 0.75); }
 
-/*
-.reveal label {
-  color: $medium-gray;
-}
-*/
+.label--tag {
+  background-color: #7e8da3; }
+
 .guide__page {
   border-top: 1rem solid #3C31D5; }
   .guide__page .shadow {

@@ -1,4 +1,17 @@
 <section class="grid-container">
+
+  {% if paginator.posts == empty %}
+    <div class="grid-x grid-padding-y post">
+      <div class="small-12 cell">
+
+        <div class="grid-x">
+          <div class="small-12 cell">
+            <p>There are no posts in this category yet.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
   {% for post in paginator.posts %}
 
       <div class="grid-x grid-padding-y post">
@@ -16,6 +29,8 @@
               {% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}
               </div>
             </div>
+
+            {% include blocks/categories.html categories=post.categories %}
           </div>
 
         </div>

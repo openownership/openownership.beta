@@ -10,7 +10,7 @@
   {% if page.url contains fullurl %}
     {% assign current_page = entry.url %}
     {% break %}
-  {% elsif page.url contains "/news/" %}
+  {% elsif page.url contains "/news/" or page.url contains "/events/" or page.url contains "/blogs/" or page.url contains "/tag/" %}
     {% assign current_page = "/latest/" %}
     {% break %}
   {% endif %}

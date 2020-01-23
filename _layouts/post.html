@@ -17,14 +17,7 @@ layout: default
       </div>
     </div>
 
-      {% if page.tags != empty %}
-      <div class="small-12 medium-shrink cell show-for-medium">
-        {% for tag in page.tags %}
-        <a href="/tag/{{ tag | slugify }}" class="label text-capitalize">{{ tag }}</a>
-        {% endfor %}
-      </div>
-      {% endif %}
-
+    {% include blocks/categories.html categories=page.categories %}
   </div>
 </section>
 <!-- End Post Title -->
@@ -53,6 +46,14 @@ layout: default
   </div>
 </section>
 <!-- End Post Title -->
+
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-8 cell">
+      {% include blocks/tags.html tags=page.tags %}
+    </div>
+  </div>
+</section>
 
 <!-- Pagination -->
 {% include pagination/post.html %}

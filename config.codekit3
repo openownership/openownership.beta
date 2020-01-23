@@ -266,6 +266,14 @@
 		"oAP": "/_guide/systems.markdown",
 		"oF": 0
 		},
+	"/_includes/blocks/categories.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/blocks/categories.html",
+		"oF": 0
+		},
 	"/_includes/blocks/content.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -288,6 +296,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/blocks/posts.html",
+		"oF": 0
+		},
+	"/_includes/blocks/tags.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/blocks/tags.html",
 		"oF": 0
 		},
 	"/_includes/blocks/title.html": {
@@ -976,22 +992,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_posts/2019-12-24-2019-in-review-the-events-shaping-the-beneficial-ownership-transparency-landscape.markdown",
-		"oF": 0
-		},
-	"/_posts/2020-01-13-our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_posts/2020-01-13-our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done.markdown",
-		"oF": 0
-		},
-	"/_posts/2020-01-22-luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_posts/2020-01-22-luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining.markdown",
 		"oF": 0
 		},
 	"/_posts/news/2019-08-28-join-openownership.markdown": {
@@ -11606,6 +11606,63 @@
 		"oAP": "/jobs.markdown",
 		"oF": 0
 		},
+	"/latest-blog.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/latest-blog.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/latest-events.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/latest-events.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/latest-news.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/latest-news.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/latest.md": {
 		"cB": 0,
 		"cS": 0,
@@ -11624,14 +11681,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"/news.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/news.html",
-		"oF": 0
 		},
 	"/news.md": {
 		"cB": 0,

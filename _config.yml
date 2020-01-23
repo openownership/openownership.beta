@@ -32,7 +32,7 @@ defaults:
     description:
     author:
     layout: post
-    permalink: "/news/:title/"
+    permalink: "/:categories/:title/"
 - scope:
     path: ''
     type: pages
