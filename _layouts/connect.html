@@ -2,19 +2,9 @@
 layout: default
 ---
 
-<!-- Connect with Us Title -->
-<div class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y page__title">
-    <div class="small-12 medium-10 large-8 cell">
-      <h1>{{page.title}}</h1>
-      {% assign content = page.content | strip_newlines %}
-      {% unless content == ""  %}
-      <h5 class="sans-regular">{{content}}</h5>
-      {% endunless %}
-    </div>
-  </div>
-</div>
-<!-- End Connect with Us Title -->
+<!-- Page Title -->
+{% include blocks/title.html %}
+<!-- End Page Title -->
 
 <!-- Core Team Content -->
 <div class="grid-container">
@@ -38,10 +28,10 @@ layout: default
           </div>
           <div class="shrink cell">
             <ul class="menu align-center">
-            {% if member.email %} 
+            {% if member.email %}
             <li><a href="mailto:{{member.email}}"><span class="show-for-sr">Email</span><svg class="icon icon-socials icon-email"><use xlink:href="/assets/icons/symbol-defs.svg#icon-email"></use></svg></a></li>
             {% endif %}
-            {% for item in member.social %}  
+            {% for item in member.social %}
             <li><a href="{{ item[1] }}" target="_blank" rel="noopener" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
             {% endfor %}
             </ul>
@@ -86,12 +76,12 @@ layout: default
         </div>
         <div class="shrink cell">
           <ul class="menu align-center">
-          {% if member.email %} 
+          {% if member.email %}
           <li><a href="mailto:{{member.email}}"><span class="show-for-sr">Email</span><svg class="icon icon-socials icon-email"><use xlink:href="/assets/icons/symbol-defs.svg#icon-email"></use></svg></a></li>
           {% endif %}
-          {% for item in member.social %}  
+          {% for item in member.social %}
           <li><a href="{{ item[1] }}" target="_blank" rel="noopener" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-          {% endfor %} 
+          {% endfor %}
           </ul>
         </div>
       </div>

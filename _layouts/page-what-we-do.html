@@ -3,14 +3,8 @@ layout: default
 ---
 
 <!-- Page Title -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y page__title">
-    <div class="small-12 medium-10 large-10 cell">
-      <h1>{{page.title}}</h1>
-    </div>
-  </div>
-</section>
-<!-- End Page Title -->        
+{% include blocks/title.html %}
+<!-- End Page Title -->
 
 <!-- Page Content -->
 <section class="grid-container">
@@ -28,13 +22,13 @@ layout: default
 {% if category_posts.size > 0 %}
 <section class="snow-background padding-bottom-1">
   <div class="grid-container">
-  
+
     <div class="grid-x grid-padding-x grid-padding-y page__title">
       <div class="small-12 medium-10 large-10 cell">
         <h2 class="margin-bottom-0">Further Reading</h2>
       </div>
     </div>
-  
+
     <div class="grid-x grid-padding-x" data-equalizer>
 {% assign category = page.title | downcase %}
 {% assign category_posts = site.categories[category] %}

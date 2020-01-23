@@ -10669,7 +10669,7 @@ svg {
 .menu .menu-text {
   font-weight: normal; }
 
-.border-top {
+.border-top, .post {
   border-top: 1px solid #e6e6e6; }
 
 .border-bottom {
@@ -11014,6 +11014,8 @@ footer .icon {
   @media print, screen and (min-width: 40em) {
     .page__title {
       padding-top: 2rem !important; } }
+  .page__title p {
+    font-size: 1.25em; }
 
 .label:hover {
   color: rgba(254, 254, 254, 0.75); }
@@ -11289,3 +11291,6 @@ footer .icon {
 
 .guide-page img {
   padding: 2rem 0rem; }
+
+.post:first-of-type {
+  border-top: none; }

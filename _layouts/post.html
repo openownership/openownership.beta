@@ -4,19 +4,19 @@ layout: default
 
 <!-- Post Title -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x padding-vertical-3">
+  <div class="grid-x grid-padding-x padding-vertical-3 border-bottom">
 
     <div class="small-12 cell">
-      <h2>{{ page.title }}</h2>
+      <h1>{{ page.title }}</h1>
     </div>
-  
+
 
       <div class="small-12 medium-shrink cell">
         <div class="margin-right-1 medium-gray">
         {% if page.author %}{{ page.author }} · {% endif %}{{ page.date | date: site.date_format }}
         </div>
       </div>
-    
+
       {% if page.tags != empty %}
       <div class="small-12 medium-shrink cell show-for-medium">
         {% for tag in page.tags %}
@@ -32,7 +32,7 @@ layout: default
 <!-- Post Content -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 cell border-top">
+    <div class="small-12 cell">
       {% if page.image %}
           {% assign image = page.image %}
           <div class="light-gray-background image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
@@ -54,6 +54,6 @@ layout: default
 </section>
 <!-- End Post Title -->
 
-<!-- Pagination -->  
+<!-- Pagination -->
 {% include pagination/post.html %}
 <!-- End Pagination -->

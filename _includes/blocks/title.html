@@ -1,13 +1,13 @@
 <!-- Page Title -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y page__title">
+  <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
     <div class="small-12 medium-10 large-8 cell">
-      <h1>{{page.title}}</h1>
-      {% assign content = page.content | strip_newlines %}
-      {% unless content == ""  %}
-      <h5 class="sans-regular">{{content}}</h5>
+      <h1>{{page.title | captialize}}</h1>
+      {% assign description = page.description | strip_newlines %}
+      {% unless description == ""  %}
+        <p>{{description}}</p>
       {% endunless %}
     </div>
   </div>
 </section>
-<!-- End Page Title -->        
+<!-- End Page Title -->

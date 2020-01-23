@@ -464,10 +464,14 @@ width: 100%;
 .page__title {
   @include padding(1.5, null, null, null);
   @include breakpoint(small only) {
-  @include padding(1.5, 1.5, 1.5, 1.5);
+    @include padding(1.5, 1.5, 1.5, 1.5);
   }
   @include breakpoint(medium) {
-  @include padding(2, null, null, null);
+    @include padding(2, null, null, null);
+  }
+
+  p {
+    font-size: 1.25em;
   }
 }
 
@@ -827,4 +831,14 @@ padding-top: 3rem;
 
 .guide-page img {
   padding: 2rem 0rem;
+}
+
+// X. Posts
+// --------
+.post {
+  @extend .border-top;
+
+  &:first-of-type {
+    border-top: none;
+  }
 }
