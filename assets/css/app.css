@@ -697,15 +697,6 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
     transform: perspective(2500px) rotateX(0); }
 
 /*
-$foundation-palette: (
-  primary: #1779ba,
-  secondary: #767676,
-  success: #3adb76,
-  warning: #ffae00,
-  alert: #cc4b37,
-);
-*/
-/*
 $header-styles: (
   small: (
     'h1': ('font-size': 24),
