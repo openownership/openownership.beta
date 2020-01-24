@@ -31,6 +31,7 @@ defaults:
     image:
     description:
     author:
+    is_featured: false
     layout: post
     permalink: "/:categories/:title/"
 - scope:
