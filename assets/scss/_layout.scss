@@ -314,14 +314,20 @@ p {
   border-bottom: 4px solid $primary-color;
 }
 
-.home__description__left {
-  @include padding(1.5, 1.5, 1.5, 1.5);
-  @include breakpoint(medium) {
-    @include padding(3, 3, 3, 3);
+.home__featured__post {
+  .image {
+    margin-bottom: 1rem;
+  }
+
+  a {
+    color: $black;
+    &:hover {
+      color: $primary-color;
+    }
   }
 }
 
-.home__why {
+.home__why, .home__featured__posts {
   @include padding(1.5, 0, 1.5, 0);
   @include breakpoint(medium) {
     @include padding(3, 3, 3, 3);
@@ -459,6 +465,13 @@ width: 100%;
   &:hover {
   box-shadow: 5px 5px 0px $medium-gray;
   }
+}
+
+.shadow--blogs {
+  box-shadow: 5px 5px 0px $grey-blue;
+}
+.shadow--events {
+  box-shadow: 5px 5px 0px $green;
 }
 
 .page__title {

@@ -10856,25 +10856,21 @@ p a {
   padding-bottom: 0.5rem;
   border-bottom: 4px solid #3C31D5; }
 
-.home__description__left {
-  padding-top: 1.5rem !important;
-  padding-right: 1.5rem !important;
-  padding-bottom: 1.5rem !important;
-  padding-left: 1.5rem !important; }
-  @media print, screen and (min-width: 40em) {
-    .home__description__left {
-      padding-top: 3rem !important;
-      padding-right: 3rem !important;
-      padding-bottom: 3rem !important;
-      padding-left: 3rem !important; } }
+.home__featured__post .image {
+  margin-bottom: 1rem; }
 
-.home__why {
+.home__featured__post a {
+  color: #373A3C; }
+  .home__featured__post a:hover {
+    color: #3C31D5; }
+
+.home__why, .home__featured__posts {
   padding-top: 1.5rem !important;
   padding-right: 0rem !important;
   padding-bottom: 1.5rem !important;
   padding-left: 0rem !important; }
   @media print, screen and (min-width: 40em) {
-    .home__why {
+    .home__why, .home__featured__posts {
       padding-top: 3rem !important;
       padding-right: 3rem !important;
       padding-bottom: 3rem !important;
@@ -10993,6 +10989,12 @@ footer .icon {
   box-shadow: 5px 5px 0px #3C31D5; }
   .shadow:hover {
     box-shadow: 5px 5px 0px #7e8da3; }
+
+.shadow--blogs {
+  box-shadow: 5px 5px 0px #363F4E; }
+
+.shadow--events {
+  box-shadow: 5px 5px 0px #25cb55; }
 
 .page__title {
   padding-top: 1.5rem !important; }
