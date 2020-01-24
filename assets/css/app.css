@@ -11014,6 +11014,17 @@ footer .icon {
 .label--tag {
   background-color: #7e8da3; }
 
+.label--news {
+  background-color: #3C31D5;
+  color: #fefefe; }
+
+.label--blogs {
+  background-color: #363F4E; }
+
+.label--events {
+  background-color: #25cb55;
+  color: #fefefe; }
+
 .guide__page {
   border-top: 1rem solid #3C31D5; }
   .guide__page .shadow {

@@ -1,7 +1,7 @@
 {% if include.categories != empty %}
   <div class="small-12 medium-shrink cell">
     {% for category in include.categories %}
-    <a href="/latest/{{ category | slugify }}" class="label text-capitalize">{{ category }}</a>
+    <a href="/latest/{{ category | slugify }}" class="label text-capitalize label--{{category | slugify}}">{{ category }}</a>
     {% endfor %}
   </div>
 {% endif %}

@@ -482,6 +482,17 @@ width: 100%;
 .label--tag {
   background-color: $medium-gray;
 }
+.label--news {
+  background-color: $primary-color;
+  color: $white;
+}
+.label--blogs {
+  background-color: $grey-blue;
+}
+.label--events {
+  background-color: $green;
+  color: $white;
+}
 
 $consider: #DB00C9;
 $commit: #7F12E0;
