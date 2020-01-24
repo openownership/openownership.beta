@@ -290,6 +290,14 @@
 		"oAP": "/_includes/blocks/excerpt.html",
 		"oF": 0
 		},
+	"/_includes/blocks/post.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/blocks/post.html",
+		"oF": 0
+		},
 	"/_includes/blocks/posts.html": {
 		"cB": 0,
 		"ft": 8192,
