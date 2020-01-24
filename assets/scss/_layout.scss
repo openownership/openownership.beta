@@ -488,10 +488,6 @@ width: 100%;
   }
 }
 
-.label:hover {
-  color: rgba($white, 0.75);
-}
-
 .label--tag {
   background-color: $medium-gray;
 }
@@ -862,5 +858,13 @@ padding-top: 3rem;
 
   &:first-of-type {
     border-top: none;
+  }
+
+  .label {
+    color: $white;
+    margin-right: 1rem;
+    &:hover {
+      color: rgba($white, 0.75);
+    }
   }
 }

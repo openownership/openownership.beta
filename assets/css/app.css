@@ -11010,9 +11010,6 @@ footer .icon {
   .page__title p {
     font-size: 1.25em; }
 
-.label:hover {
-  color: rgba(254, 254, 254, 0.75); }
-
 .label--tag {
   background-color: #7e8da3; }
 
@@ -11296,3 +11293,9 @@ footer .icon {
 
 .post:first-of-type {
   border-top: none; }
+
+.post .label {
+  color: #fefefe;
+  margin-right: 1rem; }
+  .post .label:hover {
+    color: rgba(254, 254, 254, 0.75); }
