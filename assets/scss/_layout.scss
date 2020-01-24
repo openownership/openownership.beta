@@ -401,29 +401,8 @@ footer .icon {
   transform: translate(5px, 0);
 }
 
-.guide {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
-}
-
-.guide-page {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
-}
-
-.what-we-do {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
-}
-
-.get-involved {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
-}
-
-.connect {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
+.guide, .guide-page, .what-we-do, .get-involved, .connect, .latest {
+  background-color: #f4f7f8;
 }
 
 @mixin aspect-ratio($width, $height) {
@@ -490,6 +469,7 @@ width: 100%;
 
 .label--tag {
   background-color: $medium-gray;
+  margin-bottom: 1rem;
 }
 .label--news {
   background-color: $primary-color;
@@ -854,12 +834,6 @@ padding-top: 3rem;
 // X. Posts
 // --------
 .post {
-  @extend .border-top;
-
-  &:first-of-type {
-    border-top: none;
-  }
-
   .label {
     color: $white;
     margin-right: 1rem;

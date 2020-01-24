@@ -10660,7 +10660,7 @@ svg {
 .menu .menu-text {
   font-weight: normal; }
 
-.border-top, .post {
+.border-top {
   border-top: 1px solid #e6e6e6; }
 
 .border-bottom {
@@ -10931,19 +10931,7 @@ footer .icon {
 .external a:hover svg {
   transform: translate(5px, 0); }
 
-.guide {
-  background-color: #f4f7f8; }
-
-.guide-page {
-  background-color: #f4f7f8; }
-
-.what-we-do {
-  background-color: #f4f7f8; }
-
-.get-involved {
-  background-color: #f4f7f8; }
-
-.connect {
+.guide, .guide-page, .what-we-do, .get-involved, .connect, .latest {
   background-color: #f4f7f8; }
 
 .image {
@@ -11011,7 +10999,8 @@ footer .icon {
     font-size: 1.25em; }
 
 .label--tag {
-  background-color: #7e8da3; }
+  background-color: #7e8da3;
+  margin-bottom: 1rem; }
 
 .label--news {
   background-color: #3C31D5;
@@ -11290,9 +11279,6 @@ footer .icon {
 
 .guide-page img {
   padding: 2rem 0rem; }
-
-.post:first-of-type {
-  border-top: none; }
 
 .post .label {
   color: #fefefe;

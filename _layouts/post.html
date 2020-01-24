@@ -3,21 +3,18 @@ layout: default
 ---
 
 <!-- Post Title -->
+<!-- This should match _includes/blocks/title.html -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x padding-vertical-3 border-bottom">
-
-    <div class="small-12 cell">
+  <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
+    <div class="small-12 medium-10 large-8 cell" cell">
       <h1>{{ page.title }}</h1>
+      <p>
+        {% include blocks/categories.html categories=page.categories %}
+      </p>
+      <p class="medium-gray">
+        {% if page.author %}{{ page.author }} · {% endif %}{{ page.date | date: site.date_format }}
+      </p>
     </div>
-
-
-    <div class="small-12 medium-shrink cell">
-      <div class="margin-right-1 medium-gray">
-      {% if page.author %}{{ page.author }} · {% endif %}{{ page.date | date: site.date_format }}
-      </div>
-    </div>
-
-    {% include blocks/categories.html categories=page.categories %}
   </div>
 </section>
 <!-- End Post Title -->
@@ -32,24 +29,9 @@ layout: default
       {% endif %}
     </div>
   </div>
-</section>
-<!-- End Post Title -->
-
-<!-- Post Content -->
-<section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-8 cell">
-
-    {{ page.content }}
-
-    </div>
-  </div>
-</section>
-<!-- End Post Title -->
-
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-8 cell">
+    <div class="small-12 medium-10 large-8 cell">
+      {{ page.content }}
       {% include blocks/tags.html tags=page.tags %}
     </div>
   </div>
