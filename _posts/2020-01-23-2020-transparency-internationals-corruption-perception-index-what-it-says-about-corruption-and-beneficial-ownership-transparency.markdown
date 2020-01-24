@@ -12,8 +12,7 @@ The overall conclusion is that whilst some countries have increased or dropped b
 Commenting on the results OpenOwnership Executive Director Thom Townsend said: 
 > “The Corruption Perceptions Index provides valuable information about the context in which beneficial ownership reforms are taking place. OpenOwnership will be scrutinising this year’s results, focusing on Beneficial Ownership Leadership Group countries, as they take steps to disclose the true owners of companies. In many countries, tackling grand corruption is a key driver of beneficial ownership reform, and transparency over who owns companies is a fundamental step to tackling grand corruption and crime.”
 
-**Stocktake of Beneficial Ownership Leadership Group members:
-**
+**Stocktake of Beneficial Ownership Leadership Group members**:
 The Beneficial Ownership Leadership Group (BOLG) came together in 2019 to drive the global policy shift towards free, open beneficial ownership data. Each country, upon joining the BOLG, signs up to a set of best practice disclosure principles. Convened by OpenOwnership and Open Government Partnership, the group is comprised of Armenia, Kenya, Latvia, Mexico and Slovakia. 
 
 Armenia has made significant strides in the last year, and is rightly hailed by Transparency International and The Economist as a “country to watch”. Since the 2018 revolution, the country has demonstrated promising developments in advancing anti-corruption policy reforms. It is working closely with OpenOwnership in the development of its public registers and is set to launch one this year for the extractives industry . 
