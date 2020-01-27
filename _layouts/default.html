@@ -11,6 +11,12 @@ layout: compress
 
 <body class="{{page.layout | slugify}}">
 
+<!-- Google Tag Manager -->
+{% if site.tag_manager %}
+  {% include site/tag-manager-body.html %}
+{% endif %}
+<!-- End Google Tag Manager -->
+
 <!-- Off Canvas Navigation -->
 <div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="push" data-close-on-click="true">
 {% include off-canvas/menu.html %}

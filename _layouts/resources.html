@@ -18,9 +18,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y align-center">
 
     <div class="small-12 medium-6 large-2 cell">
-      <a href="{{ resource.file }}"
-         onclick="ga('send', 'event', {eventCategory: 'Download resource', eventAction: 'click', eventLabel: this.href})"
-         target="_blank">
+      <a href="{{ resource.file }}">
         <img src="{{ resource.thumbnail-image }}" class="image--resource">
       </a>
     </div>
@@ -29,10 +27,7 @@ layout: default
       <h5 class="sans-bold">{{resource .title}}</h5>
       <div class="medium-gray margin-bottom-1">{{resource.author }} · {{ resource.date | date: site.date_format }}</div>
       {{resource.content | markdownify}}
-      <a class="button margin-bottom-0"
-         href="{{resource.file}}"
-         onclick="ga('send', 'event', {eventCategory: 'Download resource', eventAction: 'click', eventLabel: this.href})"
-         target="_blank">
+      <a class="button margin-bottom-0" href="{{resource.file}}">
         View document
       </a>
     </div>
