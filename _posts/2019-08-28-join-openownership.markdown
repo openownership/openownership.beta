@@ -10,6 +10,9 @@ description: |-
 
   We know that good policy and solutions are informed by diverse and inclusive teams, and we strongly encourage people from marginalized backgrounds and communities to apply. We’re also actively looking to diversify our geographical presence, and are accepting applications within 5 hours \+/- of GMT.
 author: Mollie Hanley
+permalink: news/join-openownership/
+categories:
+  - news
 ---
 
 For the past three years OpenOwnership has been at the forefront of the campaign for transparent data about who owns companies. With a small team we’ve achieved a lot, including creating the world’s first [Beneficial Ownership Data Standard](https://standard.openownership.org/en/v0-1/), building the first [Global Beneficial Ownership Register](https://register.openownership.org/), and [supporting](https://www.openownership.org/what-we-do/the-openownership-pilot-program/) Ukraine, Kyrgyz Republic, Nigeria, Ghana and a number of other countries on their path to implementation.

@@ -5,6 +5,9 @@ tags:
 - the beneficial ownership data standard
 image: "/uploads/introducing.jpg"
 author: Tim Davies
+permalink: news/the-beneficial-ownership-data-standard-is-now-in-beta/
+categories:
+  - news
 ---
 
 ## What specific fields of data should a beneficial ownership register collect and publish for re-use? How can that information be shared so that other individuals and systems can integrate, interpret, analyse and take action with it?

@@ -12,6 +12,9 @@ description: In a new report, OpenOwnership, The Engine Room, and The B Team pro
   to privacy, borrowing from the structured analysis of international human rights
   law.
 author: Adriana Edmeades-Jones and Tom Walker, for The Engine Room
+permalink: news/guest-post-evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries/
+categories:
+  - blogs
 ---
 
 The abuse of anonymous companies to facilitate corruption, tax evasion and other sorts of criminal activity has prompted reformers to call for corporations and other legal entities to provide governments with accurate information on the true (or “beneficial”) human owners of these companies. A wide range of stakeholders from civil society and business have argued that governments should not only compile such beneficial ownership registries, but should make them public.

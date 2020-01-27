@@ -8,6 +8,9 @@ tags:
 - private sector engagement
 image: "/uploads/faqs.jpg"
 author: Zosia Sztykowski
+permalink: news/faqs-openownership/
+categories:
+  - blogs
 ---
 
 On April 3, 2017, the public beta of the OpenOwnership Register launches. Below, we answer some frequently asked questions about the project and the register. Don’t hesitate to [reach out to us](mailto:info@openownership.org) if you’re wondering about something that isn’t covered here.

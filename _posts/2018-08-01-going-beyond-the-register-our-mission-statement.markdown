@@ -8,6 +8,9 @@ tags:
 - transparency
 image: "/uploads/mission-statement.jpg"
 author: Zosia Sztykowski
+permalink: news/going-beyond-the-register-our-mission-statement/
+categories:
+  - blogs
 ---
 
 Our founding organizations came together because of a shared vision: freely accessible, linked beneficial ownership information for the benefit of both business and society.

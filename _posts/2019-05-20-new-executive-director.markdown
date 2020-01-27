@@ -5,6 +5,9 @@ description: Over the past two months, I’ve been leading the search for an awe
   Executive Director for Open Ownership to take the organisation’s work to the next
   level of global scale and impact. This big news is that we’ve found someone amazing...
 author: Dr. Gavin Hayman
+permalink: news/new-executive-director/
+categories:
+- news
 ---
 
 I’ve big news for everyone, everywhere working on ending impunity and financial crime.

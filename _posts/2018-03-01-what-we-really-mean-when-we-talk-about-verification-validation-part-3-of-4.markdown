@@ -7,6 +7,9 @@ tags:
 - validation
 image: "/uploads/what-we-mean.jpg"
 author: Zosia Sztykowski and Chris Taggart
+permalink: news/what-we-really-mean-when-we-talk-about-verification-validation-part-3-of-4/
+categories:
+  - blogs
 ---
 
 Welcome to the third instalment of our four-part blog post series on verification. To recap, in our [first post](https://openownership.org/news/what-we-really-mean-when-we-talk-about-verification-part-1-of-4/), we broke down the term “verification” into three distinct steps:

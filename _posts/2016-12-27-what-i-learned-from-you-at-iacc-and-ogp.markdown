@@ -7,6 +7,9 @@ tags:
 - data register
 - conference
 author: Zosia Sztykowski
+permalink: news/what-i-learned-from-you-at-iacc-and-ogp/
+categories:
+  - blogs
 ---
 
 Representing OpenOwnership at both [the International Anti-Corruption Conference](http://iaccseries.org) and [the Open Government Partnership Summit](https://en.ogpsummit.org/osem/conference/ogp-summit) was an inspiring way to debut our project to build a global, linked register of beneficial ownership.

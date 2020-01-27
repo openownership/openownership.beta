@@ -10,6 +10,9 @@ description: Check out our guest blog from Sean Martin McDonald, tackling the qu
   CIGI senior fellow and the co-founder of Digital Public, which builds legal trusts
   to protect and govern digital assets.
 author: Sean Martin McDonald
+permalink: news/whats-in-a-name/
+categories:
+  - blogs
 ---
 
 OpenOwnership was built on a relatively simple idea: it should be easy to understand who owns companies. That has been OpenOwnership’s clear, and relatively singular, mission since its founding - and by most measures, it’s been a resounding success. OpenOwnership has focused on beneficial ownership registries and supported a range of governments to prepare and publish corporate ownership information.

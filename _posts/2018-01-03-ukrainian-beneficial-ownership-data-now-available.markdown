@@ -10,6 +10,9 @@ tags:
 - language
 image: "/uploads/ukraine-report.jpg"
 author: Zosia Sztykowski
+permalink: news/ukrainian-beneficial-ownership-data-now-available/
+categories:
+  - news
 ---
 
 The [OpenOwnership Register](https://register.openownership.org/) has been updated to include information about the beneficial owners of over 240,000 Ukrainian companies.

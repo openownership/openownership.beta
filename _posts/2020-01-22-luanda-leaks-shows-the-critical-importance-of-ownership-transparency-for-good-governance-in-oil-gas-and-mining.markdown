@@ -5,6 +5,7 @@ date: 2020-01-22 20:39:00 Z
 image: "/uploads/Luanda.png"
 author: OpenOwnership
 is_featured: true
+permalink: news/luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining/
 categories:
   - blogs
 ---

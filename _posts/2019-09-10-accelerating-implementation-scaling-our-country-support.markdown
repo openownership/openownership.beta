@@ -11,6 +11,9 @@ description: Since OpenOwnership was founded three years ago, the momentum for b
   ownership transparency, and are increasingly looking to OpenOwnership for guidance
   on how to implement.
 author: Louise Russell-Prywata
+permalink: news/accelerating-implementation-scaling-our-country-support/
+categeories:
+  - blogs
 ---
 
 Since OpenOwnership was founded three years ago, the momentum for beneficial ownership transparency has grown enormously. The EU’s 5th Anti-Money Laundering Directive is shifting the norm towards public beneficial ownership registers, and from 2020 the 52 [Extractive Industries Transparency Initiative](https://eiti.org/homepage) countries will be required to publish beneficial owners of extractives companies. More countries are committing to beneficial ownership transparency, and are increasingly looking to OpenOwnership for guidance on how to implement.

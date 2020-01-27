@@ -8,6 +8,9 @@ tags:
 - investment
 image: "/uploads/uncertain.jpg"
 author: Eryn Schornick
+permalink: news/in-uncertain-times-transparency-is-a-must-for-investors/
+categories:
+  - blogs
 ---
 
 *That was supposed to be going up, wasn't it? São Paulo Stock Exchange, [Rafael Matsunaga](https://www.flickr.com/photos/rednuht/ "Go to Rafael Matsunaga's photostream")*

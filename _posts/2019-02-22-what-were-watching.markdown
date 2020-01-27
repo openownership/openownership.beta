@@ -8,6 +8,9 @@ description: At our recent team retreat we shared the films we’re watching and
   of transparency and data, whereas others are a little more leftfield. All are worth
   investigating, and give you some insight on how our minds work!
 author: Francesca Baker
+permalink: news/what-were-watching/
+categories:
+  - blogs
 ---
 
 At our recent team retreat we shared the films we’re watching and podcasts we’re listening to. As well as giving us some ideas of media to tuck into, it was a great way to learn more about our colleagues. Some of them overtly address issues of transparency and data, whereas others are a little more leftfield. All are worth investigating, and give you some insight on how our minds work!

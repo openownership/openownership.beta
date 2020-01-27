@@ -18,6 +18,9 @@ description: Over the last few years, there’s been significant progress toward
   support by platforms like the [Extractive Industry Transparency Initiative](https://eiti.org/)
   (EITI) and OGP.
 author: Dr Loren Treisman and Cathy Greene
+permalink: news/from-the-why-to-the-how-working-with-eiti/
+categories:
+  - blogs
 ---
 
 Over the last few years, there’s been significant progress towards making beneficial ownership transparency (BOT) a global norm, with 18 countries making beneficial ownership-related commitments in their [Open Government Partnership](https://www.opengovpartnership.org/) (OGP) National Actions Plans. This growing momentum is encouraging given the potential for implementation efforts to achieve significant policy impact, and to contribute towards a global drive to abate corruption and increase trust between citizens, government and business. This process can be strengthened through coordination and support by platforms like the [Extractive Industry Transparency Initiative](https://eiti.org/) (EITI) and OGP.

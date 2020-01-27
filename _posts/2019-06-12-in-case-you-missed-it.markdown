@@ -14,6 +14,9 @@ description: A blog post summarising key news and activities from May 2019 inclu
   how anonymous companies are being used to channel illicit financial flows, among
   other things.
 author: Dr Loren Treisman
+permalink: news/in-case-you-missed-it/
+categories:
+  - blogs
 ---
 
 It’s been an exhilarating month for us at OpenOwnership. So much has happened that we thought we’d showcase the key events in this blog post.

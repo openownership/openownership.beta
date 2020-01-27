@@ -4,6 +4,7 @@ date: 2019-12-24 12:48:00 Z
 image: "/uploads/2019%20blog%20image.png"
 author: Victor Ponsford
 is_featured: true
+permalink: news/2019-in-review-the-events-shaping-the-beneficial-ownership-transparency-landscape/
 categories:
   - blogs
 ---

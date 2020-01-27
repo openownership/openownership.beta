@@ -12,6 +12,9 @@ description: In February 2019, alongside the 42nd EITI International Board meeti
   transparency in the Kyrgyz Republic’s extractives sector. This blog post explains
   our top three takeaways for implementation.
 author: Louise Russell-Prywata
+permalink: news/three-takeaways-from-kyrgyz-republic-on-implementing-beneficial-ownership-transparency/
+categories:
+  - blogs
 ---
 
 The Kyrgyz Republic is one of over 50 countries who have committed, through the Extractive Industries Transparency Initiative (EITI) Standard, to publishing the beneficial owners of extractives license holders by 1 January 2020. Together these countries have the potential to create a new norm of beneficial ownership transparency in extractives, reducing the opportunities for corruption in this high value, high risk sector.

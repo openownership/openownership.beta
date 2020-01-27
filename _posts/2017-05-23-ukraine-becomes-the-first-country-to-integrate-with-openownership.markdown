@@ -10,6 +10,9 @@ image: "/uploads/ukraine-first.jpg"
 author: Zosia Sztykowski
 image-caption: Ukraine's Minister of Justice, Pavlo Petrenko. signs a memorandum of
   understanding with OpenOwnership at a ceremony yesterday
+permalink: news/ukraine-becomes-the-first-country-to-integrate-with-openownership/
+categories:
+  - news
 ---
 
 We’re delighted to announce that yesterday, Ukraine signed up to become the first country to integrate its national central register of beneficial ownership with the OpenOwnership Register. This means that Ukraine’s beneficial ownership data will be automatically available on the OpenOwnership Register, and linked to data from around the world.

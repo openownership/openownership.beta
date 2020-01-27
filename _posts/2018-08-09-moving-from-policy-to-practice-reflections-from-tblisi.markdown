@@ -9,6 +9,9 @@ tags:
 - georgia
 image: "/uploads/tsibli.jpg"
 author: Kadie Armstrong
+permalink: news/moving-from-policy-to-practice-reflections-from-tblisi/
+categories:
+  - blogs
 ---
 
 Our team traveled to the Open Government Partnership’s Global Summit in Tbilisi with an important message to deliver: it’s time to make user needs the focus of beneficial ownership transparency.

@@ -3,7 +3,9 @@ title: 'Request for proposals: graphic design and videographic services'
 date: 2019-12-01 14:23:00 Z
 image: "/uploads/design%20IoE%20blog%20post%20image-58e892.png"
 author: OpenOwnership
-Field name: 
+permalink: news/request-for-proposals-graphic-design-and-videographic-services/
+categories:
+  - news
 ---
 
 *Summary*

@@ -14,6 +14,9 @@ description: We’re excited to be launching a new version of our graph visualis
   easily interpret the data to expose corruption, undertake due diligence and support
   policy impact.
 author: Laurence Bascle
+permalink: news/what-graph-visualisation-teaches-us-about-beneficial-ownership/
+categories:
+  - blogs
 ---
 
 We’re excited to be launching a new version of our graph visualisation functionality to the [OpenOwnership Register](https://register.openownership.org/).  We hope this will act as a powerful resource for journalists, policy makers and civil society by allowing them to more easily interpret the data to expose corruption, undertake due diligence and support policy impact.

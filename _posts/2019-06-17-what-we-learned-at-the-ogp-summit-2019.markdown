@@ -8,6 +8,9 @@ description: 'We’ve returned from the 2019 OGP Summit in Ottawa with our spiri
   event brought together senior government officials and a broad spectrum of civil
   society organisations to discuss common challenges and new solutions in open government.  '
 author: Dr Loren Treisman
+permalink: news/what-we-learned-at-the-ogp-summit-2019/
+categories:
+  - blogs
 ---
 
 We’ve returned from the 2019 [OGP Summit](https://www.opengovpartnership.org/events/ogp-global-summit-2019-ottawa-canada/) in Ottawa with our spirits high.  The event brought together senior government officials and a broad spectrum of civil society organisations to discuss common challenges and new solutions in open government.

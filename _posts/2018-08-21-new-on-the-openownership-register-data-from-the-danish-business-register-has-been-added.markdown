@@ -9,6 +9,9 @@ tags:
 - register
 image: "/uploads/denmark.jpg"
 author: Aleksi Knuutila
+permalink: news/new-on-the-openownership-register-data-from-the-danish-business-register-has-been-added/
+categories:
+  - news
 ---
 
 Denmark is the latest country to be added to the [OpenOwnership Register](https://register.openownership.org/), the global platform that brings together beneficial ownership information from around the world. Data from the Danish Business Register on  about 300,000 companies can now be browsed and searched through our online portal. This addition also marks a significant milestone for us, taking the total count of companies represented in our database to over 5 million.

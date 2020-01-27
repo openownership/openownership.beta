@@ -10,6 +10,9 @@ tags:
 - ukraine
 image: "/uploads/ukraine-signs.jpg"
 author: Louise Russell-Prywata
+permalink: news/ukrainemou/
+categories:
+  - news
 ---
 
 OpenOwnership is delighted to announce that Ukraine is set to become the first country to implement the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/schema-beta-2/), a framework for collecting and publishing beneficial ownership information as open data.

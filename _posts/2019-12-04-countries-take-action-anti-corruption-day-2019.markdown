@@ -7,6 +7,9 @@ description: To mark International Anti-Corruption Day (December 9th), we are ta
   World Bank, to call time on the use of anonymous company ownership facilitating
   corruption and societal harms like trafficking and modern slavery.
 author: OpenOwnership
+permalink: news/countries-take-action-anti-corruption-day-2019/
+categories:
+  - news
 ---
 
 To mark International Anti-Corruption Day (December 9th), we are taking action with our partners to call time on the use of anonymous company ownership facilitating corruption and societal harms like trafficking and modern slavery. In collaboration with Open Government Partnership, the UK Government and World Bank, we are launching a day of action including two events to advance the shift towards beneficial ownership transparency around the world.

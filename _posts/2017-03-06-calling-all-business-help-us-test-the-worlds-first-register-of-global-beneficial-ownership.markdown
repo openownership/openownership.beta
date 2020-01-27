@@ -9,6 +9,9 @@ tags:
 - openownership register
 image: "/uploads/calling.jpg"
 author: Madeleine McCarroll
+permalink: news/calling-all-business-help-us-test-the-worlds-first-register-of-global-beneficial-ownership/
+categories:
+  - blogs
 ---
 
 OpenOwnership is building the world’s first open Global Beneficial Ownership Register which will serve as an authoritative source of data about who owns and controls companies, for the benefit of all. Why? Transparency around corporate control and ownership is not just essential to tackling corruption, but also as a foundation for business integrity, helping society and business to thrive.

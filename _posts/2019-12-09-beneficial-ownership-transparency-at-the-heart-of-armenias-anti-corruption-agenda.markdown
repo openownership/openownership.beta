@@ -8,6 +8,9 @@ image: "/uploads/artak-petrosyan-vwvshYHYAZs-unsplash.jpg"
 description: Photo by [Artak Petrosyan ](https://unsplash.com/@artakpetrosyan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
   [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 author: Louise Russell-Prywata
+permalink: news/beneficial-ownership-transparency-at-the-heart-of-armenias-anti-corruption-agenda/
+categories:
+  - blogs
 ---
 
 This month, OpenOwnership has been in Yerevan providing technical assistance to support the development of Armenia's beneficial ownership register, and conducting the next phase of our scoping review of opportunities to advance beneficial ownership transparency.

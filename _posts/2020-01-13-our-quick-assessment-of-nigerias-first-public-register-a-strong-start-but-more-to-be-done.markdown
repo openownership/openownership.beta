@@ -5,6 +5,7 @@ date: 2020-01-13 16:16:00 Z
 image: "/uploads/NEITI%20portal%20blog%20image%20(1).png"
 author: OpenOwnership
 is_featured: true
+permalink: news/our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done/
 categories:
   - news
 ---
