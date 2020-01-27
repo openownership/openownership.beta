@@ -7,7 +7,6 @@ tags:
 - the beneficial ownership data standard
 - ukraine
 - openownership register
-- language
 image: "/uploads/ukraine-report.jpg"
 author: Zosia Sztykowski
 permalink: news/ukrainian-beneficial-ownership-data-now-available/

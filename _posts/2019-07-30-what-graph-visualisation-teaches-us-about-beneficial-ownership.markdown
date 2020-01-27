@@ -2,11 +2,9 @@
 title: What graph visualisation teaches us about beneficial ownership
 date: 2019-07-30 09:00:00 Z
 tags:
-- graph visualisation
-- data
+- visualisation
 - the beneficial ownership data standard
 - openownership register
-- data jam
 image: "/uploads/IMGP1652-small%20copy.jpg"
 description: We’re excited to be launching a new version of our graph visualisation
   functionality to the OpenOwnership Register.  We hope this will act as a powerful

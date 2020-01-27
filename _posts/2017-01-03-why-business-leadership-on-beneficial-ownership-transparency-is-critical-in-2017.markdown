@@ -4,7 +4,6 @@ title: Why business leadership on beneficial ownership transparency is critical 
 date: 2017-01-03 10:39:00 Z
 tags:
 - private sector engagement
-- business leadership
 author: Madeleine McCarroll
 permalink: news/why-business-leadership-on-beneficial-ownership-transparency-is-critical-in-2017/
 categories:

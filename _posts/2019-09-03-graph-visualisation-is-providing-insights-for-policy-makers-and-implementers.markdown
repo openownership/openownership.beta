@@ -4,9 +4,7 @@ date: 2019-09-03 10:00:00 Z
 tags:
 - the beneficial ownership data standard
 - openownership register
-- graph visualisation
-- policy impact
-- Anticorruption
+- visualisation
 image: "/uploads/IMGP1654.JPG"
 description: 'In our last blog in this series, we showcased our new graph visualisation
   tool, which enables investigators to better understand the complex ownership networks

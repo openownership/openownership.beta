@@ -1,9 +1,6 @@
 ---
 title: What's in a name?
 date: 2019-11-08 09:00:00 Z
-tags:
-- open data
-- public good
 image: "/uploads/aurelie-tack-D2k_7YlRLTs-unsplash.jpg"
 description: Check out our guest blog from Sean Martin McDonald, tackling the questions
   of why the focus open ownership, and what those words really mean. McDonald is a

@@ -5,8 +5,6 @@ date: 2018-10-22 17:55:00 Z
 tags:
 - 1-1 technical assistance
 - the beneficial ownership data standard
-- mou
-- private sector engagement
 - ukraine
 image: "/uploads/ukraine-signs.jpg"
 author: Louise Russell-Prywata

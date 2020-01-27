@@ -1,9 +1,6 @@
 ---
 title: After the Panama Papers, Europe can’t go back to business as usual
 date: 2016-12-20 14:04:00 Z
-tags:
-- data standard
-- working groups
 permalink: news/after-the-panama-papers-europe-cant-go-back-to-business-as-usual/
 categories:
   - blogs

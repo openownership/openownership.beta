@@ -4,10 +4,8 @@ date: 2019-02-04 10:14:00 Z
 tags:
 - the beneficial ownership data standard
 - the openownership pilot program
-- pilot program
-- BODS
 - ukraine
-- Kyrgyz Republic
+- kyrgyz republic
 image: "/uploads/why-pilot-program-02.jpg"
 description: OpenOwnership’s goal is to to create an open data and policy ecosystem
   that ends the abuse of anonymously owned companies. We create tools, provide assistance,

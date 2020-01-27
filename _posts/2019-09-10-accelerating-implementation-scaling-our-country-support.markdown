@@ -1,10 +1,6 @@
 ---
 title: 'Accelerating Implementation: Scaling Our Country Support'
 date: 2019-09-10 20:28:00 Z
-tags:
-- policy impact
-- impact
-- hiring
 image: "/uploads/kurt-cotoaga-cqbLg3lZEpk-unsplash.jpg"
 description: Since OpenOwnership was founded three years ago, the momentum for beneficial
   ownership transparency has grown enormously. More countries are committing to beneficial

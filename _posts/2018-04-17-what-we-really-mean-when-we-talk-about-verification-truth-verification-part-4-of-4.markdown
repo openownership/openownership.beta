@@ -5,7 +5,6 @@ date: 2018-04-17 12:54:00 Z
 tags:
 - the beneficial ownership data standard
 - verification
-- data standard
 image: "/uploads/truth.jpg"
 author: Zosia Sztykowski
 permalink: news/what-we-really-mean-when-we-talk-about-verification-truth-verification-part-4-of-4/

@@ -4,8 +4,6 @@ title: Calling all businesses! Help us test the world's first register of global
 date: 2017-03-06 17:51:00 Z
 tags:
 - private sector engagement
-- business
-- AML
 - openownership register
 image: "/uploads/calling.jpg"
 author: Madeleine McCarroll

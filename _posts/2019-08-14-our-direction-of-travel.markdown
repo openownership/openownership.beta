@@ -1,14 +1,6 @@
 ---
 title: 'Building on momentum: our direction of travel'
 date: 2019-08-14 10:30:00 Z
-tags:
-- beneficial ownership
-- scaling
-- Executive Director
-- Anticorruption
-- policy
-- tech
-- open data
 image: "/uploads/Photo%20Thom%20blogb.jpg"
 description: No one disagrees that beneficial ownership data is valuable, but we are
   unequivocal about why open registers create more effective economies, reduce friction

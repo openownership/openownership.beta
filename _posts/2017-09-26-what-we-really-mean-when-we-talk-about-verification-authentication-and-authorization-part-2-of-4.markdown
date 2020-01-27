@@ -3,7 +3,6 @@ title: 'What we really mean when we talk about verification: Authentication & au
   (Part 2 of 4)'
 date: 2017-09-26 15:10:00 Z
 tags:
-- authentication
 - verification
 author: Zosia Sztykowski and Chris Taggart
 permalink: news/what-we-really-mean-when-we-talk-about-verification-authentication-and-authorization-part-2-of-4/

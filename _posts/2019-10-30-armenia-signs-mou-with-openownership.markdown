@@ -2,9 +2,8 @@
 title: Armenia signs MoU with OpenOwnership
 date: 2019-10-30 15:05:00 Z
 tags:
-- Beneficial Ownership Leadership Group
+- beneficial ownership leadership group
 - 1-1 technical assistance
-- partnership
 image: "/uploads/EICcuoNXYAAqwNE.jpg"
 description: Signing ceremony and technical workshop in Yerevan launches start of
   a partnership between OpenOwnership and the Armenian Government, taking a step towards

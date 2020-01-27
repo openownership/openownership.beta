@@ -5,7 +5,6 @@ tags:
 - the openownership pilot program
 - ukraine
 - openownership register
-- pilot program
 image: "/uploads/ukraine-first.jpg"
 author: Zosia Sztykowski
 image-caption: Ukraine's Minister of Justice, Pavlo Petrenko. signs a memorandum of

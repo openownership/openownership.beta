@@ -1,8 +1,6 @@
 ---
 title: We're hiring!
 date: 2018-09-28 13:27:00 Z
-tags:
-- hiring
 image: "/uploads/hiring.jpg"
 author: Zosia Sztykowski
 image-caption:

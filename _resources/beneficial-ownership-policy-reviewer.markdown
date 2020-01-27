@@ -2,12 +2,8 @@
 title: Beneficial Ownership Policy Reviewer
 date: 2019-05-20 00:00:00 Z
 tags:
-- beneficial ownership data standard
-- Policy
-- data protection
-- beneficial ownership
+- the beneficial ownership data standard
 - privacy
-- public interest
 file: "/uploads/oo-bo-policy-reviewer-interactive.pdf"
 thumbnail-image: "/uploads/oo-beneficial-ownership-policy-reviewer-image.JPG"
 ---

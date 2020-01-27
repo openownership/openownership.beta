@@ -4,9 +4,7 @@ title: New on the OpenOwnership Register - data from the Danish Business Registe
 date: 2018-08-21 10:02:00 Z
 tags:
 - the openownership pilot program
-- denmark
-- data register
-- register
+- openownership register
 image: "/uploads/denmark.jpg"
 author: Aleksi Knuutila
 permalink: news/new-on-the-openownership-register-data-from-the-danish-business-register-has-been-added/

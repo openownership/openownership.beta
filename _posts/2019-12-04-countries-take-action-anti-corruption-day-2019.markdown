@@ -1,6 +1,8 @@
 ---
 title: Countries take leadership to end the shell game on Anti Corruption Day 2019
 date: 2019-12-04 11:04:00 Z
+tags:
+  - open government partnership
 image: "/uploads/anticorruptionblogupdate.png"
 description: To mark International Anti-Corruption Day (December 9th), we are taking
   action, in collaboration with Open Government Partnership, the UK Government and

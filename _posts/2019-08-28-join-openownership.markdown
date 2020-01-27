@@ -1,9 +1,6 @@
 ---
 title: 'We’re Hiring: Join OpenOwnership'
 date: 2019-08-28 10:08:00 Z
-tags:
-- hiring
-- policy
 image: "/uploads/join-openownership.jpg"
 description: |-
   As the demand for transparency is growing, so is OpenOwnership. We’re currently recruiting a [Policy and Research Manager](https://www.openownership.org/jobs/) and two [Country Managers](https://www.openownership.org/jobs/) to help scale our work at a critical time in the fight for corporate transparency. For more information, visit our [job site](https://www.openownership.org/jobs/).

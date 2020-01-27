@@ -3,8 +3,6 @@ title: 'Coming soon: A beneficial ownership data standard'
 date: 2016-11-28 11:26:00 Z
 tags:
 - the beneficial ownership data standard
-- data standard
-- working groups
 image: "/uploads/coming-soon.jpg"
 author: Chris Taggart
 permalink: news/coming-soon-a-beneficial-ownership-data-standard/

@@ -5,9 +5,7 @@ title: |-
   verification
 date: 2019-06-27 10:21:00 Z
 tags:
-- Beneficial ownership
 - verification
-- data quality
 description: A guide to data quality and verification
 file: "/uploads/oo-verification-presentation.pdf"
 thumbnail-image: "/uploads/oo-verification-image.JPG"

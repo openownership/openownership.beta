@@ -2,11 +2,8 @@
 title: In Case You Missed It
 date: 2019-06-12 08:22:00 Z
 tags:
-- beneficial ownership
-- Beneficial Ownership Leadership Group
-- Implementation Guidance
-- open government partnership global summit
-- Open Government
+- beneficial ownership leadership group
+- open government partnership
 image: "/uploads/fabrizio-verrecchia-448425-unsplash.jpg"
 description: A blog post summarising key news and activities from May 2019 including
   the launch of a Beneficial Ownership Leadership Group, our Guide to Implementing

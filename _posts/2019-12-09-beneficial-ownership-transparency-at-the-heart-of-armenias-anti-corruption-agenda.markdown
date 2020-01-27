@@ -3,7 +3,7 @@ title: 'Beneficial ownership transparency: at the heart of Armenia’s anti-corr
   agenda'
 date: 2019-12-09 10:53:00 Z
 tags:
-- Beneficial Ownership Leadership Group
+- beneficial ownership leadership group
 image: "/uploads/artak-petrosyan-vwvshYHYAZs-unsplash.jpg"
 description: Photo by [Artak Petrosyan ](https://unsplash.com/@artakpetrosyan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
   [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

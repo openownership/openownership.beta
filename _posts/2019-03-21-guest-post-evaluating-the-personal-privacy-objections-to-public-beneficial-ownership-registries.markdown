@@ -5,7 +5,6 @@ date: 2019-03-21 08:48:00 Z
 tags:
 - private sector engagement
 - privacy
-- data protection
 image: "/uploads/privacy.jpg"
 description: In a new report, OpenOwnership, The Engine Room, and The B Team propose
   a framework to evaluate the issue of beneficial ownership registers and the right
