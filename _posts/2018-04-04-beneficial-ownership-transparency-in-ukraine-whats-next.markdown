@@ -1,10 +1,9 @@
 ---
 title: 'Beneficial ownership transparency in Ukraine: what’s next?'
 date: 2018-04-04 13:20:00 Z
-categories:
+tags:
 - the openownership pilot program
 - 1-1 technical assistance
-tags:
 - ukraine
 - openownership register
 image: "/uploads/ukraine.jpg"

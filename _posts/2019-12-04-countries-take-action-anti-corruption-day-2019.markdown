@@ -13,31 +13,31 @@ To mark International Anti-Corruption Day (December 9th), we are taking action w
 
 ## Anti-corruption day actions
 
-Action 1 - High level expert panel 
+Action 1 - High level expert panel
 
-A high level panel event will be taking place at the World Bank HQ on December 9th showcasing support for activity and discussing the key policy opportunities and the importance of beneficial ownership transparency for the global anti-poverty agenda. This event will be live streamed, open to the public and we encourage you to write questions in advance. 
+A high level panel event will be taking place at the World Bank HQ on December 9th showcasing support for activity and discussing the key policy opportunities and the importance of beneficial ownership transparency for the global anti-poverty agenda. This event will be live streamed, open to the public and we encourage you to write questions in advance.
 
 **Moderator**: Thom Townsend, Executive Director, Open Ownership
 
-**Speakers**: 
+**Speakers**:
 
-* Alex Cobham, Tax Justice Network 
+* Alex Cobham, Tax Justice Network
 * David Szakonyi, George Washington University
 * Andrej Leontiev, Taylor Wessing
 
-More information can be found online here: [https://live.worldbank.org/ending-shell-game](https://live.worldbank.org/ending-shell-game) 
+More information can be found online here: [https://live.worldbank.org/ending-shell-game](https://live.worldbank.org/ending-shell-game)
 
-### Action 2 - Countries join beneficial ownership leadership group 
+### Action 2 - Countries join beneficial ownership leadership group
 
-Confirmed signatories as of 13:00 on 9.12.12: 
+Confirmed signatories as of 13:00 on 9.12.12:
 
 * Armenia ([announcement](/uploads/Declaration_Armenia.pdf))
-* Kenya ([announcement]) 
-* Latvia ([announcement](https://twitter.com/Tieslietas/status/1200052790069989376?s=20)) 
-* Mexico ([announcement](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es)) 
-* Slovakia ([announcement](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611))  
+* Kenya ([announcement])
+* Latvia ([announcement](https://twitter.com/Tieslietas/status/1200052790069989376?s=20))
+* Mexico ([announcement](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es))
+* Slovakia ([announcement](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611))
 
-We are formally inviting countries to join the Beneficial Ownership Leadership Group, which has been developed by the UK Government with support from OpenOwnership and Open Government Partnership. 
+We are formally inviting countries to join the Beneficial Ownership Leadership Group, which has been developed by the UK Government with support from OpenOwnership and Open Government Partnership.
 
 By joining the Beneficial Ownership Leadership Group each country will be signing up to a set of best practice disclosure principles dedicated to:
 
@@ -49,4 +49,4 @@ By joining the Beneficial Ownership Leadership Group each country will be signin
 * Engaging other partners, including governments and international institutions, to advance the objective of making beneficial ownership transparency a global norm; and
 * Contributing to evaluation and impact assessment of our shared approach.
 
-Follow us on twitter [@openownership](https://twitter.com/openownership) to keep up to date. 
+Follow us on twitter [@openownership](https://twitter.com/openownership) to keep up to date.

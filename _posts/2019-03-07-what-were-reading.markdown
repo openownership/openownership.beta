@@ -1,8 +1,6 @@
 ---
 title: What we're reading
 date: 2019-03-07 09:25:00 Z
-tags:
-- team
 image: "/uploads/what-were-reading.jpg"
 description: We at OpenOwnership are avid readers, and love getting stuck into books
   that explore the issues and values we’re so passionate about - beneficial ownership,

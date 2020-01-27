@@ -1,18 +1,17 @@
 ---
 title: OpenOwnership in Kiev
 date: 2018-12-18 11:01:00 Z
-categories:
+tags:
 - 1-1 technical assistance
 - the openownership pilot program
 - private sector engagement
 - the beneficial ownership data standard
-tags:
 - ukraine
 image: "/uploads/kiev-03.jpg"
 author: Louise Russell-Prywata
 ---
 
-At the start of December 2018, OpenOwnership was in Kiev starting our technical assistance to the Government of Ukraine. In October, the country publicly committed to become the first country to implement the Beneficial Ownership Data Standard (BODS), working with OpenOwnership through our Pilot Program. 
+At the start of December 2018, OpenOwnership was in Kiev starting our technical assistance to the Government of Ukraine. In October, the country publicly committed to become the first country to implement the Beneficial Ownership Data Standard (BODS), working with OpenOwnership through our Pilot Program.
 
 At the opening event, Deputy First Minister Olena Sukmanova highlighted the importance of beneficial ownership transparency to overall anti-corruption reforms in Ukraine, declaring that "these reforms are revolutionary . . . nothing will stop us any more.”
 
@@ -22,7 +21,7 @@ The work builds on OpenOwnership’s review and recommendations for improving be
 
 Ukraine became the second country in the world after the United Kingdom to implement a public register of the beneficial owners of corporate entities registered in country. Laws were passed in 2014 and 2015, and work has been underway ever since.
 
-Throughout the week, OpenOwnership's tech and policy experts met with Ministry of Justice officials, the technical team responsible for Ukraine's beneficial ownership register, and users of the data including the Financial Intelligence Unit and civil society organisations. 
+Throughout the week, OpenOwnership's tech and policy experts met with Ministry of Justice officials, the technical team responsible for Ukraine's beneficial ownership register, and users of the data including the Financial Intelligence Unit and civil society organisations.
 
 We spent two days with the technical staff who are developing the new software system that will allow Ukraine to store and publish beneficial ownership declarations as structured data. Working through their database field by field, we mapped the data points they plan to collect to those required in BODS. From this we were able to identify which aspects need to change to improve the accuracy and usability of the beneficial ownership information it publishes. Authentication, authorization, and validation improves the data quality and makes it more useful for the government, international bodies, the private sector, and civil society actors to use when addressing issues of corruption.
 
@@ -36,8 +35,8 @@ As well as identifying areas for improvement, we found several ways in which Ukr
 
 The week ended with an official opening of the project by the Deputy First Minister and Deputy Minister for State Registration, followed by a day discussing the legal framework for beneficial ownership transparency and the broader changes to Ukraine's regime that are required to make beneficial ownership data genuinely useful. Improving compliance was a key theme - both by improving positive incentives for companies to submit their information, and by strengthening sanctions for those that fail to submit, or submit incorrect information.
 
-So what's next? 
+So what's next?
 
-We'll be supporting Ukraine to implement the changes - both technical and policy - that we identified, and are working towards the first exports of Ukrainian data in BODS format by February 2019. We'll be making sure we learn everything we can from our work with Ukraine, and include it in information we publish to guide other countries implementing beneficial ownership regimes. 
+We'll be supporting Ukraine to implement the changes - both technical and policy - that we identified, and are working towards the first exports of Ukrainian data in BODS format by February 2019. We'll be making sure we learn everything we can from our work with Ukraine, and include it in information we publish to guide other countries implementing beneficial ownership regimes.
 
 It’s clear that implementing the Beneficial Ownership Data Standard will bring real benefits to Ukraine’s beneficial ownership regime, and help drive improvements in other countries - we’re looking forward to continuing to work with our partners in Ukraine!

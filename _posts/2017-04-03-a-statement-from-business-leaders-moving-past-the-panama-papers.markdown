@@ -1,9 +1,8 @@
 ---
 title: 'A statement from business leaders: Moving past the Panama Papers'
 date: 2017-04-03 08:55:00 Z
-categories:
-- private sector engagement
 tags:
+- private sector engagement
 - panama papers
 - business
 - corruption

@@ -2,9 +2,6 @@
 title: 'New at the OGP Summit: OpenOwnership and UK Government launch a major collective
   action platform, and we scale up our help for implementers'
 date: 2019-05-30 10:07:00 Z
-categories:
-- Beneficial Ownership Leadership Group
-- Implementation Guidance
 tags:
 - beneficial ownership
 - Beneficial Ownership Leadership Group

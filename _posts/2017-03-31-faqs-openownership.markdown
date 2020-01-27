@@ -1,14 +1,11 @@
 ---
 title: 'FAQs: OpenOwnership'
 date: 2017-03-31 16:17:00 Z
-categories:
+tags:
 - 1-1 technical assistance
 - the beneficial ownership data standard
 - the openownership pilot program
 - private sector engagement
-tags:
-- 1-1 technical assistance
-- the beneficial ownership data standard
 image: "/uploads/faqs.jpg"
 author: Zosia Sztykowski
 ---

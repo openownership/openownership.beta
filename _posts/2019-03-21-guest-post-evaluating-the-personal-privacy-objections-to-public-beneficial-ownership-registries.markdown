@@ -2,9 +2,8 @@
 title: 'Guest Post: Evaluating the Personal Privacy Objections to Public Beneficial
   Ownership Registries'
 date: 2019-03-21 08:48:00 Z
-categories:
-- private sector engagement
 tags:
+- private sector engagement
 - privacy
 - data protection
 image: "/uploads/privacy.jpg"

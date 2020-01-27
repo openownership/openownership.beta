@@ -12,9 +12,7 @@ description: 'In our last blog in this series, we showcased our new graph visual
   tool, which enables investigators to better understand the complex ownership networks
   and the sphere of influence of beneficial owners. In this blog, we’ll explore how
   graph visualisation benefits another, perhaps less obvious, set of users: policy-makers
-  and implementers.
-
-'
+  and implementers.'
 author: Laurence Bascle
 ---
 
@@ -68,4 +66,4 @@ For this approach to work, however, beneficial ownership data has to be availabl
 
 The OpenOwnership graph visualisation tool can be an incredibly powerful storytelling device, enabling policy makers to understand and explain the complexity of international corporate networks. It also illustrates in a very visual way the pros and cons of different beneficial ownership data collection models.
 
-Finally, graph visualisation highlights the importance of publishing beneficial ownership registers as high quality open data, which is critical to widening access. Accessibility is essential to gain insights into good policies and support their ultimate purpose: making it effortless to find out who ultimately owns and controls a company, thus supporting good governance and healthy democracies. 
+Finally, graph visualisation highlights the importance of publishing beneficial ownership registers as high quality open data, which is critical to widening access. Accessibility is essential to gain insights into good policies and support their ultimate purpose: making it effortless to find out who ultimately owns and controls a company, thus supporting good governance and healthy democracies.

@@ -1,10 +1,6 @@
 ---
 title: In Case You Missed It
 date: 2019-06-12 08:22:00 Z
-categories:
-- Beneficial Ownership Leadership Group
-- Beneficial Ownership
-- beneficial ownership transparency
 tags:
 - beneficial ownership
 - Beneficial Ownership Leadership Group

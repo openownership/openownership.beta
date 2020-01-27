@@ -1,10 +1,9 @@
 ---
 title: Three takeaways from Kyrgyz Republic on implementing beneficial ownership transparency
 date: 2019-03-01 13:56:00 Z
-categories:
+tags:
 - the beneficial ownership data standard
 - the openownership pilot program
-tags:
 - Kyrgyz Republic
 - EITI
 image: "/uploads/kyrgyz-report-02.jpg"

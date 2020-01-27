@@ -1,9 +1,8 @@
 ---
 title: Ghana announces partnership with OpenOwnership
 date: 2017-09-19 15:45:00 Z
-categories:
-- the openownership pilot program
 tags:
+- the openownership pilot program
 - ghana
 - partnership
 image: "/uploads/ghana.jpg"
