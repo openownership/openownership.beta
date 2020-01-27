@@ -4,9 +4,8 @@ title: |-
   when we talk about
   verification
 date: 2019-06-27 10:21:00 Z
-categories:
-- Beneficial ownership
 tags:
+- Beneficial ownership
 - verification
 - data quality
 description: A guide to data quality and verification
