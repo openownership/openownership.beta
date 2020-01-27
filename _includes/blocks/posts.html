@@ -1,15 +1,5 @@
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y">
-    {% if paginator.page == 1 %}
-      {% assign featured_posts = paginator.posts | where:"is_featured",true %}
-      {% unless featured_posts == empty %}
-        {% assign post = featured_posts[0] %}
-        <div class="small-12 cell post">
-          {% include blocks/post.html %}
-        </div>
-      {% endunless %}
-    {% endif %}
-
     {% if paginator.posts == empty %}
       <div class="small-12 cell post">
         <p>There are no posts in this category yet.</p>
@@ -19,11 +9,9 @@
 
   <div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
     {% for post in paginator.posts %}
-      {% unless post.url == featured_posts[0].url %}
-        <div class="small-12 medium-6 cell post">
-          {% include blocks/post.html %}
-        </div>
-      {% endunless %}
+      <div class="small-12 medium-6 cell post">
+        {% include blocks/post.html %}
+      </div>
     {% endfor %}
   </div>
 </section>
