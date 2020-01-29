@@ -6,6 +6,7 @@ permalink: news/2020-transparency-internationals-corruption-perception-index-wha
 categories:
 - news
 author: OpenOwnership
+is_featured: true
 ---
 
 Transparency International’s 2019 CPI analysis takes a step back and acknowledges that corruption is increasingly complex and transnational in nature. It does this by drawing attention to the fact that [countries at the top of the CPI](https://www.transparency.org/news/feature/cpi_2019_Trouble_at_the_top), which are deemed “clean” in terms of perceived level of public sector corruption, are also involved in corruption that is taking place elsewhere. Use of shell companies to hide money gained from corruption are a common feature in a number of high profile corruption scandals. OpenOwnership exists to work with all countries to disclose ownership data to make it accessible and connected across borders, making it easier to follow the money and shrinking the space within which corruption can take place.
