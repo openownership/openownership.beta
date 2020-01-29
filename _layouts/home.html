@@ -62,8 +62,10 @@ layout: default
       {% for post in featured_posts limit: 3 %}
         <div class="cell small-12 medium-6 large-4 home__featured__post">
           <div class="callout shadow large shadow--{{post.categories[0] | slugify}}" data-equalizer-watch>
-            {% assign image = post.image %}
-            <div class="light-gray-background image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+            {% if post.image %}
+              {% assign image = post.image %}
+              <div class="light-gray-background image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+            {% endif %}
             <h4><a href="{{post.url}}">{{post.title}}</a></h4>
             <p><span class="label text-capitalize label--{{post.categories[0] | slugify}}">{{ post.categories[0] }}</span></p>
             <p class="h5 sans-regular medium-gray">{% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}</p>
