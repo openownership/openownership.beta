@@ -1,8 +1,6 @@
 ---
 title: What we're reading
 date: 2019-03-07 09:25:00 Z
-tags:
-- team
 image: "/uploads/what-were-reading.jpg"
 description: We at OpenOwnership are avid readers, and love getting stuck into books
   that explore the issues and values we’re so passionate about - beneficial ownership,
@@ -10,6 +8,9 @@ description: We at OpenOwnership are avid readers, and love getting stuck into b
   we think you’ll love them. So read on to find out more about us and what we’re reading
   right now...
 author: Francesca Baker
+permalink: news/what-were-reading/
+categories:
+  - blogs
 ---
 
 We at OpenOwnership are avid readers, and love getting stuck into books that explore the issues and values we’re so passionate about — beneficial ownership, transparency, data, and openness. We’ve been busy building a library of books, and we think you’ll love them. So read on to find out more about us and what we’re reading right now.

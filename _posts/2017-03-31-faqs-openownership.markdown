@@ -1,16 +1,16 @@
 ---
 title: 'FAQs: OpenOwnership'
 date: 2017-03-31 16:17:00 Z
-categories:
+tags:
 - 1-1 technical assistance
 - the beneficial ownership data standard
 - the openownership pilot program
 - private sector engagement
-tags:
-- 1-1 technical assistance
-- the beneficial ownership data standard
 image: "/uploads/faqs.jpg"
 author: Zosia Sztykowski
+permalink: news/faqs-openownership/
+categories:
+  - blogs
 ---
 
 On April 3, 2017, the public beta of the OpenOwnership Register launches. Below, we answer some frequently asked questions about the project and the register. Don’t hesitate to [reach out to us](mailto:info@openownership.org) if you’re wondering about something that isn’t covered here.

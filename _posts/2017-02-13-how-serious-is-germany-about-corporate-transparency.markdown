@@ -1,12 +1,11 @@
 ---
 title: How serious is Germany about corporate transparency?
 date: 2017-02-13 15:17:00 Z
-tags:
-- germany
-- corporate transparency
-- data register
 image: "/uploads/germany.jpg"
 author: Andi Pawelke
+permalink: news/how-serious-is-germany-about-corporate-transparency/
+categories:
+  - blogs
 ---
 
 *[Andi Pawelke](http://webfoundation.org/about/executive-team/andreas-pawelke-project-manager-open-data/), Director of the Web Foundation’s Open Data Lab Jakarta and a board member of [Open Knowledge Foundation Germany](https://okfn.de/en/), discusses the importance of making Germany's beneficial ownership register open and free.*

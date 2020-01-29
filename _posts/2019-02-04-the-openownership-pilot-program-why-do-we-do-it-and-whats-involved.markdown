@@ -1,20 +1,20 @@
 ---
 title: The OpenOwnership Pilot Program – why do we do it and what’s involved?
 date: 2019-02-04 10:14:00 Z
-categories:
+tags:
 - the beneficial ownership data standard
 - the openownership pilot program
-tags:
-- pilot program
-- BODS
 - ukraine
-- Kyrgyz Republic
+- kyrgyz republic
 image: "/uploads/why-pilot-program-02.jpg"
 description: OpenOwnership’s goal is to to create an open data and policy ecosystem
   that ends the abuse of anonymously owned companies. We create tools, provide assistance,
   and work with governments, companies and civil society to  to increase access to,
   and use of, information about the true ‘beneficial’ owners of companies.
 author: Louise Russell-Prywata
+permalink: news/the-openownership-pilot-program-why-do-we-do-it-and-whats-involved/
+categories:
+  - blogs
 ---
 
 OpenOwnership’s goal is to create an open data and policy ecosystem that ends the abuse of anonymously owned companies. We create tools, provide assistance, and work with governments, companies and civil society to increase access to, and use of, information about the true ‘beneficial’ owners of companies.
@@ -41,6 +41,6 @@ Over time we will draw on our Pilot Program experiences to produce a comprehensi
 
 If you’re interested in learning more about the Pilot Program, a more detailed summary of the process is available to read and download [here](/uploads/pilot-program-summary-of-metholodogy.pdf). Alternatively, you can always:
 
-Sign up for [email updates](https://www.openownership.org/connect-with-us/)  
-Follow us on Twitter - [@openownership](https://twitter.com/OpenOwnership)  
-Get in touch with our team - [support@openownership.org](mailto: support@openownership.org)  
+Sign up for [email updates](https://www.openownership.org/connect-with-us/)
+Follow us on Twitter - [@openownership](https://twitter.com/OpenOwnership)
+Get in touch with our team - [support@openownership.org](mailto: support@openownership.org)

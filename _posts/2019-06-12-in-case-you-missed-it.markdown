@@ -1,16 +1,9 @@
 ---
 title: In Case You Missed It
 date: 2019-06-12 08:22:00 Z
-categories:
-- Beneficial Ownership Leadership Group
-- Beneficial Ownership
-- beneficial ownership transparency
 tags:
-- beneficial ownership
-- Beneficial Ownership Leadership Group
-- Implementation Guidance
-- open government partnership global summit
-- Open Government
+- beneficial ownership leadership group
+- open government partnership
 image: "/uploads/fabrizio-verrecchia-448425-unsplash.jpg"
 description: A blog post summarising key news and activities from May 2019 including
   the launch of a Beneficial Ownership Leadership Group, our Guide to Implementing
@@ -18,6 +11,9 @@ description: A blog post summarising key news and activities from May 2019 inclu
   how anonymous companies are being used to channel illicit financial flows, among
   other things.
 author: Dr Loren Treisman
+permalink: news/in-case-you-missed-it/
+categories:
+  - blogs
 ---
 
 It’s been an exhilarating month for us at OpenOwnership. So much has happened that we thought we’d showcase the key events in this blog post.

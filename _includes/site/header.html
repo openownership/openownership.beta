@@ -7,11 +7,11 @@
 
 {% for entry in site.data.navigation.header %}
   {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
-  {% if fullurl == page.url %}
+  {% if page.url contains fullurl %}
     {% assign current_page = entry.url %}
     {% break %}
-  {% elsif page.url contains fullurl %}
-    {% assign current_page = entry.url %}
+  {% elsif page.url contains "/news/" or page.url contains "/events/" or page.url contains "/blogs/" or page.url contains "/tag/" %}
+    {% assign current_page = "/latest/" %}
     {% break %}
   {% endif %}
 {% endfor %}

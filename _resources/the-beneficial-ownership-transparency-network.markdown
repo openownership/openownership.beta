@@ -5,6 +5,9 @@ position: 1
 file: "/uploads/what-we-mean-when-we-talk-about-verifcation.pdf"
 author: Zosia Sztykowski
 thumbnail-image: "/uploads/what-we-mean-doc.jpg"
+tags:
+  - open government partnership
+  - verification
 ---
 
-Presentations on "What we really mean when we talk about verification?" and "Implementation steps for beneficial ownership transparency". 
+Presentations on "What we really mean when we talk about verification?" and "Implementation steps for beneficial ownership transparency".

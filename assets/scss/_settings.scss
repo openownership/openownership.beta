@@ -69,15 +69,7 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 // $global-width: rem-calc(1024);
 $global-lineheight: 1.5;
-/*
-$foundation-palette: (
-  primary: #1779ba,
-  secondary: #767676,
-  success: #3adb76,
-  warning: #ffae00,
-  alert: #cc4b37,
-);
-*/
+
 $foundation-palette: (
   primary: #3C31D5,  // Electric Blue
   secondary: #767676,
@@ -87,18 +79,25 @@ $foundation-palette: (
   light-gray: #e6e6e6,
   snow: #EBEEF2,
 );
+
 $light-gray: #e6e6e6;
-// $medium-gray: #cacaca;
 $medium-gray: #7e8da3;
-// $dark-gray: #8a8a8a;
 $dark-gray: #333b47;
-// $black: #0a0a0a;
 $black: #373A3C;
 $white: #fefefe;
 
-$dark-blue: #191D23;
-$grey-blue: #363F4E;
-$green: #25cb55;
+// Brand guideline colors
+
+// Primary colours
+$dark-blue: #191D23; // Mirage
+$grey-blue: #363F4E; // Cloud burst
+$dull-blue: #3d30d4;
+$pattens-blue: #dceeff;
+$green: #25cb55; // Malachite
+
+// Secondary colours
+$anti-flash-white: #f3f3f5;
+$spring-wood: #f9f7f2;
 
 $body-background: $white;
 $body-font-color: $black;
@@ -519,7 +518,6 @@ $form-button-radius: $global-radius;
 // ---------
 
 $label-background: $primary-color;
-$label-background: $light-gray;
 $label-color: $white;
 $label-color-alt: $black;
 $label-palette: $foundation-palette;

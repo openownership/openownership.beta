@@ -28,33 +28,34 @@ defaults:
     path: ''
     type: posts
   values:
-    image: 
-    description: 
-    author: 
+    image:
+    description:
+    author:
+    is_featured: false
     layout: post
-    permalink: "/news/:title/"
+    permalink: "/:categories/:title/"
 - scope:
     path: ''
     type: pages
   values:
-    description: 
+    description:
     layout: page
 - scope:
     path: ''
     type: resources
   values:
-    description: 
-    file: 
-    author: 
-    thumbnail-image: 
+    description:
+    file:
+    author:
+    thumbnail-image:
 - scope:
     path: ''
     type: team
   values:
-    job-title: 
-    image: 
-    email: 
-    social: 
+    job-title:
+    image:
+    email:
+    social:
 url: https://www.openownership.org
 description: Building an open register of global beneficial ownership in the public
   interest.
@@ -91,7 +92,7 @@ cookies-text: We use Google Analytics to help us understand website traffic, web
   cookies. You can disable the use of cookies from your browser settings. By closing
   this message and continuing to use our website you consent to our use of cookies.
 email: info@openownership.org
-analytics: UA-88119324-1
+tag_manager: GTM-KHKK838
 logo: "/assets/img/logo.svg"
 placeholder: "/assets/img/placeholder.jpgs"
 per_page: 12
@@ -133,7 +134,7 @@ autopages:
       mode: raw
       cased: true
     layouts:
-    - tags.html
+      - tags.html
     title: Posts tagged with :tag
     permalink: "/tag/:tag"
 imgix:

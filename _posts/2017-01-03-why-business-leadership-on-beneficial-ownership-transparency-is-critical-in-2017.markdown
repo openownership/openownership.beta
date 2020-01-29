@@ -2,18 +2,19 @@
 title: Why business leadership on beneficial ownership transparency is critical in
   2017
 date: 2017-01-03 10:39:00 Z
-categories:
-- private sector engagement
 tags:
-- business leadership
+- private sector engagement
 author: Madeleine McCarroll
+permalink: news/why-business-leadership-on-beneficial-ownership-transparency-is-critical-in-2017/
+categories:
+  - blogs
 ---
 
 2016 has been a landmark year for beneficial ownership transparency. Beginning with the Panama Papers leak, which placed a much needed global spotlight on the role of anonymous companies in facilitating crime, tax evasion, and fraud, and providing the safety of opacity for the corrupt financial deals of politicians, we have since seen a year of tremendous progress. More than 10 governments (including Argentina, Colombia, Italy, Mexico, Nigeria, Afghanistan, France, Kenya, Nigeria and UK) have committed to implementing public registers of beneficial ownership information and the UK beneficial ownership register went live in July 2016.
 
 The burgeoning norm of corporate transparency does not start and end with the public sector. This is where [the B Team](http://bteam.org) comes in -- we have a track record of working with business and civil society to achieve progress on beneficial ownership transparency and to increase the accountability, transparency and responsiveness of both companies and governments to citizens. We do this not just because it’s better for the world, but also because it’s better for business.
 
-![iacc.jpg](/uploads/iacc.jpg)  
+![iacc.jpg](/uploads/iacc.jpg)
 
 B Team staff with EITI and business leaders from Bank of Montreal, Deloitte, and Thomson Reuters
 
@@ -27,7 +28,7 @@ The 17th International Anti-Corruption Conference (IACC) in Panama was a fitting
 
    We know that business leadership and business champions are critical in helping drive national and global policy and responding to threats against beneficial ownership transparency, made by those who stand to gain from opacity. We are urging business leaders to visit [OwnershipTransparency.com](http://ownershiptransparency.com) and commit to the six actions.
 
-   ![mo.jpg](/uploads/mo.jpg)  
+   ![mo.jpg](/uploads/mo.jpg)
 
     B Team Leader Mo Ibrahim in a [video still from OwnershipTransparency.com](http://bteam.org/announcements/b-team-leaders-voice-support-for-anti-corruption-meeting-in-panama/)
 

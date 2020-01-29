@@ -1,13 +1,14 @@
 ---
 title: What we really mean when we talk about verification (Part 1 of 4)
 date: 2017-05-10 15:21:00 Z
-categories:
-- the beneficial ownership data standard
 tags:
 - verification
 - the beneficial ownership data standard
 image: "/uploads/verification.jpg"
 author: Zosia Sztykowski and Chris Taggart
+permalink: news/what-we-really-mean-when-we-talk-about-verification-part-1-of-4/
+categories:
+  - blogs
 ---
 
 This is the first of a series of blog posts in which we will discuss the critical but tricky issue of verification, particularly with respect to beneficial ownership.

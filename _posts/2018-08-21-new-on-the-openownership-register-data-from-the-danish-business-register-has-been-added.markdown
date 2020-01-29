@@ -2,14 +2,14 @@
 title: New on the OpenOwnership Register - data from the Danish Business Register
   has been added
 date: 2018-08-21 10:02:00 Z
-categories:
-- the openownership pilot program
 tags:
-- denmark
-- data register
-- register
+- the openownership pilot program
+- openownership register
 image: "/uploads/denmark.jpg"
 author: Aleksi Knuutila
+permalink: news/new-on-the-openownership-register-data-from-the-danish-business-register-has-been-added/
+categories:
+  - news
 ---
 
 Denmark is the latest country to be added to the [OpenOwnership Register](https://register.openownership.org/), the global platform that brings together beneficial ownership information from around the world. Data from the Danish Business Register on  about 300,000 companies can now be browsed and searched through our online portal. This addition also marks a significant milestone for us, taking the total count of companies represented in our database to over 5 million.
@@ -20,7 +20,7 @@ Why does this matter? At the moment, relationships that cross across jurisdictio
 
 ![danish-data.jpg](/uploads/danish-data.jpg)
 
-By linking the Danish data up, we can follow the trail of ownership one step further, to the individuals resident in Denmark who are the ultimate beneficial owners. 
+By linking the Danish data up, we can follow the trail of ownership one step further, to the individuals resident in Denmark who are the ultimate beneficial owners.
 
 OpenOwnership aims to bring together data from many different countries - in Europe and beyond. This is necessary not only because we are doing more business internationally, but because many illegal activities that harm society - money laundering, tax evasion, fraud - also take place across borders.
 

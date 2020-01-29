@@ -7,25 +7,33 @@ layout: default
 <!-- End Page Title -->
 
 <!-- Page Content -->
+{% include blocks/content.html %}
+<!-- End Page Content -->
+
+<!-- Resources Grid -->
 <section class="grid-container padding-bottom-3">
   {% assign sorted_resources = site.resources | sort:"date" | reverse %}
   {% for resource in sorted_resources %}
 
-  <div class="grid-x grid-padding-x grid-padding-y align-center border-top">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
 
     <div class="small-12 medium-6 large-2 cell">
-      <a href="{{ resource.file }}"><img src="{{ resource.thumbnail-image }}" class="image--resource"></a>
+      <a href="{{ resource.file }}">
+        <img src="{{ resource.thumbnail-image }}" class="image--resource">
+      </a>
     </div>
 
     <div class="small-12 medium-6 large-10 cell">
       <h5 class="sans-bold">{{resource .title}}</h5>
       <div class="medium-gray margin-bottom-1">{{resource.author }} · {{ resource.date | date: site.date_format }}</div>
       {{resource.content | markdownify}}
-      <a class="button margin-bottom-0" href="{{resource.file}}">View document</a>
+      <a class="button margin-bottom-0" href="{{resource.file}}">
+        View document
+      </a>
     </div>
 
 
   </div>
   {% endfor %}
 </section>
-<!-- End Page Content -->
+<!-- End Resources Grid -->

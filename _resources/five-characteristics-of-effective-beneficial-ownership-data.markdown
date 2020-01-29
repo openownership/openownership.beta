@@ -1,12 +1,6 @@
 ---
 title: Five Characteristics of Effective Beneficial Ownership Data
 date: 2019-06-06 09:23:00 Z
-tags:
-- data
-- effective
-- beneficial ownership
-- data quality
-- open
 description: |-
   This briefing outlines five characteristics of effective beneficial ownership data, which together help make published
    data easy to use, more accurate, and interoperable.

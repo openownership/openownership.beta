@@ -1,14 +1,13 @@
 ---
 title: In uncertain times, transparency is a must for investors
 date: 2017-02-16 11:05:00 Z
-categories:
-- private sector engagement
 tags:
-- transparency
-- business
-- investment
+- private sector engagement
 image: "/uploads/uncertain.jpg"
 author: Eryn Schornick
+permalink: news/in-uncertain-times-transparency-is-a-must-for-investors/
+categories:
+  - blogs
 ---
 
 *That was supposed to be going up, wasn't it? São Paulo Stock Exchange, [Rafael Matsunaga](https://www.flickr.com/photos/rednuht/ "Go to Rafael Matsunaga's photostream")*

@@ -62,5 +62,3 @@ services:
   link: "/resources/"
 layout: what-we-do
 ---
-
-We are dedicated to increasing corporate transparency across the world by making it easy to publish and access high-quality data about who owns companies.

@@ -1,14 +1,6 @@
 ---
 title: 'Building on momentum: our direction of travel'
 date: 2019-08-14 10:30:00 Z
-tags:
-- beneficial ownership
-- scaling
-- Executive Director
-- Anticorruption
-- policy
-- tech
-- open data
 image: "/uploads/Photo%20Thom%20blogb.jpg"
 description: No one disagrees that beneficial ownership data is valuable, but we are
   unequivocal about why open registers create more effective economies, reduce friction
@@ -17,6 +9,9 @@ description: No one disagrees that beneficial ownership data is valuable, but we
   the case by delivering high-quality data through our open register, showing how
   open delivers real benefits and supporting more countries to publish.
 author: Thomas Townsend
+permalink: news/our-direction-of-travel/
+categories:
+  - blogs
 ---
 
 I’ve been in post as [Executive Director](https://www.openownership.org/news/new-executive-director/) for eight weeks. Here’s what I’ve learned so far and an overview of where we’ll be going next.
@@ -27,7 +22,7 @@ I also feel privileged to have joined an organisation as unique as OpenOwnership
 
 # **Where we’re at**
 
-The momentum towards transparent registers of beneficial ownership is huge. Eighteen countries have made beneficial ownership-related commitments in their OGP ([Open Government Partnership](https://www.opengovpartnership.org/)) National Action Plans and the [Extractive Industry Transparency Initiative](https://eiti.org/) (EITI) now [requires companies to disclose the identity of beneficial owners](https://eiti.org/blog/who-owns-what-putting-face-to-name) by 2020. 
+The momentum towards transparent registers of beneficial ownership is huge. Eighteen countries have made beneficial ownership-related commitments in their OGP ([Open Government Partnership](https://www.opengovpartnership.org/)) National Action Plans and the [Extractive Industry Transparency Initiative](https://eiti.org/) (EITI) now [requires companies to disclose the identity of beneficial owners](https://eiti.org/blog/who-owns-what-putting-face-to-name) by 2020.
 
 The private sector voice for change is loud and growing and in day two of this job, I traveled to Paris for the [EITI Summit](https://eiti.org/event/eiti-global-conference-2019) and heard Simon Thompson, Chairman of [RioTinto](https://www.riotinto.com/), a leading global mining group declaring that "knowing the beneficial owners of companies is absolutely central to what the EITI does.” Civil society, powerful industry voices and a growing number of governments from around the world are all getting on the same page about this issue. Change is coming but it is not guaranteed. For example, in the European context, how the 5th Anti-Money Laundering Directive is implemented and just how open Beneficial Ownership data will actually end up being is a question that should concern us; Europe is a regulatory powerhouse and its actions will shape international norms.
 

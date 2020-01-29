@@ -1,8 +1,6 @@
 ---
 title: What we're watching
 date: 2019-02-22 15:24:00 Z
-tags:
-- team
 image: "/uploads/what-were-watching.jpg"
 description: At our recent team retreat we shared the films we’re watching and podcasts
   we’re listening to. As well as giving us some ideas of media to tuck into, it was
@@ -10,6 +8,9 @@ description: At our recent team retreat we shared the films we’re watching and
   of transparency and data, whereas others are a little more leftfield. All are worth
   investigating, and give you some insight on how our minds work!
 author: Francesca Baker
+permalink: news/what-were-watching/
+categories:
+  - blogs
 ---
 
 At our recent team retreat we shared the films we’re watching and podcasts we’re listening to. As well as giving us some ideas of media to tuck into, it was a great way to learn more about our colleagues. Some of them overtly address issues of transparency and data, whereas others are a little more leftfield. All are worth investigating, and give you some insight on how our minds work!
@@ -17,7 +18,7 @@ At our recent team retreat we shared the films we’re watching and podcasts we�
 Here’s what’s on our screens and in our ears right now…
 
 #### White Collar Hundred
-##### Laurence 
+##### Laurence
 "White Collar Hundred have collaborated with OpenOwnership on Ukrainian data last year. This short film is an inspiring example of how tech and data engineering can support civic participation and hold people in power accountable."
 
 

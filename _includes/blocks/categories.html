@@ -1,0 +1,4 @@
+
+{% for category in include.categories %}
+  <a href="/latest/{{ category | slugify }}" class="label text-capitalize label--{{category | slugify}}">{{ category }}</a>
+{% endfor %}

@@ -5,8 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="format-detection" content="telephone=no">
-  
+
   <title>{% if page.layout == 'home' %}{{ site.title }}{% else %}{{ page.title | escape }} — {{ site.title | escape }}{% endif %}</title>
+
+  <!-- Google Tag Manager -->
+  {% if site.tag_manager %}
+    {% include site/tag-manager-head.html %}
+  {% endif %}
+  <!-- End Google Tag Manager -->
 
   <!-- Preload -->
   <link rel="preload" as="font" href="/assets/fonts/atlas-grotesk-bold.woff2" type="font/woff2" crossorigin="anonymous">
@@ -14,9 +20,9 @@
   <link rel="preload" as="font" href="/assets/fonts/publico-bold.woff2" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" as="font" href="/assets/fonts/publico-text-italic.woff2" type="font/woff2" crossorigin="anonymous">
   <link rel="preload" as="font" href="/assets/fonts/publico-text-roman.woff2" type="font/woff2" crossorigin="anonymous">
-  
+
   <link rel="stylesheet" type="text/css" href="{{ "/assets/css/app.css" | prepend: site.baseurl }}">
-  
+
   <!-- Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
@@ -36,11 +42,4 @@
   <!-- Scripts -->
   {% include site/scripts.html %}
   <!-- End Scripts -->
-  
-  <!-- Google Analytics -->
-  {% if site.analytics %}
-  {% include site/analytics.html %}
-  {% endif %}
-  <!-- End Google Analytics -->
-  
 </head>

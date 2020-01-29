@@ -2,16 +2,15 @@
 title: Ukraine signs MOU with OpenOwnership to implement the Beneficial Ownership
   Data Standard
 date: 2018-10-22 17:55:00 Z
-categories:
+tags:
 - 1-1 technical assistance
 - the beneficial ownership data standard
-tags:
-- mou
-- 1-1 technical assistance
-- private sector engagement
 - ukraine
 image: "/uploads/ukraine-signs.jpg"
 author: Louise Russell-Prywata
+permalink: news/ukrainemou/
+categories:
+  - news
 ---
 
 OpenOwnership is delighted to announce that Ukraine is set to become the first country to implement the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/schema-beta-2/), a framework for collecting and publishing beneficial ownership information as open data.

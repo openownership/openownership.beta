@@ -64,7 +64,7 @@ svg {
 }
 
 .border-bottom {
-  border-bottom: 2px solid $dark-gray;
+  border-bottom: 1px solid $light-gray;
 }
 
 .button {
@@ -276,6 +276,15 @@ p {
   font-size: 1.5rem;
 }
 
+// X. Homepage
+//------------
+
+.home__intro {
+  // Calculated to line up with the other items in the header like the logo
+  // and give a bit more vertical space from the header
+  @include padding(2, 2, 1, 2);
+}
+
 .home__key_facts {
   // Calculated to be the same as with other sections on the homepage, but
   // accounting for the existing top padding on the cells within
@@ -305,14 +314,20 @@ p {
   border-bottom: 4px solid $primary-color;
 }
 
-.home__description__left {
-  @include padding(1.5, 1.5, 1.5, 1.5);
-  @include breakpoint(medium) {
-    @include padding(3, 3, 3, 3);
+.home__featured__post {
+  .image {
+    margin-bottom: 1rem;
+  }
+
+  a {
+    color: $black;
+    &:hover {
+      color: $primary-color;
+    }
   }
 }
 
-.home__why {
+.home__why, .home__featured__posts {
   @include padding(1.5, 0, 1.5, 0);
   @include breakpoint(medium) {
     @include padding(3, 3, 3, 3);
@@ -386,29 +401,8 @@ footer .icon {
   transform: translate(5px, 0);
 }
 
-.guide {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
-}
-
-.guide-page {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
-}
-
-.what-we-do {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
-}
-
-.get-involved {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
-}
-
-.connect {
-background-color: #f4f7f8;
-// background-color: scale-color(get-color(snow), $lightness: 50%);
+.guide, .guide-page, .what-we-do, .get-involved, .connect, .latest {
+  background-color: #f4f7f8;
 }
 
 @mixin aspect-ratio($width, $height) {
@@ -452,25 +446,42 @@ width: 100%;
   }
 }
 
+.shadow--blogs {
+  box-shadow: 5px 5px 0px $grey-blue;
+}
+.shadow--events {
+  box-shadow: 5px 5px 0px $green;
+}
+
 .page__title {
   @include padding(1.5, null, null, null);
   @include breakpoint(small only) {
-  @include padding(1.5, 1.5, 1.5, 1.5);
+    @include padding(1.5, 1.5, 1.5, 1.5);
   }
   @include breakpoint(medium) {
-  @include padding(2, null, null, null);
+    @include padding(2, null, null, null);
+  }
+
+  p {
+    font-size: 1.25em;
   }
 }
 
-.label:hover {
-  color: rgba($white, 0.75);
+.label--tag {
+  background-color: $medium-gray;
+  margin-bottom: 1rem;
 }
-
-/*
-.reveal label {
-  color: $medium-gray;
+.label--news {
+  background-color: $primary-color;
+  color: $white;
 }
-*/
+.label--blogs {
+  background-color: $grey-blue;
+}
+.label--events {
+  background-color: $green;
+  color: $white;
+}
 
 $consider: #DB00C9;
 $commit: #7F12E0;
@@ -818,4 +829,16 @@ padding-top: 3rem;
 
 .guide-page img {
   padding: 2rem 0rem;
+}
+
+// X. Posts
+// --------
+.post {
+  .label {
+    color: $white;
+    margin-right: 1rem;
+    &:hover {
+      color: rgba($white, 0.75);
+    }
+  }
 }

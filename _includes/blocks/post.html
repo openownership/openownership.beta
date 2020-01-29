@@ -1,0 +1,24 @@
+<div class="post callout shadow large shadow--{{post.categories[0] | slugify}}" data-equalizer-watch>
+  {% if post.image %}
+    <p>
+      <a href="{{ post.url }}">
+        {% assign image = post.image %}
+        <div class="light-gray-background image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+      </a>
+    </p>
+    {% if post.image-caption %}
+      <p><small>{{post.image-caption}}</small></p>
+    {% endif %}
+  {% endif %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p class="medium-gray">
+    {% include blocks/categories.html categories=post.categories %}
+    {% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}
+  </p>
+  <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
+  <p>
+    <a class="button" href="{{ post.url }}">
+      Continue reading <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+    </a>
+  </p>
+</div>

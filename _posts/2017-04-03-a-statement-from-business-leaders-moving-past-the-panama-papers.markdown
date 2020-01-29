@@ -1,15 +1,13 @@
 ---
 title: 'A statement from business leaders: Moving past the Panama Papers'
 date: 2017-04-03 08:55:00 Z
-categories:
-- private sector engagement
 tags:
-- panama papers
-- business
-- corruption
-- data register
+- private sector engagement
 image: "/uploads/mo.jpg"
 author: The B Team Leaders
+permalink: news/a-statement-from-business-leaders-moving-past-the-panama-papers/
+categories:
+  - blogs
 ---
 
 A year ago the “Panama Papers” leak exposed the use of anonymous companies to avoid sanctions, move proceeds of corruption and crime, and facilitate other illicit financial schemes. The leak put a price on doing business through anonymous companies [400 public companies named in the leak had $135 billion wiped off their stock value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2771095). In the wake of the leak, many governments and companies [committed to action](http://www.ownershiptransparency.com) in the face of the unacceptably high costs of anonymous companies to business and society.
