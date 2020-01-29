@@ -7,6 +7,7 @@ categories:
 - blogs
 image: "/uploads/technology.png"
 author: Tim Davies
+is_featured: true
 ---
 
 OpenOwnership is taking part in the [IMF’s latest Anti-Corruption challenge](https://imfilab.brightidea.com/Anticorruption) and we need your help and votes! (see more detail on how you can vote for us at the bottom of the blog)
