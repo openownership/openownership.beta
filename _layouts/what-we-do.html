@@ -7,6 +7,10 @@ layout: default
 <!-- End Page Title -->
 
 <!-- Page Content -->
+{% include blocks/content.html %}
+<!-- End Page Content -->
+
+<!-- What We Do Grid -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
   {% for service in page.services %}
@@ -29,4 +33,4 @@ layout: default
   {% endfor %}
   </div>
 </section>
-<!-- End Page Content -->
+<!-- End What We Do Grid -->

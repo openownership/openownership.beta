@@ -1,8 +1,9 @@
 ---
 title: Introducing the Beneficial Ownership Data Standard
 date: 2017-06-29 09:36:00 Z
+permalink: news/the-beneficial-ownership-data-standard-is-now-in-beta/
 categories:
-- the beneficial ownership data standard
+- news
 tags:
 - the beneficial ownership data standard
 image: "/uploads/introducing.jpg"

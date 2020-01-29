@@ -1,10 +1,11 @@
 ---
 title: 'Identity & identifiers: what we’ve learned'
 date: 2017-04-11 13:04:00 Z
+permalink: news/identity-and-identifiers-what-weve-learned/
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
-- identification
-- github
 author: Jack Lord
 ---
 

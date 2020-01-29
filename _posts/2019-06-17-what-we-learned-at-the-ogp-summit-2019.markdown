@@ -1,8 +1,11 @@
 ---
 title: What we learned at the OGP Summit 2019
 date: 2019-06-17 12:03:00 Z
+permalink: news/what-we-learned-at-the-ogp-summit-2019/
 categories:
-- Open Government Partnership
+- blogs
+tags:
+- open government partnership
 image: "/uploads/OpenOwnership%20technical%20meeting.png"
 description: 'We’ve returned from the 2019 OGP Summit in Ottawa with our spirits high.  The
   event brought together senior government officials and a broad spectrum of civil

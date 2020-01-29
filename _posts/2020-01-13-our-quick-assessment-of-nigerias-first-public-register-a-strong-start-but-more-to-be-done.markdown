@@ -2,8 +2,12 @@
 title: 'Our quick assessment of Nigeria’s first public register: a strong start, but
   more to be done.'
 date: 2020-01-13 16:16:00 Z
+permalink: news/our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done/
+categories:
+- news
 image: "/uploads/NEITI%20portal%20blog%20image%20(1).png"
 author: OpenOwnership
+is_featured: false
 ---
 
 At the end of last year Nigeria published Africa’s first beneficial ownership register, and the first globally to focus on the lucrative oil, gas and mining sectors. The OpenOwnership team has been assessing the register’s performance and analysing the quality of the data that’s been disclosed. The register itself is a solid first step, with good functionality and innovations such as the inclusion of licencing data, but our preliminary analysis is that more work needs to be done on data quality, echoing issues seen with Nigeria’s pilot data disclosures in 2015.

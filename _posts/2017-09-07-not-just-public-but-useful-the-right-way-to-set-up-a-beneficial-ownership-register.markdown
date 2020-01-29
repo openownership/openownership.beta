@@ -2,13 +2,11 @@
 title: 'Not just public, but useful: the right way to set up a beneficial ownership
   register'
 date: 2017-09-07 06:44:00 Z
+permalink: news/not-just-public-but-useful-the-right-way-to-set-up-a-beneficial-ownership-register/
 categories:
-- the beneficial ownership data standard
+- blogs
 tags:
-- panama papers
-- money laundering
-- AML
-- data register
+- the beneficial ownership data standard
 image: "/uploads/flags.jpg"
 author: Zosia Sztykowski
 ---

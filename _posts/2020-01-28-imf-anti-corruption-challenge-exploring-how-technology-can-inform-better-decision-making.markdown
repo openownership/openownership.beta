@@ -2,8 +2,12 @@
 title: IMF Anti-Corruption Challenge – exploring how technology can inform better
   decision making
 date: 2020-01-28 12:16:00 Z
+permalink: news/imf-anti-corruption-challenge-exploring-how-technology-can-inform-better-decision-making/
+categories:
+- blogs
 image: "/uploads/technology.png"
 author: Tim Davies
+is_featured: true
 ---
 
 OpenOwnership is taking part in the [IMF’s latest Anti-Corruption challenge](https://imfilab.brightidea.com/Anticorruption) and we need your help and votes! (see more detail on how you can vote for us at the bottom of the blog)
@@ -20,7 +24,7 @@ For example, a user of the Policy Modeller might choose to model a beneficial ow
 
 We’re excited both about the potential of this as a tool, and about the process of building it. The process involves working with a range of experts to explore the full impact of policy and implementation choices, so that we can continue to help countries find the best-fit approach to effective beneficial ownership disclosure. Ultimately, analytical innovations using beneficial ownership data will only be able to thrive if we collectively create the right foundations through robust laws aligned with well-functioning systems and high-quality data publication.
 
-## How you can help 
+## How you can help
 
 If you like the sound of the Beneficial Ownership Policy Modeller and think it could be helpful, we would love your support for our proposal. If you [register and sign-in](https://imfilab.brightidea.com/ct/c_e_login.php#register) on the IMF challenge website [you can add your backing by clicking the 👍 (promote) icon on our page before 31st January](https://imfilab.brightidea.com/D358).
 

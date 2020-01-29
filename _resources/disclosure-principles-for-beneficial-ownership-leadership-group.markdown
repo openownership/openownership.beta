@@ -2,15 +2,8 @@
 title: Disclosure Principles for Beneficial Ownership Leadership Group
 date: 2019-05-23 14:40:00 Z
 tags:
-- Beneficial Ownership
-- Leadership Group
-- OGP
-- Open Government Partnership
-- global norm
-- Disclosure
-- corporate corruption
-- UK Government
-- illicit financial flows
+- beneficial ownership leadership group
+- open government partnership
 description: As a group of countries, the Beneficial Ownership Leadership Group will
   aim to create a new global norm of beneficial ownership transparency across asset
   classes. We believe that greater transparency of beneficial ownership will over

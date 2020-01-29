@@ -1,12 +1,13 @@
 ---
 title: 'From the "Why" to the "How":  Working with EITI and OGP'
 date: 2019-08-01 11:06:00 Z
+permalink: news/from-the-why-to-the-how-working-with-eiti/
+categories:
+- blogs
 tags:
-- EITI
-- extractives
-- transparency
-- beneficial ownership
-- Beneficial Ownership Leadership Group
+- eiti
+- beneficial ownership leadership group
+- open government partnership
 image: "/uploads/Photo%20Extractive-d11722.jpg"
 description: Over the last few years, there’s been significant progress towards making
   beneficial ownership transparency (BOT) a global norm, with 18 countries making

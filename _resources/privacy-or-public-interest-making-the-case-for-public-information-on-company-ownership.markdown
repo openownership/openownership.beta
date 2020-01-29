@@ -2,13 +2,9 @@
 title: Privacy or public interest? Making the case for public information on company
   ownership
 date: 2019-03-27 18:08:00 Z
-categories:
-- beneficial ownership data standard
 tags:
-- data protection
+- the beneficial ownership data standard
 - privacy
-- beneficial ownership
-- public interest
 description: This is a summary of a research report from OpenOwnership, The B Team
   and The Engine Room in which we consider the legal implications of public beneficial
   ownership data to the public, evaluated from both the perspective of the companies

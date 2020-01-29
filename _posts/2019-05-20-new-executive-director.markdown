@@ -1,12 +1,9 @@
 ---
 title: 'A Big Announcement: We have a New Executive Director'
 date: 2019-05-20 08:48:00 Z
+permalink: news/new-executive-director/
 categories:
-- Team
-tags:
-- Thom Townsend
-- Executive Director
-- Beneficial Ownership
+- news
 description: Over the past two months, I’ve been leading the search for an awesome
   Executive Director for Open Ownership to take the organisation’s work to the next
   level of global scale and impact. This big news is that we’ve found someone amazing...

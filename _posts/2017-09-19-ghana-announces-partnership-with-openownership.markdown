@@ -1,11 +1,11 @@
 ---
 title: Ghana announces partnership with OpenOwnership
 date: 2017-09-19 15:45:00 Z
+permalink: news/ghana-announces-partnership-with-openownership/
 categories:
-- the openownership pilot program
+- news
 tags:
-- ghana
-- partnership
+- the openownership pilot program
 image: "/uploads/ghana.jpg"
 author: Zosia Sztykowski
 image-caption: Ghana's Minister of Public Planning, Professor Gyan Baffour, announing

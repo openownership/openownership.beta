@@ -2,10 +2,11 @@
 title: Why business leadership on beneficial ownership transparency is critical in
   2017
 date: 2017-01-03 10:39:00 Z
+permalink: news/why-business-leadership-on-beneficial-ownership-transparency-is-critical-in-2017/
 categories:
-- private sector engagement
+- blogs
 tags:
-- business leadership
+- private sector engagement
 author: Madeleine McCarroll
 ---
 
@@ -13,7 +14,7 @@ author: Madeleine McCarroll
 
 The burgeoning norm of corporate transparency does not start and end with the public sector. This is where [the B Team](http://bteam.org) comes in -- we have a track record of working with business and civil society to achieve progress on beneficial ownership transparency and to increase the accountability, transparency and responsiveness of both companies and governments to citizens. We do this not just because it’s better for the world, but also because it’s better for business.
 
-![iacc.jpg](/uploads/iacc.jpg)  
+![iacc.jpg](/uploads/iacc.jpg)
 
 B Team staff with EITI and business leaders from Bank of Montreal, Deloitte, and Thomson Reuters
 
@@ -27,7 +28,7 @@ The 17th International Anti-Corruption Conference (IACC) in Panama was a fitting
 
    We know that business leadership and business champions are critical in helping drive national and global policy and responding to threats against beneficial ownership transparency, made by those who stand to gain from opacity. We are urging business leaders to visit [OwnershipTransparency.com](http://ownershiptransparency.com) and commit to the six actions.
 
-   ![mo.jpg](/uploads/mo.jpg)  
+   ![mo.jpg](/uploads/mo.jpg)
 
     B Team Leader Mo Ibrahim in a [video still from OwnershipTransparency.com](http://bteam.org/announcements/b-team-leaders-voice-support-for-anti-corruption-meeting-in-panama/)
 

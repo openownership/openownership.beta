@@ -2,11 +2,11 @@
 title: Calling all businesses! Help us test the world's first register of global beneficial
   ownership
 date: 2017-03-06 17:51:00 Z
+permalink: news/calling-all-business-help-us-test-the-worlds-first-register-of-global-beneficial-ownership/
 categories:
-- private sector engagement
+- blogs
 tags:
-- business
-- AML
+- private sector engagement
 - openownership register
 image: "/uploads/calling.jpg"
 author: Madeleine McCarroll

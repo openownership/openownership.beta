@@ -1,12 +1,13 @@
 ---
 title: Ukraine to become the first country to integrate with OpenOwnership
 date: 2017-05-23 10:39:00 Z
+permalink: news/ukraine-becomes-the-first-country-to-integrate-with-openownership/
 categories:
-- the openownership pilot program
+- news
 tags:
+- the openownership pilot program
 - ukraine
 - openownership register
-- pilot program
 image: "/uploads/ukraine-first.jpg"
 author: Zosia Sztykowski
 image-caption: Ukraine's Minister of Justice, Pavlo Petrenko. signs a memorandum of

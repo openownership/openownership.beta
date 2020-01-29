@@ -1,8 +1,9 @@
 ---
 title: What we really mean when we talk about verification (Part 1 of 4)
 date: 2017-05-10 15:21:00 Z
+permalink: news/what-we-really-mean-when-we-talk-about-verification-part-1-of-4/
 categories:
-- the beneficial ownership data standard
+- blogs
 tags:
 - verification
 - the beneficial ownership data standard

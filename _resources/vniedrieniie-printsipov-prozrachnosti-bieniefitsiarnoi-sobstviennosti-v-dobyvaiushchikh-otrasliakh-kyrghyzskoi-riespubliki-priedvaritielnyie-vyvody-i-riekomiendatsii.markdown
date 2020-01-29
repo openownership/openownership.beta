@@ -2,6 +2,8 @@
 title: Внедрение принципов прозрачности бенефициарной собственности в добывающих отраслях
   Кыргызской Республики. Предварительные выводы и рекомендации
 date: 2019-02-27 00:00:00 Z
+tags:
+- kyrgyz republic
 description: Russian version. This report summarizes findings from Open Ownership’s
   scoping visit to the Kyrgyz Republic in September 2018, and the research surrounding
   the visit.

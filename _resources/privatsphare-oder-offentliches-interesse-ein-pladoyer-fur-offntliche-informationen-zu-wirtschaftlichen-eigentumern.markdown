@@ -3,10 +3,7 @@ title: Privatsphäre oder öffentliches interesse? Ein plädoyer für öffntlich
   zu wirtschaftlichen eigentümern
 date: 2019-09-03 10:16:00 Z
 tags:
-- data protection
 - privacy
-- beneficial ownership
-- public interest
 description: German version. This is a summary of a research report from OpenOwnership,
   The B Team and The Engine Room in which we consider the legal implications of public
   beneficial ownership data to the public, evaluated from both the perspective of
@@ -17,4 +14,4 @@ author: OpenOwnership, The B Team and The Engine Room
 thumbnail-image: "/uploads/Privacy-summary-german.png"
 ---
 
-German Version. This is a summary of a research report from OpenOwnership, The B Team and The Engine Room in which we consider the legal implications of public beneficial ownership data to the public, evaluated from both the perspective of the companies holding that information and the authorities requiring it to be disclosed publicly, and the relationship with data protection and privacy laws. Translation by Michael Peters. 
+German Version. This is a summary of a research report from OpenOwnership, The B Team and The Engine Room in which we consider the legal implications of public beneficial ownership data to the public, evaluated from both the perspective of the companies holding that information and the authorities requiring it to be disclosed publicly, and the relationship with data protection and privacy laws. Translation by Michael Peters.

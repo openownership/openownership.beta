@@ -1,8 +1,9 @@
 ---
 title: What we're watching
 date: 2019-02-22 15:24:00 Z
-tags:
-- team
+permalink: news/what-were-watching/
+categories:
+- blogs
 image: "/uploads/what-were-watching.jpg"
 description: At our recent team retreat we shared the films we’re watching and podcasts
   we’re listening to. As well as giving us some ideas of media to tuck into, it was
@@ -17,7 +18,7 @@ At our recent team retreat we shared the films we’re watching and podcasts we�
 Here’s what’s on our screens and in our ears right now…
 
 #### White Collar Hundred
-##### Laurence 
+##### Laurence
 "White Collar Hundred have collaborated with OpenOwnership on Ukrainian data last year. This short film is an inspiring example of how tech and data engineering can support civic participation and hold people in power accountable."
 
 

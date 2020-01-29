@@ -1,12 +1,11 @@
 ---
 title: In uncertain times, transparency is a must for investors
 date: 2017-02-16 11:05:00 Z
+permalink: news/in-uncertain-times-transparency-is-a-must-for-investors/
 categories:
-- private sector engagement
+- blogs
 tags:
-- transparency
-- business
-- investment
+- private sector engagement
 image: "/uploads/uncertain.jpg"
 author: Eryn Schornick
 ---

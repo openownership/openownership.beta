@@ -3,57 +3,44 @@ layout: default
 ---
 
 <!-- Page Title -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y page__title">
-    <div class="small-12 medium-10 large-10 cell">
-      <h1>{{page.title}}</h1>
-    </div>
-  </div>
-</section>
-<!-- End Page Title -->        
+{% include blocks/title.html %}
+<!-- End Page Title -->
 
 <!-- Page Content -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 cell">
-      {{page.content | markdownify}}
-    </div>
-  </div>
-</section>
+{% include blocks/content.html %}
 <!-- End Page Content -->
 
 <!-- Projects -->
-{% assign category = page.title | downcase %}
-{% assign category_posts = site.categories[category] %}
-{% if category_posts.size > 0 %}
-<section class="snow-background padding-bottom-1">
-  <div class="grid-container">
-  
-    <div class="grid-x grid-padding-x grid-padding-y page__title">
-      <div class="small-12 medium-10 large-10 cell">
-        <h2 class="margin-bottom-0">Further Reading</h2>
-      </div>
-    </div>
-  
-    <div class="grid-x grid-padding-x" data-equalizer>
-{% assign category = page.title | downcase %}
-{% assign category_posts = site.categories[category] %}
-    {% for post in category_posts %}
-      <div class="small-12 medium-4 cell padding-1">
-        <div class="callout shadow large" data-equalizer-watch>
-        {% if post.image %}
-        {% assign image = post.image %}
-<a href="{{ post.url }}">
-        <div class="light-gray-background image margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
-</a>
-        {% endif %}
-        <a href="{{ post.url }}" class="{% if post.image %}h5{% else %}h3{% endif %}">{{post.title}}</a>
+{% assign tag = page.title | downcase %}
+
+{% assign tag_posts = site.tags[tag] %}
+{% if tag_posts.size > 0 %}
+  <section class="snow-background padding-bottom-1">
+    <div class="grid-container">
+
+      <div class="grid-x grid-padding-x grid-padding-y page__title">
+        <div class="small-12 medium-10 large-10 cell">
+          <h2 class="margin-bottom-0">Further Reading</h2>
         </div>
       </div>
-    {% endfor %}
+
+      <div class="grid-x grid-padding-x" data-equalizer>
+      {% for post in tag_posts %}
+        <div class="small-12 medium-4 cell padding-1">
+          <div class="callout shadow large" data-equalizer-watch>
+          {% if post.image %}
+            {% assign image = post.image %}
+            <a href="{{ post.url }}">
+              <div class="light-gray-background image margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+            </a>
+          {% endif %}
+          <a href="{{ post.url }}" class="{% if post.image %}h5{% else %}h3{% endif %}">{{post.title}}</a>
+          </div>
+        </div>
+      {% endfor %}
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 {% endif %}
 <!-- End Projects -->
 

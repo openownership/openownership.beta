@@ -1,8 +1,9 @@
 ---
 title: 'Open Call: Governance consultant'
 date: 2017-12-11 09:08:00 Z
-tags:
-- hiring
+permalink: news/open-call-governance-consultant/
+categories:
+- news
 author: Zosia Sztykowski
 ---
 
