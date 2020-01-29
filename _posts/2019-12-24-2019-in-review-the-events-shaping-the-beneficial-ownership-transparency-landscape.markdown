@@ -6,7 +6,7 @@ categories:
 - blogs
 image: "/uploads/2019%20blog%20image.png"
 author: Victor Ponsford
-is_featured: true
+is_featured: false
 ---
 
 2019 has been a busy and productive year for OpenOwnership. We appointed our first executive director, Thom Townsend, and hired several more key staff in response to rising demand for our expertise. Alongside significant change internally, the wider beneficial ownership (BO) transparency field has been shifting, as more countries begin to disclose or consider how they can disclose BO data. In this blog, the OpenOwnership team share the stories and developments that got them excited in 2019, and that they believe will significantly shape the beneficial ownership transparency field going forward.
