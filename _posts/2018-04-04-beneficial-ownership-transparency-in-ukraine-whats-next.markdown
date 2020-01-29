@@ -1,6 +1,9 @@
 ---
 title: 'Beneficial ownership transparency in Ukraine: what’s next?'
 date: 2018-04-04 13:20:00 Z
+permalink: news/beneficial-ownership-transparency-in-ukraine-whats-next/
+categories:
+- blogs
 tags:
 - the openownership pilot program
 - 1-1 technical assistance
@@ -8,9 +11,6 @@ tags:
 - openownership register
 image: "/uploads/ukraine.jpg"
 author: Zosia Sztykowski
-permalink: news/beneficial-ownership-transparency-in-ukraine-whats-next/
-categories:
-  - blogs
 ---
 
 In 2016 Ukraine became the second country in the world (after the UK) to implement a public register of the beneficial owners of corporate entities registered in country. It subsequently became the first country in the world to [commit to integrating this data with the OpenOwnership Register](https://openownership.org/news/ukraine-becomes-the-first-country-to-integrate-with-openownership/).

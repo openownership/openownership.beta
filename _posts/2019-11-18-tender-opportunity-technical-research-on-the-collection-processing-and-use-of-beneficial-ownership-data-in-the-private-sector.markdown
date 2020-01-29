@@ -2,14 +2,14 @@
 title: 'Tender opportunity: technical research on the collection, processing and use
   of beneficial ownership data in the private sector'
 date: 2019-11-18 17:17:00 Z
+permalink: news/tender-opportunity-technical-research-on-the-collection-processing-and-use-of-beneficial-ownership-data-in-the-private-sector/
+categories:
+- news
 image: "/uploads/joanna-kosinska-1_CMoFsPfso-unsplash.jpg"
 description: 'Tender opportunity: technical research on the collection, processing
   and use of beneficial ownership data in the private sector'
 author: Louise Russell-Prywata
 layout: post
-permalink: news/tender-opportunity-technical-research-on-the-collection-processing-and-use-of-beneficial-ownership-data-in-the-private-sector/
-categories:
-  - news
 ---
 
 As OpenOwnership expands it’s Global Register of Beneficial Ownership, we want to better understand in detail the users and use cases of beneficial ownership data (used under any licence open or otherwise) in the private sector, building up a clear understanding of the workflow and lifecycle of information related to ultimate beneficial owners of companies. This research will support us to better understand the incentives and disincentives for adopting common standards around beneficial ownership data collection and use, and raise our knowledge of the value of this data within the private sector.

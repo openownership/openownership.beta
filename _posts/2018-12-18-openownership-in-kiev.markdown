@@ -1,6 +1,9 @@
 ---
 title: OpenOwnership in Kiev
 date: 2018-12-18 11:01:00 Z
+permalink: news/openownership-in-kiev/
+categories:
+- blogs
 tags:
 - 1-1 technical assistance
 - the openownership pilot program
@@ -9,9 +12,6 @@ tags:
 - ukraine
 image: "/uploads/kiev-03.jpg"
 author: Louise Russell-Prywata
-permalink: news/openownership-in-kiev/
-categories:
-  - blogs
 ---
 
 At the start of December 2018, OpenOwnership was in Kiev starting our technical assistance to the Government of Ukraine. In October, the country publicly committed to become the first country to implement the Beneficial Ownership Data Standard (BODS), working with OpenOwnership through our Pilot Program.

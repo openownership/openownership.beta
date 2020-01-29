@@ -2,6 +2,9 @@
 title: 'New at the OGP Summit: OpenOwnership and UK Government launch a major collective
   action platform, and we scale up our help for implementers'
 date: 2019-05-30 10:07:00 Z
+permalink: news/new-at-the-ogp-summit-openownership-and-uk-government-launch-a-major-collective-action-platform-and-we-scale-up-our-help-for-implementers/
+categories:
+- news
 tags:
 - beneficial ownership leadership group
 - open government partnership
@@ -15,9 +18,6 @@ description: "\\*\\*We’re delighted that today the UK Anti-Corruption Champion
   and produces related public guidance.\\*\\*"
 author: Dr Loren Treisman
 Photo by David Clode on Unsplash: Photo by David Clode
-permalink: news/new-at-the-ogp-summit-openownership-and-uk-government-launch-a-major-collective-action-platform-and-we-scale-up-our-help-for-implementers/
-categories:
-  - news
 ---
 
 We’re delighted that today the UK Anti-Corruption Champion John Penrose is launching a new Beneficial Ownership Leadership Group at the [Open Government Partnership Summit in Ottawa](http://ogpsummit.org). This transnational coalition of governments will drive a global policy shift towards free, open beneficial ownership data and set ambitious best practice. OpenOwnership will coordinate key Leadership Group activities, facilitate discussions on international best practice and produce related guidance.

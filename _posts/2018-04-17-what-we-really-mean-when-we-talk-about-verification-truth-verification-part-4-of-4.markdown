@@ -2,14 +2,14 @@
 title: 'What we really mean when we talk about verification: Truth verification (part
   4 of 4)'
 date: 2018-04-17 12:54:00 Z
+permalink: news/what-we-really-mean-when-we-talk-about-verification-truth-verification-part-4-of-4/
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
 - verification
 image: "/uploads/truth.jpg"
 author: Zosia Sztykowski
-permalink: news/what-we-really-mean-when-we-talk-about-verification-truth-verification-part-4-of-4/
-categories:
-  - blogs
 ---
 
 So far in this series on verification of beneficial ownership data, we have [given you an overview](https://openownership.org/news/what-we-really-mean-when-we-talk-about-verification-part-1-of-4/) of what the term really means when applied to beneficial ownership, discussed [how to tell if someone is who they say they are](https://openownership.org/news/what-we-really-mean-when-we-talk-about-verification-authentication-and-authorization-part-2-of-4/) and whether they have the right to report beneficial ownership data, and explained the impact [in-line validation](https://openownership.org/news/what-we-really-mean-when-we-talk-about-verification-validation-part-3-of-4/) of data has on data quality.

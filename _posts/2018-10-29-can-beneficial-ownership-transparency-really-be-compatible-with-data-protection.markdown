@@ -1,13 +1,13 @@
 ---
 title: Can beneficial ownership transparency really be compatible with data protection?
 date: 2018-10-29 14:42:00 Z
+permalink: news/can-beneficial-ownership-transparency-really-be-compatible-with-data-protection/
+categories:
+- blogs
 tags:
 - privacy
 image: "/uploads/data.jpg"
 author: Zosia Sztykowski & Tom Walker, The Engine Room
-permalink: news/can-beneficial-ownership-transparency-really-be-compatible-with-data-protection/
-categories:
-  - blogs
 ---
 
 *Originally published on the Open Government Partnership [blog](https://www.opengovpartnership.org/stories/can-beneficial-ownership-transparency-really-be-compatible-data-protection).*

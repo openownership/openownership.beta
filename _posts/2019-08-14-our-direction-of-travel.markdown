@@ -1,6 +1,9 @@
 ---
 title: 'Building on momentum: our direction of travel'
 date: 2019-08-14 10:30:00 Z
+permalink: news/our-direction-of-travel/
+categories:
+- blogs
 image: "/uploads/Photo%20Thom%20blogb.jpg"
 description: No one disagrees that beneficial ownership data is valuable, but we are
   unequivocal about why open registers create more effective economies, reduce friction
@@ -9,9 +12,6 @@ description: No one disagrees that beneficial ownership data is valuable, but we
   the case by delivering high-quality data through our open register, showing how
   open delivers real benefits and supporting more countries to publish.
 author: Thomas Townsend
-permalink: news/our-direction-of-travel/
-categories:
-  - blogs
 ---
 
 I’ve been in post as [Executive Director](https://www.openownership.org/news/new-executive-director/) for eight weeks. Here’s what I’ve learned so far and an overview of where we’ll be going next.

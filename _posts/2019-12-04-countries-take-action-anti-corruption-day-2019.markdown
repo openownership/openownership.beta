@@ -1,17 +1,17 @@
 ---
 title: Countries take leadership to end the shell game on Anti Corruption Day 2019
 date: 2019-12-04 11:04:00 Z
+permalink: news/countries-take-action-anti-corruption-day-2019/
+categories:
+- news
 tags:
-  - open government partnership
+- open government partnership
 image: "/uploads/anticorruptionblogupdate.png"
 description: To mark International Anti-Corruption Day (December 9th), we are taking
   action, in collaboration with Open Government Partnership, the UK Government and
   World Bank, to call time on the use of anonymous company ownership facilitating
   corruption and societal harms like trafficking and modern slavery.
 author: OpenOwnership
-permalink: news/countries-take-action-anti-corruption-day-2019/
-categories:
-  - news
 ---
 
 To mark International Anti-Corruption Day (December 9th), we are taking action with our partners to call time on the use of anonymous company ownership facilitating corruption and societal harms like trafficking and modern slavery. In collaboration with Open Government Partnership, the UK Government and World Bank, we are launching a day of action including two events to advance the shift towards beneficial ownership transparency around the world.

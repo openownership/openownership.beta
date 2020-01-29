@@ -1,12 +1,12 @@
 ---
 title: 'Identity & identifiers: what we’ve learned'
 date: 2017-04-11 13:04:00 Z
+permalink: news/identity-and-identifiers-what-weve-learned/
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
 author: Jack Lord
-permalink: news/identity-and-identifiers-what-weve-learned/
-categories:
-  - blogs
 ---
 
 Beneficial ownership is a complex domain to model, as we’ve seen from the [work we’ve already done on the OpenOwnership data standard](https://github.com/openownership/data-standard). At the most fundamental level, the beneficial ownership standard needs to be able to identify legal entities and help users to identify natural persons.

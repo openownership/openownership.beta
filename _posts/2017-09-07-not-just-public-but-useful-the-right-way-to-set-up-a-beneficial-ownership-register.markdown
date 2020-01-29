@@ -2,13 +2,13 @@
 title: 'Not just public, but useful: the right way to set up a beneficial ownership
   register'
 date: 2017-09-07 06:44:00 Z
+permalink: news/not-just-public-but-useful-the-right-way-to-set-up-a-beneficial-ownership-register/
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
 image: "/uploads/flags.jpg"
 author: Zosia Sztykowski
-permalink: news/not-just-public-but-useful-the-right-way-to-set-up-a-beneficial-ownership-register/
-categories:
-  - blogs
 ---
 
 Last year, the Panama Papers showed us how opaque corporate structures are used to facilitate global money laundering, fraud and tax evasion. The [Azerbaijani Laundromat](https://www.theguardian.com/world/2017/sep/04/uk-at-centre-of-secret-3bn-azerbaijani-money-laundering-and-lobbying-scheme), revealed this week in an investigation by *the Guardian*, is a reminder that anonymously-owned corporate structures are still being exploited for illicit ends.

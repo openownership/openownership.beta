@@ -2,12 +2,12 @@
 title: Luanda Leaks shows the critical importance of ownership transparency for good
   governance in oil, gas and mining
 date: 2020-01-22 20:39:00 Z
+permalink: news/luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining/
+categories:
+- blogs
 image: "/uploads/Luanda.png"
 author: OpenOwnership
 is_featured: true
-permalink: news/luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining/
-categories:
-  - blogs
 ---
 
 A new year, and a new leak of financial information that reveals how shell companies have  been deployed to move and hide vast sums of money from a resource-rich state to the accounts of politically connected individuals.

@@ -2,11 +2,11 @@
 title: IMF Anti-Corruption Challenge – exploring how technology can inform better
   decision making
 date: 2020-01-28 12:16:00 Z
-image: "/uploads/technology.png"
-author: Tim Davies
 permalink: news/imf-anti-corruption-challenge-exploring-how-technology-can-inform-better-decision-making/
 categories:
-  - blogs
+- blogs
+image: "/uploads/technology.png"
+author: Tim Davies
 ---
 
 OpenOwnership is taking part in the [IMF’s latest Anti-Corruption challenge](https://imfilab.brightidea.com/Anticorruption) and we need your help and votes! (see more detail on how you can vote for us at the bottom of the blog)

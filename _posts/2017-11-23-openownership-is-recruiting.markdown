@@ -1,12 +1,12 @@
 ---
 title: OpenOwnership is recruiting!
 date: 2017-11-23 19:28:00 Z
+permalink: news/openownership-is-recruiting/
+categories:
+- news
 tags:
 - private sector engagement
 author: Zosia Sztykowski
-permalink: news/openownership-is-recruiting/
-categories:
-  - news
 ---
 
 Each year, billions of dollars in illicit funds – the fruits of crime, corruption or tax evasion – pass through anonymous companies. They are the most popular getaway vehicle for grand corruption by far, designed to allow their owners to remain hidden, escaping accountability and passing the costs of their illicit activities onto communities.

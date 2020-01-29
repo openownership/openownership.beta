@@ -1,6 +1,9 @@
 ---
 title: Graph visualisation is providing insights for policy-makers and implementers
 date: 2019-09-03 10:00:00 Z
+permalink: news/graph-visualisation-is-providing-insights-for-policy-makers-and-implementers/
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
 - openownership register
@@ -12,9 +15,6 @@ description: 'In our last blog in this series, we showcased our new graph visual
   graph visualisation benefits another, perhaps less obvious, set of users: policy-makers
   and implementers.'
 author: Laurence Bascle
-permalink: news/graph-visualisation-is-providing-insights-for-policy-makers-and-implementers/
-categories:
-  - blogs
 ---
 
 In our [last blog](https://www.openownership.org/news/what-graph-visualisation-teaches-us-about-beneficial-ownership/) in this series, we showcased our new graph visualisation tool, which enables investigators to better understand the complex ownership networks and the sphere of influence of beneficial owners. In this blog, we’ll explore how graph visualisation benefits another, perhaps less obvious, set of users: policy-makers and implementers.

@@ -2,12 +2,12 @@
 title: Why business leadership on beneficial ownership transparency is critical in
   2017
 date: 2017-01-03 10:39:00 Z
+permalink: news/why-business-leadership-on-beneficial-ownership-transparency-is-critical-in-2017/
+categories:
+- blogs
 tags:
 - private sector engagement
 author: Madeleine McCarroll
-permalink: news/why-business-leadership-on-beneficial-ownership-transparency-is-critical-in-2017/
-categories:
-  - blogs
 ---
 
 2016 has been a landmark year for beneficial ownership transparency. Beginning with the Panama Papers leak, which placed a much needed global spotlight on the role of anonymous companies in facilitating crime, tax evasion, and fraud, and providing the safety of opacity for the corrupt financial deals of politicians, we have since seen a year of tremendous progress. More than 10 governments (including Argentina, Colombia, Italy, Mexico, Nigeria, Afghanistan, France, Kenya, Nigeria and UK) have committed to implementing public registers of beneficial ownership information and the UK beneficial ownership register went live in July 2016.

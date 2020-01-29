@@ -1,6 +1,9 @@
 ---
 title: The OpenOwnership Pilot Program – why do we do it and what’s involved?
 date: 2019-02-04 10:14:00 Z
+permalink: news/the-openownership-pilot-program-why-do-we-do-it-and-whats-involved/
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
 - the openownership pilot program
@@ -12,9 +15,6 @@ description: OpenOwnership’s goal is to to create an open data and policy ecos
   and work with governments, companies and civil society to  to increase access to,
   and use of, information about the true ‘beneficial’ owners of companies.
 author: Louise Russell-Prywata
-permalink: news/the-openownership-pilot-program-why-do-we-do-it-and-whats-involved/
-categories:
-  - blogs
 ---
 
 OpenOwnership’s goal is to create an open data and policy ecosystem that ends the abuse of anonymously owned companies. We create tools, provide assistance, and work with governments, companies and civil society to increase access to, and use of, information about the true ‘beneficial’ owners of companies.

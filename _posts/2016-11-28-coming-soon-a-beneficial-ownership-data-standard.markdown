@@ -1,13 +1,13 @@
 ---
 title: 'Coming soon: A beneficial ownership data standard'
 date: 2016-11-28 11:26:00 Z
+permalink: news/coming-soon-a-beneficial-ownership-data-standard/
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
 image: "/uploads/coming-soon.jpg"
 author: Chris Taggart
-permalink: news/coming-soon-a-beneficial-ownership-data-standard/
-categories:
-  - blogs
 ---
 
 Who controls and benefits from companies is a transnational, global issue. Take any case of grand corruption, large-scale fraud, organised crime or tax evasion, and it’s pretty certain it will be enabled in some way by the obfuscation and opacity of anonymous companies, i.e. those where the ownership and beneficiaries are not disclosed.

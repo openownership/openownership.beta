@@ -1,13 +1,13 @@
 ---
 title: Kyrgyzstan joins OpenOwnership’s pilot program
 date: 2018-09-13 10:55:00 Z
+permalink: news/kyrgyzstan-joins-openownerships-pilot-program/
+categories:
+- news
 tags:
 - the openownership pilot program
 image: "/uploads/kyrgyzstan.jpg"
 author: Louise Russell-Prywata
-permalink: news/kyrgyzstan-joins-openownerships-pilot-program/
-categories:
-  - news
 ---
 
 We’re delighted to announce that Kyrgyzstan is the latest country to join OpenOwnership’s [pilot program](https://openownership.org/the-openownership-pilot-program/). Through this program, OpenOwnership will support the government of Kyrgyzstan in collecting and publishing high quality, open access beneficial ownership data for applicants and holders of oil, gas and mining licenses. The resulting data will be automatically available on the [OpenOwnership Register](https://register.openownership.org/), and linked to other beneficial ownership data from around the world.

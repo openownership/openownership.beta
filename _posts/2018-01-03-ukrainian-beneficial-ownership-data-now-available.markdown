@@ -1,6 +1,9 @@
 ---
 title: Ukrainian beneficial ownership data now available
 date: 2018-01-03 15:27:00 Z
+permalink: news/ukrainian-beneficial-ownership-data-now-available/
+categories:
+- news
 tags:
 - the openownership pilot program
 - 1-1 technical assistance
@@ -9,9 +12,6 @@ tags:
 - openownership register
 image: "/uploads/ukraine-report.jpg"
 author: Zosia Sztykowski
-permalink: news/ukrainian-beneficial-ownership-data-now-available/
-categories:
-  - news
 ---
 
 The [OpenOwnership Register](https://register.openownership.org/) has been updated to include information about the beneficial owners of over 240,000 Ukrainian companies.

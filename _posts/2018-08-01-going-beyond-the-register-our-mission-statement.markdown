@@ -1,14 +1,14 @@
 ---
 title: Going Beyond the Register - our Mission Statement
 date: 2018-08-01 16:02:00 Z
+permalink: news/going-beyond-the-register-our-mission-statement/
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
 - openownership register
 image: "/uploads/mission-statement.jpg"
 author: Zosia Sztykowski
-permalink: news/going-beyond-the-register-our-mission-statement/
-categories:
-  - blogs
 ---
 
 Our founding organizations came together because of a shared vision: freely accessible, linked beneficial ownership information for the benefit of both business and society.
