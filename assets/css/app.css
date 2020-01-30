@@ -10882,9 +10882,7 @@ h2 a {
     color: #3C31D5; }
 
 .sponsors {
-  color: #7e8da3;
-  border-top: 1px solid #e6e6e6;
-  background-color: #fefefe; }
+  color: #7e8da3; }
   .sponsors a {
     color: #7e8da3; }
     .sponsors a:hover {
@@ -10893,11 +10891,6 @@ h2 a {
 .sponsors .icon {
   font-size: 3rem; }
 
-/*
-.sponsors .icon-open-contracting-partnership {
-  font-size: 4rem;
-}
-*/
 .sponsors .icon-uk-aid {
   font-size: 4rem; }
 
