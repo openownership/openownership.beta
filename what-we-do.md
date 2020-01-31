@@ -26,15 +26,16 @@ services:
     of the Standard.
   button: Find out more
   link: "/what-we-do/the-beneficial-ownership-data-standard/"
-- title: The OpenOwnership pilot program
+- title: The Beneficial Ownership Leadership Group
   icon: pilot
-  text: Our pilot program supports data publishers in national governments and multinational
-    institutions to publish high quality, highly usable beneficial ownership data.
-    The ultimate outcome is a beneficial ownership data infrastructure that is fit
-    for purpose, complies with our data Standard and is integrated with the OpenOwnership
-    Register.
+  text: The Beneficial Ownership Leadership Group came together in 2019 to drive the
+    global policy shift towards free, open beneficial ownership data. By joining the
+    Beneficial Ownership Leadership Group each country signs up to a   set of best
+    practice disclosure principles. Convened by Open Ownership and Open Government
+    Partnership, the group is comprised of Armenia, Kenya, Latvia, Mexico and the
+    Slovak Republic.
   button: Find out more
-  link: "/what-we-do/the-openownership-pilot-program/"
+  link: "/what-we-do/the-beneficial-ownership-leadership-group/"
 - title: 1-1 technical assistance
   icon: one-on-one
   text: Whether this occurs within the pilot program or on a bespoke basis, we are
