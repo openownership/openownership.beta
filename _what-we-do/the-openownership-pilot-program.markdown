@@ -7,6 +7,9 @@ pagination:
   collection: posts
 ---
 
+**The OpenOwnership pilot program ran until 2019, and the learning and tools
+from the pilots now underpin our [technical assistance to countries](/what-we-do/1-1-technical-asistance).**
+
 Our pilot program supports data publishers in national governments and multinational institutions to publish high quality beneficial ownership data. Current pilot countries include Kyrgyzstan and Ukraine.
 
 The pilot program is the first step in our work to  develop implementation guidance that will assist governments publishing beneficial ownership data to generate data that is highly usable and effective in preventing money-laundering and corruption.
