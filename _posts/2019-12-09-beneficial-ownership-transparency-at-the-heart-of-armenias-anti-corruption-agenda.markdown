@@ -6,7 +6,7 @@ permalink: news/beneficial-ownership-transparency-at-the-heart-of-armenias-anti-
 categories:
 - blogs
 tags:
-- beneficial ownership leadership group
+- the beneficial ownership leadership group
 image: "/uploads/artak-petrosyan-vwvshYHYAZs-unsplash.jpg"
 description: Photo by [Artak Petrosyan ](https://unsplash.com/@artakpetrosyan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on
   [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

@@ -5,7 +5,7 @@ permalink: news/armenia-signs-mou-with-openownership/
 categories:
 - news
 tags:
-- beneficial ownership leadership group
+- the beneficial ownership leadership group
 - 1-1 technical assistance
 image: "/uploads/EICcuoNXYAAqwNE.jpg"
 description: Signing ceremony and technical workshop in Yerevan launches start of

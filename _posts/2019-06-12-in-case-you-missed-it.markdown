@@ -5,7 +5,7 @@ permalink: news/in-case-you-missed-it/
 categories:
 - blogs
 tags:
-- beneficial ownership leadership group
+- the beneficial ownership leadership group
 - open government partnership
 image: "/uploads/fabrizio-verrecchia-448425-unsplash.jpg"
 description: A blog post summarising key news and activities from May 2019 including
