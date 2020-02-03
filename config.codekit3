@@ -306,6 +306,14 @@
 		"oAP": "/_includes/blocks/posts.html",
 		"oF": 0
 		},
+	"/_includes/blocks/related-content.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/blocks/related-content.html",
+		"oF": 0
+		},
 	"/_includes/blocks/tags.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -512,6 +520,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/latest.html",
+		"oF": 0
+		},
+	"/_layouts/leadership-group.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/leadership-group.html",
 		"oF": 0
 		},
 	"/_layouts/missing.html": {
@@ -1352,6 +1368,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/bolg-logo.png": {
+		"ft": 32768,
+		"iS": 12894,
+		"oA": 0,
+		"oAP": "/_uploads/bolg-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/BOT-network-support-tools-for-implementation.jpg": {
@@ -3065,6 +3092,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_what-we-do/the-beneficial-ownership-data-standard.markdown",
+		"oF": 0
+		},
+	"/_what-we-do/the-beneficial-ownership-leadership-group.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_what-we-do/the-beneficial-ownership-leadership-group.markdown",
 		"oF": 0
 		},
 	"/_what-we-do/the-openownership-pilot-program.markdown": {
