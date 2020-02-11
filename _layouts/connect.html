@@ -48,90 +48,89 @@ layout: default
 </div>
 <!-- End Core Team Content -->
 
-<!-- BODs Title -->
+<!-- BODs Content -->
 <div class="grid-container">
   <div class="grid-x grid-padding-x">
     <div class="small-12 cell">
       <h3>Beneficial Ownership Data Standard Team</h3>
     </div>
   </div>
-</div>
-<!-- End BODs Title -->
 
-<!-- BODs Content -->
-<div class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-2 large-up-3" data-equalizer data-equalize-on-stack="false">
   {% assign sorted_team_bods = site.team | sort:"position" | where: "categories", "bods" %}
   {% for member in sorted_team_bods %}
-  <div class="cell team__members">
-    <div class="callout shadow" data-equalizer-watch>
-      <div class="grid-y align-justify height-100">
-        <div class="shrink cell text-center">
-          {% if member.image %}
-          {% assign image = member.image %}
-          <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
-          {% else %}
-          {% assign image = site.placeholder %}
-          <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
-          {% endif %}
-          <h5 class="sans-bold">{{member.title}}</h5>
-          <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
-          {{member.content}}
-        </div>
-        <div class="shrink cell">
-          <ul class="menu align-center">
-          {% if member.email %}
-          <li><a href="mailto:{{member.email}}"><span class="show-for-sr">Email</span><svg class="icon icon-socials icon-email"><use xlink:href="/assets/icons/symbol-defs.svg#icon-email"></use></svg></a></li>
-          {% endif %}
-          {% for item in member.social %}
-          <li><a href="{{ item[1] }}" target="_blank" rel="noopener" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-          {% endfor %}
-          </ul>
+    <div class="cell team__members">
+      <div class="callout shadow" data-equalizer-watch>
+        <div class="grid-y align-justify height-100">
+          <div class="shrink cell text-center">
+            {% if member.image %}
+              {% assign image = member.image %}
+              <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
+            {% else %}
+              {% assign image = site.placeholder %}
+              <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
+            {% endif %}
+            <h5 class="sans-bold">{{member.title}}</h5>
+            <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
+            {{member.content}}
+          </div>
+          <div class="shrink cell">
+            <ul class="menu align-center">
+            {% if member.email %}
+              <li><a href="mailto:{{member.email}}"><span class="show-for-sr">Email</span><svg class="icon icon-socials icon-email"><use xlink:href="/assets/icons/symbol-defs.svg#icon-email"></use></svg></a></li>
+            {% endif %}
+            {% for item in member.social %}
+              <li><a href="{{ item[1] }}" target="_blank" rel="noopener" rel="noopener" class="padding-left-1"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+            {% endfor %}
+            </ul>
+          </div>
         </div>
       </div>
     </div>
-  </div>
   {% endfor %}
   </div>
 </div>
 <!-- End BODs Content -->
 
-<!-- Get Involved Title -->
+<!-- Sponsors -->
 <div class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 medium-10 large-8 cell">
-      <h1>Get involved</h1>
-      {% assign content = page.get-involved-text | strip_newlines %}
-      {% unless content == ""  %}
-      <h5 class="sans-regular">{{content | markdownify}}</h5>
-      {% endunless %}
+  <div class="grid-x grid-padding-x">
+    <div class="small-12 cell">
+      <h3>Partners</h3>
+      <p>{{page.partners-text}}</p>
+    </div>
+  </div>
+
+  <div class="grid-x grid-padding-x grid-padding-y align-justify sponsors">
+    <div class="small-12 medium-shrink cell text-center medium-text-left">
+      <ul class="vertical medium-horizontal menu">
+        <li><a href="https://www.transparency.org" aria-label="Transparency International"><svg class="icon icon-transparency-international"><use xlink:href="/assets/icons/symbol-defs.svg#icon-transparency-international"></use></svg></a></li>
+        <li><a href="https://www.one.org/international/" aria-label="One"><svg class="icon icon-one"><use xlink:href="/assets/icons/symbol-defs.svg#icon-one"></use></svg></a></li>
+        <li><a href="https://opencorporates.com" aria-label="Open Corporates"><svg class="icon icon-open-corporates"><use xlink:href="/assets/icons/symbol-defs.svg#icon-open-corporates"></use></svg></a></li>
+        <li><a href="https://www.open-contracting.org" aria-label="Open Contracting"><svg class="icon icon-open-contracting-partnership"><use xlink:href="/assets/icons/symbol-defs.svg#icon-open-contracting-partnership"></use></svg></a></li>
+        <li><a href="http://www.bteam.org" aria-label="B Team"><svg class="icon icon-the-b-team"><use xlink:href="/assets/icons/symbol-defs.svg#icon-the-b-team"></use></svg></a></li>
+        <li><a href="https://www.globalwitness.org/en-gb/" aria-label="Global Witness"><svg class="icon icon-global-witness"><use xlink:href="/assets/icons/symbol-defs.svg#icon-global-witness"></use></svg></a></li>
+        <li><a href="https://www.taxjustice.net/" aria-label="Tax Justice Network"><svg class="icon icon-tjn"><use xlink:href="/assets/icons/symbol-defs.svg#icon-tjn"></use></svg></a></li>
+        <li><a href="https://www.opengovpartnership.org/" aria-label="Open Government Partnership"><svg class="icon icon-ogp"><use xlink:href="/assets/icons/symbol-defs.svg#icon-ogp"></use></svg></a></li>
+        <li><a href="https://www.eiti.org" aria-label="Extractives Industries Transparency Initiative"><svg class="icon icon-eiti"><use xlink:href="/assets/icons/symbol-defs.svg#icon-eiti"></use></svg></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="grid-x grid-padding-x">
+    <div class="small-12 cell">
+      <h3>Funders</h3>
+      <p>{{page.funders-text}}</p>
+    </div>
+  </div>
+
+  <div class="grid-x grid-padding-x grid-padding-y align-justify sponsors">
+    <div class="small-12 medium-shrink cell text-center medium-text-left">
+      <ul class="vertical medium-horizontal menu">
+        <li><a href="https://www.gov.uk/government/organisations/department-for-international-development" aria-label="Department for International Development"><svg class="icon icon-uk-aid"><use xlink:href="/assets/icons/symbol-defs.svg#icon-uk-aid"></use></svg></a></li>
+      </ul>
     </div>
   </div>
 </div>
-<!-- End Get Involved Title -->
 
-<!-- Get Involved Sectors -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y padding-bottom-2" data-equalizer data-equalize-on-stack="true" data-equalize-by-row="true">
-  {% for sector in page.sectors %}
-    <div class="small-12 medium-12 large-6 {% if sector.is-full-width %}large-12{% endif %} cell padding-1">
-    <div class="callout large shadow margin-bottom-0" data-equalizer-watch>
-      <h3 class="serif-bold padding-bottom-1">{{sector.title}}</h3>
-      {{sector.text | markdownify}}
-    </div>
-    </div>
-  {% endfor %}
-  </div>
-</section>
-<!-- End Get Involved Sectors -->
-
-<!-- Governance and Funding -->
-<div class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y">
-      <div class="small-12 cell">
-        <h1>Governance and Funding</h1>
-        {{page.legal | markdownify}}
-      </div>
-  </div>
 </div>
-<!-- End Governance and Funding -->
