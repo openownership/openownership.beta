@@ -57,7 +57,6 @@ questions:
     In addition to this implementation guide, other OpenOwnership resources are:
 
     * the [OpenOwnership Helpdesk](mailto: support@openownership.org), which provides support with a range of technical and policy issues
-    * the [OpenOwnership Pilot Program](https://www.openownership.org/uploads/pilot-program-summary-of-metholodogy.pdf), which provides in kind technical assistance to governments implementing beneficial ownership transparency
 
     If you need additional support, please contact our team on [support@openownership.org](mailto:support@openownership.org).
 resource-text:
@@ -67,7 +66,5 @@ resource-text:
 - 'Briefing: [The case for beneficial ownership as open data](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf)'
 - 'Briefing: [Characteristics of Effective Beneficial Ownership Data](/uploads/oo-characteristics-effective-bo-data.pdf)'
 - "[Beneficial Ownership Transparency Disclosure Principles](/uploads/oo-disclosure-principles.pdf)"
-- "[Overview of the OpenOwnership Pilot Program](https://www.openownership.org/uploads/pilot-program-summary-of-metholodogy.pdf)"
 layout: guide-page
 ---
-
