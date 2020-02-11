@@ -347,21 +347,17 @@ h2 {
 .sponsors {
   color: $medium-gray;
   @include links ($medium-gray, $dark-blue);
-  border-top: 1px solid $light-gray;
-  background-color: $white;
 }
 
 .sponsors .icon {
   font-size: 3rem;
 }
 
-/*
-.sponsors .icon-open-contracting-partnership {
+.sponsors .icon-uk-aid {
   font-size: 4rem;
 }
-*/
 
-.sponsors .icon-uk-aid {
+.sponsors .icon-tjn {
   font-size: 4rem;
 }
 

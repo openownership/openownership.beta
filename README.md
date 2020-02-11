@@ -32,6 +32,19 @@ assets.
 - Turn Codekit off during rebases as it'll cause issues with changing the config
   all the time otherwise.
 
+### Adding icons to symbol-defs.svg
+
+- Convert to SVG with https://image.online-convert.com/convert-to-svg
+  - You may have to tweak the black/white level to get some light colours to
+    come out
+- Open in Inkscape, select all and resize to max 400px wide
+- With everything selected, reduce document size to selection size
+- Save as SVG
+- Run exported SVG through https://jakearchibald.github.io/svgomg/ to trim all
+  the cruft (prefer viewBox, remove styles the only non-standard options)
+- Copy and paste the paths from the result into a new symbol in symbol-defs.svg
+- Add the viewBox attribute into the symbol from the SVG
+
 ## Setting up a deploy preview
 
 1. You need to tell Netlify about the branch you want to deploy, as it only deploys

@@ -306,6 +306,14 @@
 		"oAP": "/_includes/blocks/posts.html",
 		"oF": 0
 		},
+	"/_includes/blocks/related-content.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/blocks/related-content.html",
+		"oF": 0
+		},
 	"/_includes/blocks/tags.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -394,14 +402,6 @@
 		"oAP": "/_includes/reveal/newsletter.html",
 		"oF": 0
 		},
-	"/_includes/site/analytics.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_includes/site/analytics.html",
-		"oF": 0
-		},
 	"/_includes/site/cookies.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -450,12 +450,20 @@
 		"oAP": "/_includes/site/scripts.html",
 		"oF": 0
 		},
-	"/_includes/site/sponsors.html": {
+	"/_includes/site/tag-manager-body.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_includes/site/sponsors.html",
+		"oAP": "/_includes/site/tag-manager-body.html",
+		"oF": 0
+		},
+	"/_includes/site/tag-manager-head.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/site/tag-manager-head.html",
 		"oF": 0
 		},
 	"/_layouts/compress.html": {
@@ -512,6 +520,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/latest.html",
+		"oF": 0
+		},
+	"/_layouts/leadership-group.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/leadership-group.html",
 		"oF": 0
 		},
 	"/_layouts/missing.html": {
@@ -930,6 +946,14 @@
 		"oAP": "/_posts/2019-08-14-our-direction-of-travel.markdown",
 		"oF": 0
 		},
+	"/_posts/2019-08-28-join-openownership.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2019-08-28-join-openownership.markdown",
+		"oF": 0
+		},
 	"/_posts/2019-09-03-graph-visualisation-is-providing-insights-for-policy-makers-and-implementers.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1018,12 +1042,20 @@
 		"oAP": "/_posts/2020-01-22-luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining.markdown",
 		"oF": 0
 		},
-	"/_posts/news/2019-08-28-join-openownership.markdown": {
+	"/_posts/2020-01-23-2020-transparency-internationals-corruption-perception-index-what-it-says-about-corruption-and-beneficial-ownership-transparency.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/_posts/news/2019-08-28-join-openownership.markdown",
+		"oAP": "/_posts/2020-01-23-2020-transparency-internationals-corruption-perception-index-what-it-says-about-corruption-and-beneficial-ownership-transparency.markdown",
+		"oF": 0
+		},
+	"/_posts/2020-01-28-imf-anti-corruption-challenge-exploring-how-technology-can-inform-better-decision-making.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2020-01-28-imf-anti-corruption-challenge-exploring-how-technology-can-inform-better-decision-making.markdown",
 		"oF": 0
 		},
 	"/_resources/a-summary-guide-to-implementing-beneficial-ownership-transparency.markdown": {
@@ -1224,14 +1256,6 @@
 		"oAP": "/_team/kadie-armstrong.markdown",
 		"oF": 0
 		},
-	"/_team/laurence-bascle.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_team/laurence-bascle.markdown",
-		"oF": 0
-		},
 	"/_team/louise-russell-prywata.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1344,6 +1368,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/bolg-logo.png": {
+		"ft": 32768,
+		"iS": 12894,
+		"oA": 0,
+		"oAP": "/_uploads/bolg-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/BOT-network-support-tools-for-implementation.jpg": {
@@ -2813,6 +2848,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/technology.png": {
+		"ft": 32768,
+		"iS": 93279,
+		"oA": 0,
+		"oAP": "/_uploads/technology.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/the-case-doc.jpg": {
 		"ft": 16384,
 		"iS": 231433,
@@ -3046,6 +3092,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_what-we-do/the-beneficial-ownership-data-standard.markdown",
+		"oF": 0
+		},
+	"/_what-we-do/the-beneficial-ownership-leadership-group.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_what-we-do/the-beneficial-ownership-leadership-group.markdown",
 		"oF": 0
 		},
 	"/_what-we-do/the-openownership-pilot-program.markdown": {
@@ -11679,6 +11733,25 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/latest-news.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/latest.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/latest.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
