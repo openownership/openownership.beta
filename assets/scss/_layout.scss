@@ -382,11 +382,7 @@ footer .icon {
 }
 
 .team__members {
-  @include links ($medium-gray, $primary-color);
-}
-
-.team__members .icon-socials {
-  font-size: 1.5rem;
+  @include links ($black, $primary-color);
 }
 
 .external a svg {
@@ -844,4 +840,25 @@ padding-top: 3rem;
   li:not(:last-child) {
     margin-bottom: 1rem
   }
+}
+
+// X. Team
+// -------
+.team-big-image {
+  float: right;
+  height: 17rem;
+  width: 100%;
+  background-size: cover;
+
+  @include breakpoint(medium) {
+    height: 37rem;
+  }
+
+  @media (min-height: 1100px) {
+    height: 44rem;
+  }
+}
+
+.team-connect-methods {
+  font-size: 2rem;
 }

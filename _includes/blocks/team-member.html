@@ -1,0 +1,19 @@
+<div class="cell team__members">
+  <div class="callout shadow" data-equalizer-watch>
+    <div class="grid-y align-justify height-100">
+      <a href="{{member.url}}">
+        <div class="shrink cell text-center">
+          {% if member.image %}
+            {% assign image = member.image %}
+            <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell-faces.html %}"></div>
+          {% else %}
+            {% assign image = site.placeholder %}
+            <div class="light-gray-background image--square margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}"></div>
+          {% endif %}
+          <h5 class="sans-bold">{{member.title}}</h5>
+          <h6 class="sans-regular medium-gray margin-bottom-1">{{member.job-title}}</h6>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>

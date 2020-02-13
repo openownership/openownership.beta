@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<!-- Big image -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
+    {% if page.image %}
+      <div class="small-12 cell">
+        {% assign image=page.image %}
+        <div class="team-big-image" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+      </div>
+    {% endif %}
+    <div class="small-12 medium-10 large-8 cell">
+      <h1>{{page.title | captialize}}</h1>
+      <h2 class="medium-gray">{{ page.job-title }}</h2>
+    </div>
+  </div>
+</section>
+
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-8 cell">
+      {{ page.content | markdownify }}
+    </div>
+    <div class="small-12 medium-4 cell text-center">
+      <h3>Connect</h3>
+      <ul class="menu align-center team-connect-methods">
+        {% if page.email %}
+          <li>
+            <a href="mailto:{{page.email}}">
+              <span class="show-for-sr">Email</span>
+              <svg class="icon icon-email">
+                <use xlink:href="/assets/icons/symbol-defs.svg#icon-email"/>
+              </svg>
+            </a>
+          </li>
+        {% endif %}
+        {% for item in page.social %}
+          <li>
+            <a href="{{ item[1] }}" target="_blank" rel="noopener" class="padding-left-1">
+              <span class="show-for-sr">{{ item[0] }}</span>
+              <svg class="icon icon-{{ item[0] }}">
+                <use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"/>
+              </svg>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
