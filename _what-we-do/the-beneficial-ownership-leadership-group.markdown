@@ -2,7 +2,7 @@
 title: The Beneficial Ownership Leadership Group
 date: 2020-01-31 11:46:00 Z
 layout: leadership-group
-logo_image: /uploads/bolg-logo.png
+logo_image: "/uploads/bolg-logo.png"
 intro: |-
   The Beneficial Ownership Leadership Group came together in 2019 to drive the
   global policy shift towards free, open beneficial ownership data. By joining the
@@ -37,32 +37,33 @@ principles: |-
     norm; and
   - Contributing to evaluation and impact assessment of our shared approach.
 members:
-  - name: Armenia
-    description: |-
-      [Declaration of support](https://www.openownership.org/uploads/Declaration_Armenia.pdf)
+- name: Armenia
+  description: |-
+    [Declaration of support](https://www.openownership.org/uploads/Declaration_Armenia.pdf)
 
-      [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/armenia/commitments/AM0037/)
-  - name: Kenya
-    description:  |-
-      Announcement: N/A
+    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/armenia/commitments/AM0037/)
+- name: Kenya
+  description: |-
+    Announcement: N/A
 
-      [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/kenya/commitments/KE0018/)
-  - name: Latvia
-    description:  |-
-      [Declaration of support](https://twitter.com/Tieslietas/status/1200052790069989376?s=20)
+    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/kenya/commitments/KE0018/)
+- name: Latvia
+  description: |-
+    [Declaration of support](https://twitter.com/Tieslietas/status/1200052790069989376?s=20)
 
-      [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/latvia/commitments/LV0038/)
-  - name: Mexico
-    description:  |-
-      [Declaration of support](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es)
+    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/latvia/commitments/LV0038/)
+- name: Mexico
+  description: |-
+    [Declaration of support](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es)
 
-      [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/mexico-action-plan-2019-2021/)
-  - name: Slovak Republic
-    description:  |-
-      [Declaration of support](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611)
+    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/mexico-action-plan-2019-2021/)
+- name: Slovak Republic
+  description: |-
+    [Declaration of support](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611)
 
-      [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/slovakia-action-plan-2019-2021/)
+    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/slovakia-action-plan-2019-2021/)
 pagination:
   enabled: true
   collection: posts
 ---
+
