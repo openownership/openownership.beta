@@ -838,3 +838,10 @@ padding-top: 3rem;
     }
   }
 }
+
+// X. Leadership Group
+.bolg-principles {
+  li:not(:last-child) {
+    margin-bottom: 1rem
+  }
+}

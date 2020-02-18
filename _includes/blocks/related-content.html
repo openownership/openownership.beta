@@ -1,0 +1,31 @@
+{% assign tag = page.title | downcase %}
+
+{% assign tag_posts = site.tags[tag] %}
+{% if tag_posts.size > 0 %}
+  <section class="snow-background padding-bottom-1">
+    <div class="grid-container">
+
+      <div class="grid-x grid-padding-x grid-padding-y page__title">
+        <div class="small-12 medium-10 large-10 cell">
+          <h2 class="margin-bottom-0">Further Reading</h2>
+        </div>
+      </div>
+
+      <div class="grid-x grid-padding-x" data-equalizer>
+      {% for post in tag_posts %}
+        <div class="small-12 medium-4 cell padding-1">
+          <div class="callout shadow large" data-equalizer-watch>
+          {% if post.image %}
+            {% assign image = post.image %}
+            <a href="{{ post.url }}">
+              <div class="light-gray-background image margin-bottom-1" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+            </a>
+          {% endif %}
+          <a href="{{ post.url }}" class="{% if post.image %}h5{% else %}h3{% endif %}">{{post.title}}</a>
+          </div>
+        </div>
+      {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endif %}

@@ -226,14 +226,6 @@
 		"oAP": "/_guide/commit.markdown",
 		"oF": 0
 		},
-	"/_guide/consider.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_guide/consider.markdown",
-		"oF": 0
-		},
 	"/_guide/data.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -520,14 +512,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/latest.html",
-		"oF": 0
-		},
-	"/_layouts/leadership-group.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_layouts/leadership-group.html",
 		"oF": 0
 		},
 	"/_layouts/missing.html": {
@@ -1368,17 +1352,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/_uploads/bolg-logo.png": {
-		"ft": 32768,
-		"iS": 12894,
-		"oA": 0,
-		"oAP": "/_uploads/bolg-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/BOT-network-support-tools-for-implementation.jpg": {
@@ -3094,14 +3067,6 @@
 		"oAP": "/_what-we-do/the-beneficial-ownership-data-standard.markdown",
 		"oF": 0
 		},
-	"/_what-we-do/the-beneficial-ownership-leadership-group.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_what-we-do/the-beneficial-ownership-leadership-group.markdown",
-		"oF": 0
-		},
 	"/_what-we-do/the-openownership-pilot-program.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -3109,16 +3074,6 @@
 		"oA": 2,
 		"oAP": "/_what-we-do/the-openownership-pilot-program.markdown",
 		"oF": 0
-		},
-	"/assets/css/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/assets/css/app-ck.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"/assets/favicons/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -3503,19 +3458,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/_icons.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/assets/scss/_layout.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/assets/css/_layout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
