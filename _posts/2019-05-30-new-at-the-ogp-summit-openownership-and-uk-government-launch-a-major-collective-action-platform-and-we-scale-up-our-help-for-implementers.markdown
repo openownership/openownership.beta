@@ -6,7 +6,7 @@ permalink: news/new-at-the-ogp-summit-openownership-and-uk-government-launch-a-m
 categories:
 - news
 tags:
-- beneficial ownership leadership group
+- the beneficial ownership leadership group
 - open government partnership
 image: "/uploads/david-clode-438752-unsplash.jpg"
 description: "\\*\\*We’re delighted that today the UK Anti-Corruption Champion John

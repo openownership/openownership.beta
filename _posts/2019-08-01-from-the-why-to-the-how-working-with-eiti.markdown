@@ -6,7 +6,7 @@ categories:
 - blogs
 tags:
 - eiti
-- beneficial ownership leadership group
+- the beneficial ownership leadership group
 - open government partnership
 image: "/uploads/Photo%20Extractive-d11722.jpg"
 description: Over the last few years, there’s been significant progress towards making

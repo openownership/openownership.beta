@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<!-- Page Title -->
+<!-- Mostly the same as _includes/blocks/title, but has an image in -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
+    <div class="small-12 medium-6 cell">
+        <img src="/uploads/bolg-logo.png" alt="Beneficial Ownership Leadership Group Logo">
+    </div>
+    <div class="small-12 medium-10 large-8 cell">
+      <h1>{{page.title | captialize}}</h1>
+    </div>
+  </div>
+</section>
+<!-- End Page Title -->
+
+<!-- Page Content -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 medium-10 cell padding-bottom-1">
+      {{ page.intro | markdownify }}
+    </div>
+    <div class="small-12 medium-10 cell padding-bottom-1 bolg-principles">
+      <h2 class="text-center">Principles</h2>
+      {{ page.principles | markdownify }}
+    </div>
+    <div class="small-12 cell">
+      <h2>Members</h2>
+      <div class="grid-x grid-padding-x grid-padding-y">
+        {% for member in page.members %}
+          <div class="small-6 medium-4 cell padding-bottom-1">
+            <h3>{{member.name}}</h3>
+            {{member.description | markdownify}}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Page Content -->
+
+<!-- Projects -->
+{% include blocks/related-content.html %}
+<!-- End Projects -->
+
+
+<!-- Pagination -->
+{% include pagination/what-we-do.html %}
+<!-- End Pagination -->
