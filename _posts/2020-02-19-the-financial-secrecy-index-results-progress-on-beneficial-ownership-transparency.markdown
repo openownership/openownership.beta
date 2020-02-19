@@ -14,7 +14,7 @@ is_featured: true
 
 Last month’s Luanda Leaks are a poignant reminder of how transnational and complex corruption has become. Isabel dos Santos, Africa’s richest woman, had with her husband received billions of dollars from her father’s government in Angola through a web of more than 400 companies and subsidiaries in 41 countries. 
 
-This week, the Tax Justice Network released the Financial Secrecy Index, which assesses the state of financial secrecy in 133 jurisdictions. On average, countries have reduced their secrecy scoring on ownership registration in part by implementing beneficial ownership reforms[^1]. 
+This week, the Tax Justice Network released the Financial Secrecy Index, which assesses the state of financial secrecy in 133 jurisdictions. On average, countries have reduced their secrecy scoring on ownership registration in part by implementing beneficial ownership reforms [^1]. 
 
 Tackling anonymous companies requires action on multiple fronts: in countries like Angola, where money is being siphoned out of; in the jurisdiction(s) where transfers are arranged from; and in the tax havens where illicit money flows through and can end up. 
 
