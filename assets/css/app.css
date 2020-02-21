@@ -10914,12 +10914,9 @@ footer .icon {
   font-size: 4rem; }
 
 .team__members a {
-  color: #7e8da3; }
+  color: #373A3C; }
   .team__members a:hover {
     color: #3C31D5; }
-
-.team__members .icon-socials {
-  font-size: 1.5rem; }
 
 .external a svg {
   transition: transform 0.25s; }
@@ -11284,3 +11281,18 @@ footer .icon {
 
 .bolg-principles li:not(:last-child) {
   margin-bottom: 1rem; }
+
+.team-big-image {
+  float: right;
+  height: 17rem;
+  width: 100%;
+  background-size: cover; }
+  @media print, screen and (min-width: 40em) {
+    .team-big-image {
+      height: 37rem; } }
+  @media (min-height: 1100px) {
+    .team-big-image {
+      height: 44rem; } }
+
+.team-connect-methods {
+  font-size: 2rem; }

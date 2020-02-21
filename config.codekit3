@@ -226,6 +226,14 @@
 		"oAP": "/_guide/commit.markdown",
 		"oF": 0
 		},
+	"/_guide/consider.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_guide/consider.markdown",
+		"oF": 0
+		},
 	"/_guide/data.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -314,6 +322,14 @@
 		"oAP": "/_includes/blocks/tags.html",
 		"oF": 0
 		},
+	"/_includes/blocks/team-member.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/blocks/team-member.html",
+		"oF": 0
+		},
 	"/_includes/blocks/title.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -328,6 +344,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/images/interchange-img-small-12-medium-12-cell.html",
+		"oF": 0
+		},
+	"/_includes/images/interchange-img-small-12-medium-4-cell-faces.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/interchange-img-small-12-medium-4-cell-faces.html",
 		"oF": 0
 		},
 	"/_includes/images/interchange-img-small-12-medium-4-cell.html": {
@@ -514,6 +538,14 @@
 		"oAP": "/_layouts/latest.html",
 		"oF": 0
 		},
+	"/_layouts/leadership-group.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/leadership-group.html",
+		"oF": 0
+		},
 	"/_layouts/missing.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -560,6 +592,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_layouts/tags.html",
+		"oF": 0
+		},
+	"/_layouts/team.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_layouts/team.html",
 		"oF": 0
 		},
 	"/_layouts/what-we-do.html": {
@@ -1042,6 +1082,14 @@
 		"oAP": "/_posts/2020-01-28-imf-anti-corruption-challenge-exploring-how-technology-can-inform-better-decision-making.markdown",
 		"oF": 0
 		},
+	"/_posts/2020-02-19-the-financial-secrecy-index-results-progress-on-beneficial-ownership-transparency.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_posts/2020-02-19-the-financial-secrecy-index-results-progress-on-beneficial-ownership-transparency.markdown",
+		"oF": 0
+		},
 	"/_resources/a-summary-guide-to-implementing-beneficial-ownership-transparency.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1146,6 +1194,14 @@
 		"oAP": "/_resources/learning-the-lessons-from-the-uks-public-beneficial-ownership-register-joint-briefing-with-global-witness.markdown",
 		"oF": 0
 		},
+	"/_resources/openownership-factsheet.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_resources/openownership-factsheet.markdown",
+		"oF": 0
+		},
 	"/_resources/openownership-mission-statement-2018.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1210,10 +1266,3316 @@
 		"oAP": "/_resources/what-we-really-mean-when-we-talk-about-verification.markdown",
 		"oF": 0
 		},
-	"/_site": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/_site",
+	"/_site/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/404.html",
+		"oF": 0
+		},
+	"/_site/assets/css/app.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/css/app-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/_site/assets/favicons/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 1421,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 2980,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 1297,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/browserconfig.xml",
+		"oF": 0
+		},
+	"/_site/assets/favicons/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 808,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 975,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/favicon.ico",
+		"oF": 0
+		},
+	"/_site/assets/favicons/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 1671,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 1916,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 2098,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 3476,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 1467,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/mstile-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/favicons/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/favicons/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/_site/assets/favicons/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/favicons/site.webmanifest",
+		"oF": 0
+		},
+	"/_site/assets/fonts/atlas-grotesk-bold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/atlas-grotesk-bold.ttf",
+		"oF": 0
+		},
+	"/_site/assets/fonts/atlas-grotesk-bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/atlas-grotesk-bold.woff",
+		"oF": 0
+		},
+	"/_site/assets/fonts/atlas-grotesk-bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/atlas-grotesk-bold.woff2",
+		"oF": 0
+		},
+	"/_site/assets/fonts/atlas-grotesk-regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/atlas-grotesk-regular.ttf",
+		"oF": 0
+		},
+	"/_site/assets/fonts/atlas-grotesk-regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/atlas-grotesk-regular.woff",
+		"oF": 0
+		},
+	"/_site/assets/fonts/atlas-grotesk-regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/atlas-grotesk-regular.woff2",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-bold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-bold.ttf",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-bold.woff",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-bold.woff2",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-text-italic.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-text-italic.ttf",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-text-italic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-text-italic.woff",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-text-italic.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-text-italic.woff2",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-text-roman.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-text-roman.ttf",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-text-roman.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-text-roman.woff",
+		"oF": 0
+		},
+	"/_site/assets/fonts/publico-text-roman.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/fonts/publico-text-roman.woff2",
+		"oF": 0
+		},
+	"/_site/assets/icons/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/icons/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/_site/assets/icons/symbol-defs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_site/assets/icons/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/_site/assets/img/og-image.png": {
+		"ft": 32768,
+		"iS": 45664,
+		"oA": 0,
+		"oAP": "/_site/assets/img/og-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/assets/img/placeholder.jpg": {
+		"ft": 16384,
+		"iS": 25412,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/img/placeholder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/assets/js/app.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/assets/js/app-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_site/assets/js/min/app-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/assets/js/min/app-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_site/assets/js/min/links-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/assets/js/min/links-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_site/assets/js/min/svgxuse-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/assets/js/min/svgxuse-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_site/assets/js/svgxuse.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/_site/assets/js/svgxuse-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/_site/connect-with-us/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/connect-with-us/index.html",
+		"oF": 0
+		},
+	"/_site/feed.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/feed.xml",
+		"oF": 0
+		},
+	"/_site/Gemfile": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/Gemfile",
+		"oF": 0
+		},
+	"/_site/guide/commit/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/guide/commit/index.html",
+		"oF": 0
+		},
+	"/_site/guide/consider/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/guide/consider/index.html",
+		"oF": 0
+		},
+	"/_site/guide/data/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/guide/data/index.html",
+		"oF": 0
+		},
+	"/_site/guide/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/guide/index.html",
+		"oF": 0
+		},
+	"/_site/guide/legal/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/guide/legal/index.html",
+		"oF": 0
+		},
+	"/_site/guide/publish/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/guide/publish/index.html",
+		"oF": 0
+		},
+	"/_site/guide/systems/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/guide/systems/index.html",
+		"oF": 0
+		},
+	"/_site/humans.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/humans.txt",
+		"oF": 0
+		},
+	"/_site/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/index.html",
+		"oF": 0
+		},
+	"/_site/jobs/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/jobs/index.html",
+		"oF": 0
+		},
+	"/_site/latest/10/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/10/index.html",
+		"oF": 0
+		},
+	"/_site/latest/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/2/index.html",
+		"oF": 0
+		},
+	"/_site/latest/3/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/3/index.html",
+		"oF": 0
+		},
+	"/_site/latest/4/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/4/index.html",
+		"oF": 0
+		},
+	"/_site/latest/5/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/5/index.html",
+		"oF": 0
+		},
+	"/_site/latest/6/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/6/index.html",
+		"oF": 0
+		},
+	"/_site/latest/7/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/7/index.html",
+		"oF": 0
+		},
+	"/_site/latest/8/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/8/index.html",
+		"oF": 0
+		},
+	"/_site/latest/9/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/9/index.html",
+		"oF": 0
+		},
+	"/_site/latest/blogs/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/blogs/2/index.html",
+		"oF": 0
+		},
+	"/_site/latest/blogs/3/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/blogs/3/index.html",
+		"oF": 0
+		},
+	"/_site/latest/blogs/4/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/blogs/4/index.html",
+		"oF": 0
+		},
+	"/_site/latest/blogs/5/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/blogs/5/index.html",
+		"oF": 0
+		},
+	"/_site/latest/blogs/6/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/blogs/6/index.html",
+		"oF": 0
+		},
+	"/_site/latest/blogs/7/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/blogs/7/index.html",
+		"oF": 0
+		},
+	"/_site/latest/blogs/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/blogs/index.html",
+		"oF": 0
+		},
+	"/_site/latest/events/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/events/index.html",
+		"oF": 0
+		},
+	"/_site/latest/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/index.html",
+		"oF": 0
+		},
+	"/_site/latest/news/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/news/2/index.html",
+		"oF": 0
+		},
+	"/_site/latest/news/3/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/news/3/index.html",
+		"oF": 0
+		},
+	"/_site/latest/news/4/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/news/4/index.html",
+		"oF": 0
+		},
+	"/_site/latest/news/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/news/index.html",
+		"oF": 0
+		},
+	"/_site/news.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_site/news/2019-in-review-the-events-shaping-the-beneficial-ownership-transparency-landscape/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/2019-in-review-the-events-shaping-the-beneficial-ownership-transparency-landscape/index.html",
+		"oF": 0
+		},
+	"/_site/news/2020-transparency-internationals-corruption-perception-index-what-it-says-about-corruption-and-beneficial-ownership-transparency/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/2020-transparency-internationals-corruption-perception-index-what-it-says-about-corruption-and-beneficial-ownership-transparency/index.html",
+		"oF": 0
+		},
+	"/_site/news/a-statement-from-business-leaders-moving-past-the-panama-papers/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/a-statement-from-business-leaders-moving-past-the-panama-papers/index.html",
+		"oF": 0
+		},
+	"/_site/news/accelerating-implementation-scaling-our-country-support/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/accelerating-implementation-scaling-our-country-support/index.html",
+		"oF": 0
+		},
+	"/_site/news/after-the-panama-papers-europe-cant-go-back-to-business-as-usual/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/after-the-panama-papers-europe-cant-go-back-to-business-as-usual/index.html",
+		"oF": 0
+		},
+	"/_site/news/armenia-signs-mou-with-openownership/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/armenia-signs-mou-with-openownership/index.html",
+		"oF": 0
+		},
+	"/_site/news/beneficial-ownership-transparency-at-the-heart-of-armenias-anti-corruption-agenda/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/beneficial-ownership-transparency-at-the-heart-of-armenias-anti-corruption-agenda/index.html",
+		"oF": 0
+		},
+	"/_site/news/beneficial-ownership-transparency-in-ukraine-whats-next/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/beneficial-ownership-transparency-in-ukraine-whats-next/index.html",
+		"oF": 0
+		},
+	"/_site/news/calling-all-business-help-us-test-the-worlds-first-register-of-global-beneficial-ownership/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/calling-all-business-help-us-test-the-worlds-first-register-of-global-beneficial-ownership/index.html",
+		"oF": 0
+		},
+	"/_site/news/can-beneficial-ownership-transparency-really-be-compatible-with-data-protection/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/can-beneficial-ownership-transparency-really-be-compatible-with-data-protection/index.html",
+		"oF": 0
+		},
+	"/_site/news/coming-soon-a-beneficial-ownership-data-standard/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/coming-soon-a-beneficial-ownership-data-standard/index.html",
+		"oF": 0
+		},
+	"/_site/news/countries-take-action-anti-corruption-day-2019/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/countries-take-action-anti-corruption-day-2019/index.html",
+		"oF": 0
+		},
+	"/_site/news/faqs-openownership/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/faqs-openownership/index.html",
+		"oF": 0
+		},
+	"/_site/news/from-the-why-to-the-how-working-with-eiti/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/from-the-why-to-the-how-working-with-eiti/index.html",
+		"oF": 0
+		},
+	"/_site/news/ghana-announces-partnership-with-openownership/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/ghana-announces-partnership-with-openownership/index.html",
+		"oF": 0
+		},
+	"/_site/news/going-beyond-the-register-our-mission-statement/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/going-beyond-the-register-our-mission-statement/index.html",
+		"oF": 0
+		},
+	"/_site/news/graph-visualisation-is-providing-insights-for-policy-makers-and-implementers/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/graph-visualisation-is-providing-insights-for-policy-makers-and-implementers/index.html",
+		"oF": 0
+		},
+	"/_site/news/guest-post-evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/guest-post-evaluating-the-personal-privacy-objections-to-public-beneficial-ownership-registries/index.html",
+		"oF": 0
+		},
+	"/_site/news/how-serious-is-germany-about-corporate-transparency/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/how-serious-is-germany-about-corporate-transparency/index.html",
+		"oF": 0
+		},
+	"/_site/news/identity-and-identifiers-what-weve-learned/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/identity-and-identifiers-what-weve-learned/index.html",
+		"oF": 0
+		},
+	"/_site/news/imf-anti-corruption-challenge-exploring-how-technology-can-inform-better-decision-making/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/imf-anti-corruption-challenge-exploring-how-technology-can-inform-better-decision-making/index.html",
+		"oF": 0
+		},
+	"/_site/news/in-case-you-missed-it/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/in-case-you-missed-it/index.html",
+		"oF": 0
+		},
+	"/_site/news/in-uncertain-times-transparency-is-a-must-for-investors/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/in-uncertain-times-transparency-is-a-must-for-investors/index.html",
+		"oF": 0
+		},
+	"/_site/news/join-openownership/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/join-openownership/index.html",
+		"oF": 0
+		},
+	"/_site/news/kyrgyzstan-joins-openownerships-pilot-program/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/kyrgyzstan-joins-openownerships-pilot-program/index.html",
+		"oF": 0
+		},
+	"/_site/news/luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/luanda-leaks-shows-the-critical-importance-of-ownership-transparency-for-good-governance-in-oil-gas-and-mining/index.html",
+		"oF": 0
+		},
+	"/_site/news/moving-from-policy-to-practice-reflections-from-tblisi/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/moving-from-policy-to-practice-reflections-from-tblisi/index.html",
+		"oF": 0
+		},
+	"/_site/news/new-at-the-ogp-summit-openownership-and-uk-government-launch-a-major-collective-action-platform-and-we-scale-up-our-help-for-implementers/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/new-at-the-ogp-summit-openownership-and-uk-government-launch-a-major-collective-action-platform-and-we-scale-up-our-help-for-implementers/index.html",
+		"oF": 0
+		},
+	"/_site/news/new-executive-director/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/new-executive-director/index.html",
+		"oF": 0
+		},
+	"/_site/news/new-on-the-openownership-register-data-from-the-danish-business-register-has-been-added/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/new-on-the-openownership-register-data-from-the-danish-business-register-has-been-added/index.html",
+		"oF": 0
+		},
+	"/_site/news/not-just-public-but-useful-the-right-way-to-set-up-a-beneficial-ownership-register/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/not-just-public-but-useful-the-right-way-to-set-up-a-beneficial-ownership-register/index.html",
+		"oF": 0
+		},
+	"/_site/news/open-call-governance-consultant/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/open-call-governance-consultant/index.html",
+		"oF": 0
+		},
+	"/_site/news/openownership-in-kiev/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/openownership-in-kiev/index.html",
+		"oF": 0
+		},
+	"/_site/news/openownership-is-recruiting/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/openownership-is-recruiting/index.html",
+		"oF": 0
+		},
+	"/_site/news/our-direction-of-travel/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/our-direction-of-travel/index.html",
+		"oF": 0
+		},
+	"/_site/news/our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done/index.html",
+		"oF": 0
+		},
+	"/_site/news/request-for-proposals-graphic-design-and-videographic-services/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/request-for-proposals-graphic-design-and-videographic-services/index.html",
+		"oF": 0
+		},
+	"/_site/news/tender-opportunity-technical-research-on-the-collection-processing-and-use-of-beneficial-ownership-data-in-the-private-sector/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/tender-opportunity-technical-research-on-the-collection-processing-and-use-of-beneficial-ownership-data-in-the-private-sector/index.html",
+		"oF": 0
+		},
+	"/_site/news/the-beneficial-ownership-data-standard-is-now-in-beta/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/the-beneficial-ownership-data-standard-is-now-in-beta/index.html",
+		"oF": 0
+		},
+	"/_site/news/the-first-steps/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/the-first-steps/index.html",
+		"oF": 0
+		},
+	"/_site/news/the-openownership-pilot-program-why-do-we-do-it-and-whats-involved/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/the-openownership-pilot-program-why-do-we-do-it-and-whats-involved/index.html",
+		"oF": 0
+		},
+	"/_site/news/three-takeaways-from-kyrgyz-republic-on-implementing-beneficial-ownership-transparency/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/three-takeaways-from-kyrgyz-republic-on-implementing-beneficial-ownership-transparency/index.html",
+		"oF": 0
+		},
+	"/_site/news/ukraine-becomes-the-first-country-to-integrate-with-openownership/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/ukraine-becomes-the-first-country-to-integrate-with-openownership/index.html",
+		"oF": 0
+		},
+	"/_site/news/ukrainemou/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/ukrainemou/index.html",
+		"oF": 0
+		},
+	"/_site/news/ukrainian-beneficial-ownership-data-now-available/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/ukrainian-beneficial-ownership-data-now-available/index.html",
+		"oF": 0
+		},
+	"/_site/news/were-hiring-could-you-be-our-executive-director/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/were-hiring-could-you-be-our-executive-director/index.html",
+		"oF": 0
+		},
+	"/_site/news/were-hiring/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/were-hiring/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-graph-visualisation-teaches-us-about-beneficial-ownership/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-graph-visualisation-teaches-us-about-beneficial-ownership/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-i-learned-from-you-at-iacc-and-ogp/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-i-learned-from-you-at-iacc-and-ogp/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-we-learned-at-the-ogp-summit-2019/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-we-learned-at-the-ogp-summit-2019/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-we-really-mean-when-we-talk-about-verification-authentication-and-authorization-part-2-of-4/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-we-really-mean-when-we-talk-about-verification-authentication-and-authorization-part-2-of-4/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-we-really-mean-when-we-talk-about-verification-part-1-of-4/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-we-really-mean-when-we-talk-about-verification-part-1-of-4/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-we-really-mean-when-we-talk-about-verification-truth-verification-part-4-of-4/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-we-really-mean-when-we-talk-about-verification-truth-verification-part-4-of-4/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-we-really-mean-when-we-talk-about-verification-validation-part-3-of-4/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-we-really-mean-when-we-talk-about-verification-validation-part-3-of-4/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-were-reading/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-were-reading/index.html",
+		"oF": 0
+		},
+	"/_site/news/what-were-watching/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/what-were-watching/index.html",
+		"oF": 0
+		},
+	"/_site/news/whats-in-a-name/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/whats-in-a-name/index.html",
+		"oF": 0
+		},
+	"/_site/news/who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest/index.html",
+		"oF": 0
+		},
+	"/_site/news/why-business-leadership-on-beneficial-ownership-transparency-is-critical-in-2017/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/why-business-leadership-on-beneficial-ownership-transparency-is-critical-in-2017/index.html",
+		"oF": 0
+		},
+	"/_site/privacy/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/privacy/index.html",
+		"oF": 0
+		},
+	"/_site/resources/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/resources/index.html",
+		"oF": 0
+		},
+	"/_site/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/robots.txt",
+		"oF": 0
+		},
+	"/_site/sitemap.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/sitemap.xml",
+		"oF": 0
+		},
+	"/_site/tag/1-1-technical-assistance/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/1-1-technical-assistance/2/index.html",
+		"oF": 0
+		},
+	"/_site/tag/1-1-technical-assistance/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/1-1-technical-assistance/index.html",
+		"oF": 0
+		},
+	"/_site/tag/beneficial-ownership-leadership-group/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/beneficial-ownership-leadership-group/index.html",
+		"oF": 0
+		},
+	"/_site/tag/eiti/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/eiti/index.html",
+		"oF": 0
+		},
+	"/_site/tag/kyrgyz-republic/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/kyrgyz-republic/index.html",
+		"oF": 0
+		},
+	"/_site/tag/open-government-partnership/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/open-government-partnership/index.html",
+		"oF": 0
+		},
+	"/_site/tag/openownership-register/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/openownership-register/2/index.html",
+		"oF": 0
+		},
+	"/_site/tag/openownership-register/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/openownership-register/index.html",
+		"oF": 0
+		},
+	"/_site/tag/privacy/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/privacy/index.html",
+		"oF": 0
+		},
+	"/_site/tag/private-sector-engagement/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/private-sector-engagement/2/index.html",
+		"oF": 0
+		},
+	"/_site/tag/private-sector-engagement/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/private-sector-engagement/index.html",
+		"oF": 0
+		},
+	"/_site/tag/the-beneficial-ownership-data-standard/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/the-beneficial-ownership-data-standard/2/index.html",
+		"oF": 0
+		},
+	"/_site/tag/the-beneficial-ownership-data-standard/3/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/the-beneficial-ownership-data-standard/3/index.html",
+		"oF": 0
+		},
+	"/_site/tag/the-beneficial-ownership-data-standard/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/the-beneficial-ownership-data-standard/index.html",
+		"oF": 0
+		},
+	"/_site/tag/the-openownership-pilot-program/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/the-openownership-pilot-program/2/index.html",
+		"oF": 0
+		},
+	"/_site/tag/the-openownership-pilot-program/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/the-openownership-pilot-program/index.html",
+		"oF": 0
+		},
+	"/_site/tag/ukraine/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/ukraine/index.html",
+		"oF": 0
+		},
+	"/_site/tag/verification/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/verification/index.html",
+		"oF": 0
+		},
+	"/_site/tag/visualisation/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/visualisation/index.html",
+		"oF": 0
+		},
+	"/_site/team/claire-reichenbach/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/claire-reichenbach/index.html",
+		"oF": 0
+		},
+	"/_site/team/eva-okunbor/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/eva-okunbor/index.html",
+		"oF": 0
+		},
+	"/_site/team/jack-lord/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/jack-lord/index.html",
+		"oF": 0
+		},
+	"/_site/team/kadie-armstrong/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/kadie-armstrong/index.html",
+		"oF": 0
+		},
+	"/_site/team/karabo-rajulli/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/karabo-rajulli/index.html",
+		"oF": 0
+		},
+	"/_site/team/louise-russell-prywata/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/louise-russell-prywata/index.html",
+		"oF": 0
+		},
+	"/_site/team/peter-low/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/peter-low/index.html",
+		"oF": 0
+		},
+	"/_site/team/simon-whitehouse/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/simon-whitehouse/index.html",
+		"oF": 0
+		},
+	"/_site/team/steve-day/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/steve-day/index.html",
+		"oF": 0
+		},
+	"/_site/team/thom-townsend/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/thom-townsend/index.html",
+		"oF": 0
+		},
+	"/_site/team/tim-davies/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/tim-davies/index.html",
+		"oF": 0
+		},
+	"/_site/team/tymon-kiepe/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/tymon-kiepe/index.html",
+		"oF": 0
+		},
+	"/_site/team/victor-ponsford/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/victor-ponsford/index.html",
+		"oF": 0
+		},
+	"/_site/team/zack-brisson/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/team/zack-brisson/index.html",
+		"oF": 0
+		},
+	"/_site/terms/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/terms/index.html",
+		"oF": 0
+		},
+	"/_site/uploads/2019 blog image.png": {
+		"ft": 32768,
+		"iS": 18158,
+		"oA": 0,
+		"oAP": "/_site/uploads/2019 blog image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/20190810PrivateSectorBO_DataUse (1).pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/20190810PrivateSectorBO_DataUse (1).pdf",
+		"oF": 0
+		},
+	"/_site/uploads/ACD blog image.png": {
+		"ft": 32768,
+		"iS": 188932,
+		"oA": 0,
+		"oAP": "/_site/uploads/ACD blog image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/ACD blog large 1440x810.png": {
+		"ft": 32768,
+		"iS": 180762,
+		"oA": 0,
+		"oAP": "/_site/uploads/ACD blog large 1440x810.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/anticorruptionblogupdate.png": {
+		"ft": 32768,
+		"iS": 179542,
+		"oA": 0,
+		"oAP": "/_site/uploads/anticorruptionblogupdate.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/artak-petrosyan-vwvshYHYAZs-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 5098819,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/artak-petrosyan-vwvshYHYAZs-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/aurelie-tack-D2k_7YlRLTs-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 6363936,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/aurelie-tack-D2k_7YlRLTs-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/BOT-network-support-tools-for-implementation.jpg": {
+		"ft": 16384,
+		"iS": 44722,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/BOT-network-support-tools-for-implementation.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/BOT-network-support-tools-for-implementation.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/BOT-network-support-tools-for-implementation.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/briefing-on-beneficial-ownership-as-open-data.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/briefing-on-beneficial-ownership-as-open-data.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/calling.jpg": {
+		"ft": 16384,
+		"iS": 134508,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/calling.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Characteristics Image.jpg": {
+		"ft": 16384,
+		"iS": 54837,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Characteristics Image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/claire-reichenbach.jpg": {
+		"ft": 16384,
+		"iS": 252853,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/claire-reichenbach.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/clark-tibbs-oqStl2L5oxI-unsplash-df43c5.jpg": {
+		"ft": 16384,
+		"iS": 307474,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/clark-tibbs-oqStl2L5oxI-unsplash-df43c5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/clark-tibbs-oqStl2L5oxI-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 307474,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/clark-tibbs-oqStl2L5oxI-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/coming-soon.jpg": {
+		"ft": 16384,
+		"iS": 301861,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/coming-soon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/congostate cropped.png": {
+		"ft": 32768,
+		"iS": 493454,
+		"oA": 0,
+		"oAP": "/_site/uploads/congostate cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/congostate cropped1.png": {
+		"ft": 32768,
+		"iS": 457926,
+		"oA": 0,
+		"oAP": "/_site/uploads/congostate cropped1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/congostate cropped2.png": {
+		"ft": 32768,
+		"iS": 364929,
+		"oA": 0,
+		"oAP": "/_site/uploads/congostate cropped2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/congostate.png": {
+		"ft": 32768,
+		"iS": 493454,
+		"oA": 0,
+		"oAP": "/_site/uploads/congostate.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/Cover.JPG": {
+		"ft": 16384,
+		"iS": 55596,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/danish-data.jpg": {
+		"ft": 16384,
+		"iS": 87070,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/danish-data.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Data Protection & Privacy Image.JPG": {
+		"ft": 16384,
+		"iS": 38985,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Data Protection & Privacy Image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/data-process.png": {
+		"ft": 32768,
+		"iS": 178491,
+		"oA": 0,
+		"oAP": "/_site/uploads/data-process.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/data-spectrum-rev.jpg": {
+		"ft": 16384,
+		"iS": 229064,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/data-spectrum-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/data-spectrum.png": {
+		"ft": 32768,
+		"iS": 1062096,
+		"oA": 0,
+		"oAP": "/_site/uploads/data-spectrum.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/data.jpg": {
+		"ft": 16384,
+		"iS": 582018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/data.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/david-clode-438752-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 2220372,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/david-clode-438752-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Declaration_Armenia.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Declaration_Armenia.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/denmark.jpg": {
+		"ft": 16384,
+		"iS": 106751,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/denmark.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/design IoE blog post image-58e892.png": {
+		"ft": 32768,
+		"iS": 1392282,
+		"oA": 0,
+		"oAP": "/_site/uploads/design IoE blog post image-58e892.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/design IoE blog post image.png": {
+		"ft": 32768,
+		"iS": 1392282,
+		"oA": 0,
+		"oAP": "/_site/uploads/design IoE blog post image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/Disclosure Principles for BOT - March 2019 (1).docx": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Disclosure Principles for BOT - March 2019 (1).docx",
+		"oF": 0
+		},
+	"/_site/uploads/EICcuoNXYAAqwNE.jpg": {
+		"ft": 16384,
+		"iS": 150882,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/EICcuoNXYAAqwNE.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/eva-okunbor.jpg": {
+		"ft": 16384,
+		"iS": 441077,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/eva-okunbor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/fabrizio-verrecchia-448425-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1040423,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/fabrizio-verrecchia-448425-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/faqs.jpg": {
+		"ft": 16384,
+		"iS": 90013,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/faqs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/FB-WBG-Anticorruption-Postcard.png": {
+		"ft": 32768,
+		"iS": 994151,
+		"oA": 0,
+		"oAP": "/_site/uploads/FB-WBG-Anticorruption-Postcard.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/first-steps.jpg": {
+		"ft": 16384,
+		"iS": 200211,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/first-steps.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/flags.jpg": {
+		"ft": 16384,
+		"iS": 261693,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/flags.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/francesca-baker.jpg": {
+		"ft": 16384,
+		"iS": 1206010,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/francesca-baker.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/germany.jpg": {
+		"ft": 16384,
+		"iS": 107083,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/germany.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/ghana.jpg": {
+		"ft": 16384,
+		"iS": 93957,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/ghana.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/guide.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_site/uploads/guide.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/_site/uploads/hiring.jpg": {
+		"ft": 16384,
+		"iS": 83543,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/hiring.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/IACC-slides.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/IACC-slides.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/IACC-the-engine-room.jpg": {
+		"ft": 16384,
+		"iS": 21448,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/IACC-the-engine-room.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/iacc.jpg": {
+		"ft": 16384,
+		"iS": 258271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/iacc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/image1.png": {
+		"ft": 32768,
+		"iS": 407736,
+		"oA": 0,
+		"oAP": "/_site/uploads/image1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/image2.png": {
+		"ft": 32768,
+		"iS": 189398,
+		"oA": 0,
+		"oAP": "/_site/uploads/image2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/image3.jpg": {
+		"ft": 16384,
+		"iS": 738619,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/image3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/IMGP1652-80b1e9.jpg": {
+		"ft": 16384,
+		"iS": 2144529,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/IMGP1652-80b1e9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/IMGP1652-small copy.jpg": {
+		"ft": 16384,
+		"iS": 1628298,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/IMGP1652-small copy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/IMGP1652.jpg": {
+		"ft": 16384,
+		"iS": 2140997,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/IMGP1652.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/IMGP1654.JPG": {
+		"ft": 16384,
+		"iS": 3183425,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/IMGP1654.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/improving-ukraine-doc.jpg": {
+		"ft": 16384,
+		"iS": 207338,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/improving-ukraine-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/intro copy.jpg": {
+		"ft": 16384,
+		"iS": 822778,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/intro copy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/intro.jpg": {
+		"ft": 16384,
+		"iS": 822778,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/intro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/introducing-the-beneficial-ownership-data-standard.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/introducing-the-beneficial-ownership-data-standard.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/introducing.jpg": {
+		"ft": 16384,
+		"iS": 326708,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/introducing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/jack-lord.jpg": {
+		"ft": 16384,
+		"iS": 454483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/jack-lord.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/joanna-kosinska-1_CMoFsPfso-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 3167418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/joanna-kosinska-1_CMoFsPfso-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/join-openownership.jpg": {
+		"ft": 16384,
+		"iS": 181360,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/join-openownership.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/join-us.jpg": {
+		"ft": 16384,
+		"iS": 480632,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/join-us.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/kadie-armstrong.jpg": {
+		"ft": 16384,
+		"iS": 642434,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/kadie-armstrong.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/karabo-rajulli.jpg": {
+		"ft": 16384,
+		"iS": 958399,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/karabo-rajulli.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/kiev-03.jpg": {
+		"ft": 16384,
+		"iS": 211875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/kiev-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/kiev.jpg": {
+		"ft": 16384,
+		"iS": 177848,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/kiev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/kurt-cotoaga-cqbLg3lZEpk-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1087773,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/kurt-cotoaga-cqbLg3lZEpk-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/kyrgyz-report-02.jpg": {
+		"ft": 16384,
+		"iS": 743573,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/kyrgyz-report-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/kyrgyzstan.jpg": {
+		"ft": 16384,
+		"iS": 181773,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/kyrgyzstan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/laurence-bascle.jpg": {
+		"ft": 16384,
+		"iS": 186312,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/laurence-bascle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/learned-one.jpg": {
+		"ft": 16384,
+		"iS": 177595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/learned-one.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/learned-two.jpg": {
+		"ft": 16384,
+		"iS": 148060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/learned-two.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/learning-lessons-doc.jpg": {
+		"ft": 16384,
+		"iS": 129256,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/learning-lessons-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/learning-the-lessons.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/learning-the-lessons.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/legal-spectrum-rev.jpg": {
+		"ft": 16384,
+		"iS": 247340,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/legal-spectrum-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/legal-spectrum.jpg": {
+		"ft": 16384,
+		"iS": 246647,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/legal-spectrum.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/library.jpg": {
+		"ft": 16384,
+		"iS": 903657,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/library.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/loren-treisman.jpg": {
+		"ft": 16384,
+		"iS": 284679,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/loren-treisman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/louise.jpg": {
+		"ft": 16384,
+		"iS": 516113,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/louise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Luanda.png": {
+		"ft": 32768,
+		"iS": 2222013,
+		"oA": 0,
+		"oAP": "/_site/uploads/Luanda.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/maersk dk.png": {
+		"ft": 32768,
+		"iS": 250518,
+		"oA": 0,
+		"oAP": "/_site/uploads/maersk dk.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/markus-spiske-666905-unsplash Privacy photo.jpg": {
+		"ft": 16384,
+		"iS": 5868877,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/markus-spiske-666905-unsplash Privacy photo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/methodology.jpg": {
+		"ft": 16384,
+		"iS": 25365,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/methodology.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/mission-statement-doc.jpg": {
+		"ft": 16384,
+		"iS": 138107,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/mission-statement-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/mission-statement.jpg": {
+		"ft": 16384,
+		"iS": 118836,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/mission-statement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/mission-statement.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/mission-statement.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/mo.jpg": {
+		"ft": 16384,
+		"iS": 50761,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/mo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/mollie-hanley.jpg": {
+		"ft": 16384,
+		"iS": 158055,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/mollie-hanley.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/nasa-whDrFMucHkc-unsplash-0c469a.jpg": {
+		"ft": 16384,
+		"iS": 819239,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/nasa-whDrFMucHkc-unsplash-0c469a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/nasa-whDrFMucHkc-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 1110256,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/nasa-whDrFMucHkc-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/NEITI portal blog image (1).png": {
+		"ft": 32768,
+		"iS": 238913,
+		"oA": 0,
+		"oAP": "/_site/uploads/NEITI portal blog image (1).png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/OGP.jpg": {
+		"ft": 16384,
+		"iS": 18863,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/OGP.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/omar-sotillo-franco-1325433-unsplash-83da4f.jpg": {
+		"ft": 16384,
+		"iS": 4464800,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/omar-sotillo-franco-1325433-unsplash-83da4f.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/omar-sotillo-franco-1325433-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 4464800,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/omar-sotillo-franco-1325433-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/oo-beneficial-ownership-policy-reviewer-image.JPG": {
+		"ft": 16384,
+		"iS": 80440,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-beneficial-ownership-policy-reviewer-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/oo-beneficial-ownership-policy-reviewer.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-beneficial-ownership-policy-reviewer.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-bo-information-flow-and-systems.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-bo-information-flow-and-systems.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-bo-policy-reviewer-interactive.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-bo-policy-reviewer-interactive.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-characteristics-effective-bo-data.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-characteristics-effective-bo-data.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-data-protection-and-privacy (Print).pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-data-protection-and-privacy (Print).pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-data-protection-and-privacy-188205.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-data-protection-and-privacy-188205.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-data-protection-and-privacy.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-data-protection-and-privacy.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-disclosure-principles-image.JPG": {
+		"ft": 16384,
+		"iS": 97094,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-disclosure-principles-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/oo-disclosure-principles.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-disclosure-principles.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-example-paper-forms-329df2.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-example-paper-forms-329df2.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-example-paper-forms-image.JPG": {
+		"ft": 16384,
+		"iS": 73152,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-example-paper-forms-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/oo-example-paper-forms.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-example-paper-forms.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-implementation-guide-booklet-68508a.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-implementation-guide-booklet-68508a.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-implementation-guide-booklet.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-implementation-guide-booklet.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/oo-implementation-guide-image.JPG": {
+		"ft": 16384,
+		"iS": 48464,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-implementation-guide-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/oo-verification-image.JPG": {
+		"ft": 16384,
+		"iS": 102514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-verification-image.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/oo-verification-presentation.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/oo-verification-presentation.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/open-data-doc.jpg": {
+		"ft": 16384,
+		"iS": 196542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/open-data-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Open-Ownership_Identity_1.1.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Open-Ownership_Identity_1.1.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/OpenOwnership Privacy Report Summary German.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/OpenOwnership Privacy Report Summary German.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/OpenOwnership technical meeting.png": {
+		"ft": 32768,
+		"iS": 1231703,
+		"oA": 0,
+		"oAP": "/_site/uploads/OpenOwnership technical meeting.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/opo-kyrgyz-republic-scoping-report-russian.jpg": {
+		"ft": 16384,
+		"iS": 1271515,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/opo-kyrgyz-republic-scoping-report-russian.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/opo-kyrgyz-republic-scoping-report-russian.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/opo-kyrgyz-republic-scoping-report-russian.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/opo-kyrgyz-republic-scoping-report.jpg": {
+		"ft": 16384,
+		"iS": 1202665,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/opo-kyrgyz-republic-scoping-report.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/opo-kyrgyz-republic-scoping-report.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/opo-kyrgyz-republic-scoping-report.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/opo-ukraine-report.jpg": {
+		"ft": 16384,
+		"iS": 1494208,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/opo-ukraine-report.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/OPO-Ukraine-Report.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/OPO-Ukraine-Report.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/peter-low.jpg": {
+		"ft": 16384,
+		"iS": 497563,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/peter-low.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Photo Extractive-d11722.jpg": {
+		"ft": 16384,
+		"iS": 373286,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Photo Extractive-d11722.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Photo Extractive.jpg": {
+		"ft": 16384,
+		"iS": 311194,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Photo Extractive.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Photo for Huff Post privacy blog.jpg": {
+		"ft": 16384,
+		"iS": 3035327,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Photo for Huff Post privacy blog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Photo Thom blogb.jpg": {
+		"ft": 16384,
+		"iS": 1542099,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Photo Thom blogb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/photo-1516415855612-c72c024b0b92.jpeg": {
+		"ft": 16384,
+		"iS": 477643,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/photo-1516415855612-c72c024b0b92.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/pilot-program-summary-of-metholodogy.jpg": {
+		"ft": 16384,
+		"iS": 468491,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/pilot-program-summary-of-metholodogy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/pilot-program-summary-of-metholodogy.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/pilot-program-summary-of-metholodogy.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/priorities.jpg": {
+		"ft": 16384,
+		"iS": 402469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/priorities.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Privacy Report Summary.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Privacy Report Summary.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/privacy-laws.jpg": {
+		"ft": 16384,
+		"iS": 674545,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/privacy-laws.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/privacy-report-summary-cb05d5.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/privacy-report-summary-cb05d5.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/privacy-report-summary.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/privacy-report-summary.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/Privacy-summary-german.png": {
+		"ft": 32768,
+		"iS": 722929,
+		"oA": 0,
+		"oAP": "/_site/uploads/Privacy-summary-german.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/privacy-summary.JPG": {
+		"ft": 16384,
+		"iS": 76074,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/privacy-summary.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/privacy.jpg": {
+		"ft": 16384,
+		"iS": 982614,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/privacy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/publish-spectrum-rev.jpg": {
+		"ft": 16384,
+		"iS": 228629,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/publish-spectrum-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/publish-spectrum.png": {
+		"ft": 32768,
+		"iS": 1484204,
+		"oA": 0,
+		"oAP": "/_site/uploads/publish-spectrum.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/report-cover.JPG": {
+		"ft": 16384,
+		"iS": 48707,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/report-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/resource-introducing.jpg": {
+		"ft": 16384,
+		"iS": 91279,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/resource-introducing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/scaling-country-support.jpeg": {
+		"ft": 16384,
+		"iS": 2331041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/scaling-country-support.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/simon-whitehouse.jpg": {
+		"ft": 16384,
+		"iS": 1120241,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/simon-whitehouse.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/spectrum-2.0.png": {
+		"ft": 32768,
+		"iS": 2313615,
+		"oA": 0,
+		"oAP": "/_site/uploads/spectrum-2.0.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/spectrum.jpg": {
+		"ft": 16384,
+		"iS": 231707,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/spectrum.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/spectrum.png": {
+		"ft": 32768,
+		"iS": 874017,
+		"oA": 0,
+		"oAP": "/_site/uploads/spectrum.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/spectrum.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/_site/uploads/spectrum.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/_site/uploads/steve-day.jpg": {
+		"ft": 16384,
+		"iS": 715092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/steve-day.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/technology.png": {
+		"ft": 32768,
+		"iS": 93279,
+		"oA": 0,
+		"oAP": "/_site/uploads/technology.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/the-case-doc.jpg": {
+		"ft": 16384,
+		"iS": 188943,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/the-case-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/the-case-for-public-beneficial-ownership.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/the-case-for-public-beneficial-ownership.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/thom-townsend.jpg": {
+		"ft": 16384,
+		"iS": 488908,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/thom-townsend.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/tim-davies.jpg": {
+		"ft": 16384,
+		"iS": 772708,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/tim-davies.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/truth.jpg": {
+		"ft": 16384,
+		"iS": 173111,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/truth.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/tsibli.jpg": {
+		"ft": 16384,
+		"iS": 253723,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/tsibli.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/tymon-kiepe.jpg": {
+		"ft": 16384,
+		"iS": 425786,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/tymon-kiepe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/ukraine-first.jpg": {
+		"ft": 16384,
+		"iS": 130434,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/ukraine-first.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/ukraine-report.jpg": {
+		"ft": 16384,
+		"iS": 102802,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/ukraine-report.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/ukraine-signs.jpg": {
+		"ft": 16384,
+		"iS": 183860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/ukraine-signs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/ukraine.jpg": {
+		"ft": 16384,
+		"iS": 232888,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/ukraine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/uncertain.jpg": {
+		"ft": 16384,
+		"iS": 326708,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/uncertain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Verification presentation.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/Verification presentation.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/verification.jpg": {
+		"ft": 16384,
+		"iS": 260959,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/verification.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/victor-ponsford.jpg": {
+		"ft": 16384,
+		"iS": 730983,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/victor-ponsford.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/what-we-mean-doc.jpg": {
+		"ft": 16384,
+		"iS": 96025,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/what-we-mean-doc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/what-we-mean-when-we-talk-about-verifcation.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/what-we-mean-when-we-talk-about-verifcation.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/what-we-mean.jpg": {
+		"ft": 16384,
+		"iS": 329038,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/what-we-mean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/what-were-reading.jpg": {
+		"ft": 16384,
+		"iS": 1098724,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/what-were-reading.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/what-were-watching.jpg": {
+		"ft": 16384,
+		"iS": 344498,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/what-were-watching.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/why-pilot-program-02.jpg": {
+		"ft": 16384,
+		"iS": 729628,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/why-pilot-program-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/wordcloud.jpg": {
+		"ft": 16384,
+		"iS": 125993,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/wordcloud.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/what-we-do/1-1-technical-assistance/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/what-we-do/1-1-technical-assistance/index.html",
+		"oF": 0
+		},
+	"/_site/what-we-do/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/what-we-do/index.html",
+		"oF": 0
+		},
+	"/_site/what-we-do/private-sector-engagement/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/what-we-do/private-sector-engagement/index.html",
+		"oF": 0
+		},
+	"/_site/what-we-do/the-beneficial-ownership-data-standard/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/what-we-do/the-beneficial-ownership-data-standard/index.html",
+		"oF": 0
+		},
+	"/_site/what-we-do/the-openownership-pilot-program/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/what-we-do/the-openownership-pilot-program/index.html",
 		"oF": 0
 		},
 	"/_team/claire-reichenbach.markdown": {
@@ -1222,6 +4584,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_team/claire-reichenbach.markdown",
+		"oF": 0
+		},
+	"/_team/eva-okunbor.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/eva-okunbor.markdown",
 		"oF": 0
 		},
 	"/_team/jack-lord.markdown": {
@@ -1240,12 +4610,28 @@
 		"oAP": "/_team/kadie-armstrong.markdown",
 		"oF": 0
 		},
+	"/_team/karabo-rajulli.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/karabo-rajulli.markdown",
+		"oF": 0
+		},
 	"/_team/louise-russell-prywata.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_team/louise-russell-prywata.markdown",
+		"oF": 0
+		},
+	"/_team/peter-low.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/peter-low.markdown",
 		"oF": 0
 		},
 	"/_team/simon-whitehouse.markdown": {
@@ -1270,6 +4656,38 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_team/thom-townsend.markdown",
+		"oF": 0
+		},
+	"/_team/tim-davies.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/tim-davies.markdown",
+		"oF": 0
+		},
+	"/_team/tymon-kiepe.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/tymon-kiepe.markdown",
+		"oF": 0
+		},
+	"/_team/victor-ponsford.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/victor-ponsford.markdown",
+		"oF": 0
+		},
+	"/_team/zack-brisson.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_team/zack-brisson.markdown",
 		"oF": 0
 		},
 	"/_team/zosia-sztykowski.markdown": {
@@ -1352,6 +4770,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/bolg-logo.png": {
+		"ft": 32768,
+		"iS": 35201,
+		"oA": 0,
+		"oAP": "/_uploads/bolg-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/BOT-network-support-tools-for-implementation.jpg": {
@@ -1639,12 +5068,34 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/eva-okunbor.jpg": {
+		"ft": 16384,
+		"iS": 441077,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/eva-okunbor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/fabrizio-verrecchia-448425-unsplash.jpg": {
 		"ft": 16384,
 		"iS": 1040423,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/fabrizio-verrecchia-448425-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/factsheet-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 33594,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/factsheet-thumbnail.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2491,6 +5942,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_uploads/openownership-factsheet.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/openownership-factsheet.pdf",
+		"oF": 0
+		},
 	"/_uploads/opo-kyrgyz-republic-scoping-report-russian.jpg": {
 		"ft": 16384,
 		"iS": 1271515,
@@ -2547,6 +6006,25 @@
 		"oA": 2,
 		"oAP": "/_uploads/OPO-Ukraine-Report.pdf",
 		"oF": 0
+		},
+	"/_uploads/OPO004 Factsheet.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_uploads/OPO004 Factsheet.pdf",
+		"oF": 0
+		},
+	"/_uploads/peter-low.jpg": {
+		"ft": 16384,
+		"iS": 497563,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/peter-low.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/_uploads/Photo Extractive-d11722.jpg": {
 		"ft": 16384,
@@ -2821,6 +6299,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/Tax blog image.png": {
+		"ft": 32768,
+		"iS": 60010,
+		"oA": 0,
+		"oAP": "/_uploads/Tax blog image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/technology.png": {
 		"ft": 32768,
 		"iS": 93279,
@@ -2862,6 +6351,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/tim-davies.jpg": {
+		"ft": 16384,
+		"iS": 743096,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/tim-davies.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/truth.jpg": {
 		"ft": 16384,
 		"iS": 200885,
@@ -2882,6 +6382,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/tymon-kiepe.jpg": {
+		"ft": 16384,
+		"iS": 422042,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/tymon-kiepe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/ukraine-first.jpg": {
@@ -3067,6 +6578,14 @@
 		"oAP": "/_what-we-do/the-beneficial-ownership-data-standard.markdown",
 		"oF": 0
 		},
+	"/_what-we-do/the-beneficial-ownership-leadership-group.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_what-we-do/the-beneficial-ownership-leadership-group.markdown",
+		"oF": 0
+		},
 	"/_what-we-do/the-openownership-pilot-program.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -3074,6 +6593,16 @@
 		"oA": 2,
 		"oAP": "/_what-we-do/the-openownership-pilot-program.markdown",
 		"oF": 0
+		},
+	"/assets/css/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "/assets/css/app-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"/assets/favicons/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -3387,7 +6916,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/assets/js/min/app-min.js",
+		"oAP": "/assets/js/app-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3398,7 +6927,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/assets/js/min/min/app-min-min.js",
+		"oAP": "/assets/js/min/app-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -3409,7 +6938,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/assets/js/min/min/links-min-min.js",
+		"oAP": "/assets/js/min/links-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -3420,7 +6949,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/assets/js/min/min/svgxuse-min-min.js",
+		"oAP": "/assets/js/min/svgxuse-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -3431,7 +6960,7 @@
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/assets/js/min/svgxuse-min.js",
+		"oAP": "/assets/js/svgxuse-min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -3444,7 +6973,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/css/_fonts.css",
+		"oAP": "/assets/scss/_fonts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3457,7 +6986,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/css/_icons.css",
+		"oAP": "/assets/scss/_icons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3470,7 +6999,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/css/_lightgallery.css",
+		"oAP": "/assets/scss/_lightgallery.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3483,7 +7012,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/css/_loading.css",
+		"oAP": "/assets/scss/_loading.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3496,7 +7025,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/css/_settings.css",
+		"oAP": "/assets/scss/_settings.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3509,7 +7038,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/css/_transitions.css",
+		"oAP": "/assets/scss/_transitions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3522,7 +7051,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/css/_typography.css",
+		"oAP": "/assets/scss/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3535,7 +7064,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/assets/css/app.css",
+		"oAP": "/assets/scss/app.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3548,7 +7077,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/css/_base.css",
+		"oAP": "/assets/scss/hamburgers/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3561,7 +7090,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/css/hamburgers.css",
+		"oAP": "/assets/scss/hamburgers/hamburgers.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3574,7 +7103,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_3dx-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_3dx-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3587,7 +7116,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_3dx.css",
+		"oAP": "/assets/scss/hamburgers/types/_3dx.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3600,7 +7129,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_3dy-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_3dy-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3613,7 +7142,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_3dy.css",
+		"oAP": "/assets/scss/hamburgers/types/_3dy.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3626,7 +7155,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_arrow-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_arrow-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3639,7 +7168,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_arrow.css",
+		"oAP": "/assets/scss/hamburgers/types/_arrow.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3652,7 +7181,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_arrowalt-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_arrowalt-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3665,7 +7194,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_arrowalt.css",
+		"oAP": "/assets/scss/hamburgers/types/_arrowalt.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3678,7 +7207,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_boring.css",
+		"oAP": "/assets/scss/hamburgers/types/_boring.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3691,7 +7220,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_collapse-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_collapse-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3704,7 +7233,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_collapse.css",
+		"oAP": "/assets/scss/hamburgers/types/_collapse.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3717,7 +7246,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_elastic-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_elastic-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3730,7 +7259,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_elastic.css",
+		"oAP": "/assets/scss/hamburgers/types/_elastic.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3743,7 +7272,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_emphatic-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_emphatic-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3756,7 +7285,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_emphatic.css",
+		"oAP": "/assets/scss/hamburgers/types/_emphatic.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3769,7 +7298,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_slider-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_slider-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3782,7 +7311,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_slider.css",
+		"oAP": "/assets/scss/hamburgers/types/_slider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3795,7 +7324,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_spin-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_spin-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3808,7 +7337,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_spin.css",
+		"oAP": "/assets/scss/hamburgers/types/_spin.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3821,7 +7350,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_spring-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_spring-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3834,7 +7363,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_spring.css",
+		"oAP": "/assets/scss/hamburgers/types/_spring.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3847,7 +7376,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_squeeze.css",
+		"oAP": "/assets/scss/hamburgers/types/_squeeze.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3860,7 +7389,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_stand-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_stand-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3873,7 +7402,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_stand.css",
+		"oAP": "/assets/scss/hamburgers/types/_stand.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3886,7 +7415,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_vortex-r.css",
+		"oAP": "/assets/scss/hamburgers/types/_vortex-r.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3899,7 +7428,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/hamburgers/css/_vortex.css",
+		"oAP": "/assets/scss/hamburgers/types/_vortex.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3912,7 +7441,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/css/_animations.css",
+		"oAP": "/assets/scss/scroll/_animations.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3925,7 +7454,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/css/_core.css",
+		"oAP": "/assets/scss/scroll/_core.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3938,7 +7467,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/css/_easing.css",
+		"oAP": "/assets/scss/scroll/_easing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3951,7 +7480,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/assets/scss/css/aos.css",
+		"oAP": "/assets/scss/scroll/aos.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -11636,7 +15165,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/latest-blog.html",
+		"oAP": "/latest-blog.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -11655,7 +15184,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/latest-events.html",
+		"oAP": "/latest-events.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -11674,7 +15203,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/latest-news.html",
+		"oAP": "/latest-news.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -11693,7 +15222,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/latest.html",
+		"oAP": "/latest.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -11712,7 +15241,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/news.html",
+		"oAP": "/news.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -11884,7 +15413,7 @@
 	"lastBuiltDate": 597156589.11411095
 	},
 "projectSettings": {
-	"abortBuildOnError": 0,
+	"abortBuildOnError": 1,
 	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
@@ -12335,7 +15864,7 @@
 			},
 		"array-callback-return": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowImplicit': false}"
 			},
 		"array-element-newline": {
 			"active": 0,
@@ -12371,7 +15900,7 @@
 			},
 		"camelcase": {
 			"active": 0,
-			"optionString": "{'properties': 'always'}"
+			"optionString": "{'properties': 'always', 'ignoreDestructuring': false}"
 			},
 		"capitalized-comments": {
 			"active": 0,
@@ -12451,11 +15980,11 @@
 			},
 		"func-name-matching": {
 			"active": 0,
-			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			"optionString": "'always', {'considerPropertyDescriptor': false, 'includeCommonJSModuleExports': false}"
 			},
 		"func-names": {
 			"active": 0,
-			"optionString": "'always'"
+			"optionString": "'always', {'generators': 'always'}"
 			},
 		"func-style": {
 			"active": 0,
@@ -12495,7 +16024,7 @@
 			},
 		"id-match": {
 			"active": 0,
-			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true, 'ignoreDestructuring': false}"
 			},
 		"implicit-arrow-linebreak": {
 			"active": 0,
@@ -12503,7 +16032,7 @@
 			},
 		"indent": {
 			"active": 0,
-			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1, }"
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
 			},
 		"init-declarations": {
 			"active": 0,
@@ -12587,7 +16116,7 @@
 			},
 		"new-parens": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "'always'"
 			},
 		"newline-per-chained-call": {
 			"active": 0,
@@ -12639,7 +16168,7 @@
 			},
 		"no-confusing-arrow": {
 			"active": 0,
-			"optionString": "{'allowParens': false}"
+			"optionString": "{'allowParens': true}"
 			},
 		"no-console": {
 			"active": 1,
@@ -12738,8 +16267,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -12758,7 +16287,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -12971,10 +16500,10 @@
 			},
 		"no-self-assign": {
 			"active": 1,
-			"optionString": "{'props': false}"
+			"optionString": "{'props': true}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -12995,14 +16524,14 @@
 			},
 		"no-sync": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowAtRootLevel': false}"
 			},
 		"no-tabs": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{allowIndentationTabs: false}"
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -13019,7 +16548,7 @@
 			},
 		"no-trailing-spaces": {
 			"active": 0,
-			"optionString": "{'skipBlankLines': false}"
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
 			},
 		"no-undef": {
 			"active": 1,
@@ -13035,7 +16564,7 @@
 			},
 		"no-underscore-dangle": {
 			"active": 0,
-			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false}"
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
 			"active": 1,
@@ -13058,12 +16587,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -13071,11 +16600,11 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true}"
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
@@ -13086,7 +16615,7 @@
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -13135,7 +16664,7 @@
 			},
 		"object-curly-newline": {
 			"active": 0,
-			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			"optionString": "{'ObjectExpression': {'multiline': true, 'consistent': true}, 'ObjectPattern': {'multiline': true, 'consistent': true}}"
 			},
 		"object-curly-spacing": {
 			"active": 0,
@@ -13143,7 +16672,7 @@
 			},
 		"object-property-newline": {
 			"active": 0,
-			"optionString": "{'allowMultiplePropertiesPerLine': true}"
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
 			},
 		"object-shorthand": {
 			"active": 0,
@@ -13223,7 +16752,7 @@
 			},
 		"quotes": {
 			"active": 0,
-			"optionString": "'double', 'avoid-escape'"
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
 			},
 		"radix": {
 			"active": 0,
@@ -13239,14 +16768,14 @@
 			},
 		"require-jsdoc": {
 			"active": 0,
-			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-unicode-regexp": {
 			"active": 0,
 			"optionString": ""
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -13271,7 +16800,7 @@
 			},
 		"sort-keys": {
 			"active": 0,
-			"optionString": "'asc', {'caseSensitive': true, 'natural': false}"
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false, 'minKeys': 2}"
 			},
 		"sort-vars": {
 			"active": 0,
@@ -13725,15 +17254,15 @@
 		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 2,
-		"autoOutputPathFilenamePattern": "*-ck.css",
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
@@ -13776,11 +17305,11 @@
 		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -13797,8 +17326,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"shouldRunHTMLMinifier": 0
@@ -13810,8 +17339,8 @@
 		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"enableJavascript": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
@@ -13822,7 +17351,7 @@
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -13843,7 +17372,7 @@
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.*",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -13880,7 +17409,7 @@
 		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -13910,7 +17439,7 @@
 		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -13926,7 +17455,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"pluginMask": 3758088159
+		"pluginMask": 52780316221407
 		},
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
@@ -13934,7 +17463,7 @@
 		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 0,
@@ -13955,7 +17484,7 @@
 	"rollupExternals": "",
 	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
 	"rollupTreeshakingEnabled": 1,
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules, /_site",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,
@@ -14039,7 +17568,7 @@
 			"flagValue": -1
 			},
 		"dead_code": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"directives": {
@@ -14071,7 +17600,7 @@
 			"flagValue": -1
 			},
 		"hoist_funs": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"hoist_props": {
@@ -14115,7 +17644,7 @@
 			"flagValue": -1
 			},
 		"keep_fargs": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"keep_fnames": {
@@ -14243,7 +17772,7 @@
 			"flagValue": -1
 			},
 		"unused": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"warnings": {
@@ -14260,8 +17789,8 @@
 			}
 		},
 	"uglifyMangleNames": 1,
-	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "_site/"
+	"uglifyReservedNamesString": "$,exports,require",
+	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
 }
