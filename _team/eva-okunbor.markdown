@@ -4,7 +4,7 @@ categories:
 - project-team
 position: 2
 job-title: Program Associate
-image: "/uploads/eva-okunbor.jpg"
+image: "/uploads/eva-okunbor-2.jpg"
 email: eva@openownership.org
 ---
 Eva Okunbor is OpenOwnership’s Programme Associate and is responsible for directly supporting implementation and delivery in all countries within which OpenOwnership is active. Eva is also an essential link between OpenOwnership and its partners, most notably the Open Government Partnership, having coordinated the first group of countries to sign up to the co-convened Beneficial Ownership Leadership Group.

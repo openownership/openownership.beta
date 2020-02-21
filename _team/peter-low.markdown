@@ -4,7 +4,7 @@ categories:
 - project-team
 position: 7
 job-title: Country Manager
-image: "/uploads/peter-low.jpg"
+image: "/uploads/peter-low-2.jpg"
 email: peter@openownership.org
 ---
 As Country Manager, Peter Low oversees OpenOwnership’s support to national governments as they seek to disclose beneficial ownership data.

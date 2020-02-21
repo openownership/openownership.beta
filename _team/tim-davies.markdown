@@ -4,7 +4,7 @@ categories:
 - project-team
 position: 10
 job-title: Senior Advisor
-image: "/uploads/tim-davies.jpg"
+image: "/uploads/tim-davies-2.jpg"
 email: tim@openownership.org
 ---
 Tim Davies is a practitioner and researcher specialising in open data, accountability and civic participation. As Senior Advisor at OpenOwnership, he supports the development and evolution of the Beneficial Ownership Data Standard (BODS) by providing a joined-up view of corporate ownership disclosures across the globe.

@@ -4,7 +4,7 @@ categories:
 - bods
 position: 3
 job-title: Open Standards Adoption Lead
-image: "/uploads/kadie-armstrong.jpg"
+image: "/uploads/kadie-armstrong-2.jpg"
 email: kadie.armstrong@opendataservices.coop
 social:
   github: https://github.com/kd-ods

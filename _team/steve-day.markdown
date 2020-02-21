@@ -4,7 +4,7 @@ categories:
 - project-team
 position: 9
 job-title: Technical Lead
-image: "/uploads/steve-day.jpg"
+image: "/uploads/steve-day-2.jpg"
 email: steve@openownership.org
 social:
   github: https://github.com/stevenday

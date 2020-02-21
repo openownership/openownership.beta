@@ -4,7 +4,7 @@ categories:
 - bods
 position: 5
 job-title: Beneficial Ownership Lead
-image: "/uploads/jack-lord.jpg"
+image: "/uploads/jack-lord-2.jpg"
 email: jack.lord@opendataservices.coop
 social:
   twitter: https://twitter.com/jacklord
