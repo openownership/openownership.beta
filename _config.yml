@@ -16,7 +16,7 @@ collections:
     output: false
   team:
     title: Team
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -56,6 +56,7 @@ defaults:
     image: 
     email: 
     social: 
+    layout: team
 url: https://www.openownership.org
 description: Building an open register of global beneficial ownership in the public
   interest.
@@ -94,7 +95,7 @@ cookies-text: We use Google Analytics to help us understand website traffic, web
 email: info@openownership.org
 tag_manager: GTM-KHKK838
 logo: "/assets/img/logo.svg"
-placeholder: "/assets/img/placeholder.jpgs"
+placeholder: "/assets/img/placeholder.jpg"
 per_page: 12
 date_format: "%b %Y"
 future: true
