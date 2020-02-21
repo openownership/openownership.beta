@@ -28,9 +28,9 @@ defaults:
     path: ''
     type: posts
   values:
-    image:
-    description:
-    author:
+    image: 
+    description: 
+    author: 
     is_featured: false
     layout: post
     permalink: "/:categories/:title/"
@@ -38,24 +38,24 @@ defaults:
     path: ''
     type: pages
   values:
-    description:
+    description: 
     layout: page
 - scope:
     path: ''
     type: resources
   values:
-    description:
-    file:
-    author:
-    thumbnail-image:
+    description: 
+    file: 
+    author: 
+    thumbnail-image: 
 - scope:
     path: ''
     type: team
   values:
-    job-title:
-    image:
-    email:
-    social:
+    job-title: 
+    image: 
+    email: 
+    social: 
     layout: team
 url: https://www.openownership.org
 description: Building an open register of global beneficial ownership in the public

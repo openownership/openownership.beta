@@ -11,6 +11,7 @@ social:
   twitter: https://twitter.com/forestorama
   linkedin: https://www.linkedin.com/in/steve-day-uk/
 ---
+
 Steve Day is OpenOwnership’s Technical Lead. He is responsible for the practical side of our technology and technical advice to partners, as well as making sure that we are an integral part of the wider digital government and civic-technology community.
 
 Before joining OpenOwnership, Steve led engineering efforts at civic-tech pioneers mySociety, working on a range of open-source projects from Freedom of Information to Parliamentary Monitoring. He also worked on digital transformation projects for the NHS, Medecins Sans Frontieres and various UK councils.

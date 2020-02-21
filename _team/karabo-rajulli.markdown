@@ -7,6 +7,7 @@ job-title: Country Manager
 image: "/uploads/karabo-rajulli.jpg"
 email: karabo@openownership.org
 ---
+
 Karabo Rajuili is a Country Manager at OpenOwnership, providing country
 support to governments implementing beneficial ownership transparency.
 She comes with extensive experience with initiating and implementing

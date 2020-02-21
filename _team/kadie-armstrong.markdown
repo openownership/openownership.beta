@@ -9,6 +9,7 @@ email: kadie.armstrong@opendataservices.coop
 social:
   github: https://github.com/kd-ods
 ---
+
 Kadie Armstrong works for OpenOwnership’s technical partner, Open Data Services Co-operative. As a data analyst, she is developing a standardised way of publishing information about company ownership and control. She works with countries and partners to help them develop the systems they need to publish good quality data.
 
 Working and being active in education, social justice organisations and communities in the past, Kadie has developed a deep understanding of globalisation and its effects. These insights, plus over ten years of working with technology and data, leave her well-positioned to help bring transparency to beneficial ownership.

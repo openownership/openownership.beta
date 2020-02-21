@@ -7,6 +7,7 @@ job-title: Policy & Research Manager
 image: "/uploads/tymon-kiepe-2.jpg"
 email: tymon@openownership.org
 ---
+
 Tymon Kiepe is OpenOwnership's Policy and Research Manager. He leads the research agenda to help the team collectively develop, test, and refine OpenOwnership’s policy recommendations and tools, while also supporting governments in implementing beneficial ownership transparency.
 
 He has spent his career bringing research and evidence to bear on policy in the development sector. Before joining OpenOwnership, he worked at the Netherlands’ leading think tank on international affairs, the Clingendael Institute, and the Dutch Ministry of Foreign Affairs, facilitating the uptake of research into policy processes.

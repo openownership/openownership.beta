@@ -10,6 +10,7 @@ social:
   twitter: https://twitter.com/thomtownsend?lang=en
   linkedin: https://uk.linkedin.com/in/thom-townsend-64637a18
 ---
+
 Thom Townsend is OpenOwnership’s Executive Director and our chief strategist. He directs implementation efforts and works with our partners to maximise our impact. His focus is on making sure that we deliver our goal of ensuring the world has more open, usable information about who ultimately owns and controls companies.
 
 Thom is an expert on open data and was previously Head of Data Policy for the UK government. He has led some of the UK’s biggest open data commitments at the national and global level, and has spent his career ensuring that good data is being produced and used inside and outside of government.

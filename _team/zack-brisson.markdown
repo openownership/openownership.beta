@@ -4,9 +4,10 @@ categories:
 - project-team
 position: 13
 job-title: Chief Operating Officer
-image: "uploads/zack-brisson.jpg"
+image: uploads/zack-brisson.jpg
 email: zack@openownership.org
 ---
+
 As OpenOwnership’s Chief Operating Officer, Zack Brisson keeps us in good working order. He is experienced in building teams with diverse backgrounds and skill sets to challenge received wisdom and think outside the box when it comes to driving public sector reform. Zack was an early believer in putting citizens and user feedback at the heart of development. In 2010 he founded Reboot, a pioneering think-do tank focused on delivering citizen led progress on critical public issues. Having built a team of nearly thirty members working across multiple offices, he oversaw dozens of projects in more than twenty-five countries.
 
 This work spanned everything from developing social protection programs in Nigeria to leading criminal justice reform initiatives in New York City, with countless other stops in between. For Zack, OpenOwnership provides the perfect opportunity to take a deeper focus on the specific issue of beneficial ownership, while also helping build another new social enterprise.

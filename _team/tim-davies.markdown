@@ -7,6 +7,7 @@ job-title: Senior Advisor
 image: "/uploads/tim-davies-2.jpg"
 email: tim@openownership.org
 ---
+
 Tim Davies is a practitioner and researcher specialising in open data, accountability and civic participation. As Senior Advisor at OpenOwnership, he supports the development and evolution of the Beneficial Ownership Data Standard (BODS) by providing a joined-up view of corporate ownership disclosures across the globe.
 
 A well known figure in the open data field, Tim was the creator of the World Wide Web Foundation's Open Data Barometer and co-creator of the Open Contracting Data Standard (OCDS). In 2015, he co-founded Open Data Services Co-operative to support governments and civil society across the world to put open data ideas into practice. Now an independent consultant, earlier this year Tim published the co-edited collection 'The State of Open Data: Histories and Horizons', reviewing a decade of the open government data movement.

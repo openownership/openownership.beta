@@ -7,6 +7,7 @@ job-title: Advocacy and Communications Manager
 image: "/uploads/victor-ponsford-2.jpg"
 email: victor@openownership.org
 ---
+
 Victor Ponsford is OpenOwnership’s Advocacy and Communications Specialist. He drives our mission forward by raising our visibility and spreading our ideas via innovative channels and creative content strategies.
 
 Vic has spent his career helping organisations find and use their voice. As a Communications Officer with the EITI (Extractive Industries Transparency Initiative), he tracked and communicated on the impact of one of the world’s first transparency initiatives.
