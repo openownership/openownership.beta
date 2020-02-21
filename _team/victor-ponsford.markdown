@@ -4,7 +4,7 @@ categories:
 - project-team
 position: 12
 job-title: Advocacy and Communications Manager
-image: "/uploads/victor-ponsford.jpg"
+image: "/uploads/victor-ponsford-2.jpg"
 email: victor@openownership.org
 ---
 Victor Ponsford is OpenOwnership’s Advocacy and Communications Specialist. He drives our mission forward by raising our visibility and spreading our ideas via innovative channels and creative content strategies.

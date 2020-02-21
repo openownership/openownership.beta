@@ -4,7 +4,7 @@ categories:
 - bods
 position: 8
 job-title: Data Standards Adoption Consultant
-image: "/uploads/simon-whitehouse.jpg"
+image: "/uploads/simon-whitehouse-2.jpg"
 email: simon.whitehouse@opendataservices.coop
 social:
   twitter: https://twitter.com/siwhitehouse

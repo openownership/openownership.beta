@@ -4,7 +4,7 @@ categories:
 - project-team
 position: 0
 job-title: Executive Director
-image: "/uploads/thom-townsend-2.jpg"
+image: "/uploads/thom-townsend-3.jpg"
 email: thom@openownership.org
 social:
   twitter: https://twitter.com/thomtownsend?lang=en
