@@ -1,6 +1,7 @@
 ---
 title: Why Beneficial Ownership Transparency is Crucial in Latin America
 date: 2020-02-21 14:58:00 Z
+image: "/uploads/LAC%20blog-8981b3.png"
 author: Peter Low
 ---
 
