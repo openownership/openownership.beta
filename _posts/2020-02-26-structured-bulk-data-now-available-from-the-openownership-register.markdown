@@ -5,6 +5,7 @@ categories:
 - news
 image: "/uploads/OO%20Bulk%20download.png"
 author: OpenOwnership
+is_featured: true
 ---
 
 Since 2017, the [OpenOwnership Register](https://register.openownership.org/) has aggregated open beneficial ownership data from around the world. We regularly import data from the UK, Denmark, Slovakia and Ukraine, linking it together to build the world’s largest open database of beneficial owners. With the Register, we try to put into practice all of the quality recommendations we make to our partners: de-duplicating records, matching companies to authoritative sources, and keeping all historical data.
