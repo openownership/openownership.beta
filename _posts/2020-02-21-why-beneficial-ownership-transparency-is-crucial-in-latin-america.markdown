@@ -5,6 +5,7 @@ categories:
 - blogs
 image: "/uploads/LAC%20blog-8981b3.png"
 author: Peter Low
+is_featured: true
 ---
 
 The importance of shining a light on opaque corporate structures created in Latin America and the Caribbean (LAC) has been repeatedly underscored by successive money laundering scandals affecting the region.
