@@ -334,6 +334,33 @@ p {
   }
 }
 
+.home__why {
+  h3 {
+    margin-bottom: 3rem; // Give same vertical flow as the latest posts header
+  }
+}
+
+.home__why__content {
+  @extend .h5;
+  @extend .sans-regular;
+
+  ul {
+    @extend .grid-x;
+    list-style: none;
+
+    li {
+      @extend .small-12;
+      @extend .medium-6;
+      margin-bottom: 1rem;
+
+      &:before {
+        content: '✓';
+        margin-right: 0.5rem;
+      }
+    }
+  }
+}
+
 // X. News
 // ---------
 
