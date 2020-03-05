@@ -11296,3 +11296,11 @@ footer .icon {
 
 .team-connect-methods {
   font-size: 2rem; }
+
+.mailchimp-form label {
+  color: #373A3C;
+  font-size: 1rem;
+  font-weight: bold; }
+
+.mailchimp-form input[type=email] {
+  border: 1px solid #373A3C; }
