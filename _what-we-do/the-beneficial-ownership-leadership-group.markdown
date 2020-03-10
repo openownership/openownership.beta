@@ -62,8 +62,9 @@ members:
     [Declaration of support](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611)
 
     [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/slovakia-action-plan-2019-2021/)
+footer: |-
+  The leadership group remains open to all governments that are making determined efforts to improve the transparency and/or quality of their beneficial ownership data. If you would like further information about the group and how to join please contact us at [support@openownership.org](mailto:support@openownership.org)
 pagination:
   enabled: true
   collection: posts
 ---
-
