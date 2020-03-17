@@ -43,6 +43,11 @@ members:
     [Declaration of support](https://www.openownership.org/uploads/Declaration_Armenia.pdf)
 
     [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/armenia/commitments/AM0037/)
+- name: Kenya
+  description: |-
+    Announcement: N/A
+
+    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/kenya/commitments/KE0018/)
 - name: Latvia
   description: |-
     [Declaration of support](https://twitter.com/Tieslietas/status/1200052790069989376?s=20)
