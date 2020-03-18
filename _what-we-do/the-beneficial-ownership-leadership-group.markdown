@@ -1,7 +1,6 @@
 ---
 title: The Beneficial Ownership Leadership Group
 date: 2020-01-31 11:46:00 Z
-layout: leadership-group
 logo_image: "/uploads/bolg-logo.png"
 intro: |-
   The Beneficial Ownership Leadership Group came together in 2019 to drive the
@@ -36,6 +35,8 @@ principles: |-
     to advance the objective of making beneficial ownership transparency a global
     norm; and
   - Contributing to evaluation and impact assessment of our shared approach.
+
+  By joining the leadership group, governments publicly signal their intention to adhere to the following principles on beneficial ownership data disclosure (note: these do not represent legally-binding commitments for signatory states).
 members:
 - name: Armenia
   description: |-
@@ -62,8 +63,13 @@ members:
     [Declaration of support](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611)
 
     [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/slovakia-action-plan-2019-2021/)
+footer: The leadership group remains open to all governments that are making determined
+  efforts to improve the transparency and/or quality of their beneficial ownership
+  data. If you would like further information about the group and how to join please
+  contact us at [support@openownership.org](mailto:support@openownership.org)
 pagination:
   enabled: true
   collection: posts
+layout: leadership-group
 ---
 
