@@ -2,6 +2,7 @@
 title: Effective Disclosure Framework (#alpha)
 layout: page
 ---
+
 <style>
     
     .toggle {
