@@ -7,7 +7,7 @@ categories:
 tags:
 - coronavirus
 - supplychains
-- due diligience
+- due diligence
 image: "/uploads/spraying%20water.png"
 author: Thom Townsend and Paul May
 is_featured: true
