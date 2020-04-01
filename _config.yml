@@ -58,7 +58,8 @@ defaults:
     social: 
     layout: team
 url: https://www.openownership.org
-description: Driving the global shift towards transparency over who owns and controls companies.
+description: Driving the global shift towards transparency over who owns and controls
+  companies.
 permalink: pretty
 exclude:
 - bower.json
