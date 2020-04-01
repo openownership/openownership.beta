@@ -4,4 +4,4 @@ Gemfile.lock
 _site/
 node_modules/
 .jekyll-cache
-
+.sh
