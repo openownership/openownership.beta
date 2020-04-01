@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<!-- Page Title -->
+{% include blocks/title.html %}
+<!-- End Page Title -->
+
+<!-- Page Content -->
+{% unless page.content == '' %}
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y align-center">
+      <div class="small-3 cell">
+      	<ul>
+        {% assign sorted_pages = site.pages | sort:"order" %}
+      	 {% for page in sorted_pages %}
+  			{% if page.layout == 'framework' %}  
+    			<li><a href="{{ page.url }}">{{ page.component }}</a></li>
+  			{% endif %}
+		 {% endfor %}
+		</ul>
+      </div>
+      <div class="small-9 cell">
+        {{page.content | markdownify}}
+      </div>
+    </div>
+  </section>
+{% endunless %}
+<!-- End Page Content -->
+
+
