@@ -58,8 +58,7 @@ defaults:
     social: 
     layout: team
 url: https://www.openownership.org
-description: Building an open register of global beneficial ownership in the public
-  interest.
+description: Driving the global shift towards transparency over who owns and controls companies.
 permalink: pretty
 exclude:
 - bower.json
