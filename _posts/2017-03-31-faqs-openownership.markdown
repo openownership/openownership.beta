@@ -5,7 +5,7 @@ permalink: news/faqs-openownership/
 categories:
 - blogs
 tags:
-- 1-1 technical assistance
+- partnering with us
 - the beneficial ownership data standard
 - the openownership pilot program
 - private sector engagement

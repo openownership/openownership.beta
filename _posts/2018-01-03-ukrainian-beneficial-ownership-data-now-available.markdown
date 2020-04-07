@@ -6,7 +6,7 @@ categories:
 - news
 tags:
 - the openownership pilot program
-- 1-1 technical assistance
+- partnering with us
 - the beneficial ownership data standard
 - ukraine
 - openownership register
