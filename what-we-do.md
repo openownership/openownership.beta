@@ -36,15 +36,15 @@ services:
     Slovak Republic.
   button: Find out more
   link: "/what-we-do/the-beneficial-ownership-leadership-group/"
-- title: 1-1 technical assistance
+- title: Partnering with us
   icon: one-on-one
-  text: Whether this occurs within the pilot program or on a bespoke basis, we are
-    committed to providing technical assistance to beneficial ownership data publishers
-    in both the public and private sectors. Through our helpdesk we can answer questions
-    about technical implementation and provide a hub for sharing best practice and
-    learnings from different implementations.
+  text: We specialise in providing integrated support across the whole range of policy,
+    legal, systems and technology issues involved in establishing beneficial ownership
+    registers. We offer bespoke guidance that fits the specific needs of each individual
+    country’s context. We recognise that there is no one-size-fits-all solution and
+    work closely with our partner agencies to help them deliver impact in-country.
   button: Find out more
-  link: "/what-we-do/1-1-technical-assistance/"
+  link: "/what-we-do/partnering-with-us/"
 - title: Private sector engagement
   icon: private-sector
   text: We are encouraging corporations and financial institutions to use the OpenOwnership

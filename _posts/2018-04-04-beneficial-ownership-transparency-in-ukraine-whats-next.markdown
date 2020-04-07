@@ -6,7 +6,7 @@ categories:
 - blogs
 tags:
 - the openownership pilot program
-- 1-1 technical assistance
+- partnering with us
 - ukraine
 - openownership register
 image: "/uploads/ukraine.jpg"

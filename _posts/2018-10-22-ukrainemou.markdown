@@ -6,7 +6,7 @@ permalink: news/ukrainemou/
 categories:
 - news
 tags:
-- 1-1 technical assistance
+- partnering with us
 - the beneficial ownership data standard
 - ukraine
 image: "/uploads/ukraine-signs.jpg"

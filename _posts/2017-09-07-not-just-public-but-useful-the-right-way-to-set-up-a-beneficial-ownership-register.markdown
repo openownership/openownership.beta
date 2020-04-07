@@ -35,7 +35,7 @@ By adopting the OpenOwnership standard and international best practice on data, 
 
 * Linking to other datasets: Just as when it’s connected across borders, beneficial ownership data is more powerful when it’s connected across different areas of government. By linking beneficial ownership data to procurement, licensing, lobbying and political donations data, for example, we can bring transparency to areas of government where corruption is often endemic.
 
-## Partner with us
+## partnering with us
 
 OpenOwnership is actively partnering with governments and providing support to implement the standard. Meanwhile, we have built the [world’s first global beneficial ownership register](https://register.openownership.org/) — now in beta — linking beneficial ownership data from worldwide corporate registries and other sources.
 
