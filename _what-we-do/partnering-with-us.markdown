@@ -4,7 +4,7 @@ date: 2020-04-07 14:24:00 Z
 layout: page-what-we-do
 ---
 
-OpenOwnership is a World Bank and UK government-funded organisation that offers technical assistance to countries seeking to collect, compile and publish data on who ultimately controls companies operating in their jurisdiction. By providing easy access to technical knowledge and peer-review, OO supports effective implementation and helps remove barriers to the collection and publication of beneficial ownership data.
+OpenOwnership is the leading global hub for company ownership information and advice, from drafting laws to verifying data and making it work in practice. We offer technical assistance to countries seeking to collect, compile and publish data on who ultimately controls companies operating in their jurisdiction. By providing easy access to technical knowledge and peer-review, OO supports effective implementation and helps remove barriers to the collection and publication of beneficial ownership data.
 
 OpenOwnership specialises in providing integrated support across the whole range of policy, legal, systems and technology issues involved in establishing beneficial ownership registers. For those just starting out on their implementation journey, OO can also advise on the implications of creating open registers and the numerous advantages they bring. These include supporting diverse national policy goals, from improving the business environment to meeting FATF and OECD standards, as well as tackling corruption and money laundering.
 
