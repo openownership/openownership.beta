@@ -38,12 +38,11 @@ services:
   link: "/what-we-do/the-beneficial-ownership-leadership-group/"
 - title: Partnering with us
   icon: one-on-one
-  text: We specialise in providing integrated support across the whole
-    range of policy, legal, systems and technology issues involved in establishing
-    beneficial ownership registers. We offer bespoke guidance that fits the specific
-    needs of each individual country’s context. We recognise that there is no
-    one-size-fits-all solution and work closely with our partner agencies to help
-    them deliver impact in-country.
+  text: We specialise in providing integrated support across the whole range of policy,
+    legal, systems and technology issues involved in establishing beneficial ownership
+    registers. We offer bespoke guidance that fits the specific needs of each individual
+    country’s context. We recognise that there is no one-size-fits-all solution and
+    work closely with our partner agencies to help them deliver impact in-country.
   button: Find out more
   link: "/what-we-do/partnering-with-us/"
 - title: Private sector engagement
@@ -64,3 +63,4 @@ services:
   link: "/resources/"
 layout: what-we-do
 ---
+
