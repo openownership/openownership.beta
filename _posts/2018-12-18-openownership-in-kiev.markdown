@@ -5,7 +5,7 @@ permalink: news/openownership-in-kiev/
 categories:
 - blogs
 tags:
-- 1-1 technical assistance
+- partnering with us
 - the openownership pilot program
 - private sector engagement
 - the beneficial ownership data standard

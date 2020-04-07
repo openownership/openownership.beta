@@ -6,7 +6,7 @@ categories:
 - news
 tags:
 - the beneficial ownership leadership group
-- 1-1 technical assistance
+- partnering with us
 image: "/uploads/EICcuoNXYAAqwNE.jpg"
 description: Signing ceremony and technical workshop in Yerevan launches start of
   a partnership between OpenOwnership and the Armenian Government, taking a step towards

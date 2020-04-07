@@ -5,7 +5,7 @@ permalink: news/the-first-steps/
 categories:
 - blogs
 tags:
-- 1-1 technical assistance
+- partnering with us
 - the beneficial ownership data standard
 image: "/uploads/first-steps.jpg"
 author: Hera Hussain
@@ -24,4 +24,3 @@ But the creation of such a register cannot and should not be done in isolation. 
 *These include [Global Witness](https://www.globalwitness.org/), [Open Contracting Partnership](http://www.open-contracting.org/), [Web Foundation](http://webfoundation.org/), [Transparency International](https://www.transparency.org.uk/), and the [B Team](http://bteam.org/), as well as [OpenCorporates](opencorporates.com).
 
 ![oo-mountains.jpg](/uploads/oo-mountains.jpg)
-
