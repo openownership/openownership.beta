@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<!-- Page Title -->
+{% include blocks/title.html  %}
+<!-- End Page Title -->
+
+<!-- Page Content -->
+{% unless page.content == '' %}
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y align-center">
+      <div class="small-3 cell">
+      	<ul>
+          <li><a href="/framework/">Overview</a></li>
+        {% assign sorted_pages = site.framework | sort:"order" %}
+      	 {% for index in sorted_pages %}
+  			    <li><a href="{{ index.url }}">{{ index.component }}</a></li>
+		     {% endfor %}
+		</ul>
+      </div>
+      <div class="small-9 cell">
+        {{page.content | markdownify}}
+
+      <!--Display list of sections-->
+       {% for component in site.framework %}
+       
+        <h3>{{ component.component }}</h3>
+        <p>{{ component.content | markdownify }}</p>
+        <p><a href="{{component.url}}">Read more</a>
+        {% endfor %}
+
+    </div>
+
+    </div>
+  </section>
+{% endunless %}
+<!-- End Page Content -->
+
+
