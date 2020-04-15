@@ -30,3 +30,4 @@ As we document our impact, we will adjust our strategy and feed results to the w
 
 **The extractive industries and resource-rich governments are among the first to tackle sector-wide beneficial ownership transparency. We commit to helping them achieve their goal. This is just the start.**
 
+*[Mark is the Executive Director of the EITI since 2018](https://eiti.org/contact/mark-robinson), leading the organisation's engagement on extractives transparency and managing the International Secretariat. He is a political scientist with over 30 years of international leadership experience in governance, climate and international development, spanning the worlds of policy-making, research and philanthropy.*
