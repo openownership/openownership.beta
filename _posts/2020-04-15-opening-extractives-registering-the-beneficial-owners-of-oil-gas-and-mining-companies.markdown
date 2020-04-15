@@ -7,7 +7,7 @@ author: Thom Townsend and Mark Robinson
 is_featured: true
 ---
 
-OpenOwnership, the world’s leading experts on beneficial ownership transparency, and  the Extractive Industries Transparency Initiative (EITI), the global standard for the good governance of oil, gas and mining, are teaming up to tackle corruption and open up ownership in the extractives sector. 
+*OpenOwnership, the world’s leading experts on beneficial ownership transparency, and  the Extractive Industries Transparency Initiative (EITI), the global standard for the good governance of oil, gas and mining, are teaming up to tackle corruption and open up ownership in the extractives sector.*
 
 **Challenges and opportunities**
 
@@ -29,3 +29,4 @@ We recognise that we cannot accomplish these ambitious objectives alone. We will
 As we document our impact, we will adjust our strategy and feed results to the wider community. To this end, we will build on our existing partnerships with Open Government Partnership (OGP), Natural Resource Governance Institute (NRGI), Transparency International’s Mining for Sustainable Development (M4SD) program, The B Team, BHP Foundation, industry champions and the Beneficial Ownership Leadership Group.
 
 **The extractive industries and resource-rich governments are among the first to tackle sector-wide beneficial ownership transparency. We commit to helping them achieve their goal. This is just the start.**
+
