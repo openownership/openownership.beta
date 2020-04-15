@@ -2,6 +2,7 @@
 title: 'Opening Extractives: Registering the Beneficial Owners of Oil, Gas and Mining
   Companies.'
 date: 2020-04-15 07:53:00 Z
+published: false
 image: "/uploads/lightbulbs-15ec8e.png"
 author: Thom Townsend and Mark Robinson
 is_featured: true
