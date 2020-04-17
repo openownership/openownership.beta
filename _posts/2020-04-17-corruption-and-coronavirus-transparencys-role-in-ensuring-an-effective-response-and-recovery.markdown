@@ -2,7 +2,6 @@
 title: 'Corruption and coronavirus: transparency’s role in ensuring an effective response
   and recovery'
 date: 2020-04-17 09:53:00 Z
-published: false
 categories:
 - event
 tags:
