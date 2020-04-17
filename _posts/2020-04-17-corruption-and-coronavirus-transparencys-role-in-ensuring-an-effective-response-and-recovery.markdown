@@ -10,7 +10,7 @@ author: OpenOwnership
 is_featured: true
 ---
 
-**Date and time: 30 April, 12:00.**
+**Date and time: 30 April, 12:00**
 
 About: This panel will explore the issues at the heart of tackling corruption in healthcare and disaster response, as well as the need to ensure an equitable, fair and corruption-free global economic response. 
 
