@@ -2,10 +2,13 @@
 title: 'Corruption and coronavirus: transparency’s role in ensuring an effective response
   and recovery'
 date: 2020-04-17 09:53:00 Z
+published: false
 categories:
 - event
 tags:
 - coronavirus
+author: OpenOwnership
+is_featured: true
 ---
 
 **Date and time: 30 April, 12:00. **
