@@ -12,7 +12,7 @@ is_featured: true
 
 **Date and time: 30 April, 12:00**
 
-Register here: Google cal/Outlook.  
+Register: [Google cal](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDlqNTkwc2gzdjhxOG9lcDNtZnNzMHFsazIgb3Blbm93bmVyc2hpcC5vcmdfYm9mbWsydDBob2Zwa3FzczFsMzZvanJjazRAZw&tmsrc=openownership.org_bofmk2t0hofpkqss1l36ojrck4%40group.calendar.google.com)/Outlook.  
 
 About: This panel will explore the issues at the heart of tackling corruption in healthcare and disaster response, as well as the need to ensure an equitable, fair and corruption-free global economic response. 
 
