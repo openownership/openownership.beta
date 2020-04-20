@@ -6,6 +6,7 @@ categories:
 - event
 tags:
 - coronavirus
+image: "/uploads/OPO%20Corruption%20and%20Coronavirus%20Twitter%20Card-fcd47f.jpg"
 author: OpenOwnership
 is_featured: true
 ---
