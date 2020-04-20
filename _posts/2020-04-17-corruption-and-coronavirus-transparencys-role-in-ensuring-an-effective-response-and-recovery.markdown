@@ -26,7 +26,8 @@ OpenOwnership believes that understanding the complex corporate structures that 
 Panellists: 
 * Thom Townsend, OpenOwnership Executive Director 
 * John Penrose MP, UK Government anti-corruption Champion
+* Che Sidanius, Global Head of Financial Crime & Industry Affairs
 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDlqNTkwc2gzdjhxOG9lcDNtZnNzMHFsazIgb3Blbm93bmVyc2hpcC5vcmdfYm9mbWsydDBob2Zwa3FzczFsMzZvanJjazRAZw&amp;tmsrc=openownership.org_bofmk2t0hofpkqss1l36ojrck4%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekvUTIqRERZiWk2S4YaIoZg9pw4vK6TlFFcyaMRyvowryiNg/viewform?embedded=true" width="640" height="907" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeNDcDxEj-wv61oo9IsdlWQD7ztIjsa12QnyydLW-Q3lDKR-A/viewform?embedded=true" width="640" height="1042" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
