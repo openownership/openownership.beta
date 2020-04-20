@@ -10,7 +10,7 @@ author: OpenOwnership
 is_featured: true
 ---
 
-**Date and time: 30 April, 12:00**
+**Release time and date: 30 April, 12:00**
 
 Register: [Google cal](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDlqNTkwc2gzdjhxOG9lcDNtZnNzMHFsazIgb3Blbm93bmVyc2hpcC5vcmdfYm9mbWsydDBob2Zwa3FzczFsMzZvanJjazRAZw&tmsrc=openownership.org_bofmk2t0hofpkqss1l36ojrck4%40group.calendar.google.com)/Outlook.  
 
