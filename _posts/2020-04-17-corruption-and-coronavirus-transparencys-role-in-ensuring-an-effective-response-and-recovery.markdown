@@ -24,6 +24,6 @@ OpenOwnership believes that understanding the complex corporate structures that 
 
 Panellists: 
 * Thom Townsend, OpenOwnership Executive Director 
-* Rt Hon. John Penrose MP, UK Government anti-corruption Champion
+* John Penrose MP, UK Government anti-corruption Champion
 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDlqNTkwc2gzdjhxOG9lcDNtZnNzMHFsazIgb3Blbm93bmVyc2hpcC5vcmdfYm9mbWsydDBob2Zwa3FzczFsMzZvanJjazRAZw&amp;tmsrc=openownership.org_bofmk2t0hofpkqss1l36ojrck4%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
