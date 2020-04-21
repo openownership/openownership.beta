@@ -24,7 +24,9 @@ Corruption and unaccountable mismanagement are therefore the insider threats tha
 OpenOwnership believes that understanding the complex corporate structures that often exist within our economies, and gathering good information on who is ultimately benefiting from our societies responses to COVID-19, are necessary and urgent preconditions to a good recovery and an effective public health response to pandemic. Too little information exists on this important issue, but things are changing around the world and more governments are committing and delivering transparency on businesses’ ownership. The question now is how do we accelerate and build this vital information into COVID response.
 
 Panellists: 
-[* Thom Townsend, OpenOwnership, Executive Director ](https://www.openownership.org/team/thom-townsend/)
+Moderator: 
+* [Simon Long, The Economist, International Editor ](https://mediadirectory.economist.com/people/simon-long/)
+* [Thom Townsend, OpenOwnership, Executive Director ](https://www.openownership.org/team/thom-townsend/)
 * [John Penrose MP, UK Government, Anti-Corruption Champion](https://www.gov.uk/government/people/john-penrose)
 * [Che Sidanius, Refinitiv](https://www.refinitiv.com/perspectives/authors/che-sidanius/), Global Head of Financial Crime & Industry Affairs
 * [Prof. Sope Williams-Elegbe, Stellenbosch University ](http://blogs.sun.ac.za/law/staff/publiekreg-public-law/dr-sope-williams-elegbe/)
