@@ -22,10 +22,10 @@ The coronavirus pandemic is weighing heavily on the social, economic and politic
 Corruption and unaccountable mismanagement are therefore the insider threats that can unravel the response and the emerging social contract between citizens, government and business. The first and most pressing challenge is to limit the excesses of corruption in healthcare – a highly at-risk sector at all times. This will be critical to ensure governments can access high quality, affordable products needed for the response. But, what comes next? As our economies are remade through unprecedented government stimulus, it is important to ask how we will ensure that these interventions – designed quickly for a crisis – will not condemn us to repeat the failures of the past and allow bad actors to profit as others suffer. 
 
 OpenOwnership believes that understanding the complex corporate structures that often exist within our economies, and gathering good information on who is ultimately benefiting from our societies responses to COVID-19, are necessary and urgent preconditions to a good recovery and an effective public health response to pandemic. Too little information exists on this important issue, but things are changing around the world and more governments are committing and delivering transparency on businesses’ ownership. The question now is how do we accelerate and build this vital information into COVID response.
-
-Panellists: 
+ 
 Moderator: 
 * [Simon Long, The Economist, International Editor ](https://mediadirectory.economist.com/people/simon-long/)
+Panellists:
 * [Thom Townsend, OpenOwnership, Executive Director ](https://www.openownership.org/team/thom-townsend/)
 * [John Penrose MP, UK Government, Anti-Corruption Champion](https://www.gov.uk/government/people/john-penrose)
 * [Che Sidanius, Refinitiv, Global Head of Financial Crime & Industry Affairs](https://www.refinitiv.com/perspectives/authors/che-sidanius/)
