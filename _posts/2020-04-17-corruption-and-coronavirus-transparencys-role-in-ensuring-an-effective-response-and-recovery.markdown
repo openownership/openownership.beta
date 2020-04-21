@@ -25,7 +25,9 @@ OpenOwnership believes that understanding the complex corporate structures that 
  
 Moderator: 
 * [Simon Long, The Economist, International Editor ](https://mediadirectory.economist.com/people/simon-long/)
+
 Panellists:
+
 * [Thom Townsend, OpenOwnership, Executive Director ](https://www.openownership.org/team/thom-townsend/)
 * [John Penrose MP, UK Government, Anti-Corruption Champion](https://www.gov.uk/government/people/john-penrose)
 * [Che Sidanius, Refinitiv, Global Head of Financial Crime & Industry Affairs](https://www.refinitiv.com/perspectives/authors/che-sidanius/)
