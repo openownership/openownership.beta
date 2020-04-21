@@ -28,7 +28,7 @@ Moderator:
 * [Simon Long, The Economist, International Editor ](https://mediadirectory.economist.com/people/simon-long/)
 * [Thom Townsend, OpenOwnership, Executive Director ](https://www.openownership.org/team/thom-townsend/)
 * [John Penrose MP, UK Government, Anti-Corruption Champion](https://www.gov.uk/government/people/john-penrose)
-* [Che Sidanius, Refinitiv](https://www.refinitiv.com/perspectives/authors/che-sidanius/), Global Head of Financial Crime & Industry Affairs
+* [Che Sidanius, Refinitiv, Global Head of Financial Crime & Industry Affairs](https://www.refinitiv.com/perspectives/authors/che-sidanius/)
 * [Prof. Sope Williams-Elegbe, Stellenbosch University ](http://blogs.sun.ac.za/law/staff/publiekreg-public-law/dr-sope-williams-elegbe/)
 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MDlqNTkwc2gzdjhxOG9lcDNtZnNzMHFsazIgb3Blbm93bmVyc2hpcC5vcmdfYm9mbWsydDBob2Zwa3FzczFsMzZvanJjazRAZw&amp;tmsrc=openownership.org_bofmk2t0hofpkqss1l36ojrck4%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
