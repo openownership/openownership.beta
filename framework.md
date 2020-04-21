@@ -20,7 +20,7 @@ We use this framework to:
 * **Guide the creation of data systems** 
 * **Evaluate published data** 
 * **Structure our guidance, resources and support** - breaking down complex beneficial ownership reforms into bite-size chunks
-
+ 
 This is an *alpha release* of the framework, which remains a work in progress. 
 
 ## Framework components
