@@ -30,7 +30,7 @@ Moderator:
 Panellists: 
 
 * [John Penrose MP, UK Government, Anti-Corruption Champion](https://www.gov.uk/government/people/john-penrose)
-* [Thom Townsend, OpenOwnership, Executive Director] (https://www.openownership.org/team/thom-townsend/)
+* [Thom Townsend, OpenOwnership, Executive Director](https://www.openownership.org/team/thom-townsend/)
 * [Che Sidanius, Refinitiv, Global Head of Financial Crime & Industry Affairs](https://www.refinitiv.com/perspectives/authors/che-sidanius/)
 * [Prof. Sope Williams-Elegbe, Stellenbosch University ](http://blogs.sun.ac.za/law/staff/publiekreg-public-law/dr-sope-williams-elegbe/)
 * [Rachel Cooper, Transparency International - Health Initiative, Director](https://ti-health.org/team/)
