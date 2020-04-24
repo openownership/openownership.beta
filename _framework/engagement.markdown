@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Stakeholders should be engaged throughout implementation
 layout: framework
 component: Engagement
 order: 11

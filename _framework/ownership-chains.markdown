@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Sufficient information should be published to understand the full ownership ownership chains
 layout: framework
 component: Ownership chains
 order: 5

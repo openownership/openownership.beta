@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Beneficial Ownership should be clearly and robustly defined in law
 layout: framework
 component: Robust Definitions
 order: 2

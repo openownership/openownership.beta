@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: The identity of people and companies should be unambiguous in collected and published data
 layout: framework
 component: Clear identification
 order: 6
