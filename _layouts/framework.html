@@ -1,8 +1,16 @@
 ---
 layout: default
 ---
+<section class="framework__page">
+
 <!-- Page Title -->
-{% include blocks/title.html  %}
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
+    <div class="small-12 medium-10 large-8 cell">
+      <h1>{{page.component | captialize}}</h1>
+    </div>
+  </div>
+</section>
 <!-- End Page Title -->
 
 <!-- Page Content -->
@@ -19,7 +27,7 @@ layout: default
 		</ul>
       </div>
       <div class="small-9 cell">
-        <h2>{{ page.component }}</h2>
+        <h2>Principle {{ page.order }}: {{ page.title }}</h2>
 
         {{page.content | markdownify}}
 
@@ -49,49 +57,14 @@ layout: default
         </div>
         {% endif %}
       {% endfor %}
-      {% endif %}
+      {% else %}
+       <hr/>
+       <h2>Learn more</h2>
 
-      {% if page.component %}
-      <hr/>
-        <h2>Things to consider</h2>
-        <p>
-        The following checklist highlights elements of a disclosure regime to consider when designing policies, developing systems and publishing data. 
-        </p>
-        <p>
-          Note: not all considerations apply to every context. 
-        </p>
-        <p>
-          <b>When planning, or reviewing, a beneficial ownership disclosure regime, consider whether it is the case that:</b>
-        </p>
-        <ul>
-          {% assign edf = site.data.edf %}
-          {% for indicator in edf %} 
-           {% if indicator.section == page.order %}
-            {% if indicator.uses contains "Checklist" %}
-              <li>☑️ {{ indicator.text }}</li>
-              {% if indicator.bods_mapping %}
-                {% assign bods_mapping = true %}
-              {% endif %}
-            {% endif %}
-           {% endif %}
-          {% endfor %}
-        </ul>
-      {% endif %}
+       We will shortly be publishing new resources that provide detail on putting this principle into practice. In the meantime, please <a href="/what-we-do/1-1-technical-assistance/">get in touch with our technical assistance team</a> for support and advice in thinking 
 
-      {% if page.component %}
-      {% if bods_mapping == true %}
-      <hr/>
-      <h2>Data modelling</h2>
-      <p>
-        The <a href="https://standard.openownership.org">Beneficial Ownership Data Standard</a> provides the following data structures which can be used when considering {{ page.component | downcase }}.
-      </p>
-      {% for indicator in edf %} 
-           {% if indicator.section == page.order %}
-            {{ indicator.bods_mapping | markdownify }}
-           {% endif %}
-          {% endfor %}   
       {% endif %}
-  {% endif %}
+      
 
     </div>
 
@@ -99,5 +72,5 @@ layout: default
   </section>
 {% endunless %}
 <!-- End Page Content -->
-
+</section>
 

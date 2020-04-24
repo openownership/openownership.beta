@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Historic records should be kept and published
 layout: framework
 component: Historic records
 order: 9

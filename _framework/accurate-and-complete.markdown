@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Measures should be taken to verify data to improve its accuracy and completeness
 layout: framework
 component: Accurate and complete
 order: 7

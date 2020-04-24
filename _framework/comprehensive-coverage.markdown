@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Disclosure should comprehensively cover all relevant types of legal entities and natural persons
 layout: framework
 component: Comprehensive coverage
 order: 3

@@ -11293,3 +11293,7 @@ footer .icon {
 
 .team-connect-methods {
   font-size: 2rem; }
+
+.framework__page {
+  border-top: 1rem solid #7e8da3;
+}

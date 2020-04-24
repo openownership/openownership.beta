@@ -19,7 +19,7 @@ for fwp in edf.collection.get_rows():
   section_title = (str(fwp.n) + "- " + str(fwp.title))
   slug = slugify(fwp.title)
   
-  pages[slug] = ['---\ntitle: Effective Disclosure Framework\nlayout: framework\ncomponent: {}\norder: {}\n---'.format(fwp.title, str(fwp.n))]
+  pages[slug] = ['---\ntitle: {}\nlayout: framework\ncomponent: {}\norder: {}\n---'.format(fwp.statement_version, fwp.title, str(fwp.n))]
   pages[slug].append("{}".format(fwp.summary_text))
 
 for page in pages:

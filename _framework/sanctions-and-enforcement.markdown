@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Adequate sanctions and enforcement should exist for non compliance
 layout: framework
 component: Sanctions and Enforcement
 order: 10

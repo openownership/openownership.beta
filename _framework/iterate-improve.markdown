@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Disclosure processes and practices should be iterated on to deliver improvements and close loopholes
 layout: framework
 component: Iterate & improve
 order: 12

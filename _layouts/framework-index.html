@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<section class="framework__page">
 <!-- Page Title -->
 {% include blocks/title.html  %}
 <!-- End Page Title -->
@@ -19,14 +20,14 @@ layout: default
 		</ul>
       </div>
       <div class="small-9 cell">
-        {{page.content | markdownify}}
+       {{page.content | markdownify}}
 
       <!--Display list of sections-->
        {% for component in site.framework %}
        
-        <h3>{{ component.component }}</h3>
+        <h3>{{ component.order }}: {{ component.title }}</h3>
         <p>{{ component.content | markdownify }}</p>
-        <p><a href="{{component.url}}">Read more</a>
+        <p><a href="{{component.url}}">Read more</a></p>
         {% endfor %}
 
     </div>
@@ -35,5 +36,4 @@ layout: default
   </section>
 {% endunless %}
 <!-- End Page Content -->
-
-
+</section>

@@ -1,5 +1,5 @@
 ---
-title: Effective Disclosure Framework
+title: Information should be submitted in a timely manner and kept up to date
 layout: framework
 component: Timely and updated
 order: 8
