@@ -1,5 +1,4 @@
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -17,8 +16,7 @@
   - Regime tracker
   value_q: ''
   weight: 1
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please provide any details on arrangements to access the register if public
     online search is not possible.
   guide_stage:
@@ -37,8 +35,7 @@
   - Regime tracker
   value_q: ''
   weight: 2
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If no, please detail any restrictions on who can access the register.
   guide_stage:
   - Legal and policy
@@ -55,8 +52,7 @@
   - Regime tracker
   value_q: ''
   weight: 3
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If no, please detail any registration requirements.
   guide_stage:
   - Legal and policy
@@ -73,8 +69,7 @@
   - Regime tracker
   value_q: ''
   weight: 4
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If no, please detail any access charges.
   guide_stage:
   - Legal and policy
@@ -91,8 +86,7 @@
   - Regime tracker
   value_q: ''
   weight: 5
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If no, please detail any terms and conditions.
   guide_stage:
   - Legal and policy
@@ -108,8 +102,7 @@
   - Systems reviewer
   value_q: ''
   weight: 6
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Systems
@@ -127,8 +120,7 @@
   - Regime tracker
   value_q: ''
   weight: 7
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Systems
@@ -146,8 +138,7 @@
   - Regime tracker
   value_q: ''
   weight: 8
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Data
@@ -163,8 +154,7 @@
   - Systems reviewer
   value_q: ''
   weight: 9
-- bods_mapping: ''
-  data_text: Data is openly licensed
+- data_text: Data is openly licensed
   detail_q: If yes, please detail the license applied
   guide_stage:
   - Legal and policy
@@ -183,8 +173,7 @@
   - Regime tracker
   value_q: ''
   weight: 10
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: What format(s) is bulk data provided in?
   guide_stage:
   - Publication
@@ -201,8 +190,7 @@
   - Regime tracker
   value_q: ''
   weight: 11
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If no, please detail any charges
   guide_stage:
   - Publication
@@ -218,8 +206,7 @@
   - Systems reviewer
   value_q: ''
   weight: 12
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Publication
@@ -236,8 +223,7 @@
   - Regime tracker
   value_q: ''
   weight: 13
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If no, please detail any charges
   guide_stage:
   - Publication
@@ -253,8 +239,7 @@
   - Systems reviewer
   value_q: ''
   weight: 14
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Data
@@ -272,8 +257,7 @@
   - Regime tracker
   value_q: ''
   weight: 15
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe the process for data validation
   guide_stage:
   - Data
@@ -286,8 +270,7 @@
   - Systems reviewer
   value_q: ''
   weight: 16
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please detail any privacy law considerations related to the disclosure
     of beneficial ownership information
   guide_stage:
@@ -302,8 +285,7 @@
   - Policy review tool
   value_q: ''
   weight: 17
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: "Detail the responsible stakeholders here, considering those (a) responsible\
     \ for translating legal or policy requirements into a business process; (b) responsible\
     \ for technical specifications; (c) responsible for user engagement; (d) responsible\
@@ -322,8 +304,7 @@
   - Systems reviewer
   value_q: ''
   weight: 101
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe any capacity considerations
   guide_stage:
   - Systems
@@ -337,8 +318,7 @@
   - Systems reviewer
   value_q: ''
   weight: 102
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please outline how digital products and services are developed and maintained.
   guide_stage:
   - Systems
@@ -353,8 +333,7 @@
   - Systems reviewer
   value_q: ''
   weight: 103
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: 'Please detail the kinds of tasks that require engagement from external
     suppliers (i.e. that government cannot carry out in-house). Consider: Developing
     technical specifications; Project management; Configuring software; Developing
@@ -370,8 +349,7 @@
   - Systems reviewer
   value_q: ''
   weight: 104
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please detail any such suppliers
   guide_stage:
   - Systems
@@ -385,8 +363,7 @@
   - Systems reviewer
   value_q: ''
   weight: 105
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe the process for company submissions
   guide_stage:
   - Systems
@@ -400,8 +377,7 @@
   - Systems reviewer
   value_q: ''
   weight: 106
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Upload an image of the system architecture, or provide a description below
   guide_stage:
   - Systems
@@ -415,8 +391,7 @@
   - Systems reviewer
   value_q: ''
   weight: 107
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Upload an image of the system architecture, or provide a description below
   guide_stage:
   - Systems
@@ -429,8 +404,7 @@
   - Systems reviewer
   value_q: ''
   weight: 108
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: How is beneficial ownership and control defined?
   guide_stage:
   - Legal and policy
@@ -445,8 +419,7 @@
   - Policy review tool
   value_q: ''
   weight: 32
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe the business process set out for making a declaration.
   guide_stage:
   - Systems
@@ -459,8 +432,7 @@
   - Systems reviewer
   value_q: ''
   weight: 33
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If no, how does the definition differ from international best practices?
   guide_stage:
   - Legal and policy
@@ -474,8 +446,7 @@
   - Policy review tool
   value_q: ''
   weight: 34
-- bods_mapping: ''
-  data_text: Structured data on shareholding is published
+- data_text: Structured data on shareholding is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -490,8 +461,7 @@
   - Policy review tool
   value_q: ''
   weight: 35
-- bods_mapping: ''
-  data_text: Structured data on voting rights is published
+- data_text: Structured data on voting rights is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -506,8 +476,7 @@
   - Policy review tool
   value_q: ''
   weight: 36
-- bods_mapping: ''
-  data_text: Structured data on rights to appoint the board is published
+- data_text: Structured data on rights to appoint the board is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -522,8 +491,7 @@
   - Policy review tool
   value_q: ''
   weight: 37
-- bods_mapping: ''
-  data_text: Structured data on other forms of influence or control is published
+- data_text: Structured data on other forms of influence or control is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -539,8 +507,7 @@
   - Policy review tool
   value_q: ''
   weight: 38
-- bods_mapping: ''
-  data_text: Structured data on formal or informal rights to surplus income or profits
+- data_text: Structured data on formal or informal rights to surplus income or profits
     is published
   detail_q: ''
   guide_stage:
@@ -557,8 +524,7 @@
   - Policy review tool
   value_q: ''
   weight: 39
-- bods_mapping: ''
-  data_text: Structured data on control of state owned enterprises is published
+- data_text: Structured data on control of state owned enterprises is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -574,8 +540,7 @@
   - Policy review tool
   value_q: ''
   weight: 40
-- bods_mapping: ''
-  data_text: Structured data on roles in trusts or trust-like arrangements is published
+- data_text: Structured data on roles in trusts or trust-like arrangements is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -592,8 +557,7 @@
   - Policy review tool
   value_q: ''
   weight: 41
-- bods_mapping: ''
-  data_text: Structured data on other forms of beneficial ownership or control is
+- data_text: Structured data on other forms of beneficial ownership or control is
     published
   detail_q: If yes, please provide details
   guide_stage:
@@ -608,8 +572,7 @@
   - Policy review tool
   value_q: ''
   weight: 42
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please detail the scope of this disclosure regime
   guide_stage:
   - Legal and policy
@@ -625,9 +588,7 @@
   - Regime tracker
   value_q: ''
   weight: 18
-- bods_mapping: 'Local entity types should be mapped to the `entityType` codelist.
-    [http://standard.openownership.org/en/v0-2-0/schema/reference.html#entitystatement](http://standard.openownership.org/en/v0-2-0/schema/reference.html#entitystatement) '
-  data_text: ''
+- data_text: ''
   detail_q: What types of legal entity and legal arrangement have to declare their
     beneficial owners?
   guide_stage:
@@ -643,8 +604,7 @@
   - Policy review tool
   value_q: ''
   weight: 19
-- bods_mapping: ''
-  data_text: Structured data on domestic beneficial owners is published
+- data_text: Structured data on domestic beneficial owners is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -658,8 +618,7 @@
   - Policy review tool
   value_q: ''
   weight: 20
-- bods_mapping: ''
-  data_text: Structured data on foreign beneficial owners is published
+- data_text: Structured data on foreign beneficial owners is published
   detail_q: If there are any exclusions from the disclosure requirements on nationality
     grounds please describe them here.
   guide_stage:
@@ -674,8 +633,7 @@
   - Policy review tool
   value_q: ''
   weight: 20.5
-- bods_mapping: ''
-  data_text: Structured data on control relationships by natural persons in state-owned
+- data_text: Structured data on control relationships by natural persons in state-owned
     enterprises is published
   detail_q: ''
   guide_stage:
@@ -691,8 +649,7 @@
   - Policy review tool
   value_q: ''
   weight: 21
-- bods_mapping: ''
-  data_text: Structured data on ownership relationships by government bodies in state-owned
+- data_text: Structured data on ownership relationships by government bodies in state-owned
     enterprises is published
   detail_q: ''
   guide_stage:
@@ -708,8 +665,7 @@
   - Policy review tool
   value_q: ''
   weight: 22
-- bods_mapping: '[http://standard.openownership.org/en/v0-2-0/schema/concepts.html#ownership-or-control-through-arrangements](http://standard.openownership.org/en/v0-2-0/schema/concepts.html#ownership-or-control-through-arrangements)'
-  data_text: Structured data on each party in a joint venture is published
+- data_text: Structured data on each party in a joint venture is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -723,8 +679,7 @@
   - Policy review tool
   value_q: ''
   weight: 23
-- bods_mapping: ''
-  data_text: Structured data on trusts and trust-like arrangements is published
+- data_text: Structured data on trusts and trust-like arrangements is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -738,8 +693,7 @@
   - Policy review tool
   value_q: ''
   weight: 24
-- bods_mapping: '[http://standard.openownership.org/en/v0-2-0/schema/reference.html#entity-statement.json,,entityType](http://standard.openownership.org/en/v0-2-0/schema/reference.html#entity-statement.json,,entityType)'
-  data_text: Structured data on nominee shareholdings is published
+- data_text: Structured data on nominee shareholdings is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -752,8 +706,7 @@
   - Policy review tool
   value_q: ''
   weight: 25
-- bods_mapping: ''
-  data_text: Structured data on bearer shares is published
+- data_text: Structured data on bearer shares is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -766,8 +719,7 @@
   - Policy review tool
   value_q: ''
   weight: 26
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: What types of legal entities and arrangements, if any, are exempted from
     declaring their beneficial owners?
   guide_stage:
@@ -783,8 +735,7 @@
   - Policy review tool
   value_q: ''
   weight: 27
-- bods_mapping: ''
-  data_text: Structured data exempt entities is published where appropriate
+- data_text: Structured data exempt entities is published where appropriate
   detail_q: If yes, please summarise these rules
   guide_stage:
   - Systems
@@ -800,8 +751,7 @@
   - Policy review tool
   value_q: ''
   weight: 27.5
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If yes, please summarise the basis for exemption
   guide_stage:
   - Legal and policy
@@ -816,8 +766,7 @@
   - Policy review tool
   value_q: ''
   weight: 28
-- bods_mapping: ''
-  data_text: Structured data on the presence of exempt beneficial owners is published
+- data_text: Structured data on the presence of exempt beneficial owners is published
     where appropriate
   detail_q: If yes, please summarise the relevant business rules
   guide_stage:
@@ -835,8 +784,7 @@
   - Policy review tool
   value_q: ''
   weight: 29.5
-- bods_mapping: ''
-  data_text: Structured data about case-by-case exemptions is published
+- data_text: Structured data about case-by-case exemptions is published
   detail_q: ''
   guide_stage:
   - Systems
@@ -852,8 +800,7 @@
   - Policy review tool
   value_q: ''
   weight: 30
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If yes, please provide details of any redaction process
   guide_stage:
   - Systems
@@ -869,8 +816,7 @@
   - Policy review tool
   value_q: ''
   weight: 31
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe how arrangements differ by type of legal entity if required.
     In following questions, if answering with respect to only one kind of legal entity,
     indicate this clearly.
@@ -886,8 +832,7 @@
   - Systems reviewer
   value_q: ''
   weight: 100
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If yes, please provide details
   guide_stage:
   - Legal and policy
@@ -902,8 +847,7 @@
   - Policy review tool
   value_q: ''
   weight: 43
-- bods_mapping: ''
-  data_text: Structured data on the percentage of shares held is published
+- data_text: Structured data on the percentage of shares held is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -919,8 +863,7 @@
   - Map
   value_q: What is the threshold? (%)
   weight: 44
-- bods_mapping: ''
-  data_text: Structured data on the percentage of voting rights held is published
+- data_text: Structured data on the percentage of voting rights held is published
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -934,8 +877,7 @@
   - Policy review tool
   value_q: What is the threshold? (%)
   weight: 45
-- bods_mapping: ''
-  data_text: Published data makes clear why a lower threshold has been applied to
+- data_text: Published data makes clear why a lower threshold has been applied to
     a certain disclosure
   detail_q: Please describe any rules for variable thresholds? (e.g. lower thresholds
     for Politically Exposed Persons)
@@ -951,8 +893,7 @@
   - Policy review tool
   value_q: What is the lowest threshold set in high-risk cases? (%)
   weight: 46
-- bods_mapping: ''
-  data_text: Structured data on the exact percentage of shares held is published
+- data_text: Structured data on the exact percentage of shares held is published
   detail_q: If no, what bands will be used?
   guide_stage:
   - Legal and policy
@@ -968,8 +909,7 @@
   value_q: 'What is the gap between each band? (e.g. 10 if ownership is divided into
     0 - 10, 11 - 20, 21 - 30 etc.) '
   weight: 47
-- bods_mapping: ''
-  data_text: Structured data on the exact percentage of votes held is published
+- data_text: Structured data on the exact percentage of votes held is published
   detail_q: If no, what bands will be used?
   guide_stage:
   - Legal and policy
@@ -984,8 +924,7 @@
   value_q: 'What is the gap between each band? (e.g. 10 if ownership is divided into
     0 - 10, 11 - 20, 21 - 30 etc.) '
   weight: 48
-- bods_mapping: ''
-  data_text: Structured data includes all relevant above threshold disclosures
+- data_text: Structured data includes all relevant above threshold disclosures
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1001,8 +940,7 @@
   - Policy review tool
   value_q: ''
   weight: 49
-- bods_mapping: ''
-  data_text: Structured data clearly indicates the interests that constitute beneficial
+- data_text: Structured data clearly indicates the interests that constitute beneficial
     ownership or control
   detail_q: ''
   guide_stage:
@@ -1018,8 +956,7 @@
   - Policy review tool
   value_q: ''
   weight: 50
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: If a relevant legal entity model is adopted, please describe how this
     is being implemented.
   guide_stage:
@@ -1033,8 +970,7 @@
   - Policy review tool
   value_q: ''
   weight: 51
-- bods_mapping: ''
-  data_text: 'When ownership or control is held indirectly structured data contains
+- data_text: 'When ownership or control is held indirectly structured data contains
     the first tier of legal ownership or control '
   detail_q: ''
   guide_stage:
@@ -1050,8 +986,7 @@
   - Policy review tool
   value_q: ''
   weight: 52
-- bods_mapping: ''
-  data_text: When ownership or control is held indirectly structured data contains
+- data_text: When ownership or control is held indirectly structured data contains
     the full ownership chain between legal entity and beneficial owner
   detail_q: ''
   guide_stage:
@@ -1068,8 +1003,7 @@
   - Policy review tool
   value_q: ''
   weight: 53
-- bods_mapping: ''
-  data_text: Where beneficial or legal ownership is held through a variety of different
+- data_text: Where beneficial or legal ownership is held through a variety of different
     mechanisms, each individual interest or ownership chain will be included in structured
     data
   detail_q: ''
@@ -1087,8 +1021,7 @@
   - Policy review tool
   value_q: ''
   weight: 54
-- bods_mapping: ''
-  data_text: Structured data contains unique and permanent identifiers for domestic
+- data_text: Structured data contains unique and permanent identifiers for domestic
     registered entities
   detail_q: Please describe the approach taken to recording, assigning and verifying
     identifiers for domestic legal entities
@@ -1105,8 +1038,7 @@
   - Policy review tool
   value_q: ''
   weight: 55
-- bods_mapping: ''
-  data_text: Structured data contains identifiers and scheme names (and codes where
+- data_text: Structured data contains identifiers and scheme names (and codes where
     possible) for foreign registered entities
   detail_q: Please describe the approach taken to recording, assigning and verifying
     identifiers for foreign legal entities
@@ -1124,8 +1056,7 @@
   - Policy review tool
   value_q: ''
   weight: 56
-- bods_mapping: ''
-  data_text: Structured data contains identifiers and scheme names (and codes where
+- data_text: Structured data contains identifiers and scheme names (and codes where
     possible) for domestic legal arrangements
   detail_q: Please describe the approach taken to recording, assigning and verifying
     identifiers for domestic legal arrangements
@@ -1143,8 +1074,7 @@
   - Policy review tool
   value_q: ''
   weight: 57
-- bods_mapping: ''
-  data_text: Structured data contains unique permanent identifiers for natural persons,
+- data_text: Structured data contains unique permanent identifiers for natural persons,
     in addition to system-provided person identifiers
   detail_q: Please describe the approach taken to recording, assigning and verifying
     identifiers for domestic persons
@@ -1161,8 +1091,7 @@
   - Policy review tool
   value_q: ''
   weight: 58
-- bods_mapping: ''
-  data_text: Structured data contains unique permanent identifiers for natural persons,
+- data_text: Structured data contains unique permanent identifiers for natural persons,
     in addition to system-provided person identifiers
   detail_q: Please describe the approach taken to recording, assigning and verifying
     identifiers for foreign persons
@@ -1179,8 +1108,7 @@
   - Policy review tool
   value_q: ''
   weight: 59
-- bods_mapping: ''
-  data_text: Published structured data only contains person identifiers that are appropriate
+- data_text: Published structured data only contains person identifiers that are appropriate
     to provide in an openly licensed dataset
   detail_q: Please describe any privacy issues related to publication of identifiers
     and identifying information
@@ -1198,8 +1126,7 @@
   - Policy review tool
   value_q: ''
   weight: 60
-- bods_mapping: ''
-  data_text: Structured data indicates when someone is a politically exposed person
+- data_text: Structured data indicates when someone is a politically exposed person
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1214,8 +1141,7 @@
   - Policy review tool
   value_q: ''
   weight: 61
-- bods_mapping: ''
-  data_text: Structured data indicates the reasons that someone is considered a PEP
+- data_text: Structured data indicates the reasons that someone is considered a PEP
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1229,8 +1155,7 @@
   - Policy review tool
   value_q: ''
   weight: 62
-- bods_mapping: ''
-  data_text: Structured data indicates the dates during which someone is considered
+- data_text: Structured data indicates the dates during which someone is considered
     to be a PEP
   detail_q: ''
   guide_stage:
@@ -1246,8 +1171,7 @@
   - Policy review tool
   value_q: ''
   weight: 63
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe other classes of natural person subject to additional
     declarations, and how this is managed.
   guide_stage:
@@ -1262,8 +1186,7 @@
   - Policy review tool
   value_q: ''
   weight: 64
-- bods_mapping: ''
-  data_text: Structured data contains at least the year and month of a beneficial
+- data_text: Structured data contains at least the year and month of a beneficial
     owners birth.
   detail_q: ''
   guide_stage:
@@ -1278,8 +1201,7 @@
   - Policy review tool
   value_q: ''
   weight: 65
-- bods_mapping: ''
-  data_text: Structure data will contain at least country and region for the address
+- data_text: Structure data will contain at least country and region for the address
     of beneficial owners
   detail_q: ''
   guide_stage:
@@ -1294,8 +1216,7 @@
   - Policy review tool
   value_q: ''
   weight: 66
-- bods_mapping: ''
-  data_text: Structured data will contain the nationalities of beneficial owners
+- data_text: Structured data will contain the nationalities of beneficial owners
   detail_q: ''
   guide_stage:
   - Data
@@ -1310,8 +1231,7 @@
   - Policy review tool
   value_q: ''
   weight: 67
-- bods_mapping: ''
-  data_text: Structured data will contain the place of birth of beneficial owners
+- data_text: Structured data will contain the place of birth of beneficial owners
   detail_q: ''
   guide_stage:
   - Data
@@ -1325,8 +1245,7 @@
   - Policy review tool
   value_q: ''
   weight: 68
-- bods_mapping: ''
-  data_text: Structured data will contain at least the country of residence of beneficial
+- data_text: Structured data will contain at least the country of residence of beneficial
     owners
   detail_q: ''
   guide_stage:
@@ -1341,8 +1260,7 @@
   - Policy review tool
   value_q: ''
   weight: 69
-- bods_mapping: ''
-  data_text: Structured data will contain the tax residencies of beneficial owners
+- data_text: Structured data will contain the tax residencies of beneficial owners
   detail_q: ''
   guide_stage:
   - Data
@@ -1357,8 +1275,7 @@
   - Policy review tool
   value_q: ''
   weight: 70
-- bods_mapping: ''
-  data_text: Structured data will contain information on the source of each disclosure
+- data_text: Structured data will contain information on the source of each disclosure
   detail_q: Please describe the process for collecting and/or verifying the identity
     of submitters.
   guide_stage:
@@ -1376,8 +1293,7 @@
   - Systems reviewer
   value_q: ''
   weight: 71
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Systems
@@ -1393,8 +1309,7 @@
   - Systems reviewer
   value_q: ''
   weight: 70.5
-- bods_mapping: ''
-  data_text: Documentation of structured data, or the structured data itself, will
+- data_text: Documentation of structured data, or the structured data itself, will
     indicate whether submissions were made by authorised users
   detail_q: Please describe any authorisation processes made / to be made before submissions
     are made to the register
@@ -1413,8 +1328,7 @@
   - Systems reviewer
   value_q: ''
   weight: 72
-- bods_mapping: ''
-  data_text: Documentation for structured data, and the data itself, contains information
+- data_text: Documentation for structured data, and the data itself, contains information
     about the verification checks that have been carried out
   detail_q: Please describe any verification processes carried out / to be carried
     out during submissions to the register (e.g. cross-checks with other systems)
@@ -1433,8 +1347,7 @@
   - Systems reviewer
   value_q: ''
   weight: 73
-- bods_mapping: ''
-  data_text: Verification checks are reflected in published data
+- data_text: Verification checks are reflected in published data
   detail_q: ''
   guide_stage:
   - Systems
@@ -1450,8 +1363,7 @@
   - Systems reviewer
   value_q: ''
   weight: 73.5
-- bods_mapping: ''
-  data_text: Structured data includes information about the provenance of a disclosure
+- data_text: Structured data includes information about the provenance of a disclosure
     and the documents seen or stored in relation to it
   detail_q: Please describe any documents requested as part of the submission process,
     and how these are handled.
@@ -1468,8 +1380,7 @@
   - Systems reviewer
   value_q: ''
   weight: 74
-- bods_mapping: ''
-  data_text: Structured data contains information about any verification that has
+- data_text: Structured data contains information about any verification that has
     taken place
   detail_q: Please describe any verification processes carried out / to be carried
     out on data after submission (e.g. periodic evaluation of data against third-party
@@ -1488,8 +1399,7 @@
   - Systems reviewer
   value_q: ''
   weight: 75
-- bods_mapping: ''
-  data_text: Structured data contains information about any third-party verification
+- data_text: Structured data contains information about any third-party verification
     that has taken place
   detail_q: ''
   guide_stage:
@@ -1505,8 +1415,7 @@
   - Systems reviewer
   value_q: ''
   weight: 76
-- bods_mapping: ''
-  data_text: Structured data provides a link to a place where reports of errors, discrepancies
+- data_text: Structured data provides a link to a place where reports of errors, discrepancies
     or omissions can be made
   detail_q: Please describe any processes for users to report errors or omissions
     from disclosures
@@ -1525,8 +1434,7 @@
   - Systems reviewer
   value_q: ''
   weight: 77
-- bods_mapping: ''
-  data_text: Updated structured data is published when corrections are made
+- data_text: Updated structured data is published when corrections are made
   detail_q: Please describe how error reports are / will be handled
   guide_stage:
   - Systems
@@ -1542,8 +1450,7 @@
   - Systems reviewer
   value_q: ''
   weight: 78
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: How long will new entities have to submit beneficial ownership information?
   guide_stage:
   - Legal and policy
@@ -1558,8 +1465,7 @@
   - Policy review tool
   value_q: ''
   weight: 79
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: What interval applies for periodic beneficial ownership information updates?
   guide_stage:
   - Legal and policy
@@ -1575,8 +1481,7 @@
   - Policy review tool
   value_q: ''
   weight: 80
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: How long will entities have to submit new information on a change of beneficial
     owners?
   guide_stage:
@@ -1591,8 +1496,7 @@
   - Policy review tool
   value_q: ''
   weight: 81
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: How long will entities have to submit new information on a change of interests
     level or type of existing beneficial owners?
   guide_stage:
@@ -1608,8 +1512,7 @@
   - Policy review tool
   value_q: ''
   weight: 82
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: How long will entities have to submit new information on a change in the
     personal details of beneficial owners?
   guide_stage:
@@ -1625,8 +1528,7 @@
   - Policy review tool
   value_q: ''
   weight: 83
-- bods_mapping: ''
-  data_text: Updates will be reflected in structured data in a timely way
+- data_text: Updates will be reflected in structured data in a timely way
   detail_q: ''
   guide_stage:
   - Systems
@@ -1640,8 +1542,7 @@
   - Policy review tool
   value_q: ''
   weight: 84
-- bods_mapping: ''
-  data_text: Published data will include all changes since the last publication
+- data_text: Published data will include all changes since the last publication
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1656,8 +1557,7 @@
   - Systems reviewer
   value_q: ''
   weight: 85
-- bods_mapping: ''
-  data_text: Structured data uses a ledger approach to publish new statements for
+- data_text: Structured data uses a ledger approach to publish new statements for
     every change
   detail_q: How long will information on beneficial ownership relationships that have
     ended be stored for?
@@ -1673,8 +1573,7 @@
   - Policy review tool
   value_q: ''
   weight: 86
-- bods_mapping: ''
-  data_text: The ledger of structured data published allows users to review and audit
+- data_text: The ledger of structured data published allows users to review and audit
     any changes
   detail_q: How long will information on beneficial ownership relationships that have
     changed be stored for?
@@ -1691,8 +1590,7 @@
   - Systems reviewer
   value_q: ''
   weight: 87
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: 'Please describe any policies related to record retention, including how
     these address legitimate privacy and security concerns. '
   guide_stage:
@@ -1707,8 +1605,7 @@
   - Policy review tool
   value_q: What is the retention period (in years) for past data?
   weight: 88
-- bods_mapping: ''
-  data_text: Structured data contains reasons for non-disclosure
+- data_text: Structured data contains reasons for non-disclosure
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1722,8 +1619,7 @@
   - Policy review tool
   value_q: ''
   weight: 89
-- bods_mapping: ''
-  data_text: Structured data makes clear the reasons for missing data
+- data_text: Structured data makes clear the reasons for missing data
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1737,8 +1633,7 @@
   - Policy review tool
   value_q: ''
   weight: 90
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: What sanctions are possible against entities failing to comply with disclosure
     requirements?
   guide_stage:
@@ -1754,8 +1649,7 @@
   - Policy review tool
   value_q: ''
   weight: 91
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: What sanctions are possible against third parties failing to comply with
     the disclosure requirements? (e.g. legal representatives, legal owners)?
   guide_stage:
@@ -1772,8 +1666,7 @@
   - Policy review tool
   value_q: ''
   weight: 91.5
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please give details of the sanctions that apply
   guide_stage:
   - Legal and policy
@@ -1786,8 +1679,7 @@
   uses: []
   value_q: ''
   weight: 92
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: What sanctions are possible against beneficial owners failing to comply
     with the disclosure requirements?
   guide_stage:
@@ -1803,8 +1695,7 @@
   - Policy review tool
   value_q: ''
   weight: 93
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Which agencies have a mandate to take action against suspected non-compliance?
   guide_stage:
   - Legal and policy
@@ -1819,8 +1710,7 @@
   - Policy review tool
   value_q: ''
   weight: 94
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1835,8 +1725,7 @@
   - Map
   value_q: ''
   weight: 109
-- bods_mapping: ''
-  data_text: The private sector and civil society are consulted and engaged about
+- data_text: The private sector and civil society are consulted and engaged about
     the publication of bulk data, APIs and other data products
   detail_q: Please describe the engagement activities being carried out
   guide_stage:
@@ -1852,8 +1741,7 @@
   - Checklist
   value_q: ''
   weight: 110
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1867,8 +1755,7 @@
   - Checklist
   value_q: ''
   weight: 111
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Legal and policy
@@ -1881,8 +1768,7 @@
   - Checklist
   value_q: ''
   weight: 112
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: What is known about the capacity of the government or organisation to
     deliver digital projects?
   guide_stage:
@@ -1896,8 +1782,7 @@
   - Systems reviewer
   value_q: ''
   weight: 95
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Are there wider digital reform programmes in the country / organisation
     that will impact upon efforts to create an open register of beneficial ownership?
   guide_stage:
@@ -1912,8 +1797,7 @@
   - Systems reviewer
   value_q: ''
   weight: 96
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe and relevant rules or policies that govern how digital
     services should be developed and managed?
   guide_stage:
@@ -1928,8 +1812,7 @@
   - Systems reviewer
   value_q: ''
   weight: 97
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe the extent of user-centred design and user-testing practices
     for digital services
   guide_stage:
@@ -1943,8 +1826,7 @@
   - Systems reviewer
   value_q: ''
   weight: 98
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: Please describe key features of the policy, and how actively it is supported.
   guide_stage:
   - Systems
@@ -1957,8 +1839,7 @@
   - Systems reviewer
   value_q: ''
   weight: 99
-- bods_mapping: ''
-  data_text: ''
+- data_text: ''
   detail_q: ''
   guide_stage:
   - Legal and policy

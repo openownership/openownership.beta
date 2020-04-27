@@ -3,74 +3,66 @@ layout: default
 ---
 <section class="framework__page">
 
-<!-- Page Title -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
-    <div class="small-12 medium-10 large-8 cell">
-      <h1>{{page.component | captialize}}</h1>
+  <!-- Page Title -->
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
+      <div class="small-12 medium-10 large-8 cell">
+        <h1>{{page.component | captialize}}</h1>
+      </div>
     </div>
-  </div>
-</section>
-<!-- End Page Title -->
+  </section>
+  <!-- End Page Title -->
 
-<!-- Page Content -->
-{% unless page.content == '' %}
+  <!-- Page Content -->
+  {% unless page.content == '' %}
   <section class="grid-container">
     <div class="grid-x grid-padding-x grid-padding-y align-center">
       <div class="small-3 cell">
-      	<ul>
-          <li><a href="/framework/">Overview</a></li>
-        {% assign sorted_pages = site.framework | sort:"order" %}
-      	 {% for index in sorted_pages %}
-  			    <li><a href="{{ index.url }}">{{ index.component }}</a></li>
-		     {% endfor %}
-		</ul>
+      	{% include blocks/edf-index.html  %}
       </div>
+
       <div class="small-9 cell">
         <h2>Principle {{ page.order }}: {{ page.title }}</h2>
 
         {{page.content | markdownify}}
 
-      {% assign tag = page.component | downcase %}
-      {% assign resource_tags =  site.resources | map: 'tags' | join: ','  | split: ',' | uniq %}
+        {% assign tag = page.component | downcase %}
+        {% assign resource_tags =  site.resources | map: 'tags' | join: ','  | split: ',' | uniq %}
 
-      {% if resource_tags contains tag %}
-      <hr/>
-      <h2>Resources</h2>
+        {% if resource_tags contains tag %}
+          <hr/>
+          <h2>Resources</h2>
 
-      {% for resource in site.resources %}
-        {% if resource.tags contains tag %}
-         <div class="grid-x grid-padding-x grid-padding-y align-center">
-          <div class="small-12 medium-6 large-2 cell">
-            <a href="{{ resource.file }}">
-              <img src="{{ resource.thumbnail-image }}" class="image--resource">
-            </a>
-          </div>
+          {% for resource in site.resources %}
+            {% if resource.tags contains tag %}
+              <div class="grid-x grid-padding-x grid-padding-y align-center">
+                <div class="small-12 medium-6 large-2 cell">
+                  <a href="{{ resource.file }}">
+                    <img src="{{ resource.thumbnail-image }}" class="image--resource">
+                  </a>
+                </div>
 
-          <div class="small-12 medium-6 large-10 cell">
-            <h5 class="sans-bold">{{resource .title}}</h5>
-            {{resource.content | markdownify}}
-            <a class="button margin-bottom-0" href="{{resource.file}}">
-              View document
-            </a>
-          </div>
-        </div>
+                <div class="small-12 medium-6 large-10 cell">
+                  <h5 class="sans-bold">{{resource .title}}</h5>
+                  {{resource.content | markdownify}}
+                  <a class="button margin-bottom-0" href="{{resource.file}}">
+                    View document
+                  </a>
+                </div>
+              </div>
+            {% endif %}
+          {% endfor %}
+        {% else %}
+          <hr/>
+          <h2>Learn more</h2>
+          <p>
+            We will shortly be publishing new resources that provide detail on putting this principle into practice. In the meantime, please <a href="/what-we-do/1-1-technical-assistance/">get in touch with our technical assistance team</a> for support and advice.
+          </p>
         {% endif %}
-      {% endfor %}
-      {% else %}
-       <hr/>
-       <h2>Learn more</h2>
-
-       We will shortly be publishing new resources that provide detail on putting this principle into practice. In the meantime, please <a href="/what-we-do/1-1-technical-assistance/">get in touch with our technical assistance team</a> for support and advice in thinking 
-
-      {% endif %}
-      
-
-    </div>
-
+      </div>
     </div>
   </section>
-{% endunless %}
-<!-- End Page Content -->
+  {% endunless %}
+  <!-- End Page Content -->
 </section>
 

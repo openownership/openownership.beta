@@ -28,8 +28,7 @@ for indicator in indicators.collection.get_rows():
 	 		"guide_stage":indicator.stage,
 	 		"url_q":indicator.supporting0_url,
 	 		"detail_q":indicator.supporting1_details,
-	 		"value_q":indicator.supporting2_value,
-	 		"bods_mapping":indicator.bods_mapping
+	 		"value_q":indicator.supporting2_value
 	 	})
 
 with open("../_data/edf.yaml", "w") as file:

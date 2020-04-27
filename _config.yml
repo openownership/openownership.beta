@@ -24,7 +24,7 @@ collections:
     title: What We Do
     output: true
   framework:
-    title: Effective DisclosureFframework
+    title: Effective Disclosure Framework
     output: true
     sort_by: order
 defaults:
