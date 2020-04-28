@@ -2,7 +2,7 @@
 title: 'The Financial Secrecy Index results: progress on beneficial ownership transparency'
 date: 2020-02-19 16:22:00 Z
 categories:
-- blog
+- blogs
 image: "/uploads/Tax%20blog%20image.png"
 description: This week, the Tax Justice Network released the Financial Secrecy Index,
   which assesses the state of financial secrecy in 133 jurisdictions. On average,
