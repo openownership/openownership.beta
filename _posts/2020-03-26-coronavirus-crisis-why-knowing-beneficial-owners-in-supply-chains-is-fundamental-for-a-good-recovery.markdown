@@ -3,7 +3,7 @@ title: 'Coronavirus crisis: why knowing beneficial owners in supply chains is fu
   for a good recovery'
 date: 2020-03-26 12:04:00 Z
 categories:
-- blog
+- blogs
 tags:
 - coronavirus
 - supplychains
