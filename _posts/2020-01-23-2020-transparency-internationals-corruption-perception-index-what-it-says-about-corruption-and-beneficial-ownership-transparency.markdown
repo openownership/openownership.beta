@@ -4,7 +4,7 @@ title: '2019 Transparency International’s Corruption Perceptions Index: What i
 date: 2020-01-23 11:56:00 Z
 permalink: news/2020-transparency-internationals-corruption-perception-index-what-it-says-about-corruption-and-beneficial-ownership-transparency/
 categories:
-- blog
+- blogs
 author: OpenOwnership
 is_featured: true
 ---
