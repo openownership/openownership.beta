@@ -1,11 +1,11 @@
 ---
+title: Stakeholders should be engaged throughout implementation
 component: Engagement
 order: 11
 summary_version: Engagement means delivering beneficial ownership transparency by
   involving a wide range of stakeholders from as many different groups as possible,
   from government officials to citizens and businesses, to create an effective disclosure
   regime that meets user needs, to help achieve their goals and improve impact.
-title: Stakeholders should be engaged throughout implementation
 ---
 
 Beneficial ownership transparency should be implemented with user needs in mind in order to maximise impact. Therefore, delivering improved beneficial ownership transparency is a process that should involve as many different groups as possible, from government officials to citizens and businesses. 

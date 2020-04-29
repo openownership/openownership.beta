@@ -1,15 +1,12 @@
 ---
-component: Ownership chains
-order: 5
-summary_version: 'Covering full ownership chains means that it should be possible
-  to understand how beneficial owners exert ownership or control over a company, even
-  when beneficial ownership is held indirectly through one or more other companies.
-
-
-  Disclosure of intermediate steps in an ownership chain helps with joining up data
-  from different sources.'
 title: Sufficient information should be published to understand the full ownership
   ownership chains
+component: Ownership chains
+order: 5
+summary_version: |-
+  Covering full ownership chains means that it should be possible to understand how beneficial owners exert ownership or control over a company, even when beneficial ownership is held indirectly through one or more other companies.
+
+  Disclosure of intermediate steps in an ownership chain helps with joining up data from different sources.
 ---
 
 Covering full ownership chains means that it should be possible to understand how beneficial owners exert ownership or control over a company, even when beneficial ownership is held indirectly through one or more other companies. This greatly increases the usability of the data, thereby increasing the potential impact a register can have. 
