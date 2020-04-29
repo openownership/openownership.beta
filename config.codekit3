@@ -218,6 +218,102 @@
 		"oAP": "/_drafts/who-owns-our-companies-why-privacy-isnt-always-in-the-public-interest.markdown",
 		"oF": 0
 		},
+	"/_framework/a-public-register.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/a-public-register.markdown",
+		"oF": 0
+		},
+	"/_framework/accurate-and-complete.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/accurate-and-complete.markdown",
+		"oF": 0
+		},
+	"/_framework/clear-identification.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/clear-identification.markdown",
+		"oF": 0
+		},
+	"/_framework/comprehensive-coverage.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/comprehensive-coverage.markdown",
+		"oF": 0
+		},
+	"/_framework/engagement.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/engagement.markdown",
+		"oF": 0
+		},
+	"/_framework/historic-records.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/historic-records.markdown",
+		"oF": 0
+		},
+	"/_framework/iterate-improve.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/iterate-improve.markdown",
+		"oF": 0
+		},
+	"/_framework/low-thresholds.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/low-thresholds.markdown",
+		"oF": 0
+		},
+	"/_framework/ownership-chains.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/ownership-chains.markdown",
+		"oF": 0
+		},
+	"/_framework/robust-definitions.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/robust-definitions.markdown",
+		"oF": 0
+		},
+	"/_framework/sanctions-and-enforcement.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/sanctions-and-enforcement.markdown",
+		"oF": 0
+		},
+	"/_framework/timely-and-updated.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_framework/timely-and-updated.markdown",
+		"oF": 0
+		},
 	"/_guide/commit.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -280,6 +376,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_includes/blocks/content.html",
+		"oF": 0
+		},
+	"/_includes/blocks/edf-index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_includes/blocks/edf-index.html",
 		"oF": 0
 		},
 	"/_includes/blocks/excerpt.html": {
@@ -504,6 +608,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_layouts/default.html",
+		"oF": 0
+		},
+	"/_layouts/framework-index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_layouts/framework-index.html",
+		"oF": 0
+		},
+	"/_layouts/framework.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_layouts/framework.html",
 		"oF": 0
 		},
 	"/_layouts/guide-page.html": {
@@ -1090,6 +1210,54 @@
 		"oAP": "/_posts/2020-02-19-the-financial-secrecy-index-results-progress-on-beneficial-ownership-transparency.markdown",
 		"oF": 0
 		},
+	"/_posts/2020-02-21-why-beneficial-ownership-transparency-is-crucial-in-latin-america.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2020-02-21-why-beneficial-ownership-transparency-is-crucial-in-latin-america.markdown",
+		"oF": 0
+		},
+	"/_posts/2020-02-26-structured-bulk-data-now-available-from-the-openownership-register.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2020-02-26-structured-bulk-data-now-available-from-the-openownership-register.markdown",
+		"oF": 0
+		},
+	"/_posts/2020-03-10-our-initial-assessment-of-myanmars-new-beneficial-ownership-register.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2020-03-10-our-initial-assessment-of-myanmars-new-beneficial-ownership-register.markdown",
+		"oF": 0
+		},
+	"/_posts/2020-03-26-coronavirus-crisis-why-knowing-beneficial-owners-in-supply-chains-is-fundamental-for-a-good-recovery.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2020-03-26-coronavirus-crisis-why-knowing-beneficial-owners-in-supply-chains-is-fundamental-for-a-good-recovery.markdown",
+		"oF": 0
+		},
+	"/_posts/2020-04-15-opening-extractives-registering-the-beneficial-owners-of-oil-gas-and-mining-companies.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2020-04-15-opening-extractives-registering-the-beneficial-owners-of-oil-gas-and-mining-companies.markdown",
+		"oF": 0
+		},
+	"/_posts/2020-04-17-corruption-and-coronavirus-transparencys-role-in-ensuring-an-effective-response-and-recovery.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/2020-04-17-corruption-and-coronavirus-transparencys-role-in-ensuring-an-effective-response-and-recovery.markdown",
+		"oF": 0
+		},
 	"/_resources/a-summary-guide-to-implementing-beneficial-ownership-transparency.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -1645,6 +1813,30 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/_site/blog/coronavirus-crisis-why-knowing-beneficial-owners-in-supply-chains-is-fundamental-for-a-good-recovery/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/blog/coronavirus-crisis-why-knowing-beneficial-owners-in-supply-chains-is-fundamental-for-a-good-recovery/index.html",
+		"oF": 0
+		},
+	"/_site/blog/the-financial-secrecy-index-results-progress-on-beneficial-ownership-transparency/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/blog/the-financial-secrecy-index-results-progress-on-beneficial-ownership-transparency/index.html",
+		"oF": 0
+		},
+	"/_site/blogs/why-beneficial-ownership-transparency-is-crucial-in-latin-america/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/blogs/why-beneficial-ownership-transparency-is-crucial-in-latin-america/index.html",
+		"oF": 0
+		},
 	"/_site/connect-with-us/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1755,6 +1947,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/latest/10/index.html",
+		"oF": 0
+		},
+	"/_site/latest/11/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/latest/11/index.html",
 		"oF": 0
 		},
 	"/_site/latest/2/index.html": {
@@ -2224,6 +2424,14 @@
 		"oAP": "/_site/news/our-direction-of-travel/index.html",
 		"oF": 0
 		},
+	"/_site/news/our-initial-assessment-of-myanmars-new-beneficial-ownership-register/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/our-initial-assessment-of-myanmars-new-beneficial-ownership-register/index.html",
+		"oF": 0
+		},
 	"/_site/news/our-quick-assessment-of-nigerias-first-public-register-a-strong-start-but-more-to-be-done/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2238,6 +2446,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/news/request-for-proposals-graphic-design-and-videographic-services/index.html",
+		"oF": 0
+		},
+	"/_site/news/structured-bulk-data-now-available-from-the-openownership-register/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/structured-bulk-data-now-available-from-the-openownership-register/index.html",
 		"oF": 0
 		},
 	"/_site/news/tender-opportunity-technical-research-on-the-collection-processing-and-use-of-beneficial-ownership-data-in-the-private-sector/index.html": {
@@ -2448,28 +2664,20 @@
 		"oAP": "/_site/sitemap.xml",
 		"oF": 0
 		},
-	"/_site/tag/1-1-technical-assistance/2/index.html": {
+	"/_site/tag/coronavirus/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_site/tag/1-1-technical-assistance/2/index.html",
+		"oAP": "/_site/tag/coronavirus/index.html",
 		"oF": 0
 		},
-	"/_site/tag/1-1-technical-assistance/index.html": {
+	"/_site/tag/due-diligence/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_site/tag/1-1-technical-assistance/index.html",
-		"oF": 0
-		},
-	"/_site/tag/beneficial-ownership-leadership-group/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_site/tag/beneficial-ownership-leadership-group/index.html",
+		"oAP": "/_site/tag/due-diligence/index.html",
 		"oF": 0
 		},
 	"/_site/tag/eiti/index.html": {
@@ -2512,6 +2720,22 @@
 		"oAP": "/_site/tag/openownership-register/index.html",
 		"oF": 0
 		},
+	"/_site/tag/partnering-with-us/2/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/partnering-with-us/2/index.html",
+		"oF": 0
+		},
+	"/_site/tag/partnering-with-us/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/partnering-with-us/index.html",
+		"oF": 0
+		},
 	"/_site/tag/privacy/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2536,6 +2760,14 @@
 		"oAP": "/_site/tag/private-sector-engagement/index.html",
 		"oF": 0
 		},
+	"/_site/tag/supplychains/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/supplychains/index.html",
+		"oF": 0
+		},
 	"/_site/tag/the-beneficial-ownership-data-standard/2/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2558,6 +2790,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/tag/the-beneficial-ownership-data-standard/index.html",
+		"oF": 0
+		},
+	"/_site/tag/the-beneficial-ownership-leadership-group/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/tag/the-beneficial-ownership-leadership-group/index.html",
 		"oF": 0
 		},
 	"/_site/tag/the-openownership-pilot-program/2/index.html": {
@@ -2794,6 +3034,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/uploads/bolg-logo.png": {
+		"ft": 32768,
+		"iS": 35201,
+		"oA": 0,
+		"oAP": "/_site/uploads/bolg-logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_site/uploads/BOT-network-support-tools-for-implementation.jpg": {
 		"ft": 16384,
 		"iS": 44722,
@@ -2843,12 +3094,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/claire-reichenbach.jpg": {
+	"/_site/uploads/claire-reichenbach-2.jpg": {
 		"ft": 16384,
 		"iS": 252853,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/claire-reichenbach.jpg",
+		"oAP": "/_site/uploads/claire-reichenbach-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3079,12 +3330,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/eva-okunbor.jpg": {
+	"/_site/uploads/eva-okunbor-2.jpg": {
 		"ft": 16384,
 		"iS": 441077,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/eva-okunbor.jpg",
+		"oAP": "/_site/uploads/eva-okunbor-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3096,6 +3347,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_site/uploads/fabrizio-verrecchia-448425-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/factsheet-thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 33594,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/factsheet-thumbnail.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3366,12 +3628,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/jack-lord.jpg": {
+	"/_site/uploads/jack-lord-2.jpg": {
 		"ft": 16384,
 		"iS": 454483,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/jack-lord.jpg",
+		"oAP": "/_site/uploads/jack-lord-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3410,12 +3672,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/kadie-armstrong.jpg": {
+	"/_site/uploads/kadie-armstrong-2.jpg": {
 		"ft": 16384,
 		"iS": 642434,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/kadie-armstrong.jpg",
+		"oAP": "/_site/uploads/kadie-armstrong-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3485,6 +3747,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/LAC blog-8981b3.png": {
+		"ft": 32768,
+		"iS": 1481857,
+		"oA": 0,
+		"oAP": "/_site/uploads/LAC blog-8981b3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/LAC blog.png": {
+		"ft": 32768,
+		"iS": 1481857,
+		"oA": 0,
+		"oAP": "/_site/uploads/LAC blog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_site/uploads/laurence-bascle.jpg": {
@@ -3583,12 +3867,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/louise.jpg": {
+	"/_site/uploads/louise-russell-prywata.jpg": {
 		"ft": 16384,
 		"iS": 516113,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/louise.jpg",
+		"oAP": "/_site/uploads/louise-russell-prywata.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3690,6 +3974,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_site/uploads/Myanmar EITI portal blog image (2).png": {
+		"ft": 32768,
+		"iS": 128797,
+		"oA": 0,
+		"oAP": "/_site/uploads/Myanmar EITI portal blog image (2).png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_site/uploads/nasa-whDrFMucHkc-unsplash-0c469a.jpg": {
 		"ft": 16384,
 		"iS": 819239,
@@ -3754,6 +4049,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/OO Bulk download.png": {
+		"ft": 32768,
+		"iS": 109532,
+		"oA": 0,
+		"oAP": "/_site/uploads/OO Bulk download.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_site/uploads/oo-beneficial-ownership-policy-reviewer-image.JPG": {
@@ -3953,6 +4259,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_site/uploads/openownership-factsheet.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/openownership-factsheet.pdf",
+		"oF": 0
+		},
 	"/_site/uploads/opo-kyrgyz-republic-scoping-report-russian.jpg": {
 		"ft": 16384,
 		"iS": 1271515,
@@ -4010,12 +4324,20 @@
 		"oAP": "/_site/uploads/OPO-Ukraine-Report.pdf",
 		"oF": 0
 		},
-	"/_site/uploads/peter-low.jpg": {
+	"/_site/uploads/OPO004 Factsheet.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/OPO004 Factsheet.pdf",
+		"oF": 0
+		},
+	"/_site/uploads/peter-low-2.jpg": {
 		"ft": 16384,
 		"iS": 497563,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/peter-low.jpg",
+		"oAP": "/_site/uploads/peter-low-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4229,12 +4551,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/simon-whitehouse.jpg": {
+	"/_site/uploads/simon-whitehouse-2.jpg": {
 		"ft": 16384,
-		"iS": 1120241,
+		"iS": 1118860,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/simon-whitehouse.jpg",
+		"oAP": "/_site/uploads/simon-whitehouse-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4283,15 +4605,37 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/_site/uploads/steve-day.jpg": {
+	"/_site/uploads/spraying water.png": {
+		"ft": 32768,
+		"iS": 1521435,
+		"oA": 0,
+		"oAP": "/_site/uploads/spraying water.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_site/uploads/steve-day-2.jpg": {
 		"ft": 16384,
 		"iS": 715092,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/steve-day.jpg",
+		"oAP": "/_site/uploads/steve-day-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_site/uploads/Tax blog image.png": {
+		"ft": 32768,
+		"iS": 60010,
+		"oA": 0,
+		"oAP": "/_site/uploads/Tax blog image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_site/uploads/technology.png": {
@@ -4324,23 +4668,23 @@
 		"oAP": "/_site/uploads/the-case-for-public-beneficial-ownership.pdf",
 		"oF": 0
 		},
-	"/_site/uploads/thom-townsend.jpg": {
+	"/_site/uploads/thom-townsend-3.jpg": {
 		"ft": 16384,
-		"iS": 488908,
+		"iS": 393870,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/thom-townsend.jpg",
+		"oAP": "/_site/uploads/thom-townsend-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/tim-davies.jpg": {
+	"/_site/uploads/tim-davies-2.jpg": {
 		"ft": 16384,
 		"iS": 772708,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/tim-davies.jpg",
+		"oAP": "/_site/uploads/tim-davies-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4368,12 +4712,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/tymon-kiepe.jpg": {
+	"/_site/uploads/tymon-kiepe-2.jpg": {
 		"ft": 16384,
 		"iS": 425786,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/tymon-kiepe.jpg",
+		"oAP": "/_site/uploads/tymon-kiepe-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4453,12 +4797,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/uploads/victor-ponsford.jpg": {
+	"/_site/uploads/victor-ponsford-2.jpg": {
 		"ft": 16384,
-		"iS": 730983,
+		"iS": 733995,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_site/uploads/victor-ponsford.jpg",
+		"oAP": "/_site/uploads/victor-ponsford-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4538,12 +4882,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_site/what-we-do/1-1-technical-assistance/index.html": {
+	"/_site/uploads/zack-brisson.jpg": {
+		"ft": 16384,
+		"iS": 609877,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_site/uploads/zack-brisson.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_site/what-we-do/1-1-technical-assistance.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_site/what-we-do/1-1-technical-assistance/index.html",
+		"oAP": "/_site/what-we-do/1-1-technical-assistance.markdown",
 		"oF": 0
 		},
 	"/_site/what-we-do/index.html": {
@@ -4552,6 +4907,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/what-we-do/index.html",
+		"oF": 0
+		},
+	"/_site/what-we-do/partnering-with-us/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/what-we-do/partnering-with-us/index.html",
 		"oF": 0
 		},
 	"/_site/what-we-do/private-sector-engagement/index.html": {
@@ -4568,6 +4931,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/what-we-do/the-beneficial-ownership-data-standard/index.html",
+		"oF": 0
+		},
+	"/_site/what-we-do/the-beneficial-ownership-leadership-group/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/what-we-do/the-beneficial-ownership-leadership-group/index.html",
 		"oF": 0
 		},
 	"/_site/what-we-do/the-openownership-pilot-program/index.html": {
@@ -4688,14 +5059,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_team/zack-brisson.markdown",
-		"oF": 0
-		},
-	"/_team/zosia-sztykowski.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/_team/zosia-sztykowski.markdown",
 		"oF": 0
 		},
 	"/_uploads/2019 blog image.png": {
@@ -4832,12 +5195,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/claire-reichenbach-rev.jpg": {
+	"/_uploads/claire-reichenbach-2.jpg": {
 		"ft": 16384,
-		"iS": 1523113,
+		"iS": 252853,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/claire-reichenbach-rev.jpg",
+		"oAP": "/_uploads/claire-reichenbach-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -4929,6 +5292,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/covid-corruption.png": {
+		"ft": 32768,
+		"iS": 2286360,
+		"oA": 0,
+		"oAP": "/_uploads/covid-corruption.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/danish-data.jpg": {
@@ -5068,12 +5442,12 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/eva-okunbor.jpg": {
+	"/_uploads/eva-okunbor-2.jpg": {
 		"ft": 16384,
 		"iS": 441077,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/eva-okunbor.jpg",
+		"oAP": "/_uploads/eva-okunbor-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5366,12 +5740,12 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/jack-lord.jpg": {
+	"/_uploads/jack-lord-2.jpg": {
 		"ft": 16384,
-		"iS": 825937,
+		"iS": 454483,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/jack-lord.jpg",
+		"oAP": "/_uploads/jack-lord-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5410,12 +5784,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/kadie-armstrong.jpg": {
+	"/_uploads/kadie-armstrong-2.jpg": {
 		"ft": 16384,
-		"iS": 290606,
+		"iS": 642434,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/kadie-armstrong.jpg",
+		"oAP": "/_uploads/kadie-armstrong-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/karabo-rajulli.jpg": {
+		"ft": 16384,
+		"iS": 958399,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/karabo-rajulli.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5474,6 +5859,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/LAC blog-8981b3.png": {
+		"ft": 32768,
+		"iS": 1481857,
+		"oA": 0,
+		"oAP": "/_uploads/LAC blog-8981b3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/LAC blog.png": {
+		"ft": 32768,
+		"iS": 1481857,
+		"oA": 0,
+		"oAP": "/_uploads/LAC blog.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/laurence-bascle.jpg": {
@@ -5561,6 +5968,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/lightbulbs-15ec8e.png": {
+		"ft": 32768,
+		"iS": 1497461,
+		"oA": 0,
+		"oAP": "/_uploads/lightbulbs-15ec8e.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/lightbulbs.png": {
+		"ft": 32768,
+		"iS": 1497461,
+		"oA": 0,
+		"oAP": "/_uploads/lightbulbs.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/loren-treisman.jpg": {
 		"ft": 16384,
 		"iS": 284679,
@@ -5572,15 +6001,15 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/louise.jpg": {
+	"/_uploads/louise-russell-prywata.jpg": {
 		"ft": 16384,
-		"iS": 91889,
+		"iS": 516113,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/louise.jpg",
+		"oAP": "/_uploads/louise-russell-prywata.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/Luanda.png": {
@@ -5679,6 +6108,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/Myanmar EITI portal blog image (2).png": {
+		"ft": 32768,
+		"iS": 128797,
+		"oA": 0,
+		"oAP": "/_uploads/Myanmar EITI portal blog image (2).png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/_uploads/nasa-whDrFMucHkc-unsplash-0c469a.jpg": {
 		"ft": 16384,
 		"iS": 819239,
@@ -5743,6 +6183,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/OO Bulk download.png": {
+		"ft": 32768,
+		"iS": 109532,
+		"oA": 0,
+		"oAP": "/_uploads/OO Bulk download.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/_uploads/oo-beneficial-ownership-policy-reviewer-image.JPG": {
@@ -5950,6 +6401,39 @@
 		"oAP": "/_uploads/openownership-factsheet.pdf",
 		"oF": 0
 		},
+	"/_uploads/OPO Corruption and Coronavirus Twitter Card-c2ef24.jpg": {
+		"ft": 16384,
+		"iS": 1036658,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/OPO Corruption and Coronavirus Twitter Card-c2ef24.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/OPO Corruption and Coronavirus Twitter Card-fcd47f.jpg": {
+		"ft": 16384,
+		"iS": 1036658,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/OPO Corruption and Coronavirus Twitter Card-fcd47f.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/OPO Corruption and Coronavirus Twitter Card.jpg": {
+		"ft": 16384,
+		"iS": 1036658,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/OPO Corruption and Coronavirus Twitter Card.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/opo-kyrgyz-republic-scoping-report-russian.jpg": {
 		"ft": 16384,
 		"iS": 1271515,
@@ -6015,12 +6499,12 @@
 		"oAP": "/_uploads/OPO004 Factsheet.pdf",
 		"oF": 0
 		},
-	"/_uploads/peter-low.jpg": {
+	"/_uploads/peter-low-2.jpg": {
 		"ft": 16384,
 		"iS": 497563,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/peter-low.jpg",
+		"oAP": "/_uploads/peter-low-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6234,12 +6718,12 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/simon-whitehouse.jpg": {
+	"/_uploads/simon-whitehouse-2.jpg": {
 		"ft": 16384,
-		"iS": 905958,
+		"iS": 1118860,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/simon-whitehouse.jpg",
+		"oAP": "/_uploads/simon-whitehouse-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6288,15 +6772,26 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/_uploads/steve-day.jpg": {
-		"ft": 16384,
-		"iS": 1458702,
-		"jF": 0,
+	"/_uploads/spraying water.png": {
+		"ft": 32768,
+		"iS": 1521435,
 		"oA": 0,
-		"oAP": "/_uploads/steve-day.jpg",
+		"oAP": "/_uploads/spraying water.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/_uploads/steve-day-2.jpg": {
+		"ft": 16384,
+		"iS": 715092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/steve-day-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/Tax blog image.png": {
@@ -6340,23 +6835,23 @@
 		"oAP": "/_uploads/the-case-for-public-beneficial-ownership.pdf",
 		"oF": 0
 		},
-	"/_uploads/thom-townsend.jpg": {
+	"/_uploads/thom-townsend-3.jpg": {
 		"ft": 16384,
-		"iS": 1510402,
+		"iS": 393870,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/thom-townsend.jpg",
+		"oAP": "/_uploads/thom-townsend-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/tim-davies.jpg": {
+	"/_uploads/tim-davies-2.jpg": {
 		"ft": 16384,
-		"iS": 743096,
+		"iS": 772708,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/tim-davies.jpg",
+		"oAP": "/_uploads/tim-davies-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6384,12 +6879,12 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/tymon-kiepe.jpg": {
+	"/_uploads/tymon-kiepe-2.jpg": {
 		"ft": 16384,
-		"iS": 422042,
+		"iS": 425786,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/tymon-kiepe.jpg",
+		"oAP": "/_uploads/tymon-kiepe-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6469,6 +6964,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/_uploads/victor-ponsford-2.jpg": {
+		"ft": 16384,
+		"iS": 733995,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/victor-ponsford-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/what-we-mean-doc.jpg": {
 		"ft": 16384,
 		"iS": 104454,
@@ -6543,12 +7049,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/zosia-sztykowski.jpg": {
+	"/_uploads/zack-brisson.jpg": {
 		"ft": 16384,
-		"iS": 1068366,
+		"iS": 609877,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/zosia-sztykowski.jpg",
+		"oAP": "/_uploads/zack-brisson.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6560,6 +7066,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/_what-we-do/1-1-technical-assistance.markdown",
+		"oF": 0
+		},
+	"/_what-we-do/partnering-with-us.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_what-we-do/partnering-with-us.markdown",
 		"oF": 0
 		},
 	"/_what-we-do/private-sector-engagement.markdown": {
@@ -6987,6 +7501,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/scss/_icons.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/assets/scss/_layout.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/scss/_layout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -15085,6 +15612,25 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/framework.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/framework.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"/Gemfile": {
 		"cB": 0,
 		"ft": 8192,
@@ -15231,6 +15777,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/LICENSE": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/LICENSE",
+		"oF": 0
+		},
 	"/news.md": {
 		"cB": 0,
 		"cS": 0,
@@ -15327,6 +15881,30 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/robots.txt",
+		"oF": 0
+		},
+	"/scripts/env.sh.example": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/scripts/env.sh.example",
+		"oF": 0
+		},
+	"/scripts/requirements.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/scripts/requirements.txt",
+		"oF": 0
+		},
+	"/scripts/update_framework.py": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/scripts/update_framework.py",
 		"oF": 0
 		},
 	"/terms.md": {

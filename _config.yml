@@ -23,6 +23,10 @@ collections:
   what-we-do:
     title: What We Do
     output: true
+  framework:
+    title: Effective Disclosure Framework
+    output: true
+    sort_by: order
 defaults:
 - scope:
     path: ''
@@ -48,6 +52,15 @@ defaults:
     file: 
     author: 
     thumbnail-image: 
+- scope:
+    path: ''
+    type: framework
+  values:
+    job-title: 
+    image: 
+    email: 
+    social: 
+    layout: framework
 - scope:
     path: ''
     type: team
