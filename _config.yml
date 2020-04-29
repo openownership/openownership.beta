@@ -5,6 +5,10 @@ collections:
   authors:
     title: Authors
     output: false
+  framework:
+    title: Effective Disclosure Framework
+    output: true
+    sort_by: order
   guide:
     title: Guide
     output: true
@@ -48,6 +52,15 @@ defaults:
     file: 
     author: 
     thumbnail-image: 
+- scope:
+    path: ''
+    type: framework
+  values:
+    job-title: 
+    image: 
+    email: 
+    social: 
+    layout: framework
 - scope:
     path: ''
     type: team

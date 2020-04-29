@@ -4,6 +4,10 @@ date: 2019-05-20 00:00:00 Z
 tags:
 - the beneficial ownership data standard
 - privacy
+- robust definitions
+- comprehensive coverage
+- timely and updated
+- historic records
 file: "/uploads/oo-bo-policy-reviewer-interactive.pdf"
 thumbnail-image: "/uploads/oo-beneficial-ownership-policy-reviewer-image.JPG"
 ---

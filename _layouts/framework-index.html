@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<section class="framework__page">
+  <!-- Page Title -->
+  {% include blocks/title.html  %}
+  <!-- End Page Title -->
+
+  <!-- Page Content -->
+  {% unless page.content == '' %}
+    <section class="grid-container">
+      <div class="grid-x grid-padding-x grid-padding-y align-center">
+        <div class="small-3 cell">
+        	{% include blocks/edf-index.html  %}
+        </div>
+        <div class="small-9 cell">
+         {{page.content | markdownify}}
+
+         {% for component in site.framework %}
+           <h3>{{ component.order }}: {{ component.title }}</h3>
+           <p>{{ component.summary_version | markdownify }}</p>
+           <p><a href="{{component.url}}">Read more</a></p>
+         {% endfor %}
+
+       </div>
+
+     </div>
+   </section>
+ {% endunless %}
+ <!-- End Page Content -->
+</section>
