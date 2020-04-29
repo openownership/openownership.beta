@@ -18,7 +18,7 @@ layout: default
 
          {% for component in site.framework %}
            <h3>{{ component.order }}: {{ component.title }}</h3>
-           <p>{{ component.content | markdownify }}</p>
+           <p>{{ component.summary_version | markdownify }}</p>
            <p><a href="{{component.url}}">Read more</a></p>
          {% endfor %}
 

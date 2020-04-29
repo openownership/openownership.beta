@@ -2,7 +2,7 @@ from notion.client import NotionClient
 import requests
 from slugify import slugify
 import os
-
+import yaml
 
 s = requests.Session()
 s.get("https://www.notion.so/login")
@@ -19,8 +19,15 @@ for fwp in edf.collection.get_rows():
   section_title = (str(fwp.n) + "- " + str(fwp.title))
   slug = slugify(fwp.title)
   
-  pages[slug] = ['---\ntitle: {}\nlayout: framework\ncomponent: {}\norder: {}\n---'.format(fwp.statement_version, fwp.title, str(fwp.n))]
-  pages[slug].append("{}".format(fwp.summary_text))
+  frontmatter = {
+  	"title": fwp.statement_version,
+  	"component": fwp.title,
+  	"order": fwp.n,
+  	"summary_version": fwp.summary_text,
+  }
+
+  pages[slug] = ['---\n' + yaml.dump(frontmatter) +'---']
+  pages[slug].append(fwp.extended_prose)
 
 for page in pages:
   with open("../_framework/{}.markdown".format(page),"w") as file:
