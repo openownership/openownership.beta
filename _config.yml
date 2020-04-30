@@ -5,6 +5,10 @@ collections:
   authors:
     title: Authors
     output: false
+  framework:
+    title: Effective Disclosure Framework
+    output: true
+    sort_by: order
   guide:
     title: Guide
     output: true
@@ -23,10 +27,6 @@ collections:
   what-we-do:
     title: What We Do
     output: true
-  framework:
-    title: Effective Disclosure Framework
-    output: true
-    sort_by: order
 defaults:
 - scope:
     path: ''
