@@ -8,29 +8,17 @@ The site is built with [Jekyll](https://jekyllrb.com/), hosted by
 [Siteleaf](https://www.siteleaf.com/) and images served by
 [Imgix](https://www.imgix.com/).
 
-Local development uses [codekit](https://codekitapp.com/) to compile static
-assets.
+## Prequisites
+1. Install Ruby, [bundler](https://bundler.io/), Node.js and [yarn](https://yarnpkg.com/) at their latest versions
 
 ## Local development
-
 1. Clone the github repository
 2. `bundle install` to install the necessary ruby gems for Jekyll
-3. Start codekit and open `config.codekit3` as a project. Allow codekit to
-   install the  necessary dependencies for javascript and sass. Leave codekit
-   running during development to live compile sass or install new deps.
-4. `bundle exec jekyll serve` to run a local jekyll server
-5. Open http://localhost:4000
-
-### Gotchas
-
-- Codekit will aggressively compile new/changed markdown files to html in the
-  root directory. Delete them before committing changes
-- Codekit's config file will update whenever new files are added or filesizes
-  change. Try to commit those changes with the appropriate file changes, but
-  beware of `git add -p` as it's easily corrupted - better to just commit it in
-  a standalone commit if it's problematic.
-- Turn Codekit off during rebases as it'll cause issues with changing the config
-  all the time otherwise.
+3. `yarn install` to install the frontend dependencies
+4. `npm run watch` to watch sass and js iles for changes and re-compile them,
+   or `npm run build` to build them once.
+5. `bundle exec jekyll serve` to run a local jekyll server
+6. Open [http://localhost:4000](http://localhost:4000)
 
 ### Adding icons to symbol-defs.svg
 
