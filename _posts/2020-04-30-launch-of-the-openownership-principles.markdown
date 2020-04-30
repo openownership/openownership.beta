@@ -6,6 +6,7 @@ categories:
 tags:
 - OpenOwnership Principles
 image: "/uploads/The%20principles.png"
+author: OpenOwnership
 is_featured: true
 ---
 
