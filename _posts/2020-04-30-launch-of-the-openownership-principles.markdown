@@ -43,7 +43,7 @@ This launch is the start of a larger conversation as the principles will continu
 9. Historic records should be kept and published
 10. Adequate sanctions and enforcement should exist for noncompliance
 11. Stakeholders should be engaged throughout implementation
-12. Disclosure processes and practices should be iterated to deliver improvements and close loopholes
+12. Disclosure processes and practices should be iterated to deliver improvements and close loopholes 
 
 Read more about the principles [here](http://www.openownership.org/framework/)
 
