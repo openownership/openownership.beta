@@ -1,6 +1,8 @@
 ---
 title: Launch of the OpenOwnership Principles
 date: 2020-04-30 11:36:00 Z
+image: "/uploads/The%20principles.png"
+is_featured: true
 ---
 
 Today, OpenOwnership publishes 12 principles for effective beneficial ownership disclosure, defining what ‘good’ looks like for beneficial ownership transparency. Implemented effectively, these principles will be a game changer for creating an environment where company ownership data is accessible and traceable globally. 
@@ -39,3 +41,5 @@ This launch is the start of a larger conversation as the principles will continu
 12. Disclosure processes and practices should be iterated to deliver improvements and close loopholes
 
 Read more about the principles [here](http://www.openownership.org/framework/)
+
+Photo by Ricardo Gomez Angel on Unsplash
