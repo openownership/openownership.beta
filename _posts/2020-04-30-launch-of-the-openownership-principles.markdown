@@ -1,6 +1,10 @@
 ---
 title: Launch of the OpenOwnership Principles
 date: 2020-04-30 11:36:00 Z
+categories:
+- news
+tags:
+- OpenOwnership Principles
 image: "/uploads/The%20principles.png"
 is_featured: true
 ---
