@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - video
-image: "/uploads/youtubs.png"
+image: "/uploads/video.png"
 author: OpenOwnership
 is_featured: true
 ---
