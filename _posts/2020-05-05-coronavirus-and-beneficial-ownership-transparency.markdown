@@ -1,6 +1,7 @@
 ---
 title: Coronavirus and beneficial ownership transparency
 date: 2020-05-05 12:08:00 Z
+published: false
 image: "/uploads/covid%20money-8d6ea1.png"
 is_featured: true
 ---
