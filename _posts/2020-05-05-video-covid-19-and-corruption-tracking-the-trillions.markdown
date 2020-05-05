@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - video
-image: "/uploads/covid-corruption.png"
+image: "/uploads/youtubs.png"
 author: OpenOwnership
 is_featured: true
 ---
