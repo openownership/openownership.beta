@@ -10,7 +10,7 @@ author: OpenOwnership
 is_featured: true
 ---
 
-<iframe width="1440" height="810" src="https://www.youtube.com/embed/vVXaD1FdXI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="810" src="https://www.youtube.com/embed/vVXaD1FdXI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This panel of experts discussed the issues at the heart of tackling corruption in healthcare and disaster response and how beneficial ownership is key for ensuring an equitable, fair and corruption-free global economic response. Moderated by Simon Long, International Editor for the Economist with panellists from government, industry, civil society and academia including John Penrose MP, the UK government Anti-Corruption Champion, Rachel Cooper, Health Direction are Transparency International UK, Professor Sope Williams-Elegbe Head of Department of Mercantile Law, and the Deputy Director of the African Procurement Law Unit, Stellenbosch University, Che Sidanius, Refinitiv, Global Head of Regulations & Industry Affairs and Thom Townsend, Executive Director of OpenOwnership. 
 
