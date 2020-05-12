@@ -26,8 +26,10 @@ var jsPaths = [
   'node_modules/aos/dist/aos.js',
   'node_modules/motion-ui/dist/motion-ui.js',
   'node_modules/jquery.cookie/jquery.cookie.js',
-  'assets/js/app.js',
-  'assets/js/svgxuse.js'
+  'assets/js/jquery-jvectormap-2.0.5.min.js',
+  'assets/js/jquery-jvectormap-world-merc.js',
+  'assets/js/svgxuse.js',
+  'assets/js/app.js'
 ]
 
 function scripts() {
