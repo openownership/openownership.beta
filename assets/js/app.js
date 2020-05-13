@@ -307,6 +307,111 @@ $(function(){
     "ZW": [19.00420419, 29.8514412]
   };
 
+  function validInvolvement(text) {
+    var validInvolvements = [
+      'Standard',
+      'Medium',
+      'High',
+      'Past engagement'
+    ]
+    return validInvolvements.includes(text);
+  }
+
+  function involvedCountries() {
+    var countries = [];
+    $('.country').each(function(index, country) {
+      var $country = $(country);
+      var iso2 = $country.attr('id');
+      var name = $country.find('h2').first().text();
+      var $involvement = $country.find('.country_involvement');
+      if($involvement.length > 0 && validInvolvement($involvement.first().data('involvement'))) {
+        countries.push({name: name, iso2: iso2});
+      }
+    });
+    return countries;
+  };
+
+  function countryMarkers() {
+    var countries = involvedCountries();
+    return countries.map(function(country) {
+      return {
+        latLng: countryCentroids[country.iso2],
+        name: country.name
+      }
+    });
+  };
+
+  /**
+   * @description determine if an array contains one or more items from another array.
+   * @param {array} haystack the array to search.
+   * @param {array} arr the array providing items to check for in the haystack.
+   * @return {boolean} true|false if haystack contains at least one item from arr.
+   */
+  var findOne = function (haystack, arr) {
+    return arr.some(function (v) {
+        return haystack.indexOf(v) >= 0;
+    });
+  };
+
+  function commitmentLevel(commitmentsText) {
+    var commitments = commitmentsText.split(', ');
+    var centralCommitments = [
+      '2016 ACS: Central register',
+      'OGP: Central register',
+      'EU: All sectors'
+    ];
+    var allSectorCommitments = [
+      'EU: All sectors',
+      '2016 ACS: All sectors',
+      'OGP: All sectors'
+    ];
+    var publicCommitments = [
+      '2016 ACS: Public register',
+      'OGP: Public register'
+    ];
+    var otherCommitments = [
+      'EITI',
+      'Other',
+      'BOLG',
+      'FSI'
+    ];
+
+    var score = 0;
+    if(findOne(commitments, centralCommitments)) {
+      score += 1;
+    }
+    if(findOne(commitments, allSectorCommitments)) {
+      score += 1;
+    }
+    if(findOne(commitments, publicCommitments)) {
+      score += 1;
+    }
+
+    // We map to a 0-1-2 scale, where you have to make 2/3 of central, public
+    // and all sectors to get 1, or all three to get 2.
+    var level = 0;
+    if(score == 2) {
+      level = 1;
+    }
+    if(score == 3) {
+      level = 2;
+    }
+    return level;
+  }
+
+  function countryCommitmentLevels() {
+    var levels = {};
+    $('.country').each(function(index, country) {
+      var $country = $(country);
+      var iso2 = $country.attr('id');
+      var $commitments = $country.find('.country_commitments');
+      if($commitments.length > 0) {
+        levels[iso2] = commitmentLevel($commitments.data('commitments'));
+      }
+    });
+    return levels;
+  }
+
   $('.world-map').vectorMap({
     map: 'world_merc',
     zoomOnScroll: false,
@@ -321,57 +426,18 @@ $(function(){
     },
     markerStyle: {
       initial: {
-        fill: '#B20F47'
+        fill: '#B20F47',
+        stroke: '#fefefe',
+        'stroke-width': 1
       }
     },
-    markers: [
-      {
-        latLng: countryCentroids['UA'],
-        name: 'Ukraine'
-      },
-      {
-        latLng: countryCentroids['MX'],
-        name: 'Mexico'
-      },
-      {
-        latLng: countryCentroids['CA'],
-        name: 'Canada'
-      },
-      {
-        latLng: countryCentroids['GB'],
-        name: 'UK'
-      }
-    ],
+    markers: countryMarkers(),
     series: {
       regions: [
         {
-          values: {
-            "UA": 2,
-            "GB": 2,
-            "MX": 1,
-            "DK": 2,
-            "NO": 2,
-            "SE": 2,
-            "FI": 2,
-            "ES": 2,
-            "PT": 2,
-            "IT": 2,
-            "PL": 2,
-            "BE": 2,
-            "NL": 2,
-            "DE": 2,
-            "SK": 2,
-            "CZ": 2,
-            "CA": 1,
-            "AU": 1,
-            "BR": 1,
-            "AR": 1,
-            "KZ": 1,
-            "AM": 1,
-            "ZA": 2
-          },
+          values: countryCommitmentLevels(),
           attribute: 'fill',
-          scale: ['#fefefe', '#3596f2', '#31408c'],
+          scale: ['#DCDCDC', '#3596f2', '#31408c'],
           min: 0,
           max: 2
         }
