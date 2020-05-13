@@ -23,7 +23,10 @@ layout: default
             <h2 class="country_name">{{ country['name'] }}</h2>
             <p class="country_commitments" data-commitments="{{ country['commitments'] }}">Commitments: {{ country['commitments'] }}</p>
             {% if country['involvement'] and country['involvement'] != blank %}
-              <p class="country_involvement" data-involvement="{{country['involvement']}}">
+              {% assign capital = site.data.country_capitals | where: "iso2", country.iso2 | first %}
+              <p class="country_involvement"
+                 data-involvement="{{country['involvement']}}"
+                 data-location="{{capital.lat}},{{capital.lon}}">
                 OpenOwnership involvement: {{ country['involvement'] }}
               </p>
             {% endif %}
