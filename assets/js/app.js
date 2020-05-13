@@ -129,13 +129,14 @@ $(function(){
       'EITI'
     ];
     var allSectorCommitments = [
-      'EU: All sectors',
       '2016 ACS: All sectors',
       'OGP: All sectors',
+      'EU: All sectors',
     ];
     var publicCommitments = [
       '2016 ACS: Public register',
       'OGP: Public register',
+      'EU: All sectors',
       'EITI'
     ];
     var otherCommitments = [
