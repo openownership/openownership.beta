@@ -15,5 +15,21 @@ layout: default
     <div class="small-12 cell">
       <div class="world-map"></div>
     </div>
+
+    <div class="small-12 cell">
+      {% for country in site.data.countries %}
+        {% if country['commitments'] and country['commitments'] != blank %}
+          <div class="country" id="{{ country['iso2'] }}">
+            <h2 class="country_name">{{ country['name'] }}</h2>
+            <p class="country_commitments" data-commitments="{{ country['commitments'] }}">Commitments: {{ country['commitments'] }}</p>
+            {% if country['involvement'] and country['involvement'] != blank %}
+              <p class="country_involvement" data-involvement="{{country['involvement']}}">
+                OpenOwnership involvement: {{ country['involvement'] }}
+              </p>
+            {% endif %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </section>
