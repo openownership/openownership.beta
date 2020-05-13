@@ -125,19 +125,20 @@ $(function(){
     var centralCommitments = [
       '2016 ACS: Central register',
       'OGP: Central register',
-      'EU: All sectors'
+      'EU: All sectors',
+      'EITI'
     ];
     var allSectorCommitments = [
       'EU: All sectors',
       '2016 ACS: All sectors',
-      'OGP: All sectors'
+      'OGP: All sectors',
     ];
     var publicCommitments = [
       '2016 ACS: Public register',
-      'OGP: Public register'
+      'OGP: Public register',
+      'EITI'
     ];
     var otherCommitments = [
-      'EITI',
       'Other',
       'BOLG',
       'FSI'
