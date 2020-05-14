@@ -2,6 +2,8 @@
 title: El Estándar de Datos sobre Beneficiarios Finales ahora está en español
 date: 2020-05-14 09:49:00 Z
 published: false
+author: OpenOwnership
+is_featured: true
 ---
 
 El Estándar de Datos sobre Beneficiarios Finales (BODS, por sus siglas en inglés) ofrece un formato de datos estructurados para la publicación de los beneficiarios finales de empresas y otras entidades jurídicas. 
