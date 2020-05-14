@@ -7,6 +7,7 @@ categories:
 tags:
 - private sector
 image: "/uploads/refintiv%20blog%20photo.png"
+is_featured: true
 ---
 
 The COVID-19 pandemic has led to a raft of urgent measures by governments across the world as they seek to shore up companies amid a mounting economic crisis. In tandem, many have also disbursed unprecedented sums, via expedited procurement procedures, in order to obtain new healthcare equipment and supplies that will enable them to respond to the pandemic. 
