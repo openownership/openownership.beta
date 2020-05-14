@@ -18,11 +18,13 @@ layout: default
 
     <div class="small-12 cell">
       {% for country in site.data.countries %}
-        {% if country['commitments'] and country['commitments'] != blank %}
+        {% if country.commitments or country.involvement %}
           <div class="country" id="{{ country['iso2'] }}">
             <h2 class="country_name">{{ country['name'] }}</h2>
-            <p class="country_commitments" data-commitments="{{ country['commitments'] }}">Commitments: {{ country['commitments'] }}</p>
-            {% if country['involvement'] and country['involvement'] != blank %}
+            {% if country.commitments %}
+              <p class="country_commitments" data-commitments="{{ country['commitments'] }}">Commitments: {{ country['commitments'] }}</p>
+            {% endif %}
+            {% if country.involvement %}
               {% assign capital = site.data.country_capitals | where: "iso2", country.iso2 | first %}
               <p class="country_involvement"
                  data-involvement="{{country['involvement']}}"
