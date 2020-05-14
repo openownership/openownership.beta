@@ -1,7 +1,6 @@
 ---
 title: El Estándar de Datos sobre Beneficiarios Finales ahora está en español
 date: 2020-05-14 09:49:00 Z
-published: false
 author: OpenOwnership
 is_featured: true
 ---
