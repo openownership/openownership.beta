@@ -6,17 +6,17 @@ author: OpenOwnership
 is_featured: true
 ---
 
-El Estándar de Datos sobre Beneficiarios Finales (BODS, por sus siglas en inglés) ofrece un formato de datos estructurados para la publicación de los beneficiarios finales de empresas y otras entidades jurídicas. 
+El Estándar de Datos sobre Beneficiarios Finales ([BODS, por sus siglas en inglés](http://standard.openownership.org/es/0.2.0/)) ofrece un formato de datos estructurados para la publicación de los beneficiarios finales de empresas y otras entidades jurídicas. 
 
-En su núcleo se halla el esquema de datos, que describe qué datos deberían compartirse y de qué modo. Esto hace que sea más sencillo compartir y utilizar información sobre beneficiarios finales, algo que resulta particularmente útil cuando existen cadenas de titularidad vinculadas a lo largo de varios países.
+Nuestro esquema de datos describe qué datos deberían compartirse y de qué modo. Esto hace que sea más sencillo compartir y utilizar información sobre beneficiarios finales, algo que resulta particularmente útil cuando existen cadenas de titularidad vinculadas a lo largo de varios países.
 
-El sitio web del estándar BODS contiene la versión más reciente del esquema, junto con orientación técnica destinada a ayudar tanto a los publicadores como a los usuarios de los datos. El año pasado hicimos traducir el sitio web del estándar BODS al idioma ruso.
+[El sitio web del estándar BODS contiene la versión más reciente del esquema](http://standard.openownership.org/es/0.2.0/), junto con orientación técnica destinada a ayudar tanto a los publicadores como a los usuarios de los datos. El año pasado hicimos traducir el sitio web del [estándar BODS](http://standard.openownership.org/es/0.2.0/) al idioma ruso.
 
-La traducción del BODS al español forma parte de una iniciativa más amplia de OpenOwnership que procura expandir su asistencia técnica y apoyo financiados por donantes hacia los países hispanohablantes, con especial énfasis en América Latina. 
+[La traducción del BODS](http://standard.openownership.org/es/0.2.0/) al español forma parte de una iniciativa más amplia de OpenOwnership que procura expandir su asistencia técnica y apoyo financiados por donantes hacia los países hispanohablantes, con especial énfasis en América Latina. 
 
 Anteriormente hemos destacado [la importancia de la región](https://www.openownership.org/blogs/why-beneficial-ownership-transparency-is-crucial-in-latin-america/) en los esfuerzos globales para mejorar la transparencia respecto de los beneficiarios finales, dada la amplia presencia de flujos ilegales en ella. 
 
-La versión en español del BODS tiene por fin ayudar a las autoridades de diversos países, como México y Chile, que se encuentran trabajando para crear registros centralizados de beneficiarios finales correspondientes a uno o más sectores específicos.
+[La versión en español del BODS](http://standard.openownership.org/es/0.2.0/) tiene por fin ayudar a las autoridades de diversos países, como México y Chile, que se encuentran trabajando para crear registros centralizados de beneficiarios finales correspondientes a uno o más sectores específicos.
 
 OpenOwnership mantiene el compromiso de ayudar a implementar la transparencia de los beneficiarios finales en América Latina y demás lugares, y procura activamente establecer alianzas con organismos gubernamentales para brindar asistencia técnica a tal fin. 
 
