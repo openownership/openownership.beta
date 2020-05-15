@@ -6,6 +6,7 @@ categories:
 tags:
 - private sector
 image: "/uploads/refintiv%20blog%20photo.png"
+author: Che Sidanius
 is_featured: true
 ---
 
