@@ -868,3 +868,29 @@ padding-top: 3rem;
   height: 800px;
   margin: 0 auto;
 }
+
+.js {
+  .no-js-map-message {
+    display: none;
+  }
+}
+
+.jvectormap-tip {
+  // Override the styles jvectormap includes for tooltips
+  border: none;
+  background: $white;
+  color: $black;
+  font-family: inherit;
+  padding: 0;
+  margin: 0;
+  max-width: 90%;
+  @include breakpoint(small) {
+    max-width: 50%;
+  }
+  @include breakpoint(medium) {
+    max-width: 25%;
+  }
+  .callout {
+    margin-bottom: 0;
+  }
+}

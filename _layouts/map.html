@@ -13,25 +13,33 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 cell">
-      <div class="world-map"></div>
+      <div class="world-map">
+        <noscript>Sorry, you need javascript enabled to see a map of countries.</noscript>
+      </div>
     </div>
+  </div>
+</section>
 
-    <div class="small-12 cell">
+<section class="snow-background padding-top-2 padding-bottom-1">
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x" data-equalizer>
       {% for country in site.data.countries %}
         {% if country.commitments or country.involvement %}
-          <div class="country" id="{{ country['iso2'] }}">
-            <h2 class="country_name">{{ country['name'] }}</h2>
-            {% if country.commitments %}
-              <p class="country_commitments" data-commitments="{{ country['commitments'] }}">Commitments: {{ country['commitments'] }}</p>
-            {% endif %}
-            {% if country.involvement %}
-              {% assign capital = site.data.country_capitals | where: "iso2", country.iso2 | first %}
-              <p class="country_involvement"
-                 data-involvement="{{country['involvement']}}"
-                 data-location="{{capital.lat}},{{capital.lon}}">
-                OpenOwnership involvement: {{ country['involvement'] }}
-              </p>
-            {% endif %}
+          <div class="small-12 medium-4 cell padding-1 country" id="{{country.iso2}}">
+            <div class="callout shadow large" data-equalizer-watch>
+              <h2 class="country_name">{{ country['name'] }}</h2>
+              {% if country.commitments %}
+                <p class="country_commitments" data-commitments="{{ country['commitments'] }}">Commitments: {{ country['commitments'] }}</p>
+              {% endif %}
+              {% if country.involvement %}
+                {% assign capital = site.data.country_capitals | where: "iso2", country.iso2 | first %}
+                <p class="country_involvement"
+                  data-involvement="{{country['involvement']}}"
+                  data-location="{{capital.lat}},{{capital.lon}}">
+                  OpenOwnership involvement: {{ country['involvement'] }}
+                </p>
+              {% endif %}
+            </div>
           </div>
         {% endif %}
       {% endfor %}

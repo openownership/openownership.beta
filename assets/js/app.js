@@ -69,6 +69,9 @@ $("#cookiesPolicy").foundation("open")
 // --------------------
 
 $(function(){
+  var $map;
+  var countries = {};
+
   function validInvolvement(text) {
     var validInvolvements = [
       'Standard',
@@ -79,33 +82,53 @@ $(function(){
     return validInvolvements.includes(text);
   }
 
-  function involvedCountries() {
-    var countries = [];
+  function parseCountries() {
+    var parsed = {};
+
     $('.country').each(function(index, country) {
       var $country = $(country);
+      var $commitments = $country.find('.country_commitments');
+      var $involvement = $country.find('.country_involvement');
+
       var iso2 = $country.attr('id');
       var name = $country.find('h2').first().text();
-      var $involvement = $country.find('.country_involvement');
-      if($involvement.length > 0 && validInvolvement($involvement.first().data('involvement'))) {
-        countries.push({name: name, iso2: iso2});
+      var involvement = null;
+      var commitments = $commitments.first().data('commitments') || [];
+      var location = null;
+      var infobox = $country.find('.callout').first()[0].outerHTML;
+
+      var potentialInvolvement = $involvement.first().data('involvement');
+      if(validInvolvement(potentialInvolvement)) {
+        involvement = potentialInvolvement;
+      }
+
+      if(involvement) {
+        location = $involvement.data('location').split(',');
+      }
+
+      parsed[iso2] = {
+        iso2: iso2,
+        name: name,
+        involvement: involvement,
+        commitments: commitments,
+        commitmentLevel: commitmentLevel(commitments),
+        location: location,
+        infobox: infobox
       }
     });
-    return countries;
+
+    return parsed;
   };
 
   function countryMarkers() {
-    var countries = involvedCountries();
-    return countries.map(function(country) {
-      var location = $('#' + country.iso2)
-        .find('.country_involvement')
-        .first()
-        .data('location')
-        .split(',');
-      return {
-        latLng: location,
-        name: country.name
-      }
-    });
+    return Object.keys(countries)
+      .filter(function(iso2) { return countries[iso2].involvement })
+      .map(function(iso2) {
+        return {
+          latLng: countries[iso2].location,
+          name: countries[iso2].name
+        };
+      });
   };
 
   /**
@@ -116,12 +139,11 @@ $(function(){
    */
   var findOne = function (haystack, arr) {
     return arr.some(function (v) {
-        return haystack.indexOf(v) >= 0;
+      return haystack.indexOf(v) >= 0;
     });
   };
 
-  function commitmentLevel(commitmentsText) {
-    var commitments = commitmentsText.split(', ');
+  function commitmentLevel(commitments) {
     var centralCommitments = [
       '2016 ACS: Central register',
       'OGP: Central register',
@@ -169,19 +191,27 @@ $(function(){
   }
 
   function countryCommitmentLevels() {
-    var levels = {};
-    $('.country').each(function(index, country) {
-      var $country = $(country);
-      var iso2 = $country.attr('id');
-      var $commitments = $country.find('.country_commitments');
-      if($commitments.length > 0) {
-        levels[iso2] = commitmentLevel($commitments.data('commitments'));
-      }
+    levels = {};
+    $.each(countries, function(index, country) {
+      levels[country.iso2] = country.commitmentLevel;
     });
     return levels;
-  }
+  };
 
-  $('.world-map').vectorMap({
+  function countryTooltip(e, tip, iso2) {
+    var country = countries[iso2];
+    if(!country) {
+      e.preventDefault();
+      return false;
+    }
+    $tooltip = $(country.infobox);
+    $tooltip.removeAttr('data-equalizer-watch').removeAttr('style').removeClass('large');
+    $(tip).html($tooltip[0].outerHTML);
+  };
+
+  countries = parseCountries();
+
+  $map = $('.world-map').vectorMap({
     map: 'world_merc',
     zoomOnScroll: false,
     panOnDrag: false,
@@ -191,7 +221,7 @@ $(function(){
         fill: '#DCDCDC',
         stroke: '#fefefe',
         'stroke-width': 1
-      },
+      }
     },
     markerStyle: {
       initial: {
@@ -211,6 +241,8 @@ $(function(){
           max: 2
         }
       ],
-    }
+    },
+    onRegionTipShow: countryTooltip,
+    onMarkerTipShow: countryTooltip
   });
 });

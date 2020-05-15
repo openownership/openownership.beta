@@ -11929,3 +11929,21 @@ footer .icon {
   width: 1200px;
   height: 800px;
   margin: 0 auto; }
+
+.js .no-js-map-message {
+  display: none; }
+
+.jvectormap-tip {
+  border: none;
+  background: #fefefe;
+  color: #373A3C;
+  font-family: inherit;
+  padding: 0;
+  margin: 0;
+  max-width: 90%;
+  max-width: 50%; }
+  @media print, screen and (min-width: 40em) {
+    .jvectormap-tip {
+      max-width: 25%; } }
+  .jvectormap-tip .callout {
+    margin-bottom: 0; }
