@@ -1,7 +1,6 @@
 ---
 title: 'Guest blog: Why firms want more company ownership data'
 date: 2020-05-14 13:43:00 Z
-published: false
 categories:
 - blog
 tags:
