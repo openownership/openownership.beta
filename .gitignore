@@ -7,3 +7,5 @@ bower_components
 .jekyll-cache
 .sh
 scripts/env.sh
+.env
+venv
