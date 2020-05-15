@@ -8,6 +8,10 @@ The site is built with [Jekyll](https://jekyllrb.com/), hosted by
 [Siteleaf](https://www.siteleaf.com/) and images served by
 [Imgix](https://www.imgix.com/).
 
+Some data and pages are built via Python scripts which pull data from our
+organisational [Notion](https://notion.so) account, via GitHub actions configured
+in this repository
+
 ## Prequisites
 1. Install Ruby, [bundler](https://bundler.io/), Node.js and [yarn](https://yarnpkg.com/) at their latest versions
 
@@ -19,6 +23,25 @@ The site is built with [Jekyll](https://jekyllrb.com/), hosted by
    or `npm run build` to build them once.
 5. `bundle exec jekyll serve` to run a local jekyll server
 6. Open [http://localhost:4000](http://localhost:4000)
+
+## Automated page development
+1. Install Python 3.5 or greater
+2. Make a virtualenv: `python3 -m venv venv`
+3. Activate it: `source venv/bin/activate`
+4. Install the python requirements: `pip install -r scripts/requirements.txt`
+5. Create `.env` and set some environment variables in it:
+
+```shell
+NOTION_EMAIL=example@example.com
+NOTION_PASSWORD=password
+```
+
+Generally you can run each python file in /scripts directly, e.g.
+- `python scripts/update_framework.py`
+- `python scripts/update_map.py`
+
+These will make some changes to files in jekyll's folders, which you can then
+view with `git diff`, commit, etc.
 
 ### Adding icons to symbol-defs.svg
 
