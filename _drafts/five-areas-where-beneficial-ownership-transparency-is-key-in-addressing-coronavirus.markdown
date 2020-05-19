@@ -1,6 +1,12 @@
 ---
 title: Five areas where beneficial ownership transparency is key in addressing Coronavirus
 date: 2020-05-19 08:34:00 Z
+categories:
+- news
+tags:
+- coronavirus
+author: OpenOwnership
+is_featured: true
 ---
 
 The economic, social and political repercussions of the COVID-19 pandemic will be with us for years, if not decades. It is already clear that the impact of these changes will extend well beyond the immediate public health crisis. Pre-existing weaknesses and issues in global governance have become further exacerbated during the crisis. Beneficial ownership opacity – not knowing who owns and controls businesses – is a profound weak point that many countries are taking with them as they confront the pandemic.
@@ -9,11 +15,9 @@ As governments around the world mobilise funds to meet the public health crisis,
 
 However, by doing so, [analysis](https://www.u4.no/publications/corruption-in-the-time-of-covid-19-a-double-threat-for-low-income-countries) shows that key checks and balances are being eased or breached, increasing the risk of money being lost to fraud and corruption, or otherwise diverted away from supporting those most in need. Just as the pandemic has exacerbated pre-existing weaknesses in health systems, the impact of pre-existing governance issues has also been heightened. Last week’s OECD [anti-corruption and COVID-19 event](https://www.youtube.com/watch?v=gWz37lJiVzY&amp=&feature=youtu.be) underscored the increased corruption risks during the pandemic, with the chair of the OECD anti-bribery working group describing current conditions as “a paradise for corruption”. We cannot afford to wait until the immediate public health crisis has abated before tackling the corresponding crisis emerging in governance. 
 
-OpenOwnership recently held an expert panel with leading representatives from government, industry, civil society, academia and the media to discuss how beneficial ownership transparency cuts across both short term emergency response and longer term economic recovery.
+[OpenOwnership recently held an expert panel](https://www.youtube.com/watch?v=vVXaD1FdXI8) with leading representatives from government, industry, civil society, academia and the media to discuss how beneficial ownership transparency cuts across both short term emergency response and longer term economic recovery.
 
 Five areas were identified where beneficial ownership transparency is key: 
-
-
 
 1. **Procurement:** Governments are undertaking extensive emergency public procurement to meet public health needs, and are facing global shortages of key supplies such as PPE. Without adequate due diligence, governments can fall prey to fraud and counterfeiting schemes, as unscrupulous actors seek to take advantage of global shortages to meet urgent needs. 
     *   Ownership transparency means that governments can quickly perform minimal  standards of due diligence on companies they are buying goods and services from. As well as reducing immediate risk of corruption, it provides a valuable trail for future audit.
