@@ -126,7 +126,8 @@ $(function(){
       .map(function(iso2) {
         return {
           latLng: countries[iso2].location,
-          name: countries[iso2].name
+          name: countries[iso2].name,
+          iso2: iso2
         };
       });
   };
@@ -198,15 +199,10 @@ $(function(){
     return levels;
   };
 
-  function countryTooltip(e, tip, iso2) {
-    var country = countries[iso2];
-    if(!country) {
-      e.preventDefault();
-      return false;
-    }
+  function countryTooltip(country) {
     $tooltip = $(country.infobox);
-    $tooltip.removeAttr('data-equalizer-watch').removeAttr('style').removeClass('large');
-    $(tip).html($tooltip[0].outerHTML);
+    $tooltip.removeAttr('data-equalizer-watch').removeAttr('style').removeClass('large shadow');
+    return $tooltip[0].outerHTML;
   };
 
   countries = parseCountries();
@@ -242,7 +238,36 @@ $(function(){
         }
       ],
     },
-    onRegionTipShow: countryTooltip,
-    onMarkerTipShow: countryTooltip
+    // Disable jvectormap tooltips, we'll use our own library for them
+    onRegionTipShow: function(e) { e.preventDefault() },
+    onMarkerTipShow: function(e) { e.preventDefault() },
+  });
+
+  var map = $map.vectorMap('get', 'mapObject');
+
+  // Markers are not indexed by country code, so build our own index of
+  // iso code -> dom node for ease of initialising tooltips
+  var markerNodes = {}
+  $.each(map.markers, function(index, marker) {
+    markerNodes[marker.config.iso2] = marker.element.shape.node;
+  });
+
+  $.each(countries, function(index, country) {
+    var region = map.regions[country.iso2];
+    var markerNode = markerNodes[country.iso2];
+    if(region) {
+      tippy(region.element.shape.node, {
+        theme: 'light',
+        content: countryTooltip(country),
+        allowHTML: true
+      });
+    }
+    if(markerNode) {
+      tippy(markerNode, {
+        theme: 'light',
+        content: countryTooltip(country),
+        allowHTML: true
+      });
+    }
   });
 });

@@ -35,7 +35,7 @@ var jsPaths = [
 function scripts() {
   return gulp.src(jsPaths)
     .pipe(concat('app-min.js'))
-    .pipe(uglify())
+    // .pipe(uglify())
     .pipe(gulp.dest('assets/js/min'));
 }
 
