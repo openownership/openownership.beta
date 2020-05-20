@@ -22,7 +22,7 @@ Bhutan,,,,,BT
 Bolivarian Republic of Venezuela,,,,,VE
 Bosnia and Herzegovina,,,,,BA
 Botswana,,FSI,,,BW
-Brazil,TBD,"2016 ACS: Central register,2016 ACS: All sectors",,,BR
+Brazil,,"2016 ACS: Central register,2016 ACS: All sectors",,,BR
 Brunei Darussalam,,,,,BN
 Bulgaria,,"EU: All sectors,OGP: Public register,OGP: Central register",,,BG
 Burkina Faso,,"EITI,OGP: Public register,OGP: Central register",,,BF
@@ -37,7 +37,7 @@ Chile,Standard,"OGP: Central register,OGP: Public register",,,CL
 China,,,,,CN
 Colombia,,EITI,,,CO
 Comoros,,,,,KM
-Costa Rica,,FSI,,,CR
+Costa Rica,,"FSI,OGP: Central register",,,CR
 Croatia,,EU: All sectors,,,HR
 Cuba,,,,,CU
 Cyprus,,EU: All sectors,,,CY
@@ -75,7 +75,7 @@ Haiti,,,,,HT
 Honduras,,EITI,,,HN
 Hungary,,EU: All sectors,,,HU
 Iceland,,,,,IS
-India,TBD,,,,IN
+India,,,,,IN
 Indonesia,Medium,"EITI,OGP: Central register,OGP: All sectors,2016 ACS: Public register,2016 ACS: Central register,2016 ACS: All sectors",,,ID
 Iraq,,EITI,,,IQ
 Ireland,No current engagement,"EU: All sectors,OGP: Public register,OGP: Central register,OGP: All sectors",,,IE
@@ -84,7 +84,7 @@ Israel,,,,,IL
 Italy,Past engagement,"EU: All sectors,OGP: Public register,OGP: Central register,OGP: All sectors",,,IT
 Jamaica,,,,,JM
 Japan,,,,,JP
-Jordan,,"2016 ACS: Public register,2016 ACS: Central register,2016 ACS: All sectors",,,JO
+Jordan,Standard,"2016 ACS: Public register,2016 ACS: Central register,2016 ACS: All sectors",,,JO
 Kazakhstan,,EITI,,,KZ
 Kenya,High,"OGP: Public register,OGP: Central register,OGP: All sectors,2016 ACS: Public register,2016 ACS: Central register,2016 ACS: All sectors",,,KE
 Kiribati,,,,,KI
@@ -100,21 +100,21 @@ Liechtenstein,,,,,LI
 Lithuania,,EU: All sectors,,,LT
 Luxembourg,No current engagement,EU: All sectors,,,LU
 Madagascar,,EITI,,,MG
-Malawi,TBD,EITI,,,MW
-Malaysia,TBD,,,,MY
+Malawi,,EITI,,,MW
+Malaysia,,,,,MY
 Maldives,,,,,MV
 Mali,,EITI,,,ML
 Malta,,EU: All sectors,,,MT
 Marshall Islands,,,,,MH
 Islamic Republic of Mauritania,,EITI,,,MR
 Mauritius,,,,,MU
-Mexico,No current engagement,"EITI,OGP: All sectors,OGP: Public register,OGP: Central register,BOLG",,,MX
+Mexico,Medium,"EITI,OGP: All sectors,OGP: Public register,OGP: Central register,BOLG",,,MX
 Monaco,,,,,MC
 Mongolia,,"EITI,OGP: Public register,OGP: Central register",,,MN
 Montenegro,,,,,ME
 Morocco,,,,,MA
 Mozambique,,EITI,,,MZ
-Myanmar,TBD,EITI,,,MM
+Myanmar,,EITI,,,MM
 Namibia,,,,,NA
 Nauru,,,,,NR
 Nepal,,,,,NP
@@ -129,7 +129,7 @@ Pakistan,,,,,PK
 Palau,,,,,PW
 Panama,,,,,PA
 Papua New Guinea,,EITI,,,PG
-Paraguay,TBD,,,,PY
+Paraguay,Standard,OGP: Central register,,,PY
 Peru,,EITI,,,PE
 Philippines,Past engagement,"EITI,OGP: Public register,OGP: Central register",,,PH
 Plurinational State of Bolivia,,,,,BO
@@ -149,16 +149,16 @@ Samoa,,,,,WS
 San Marino,,,,,SM
 Saudi Arabia,,,,,SA
 Republic of the Congo,,EITI,,,CG
-Senegal,TBD,EITI,,,SN
+Senegal,,EITI,,,SN
 Serbia,,,,,RS
 Seychelles,,EITI,,,SC
-Sierra Leone,TBD,"EITI,OGP: Public register,OGP: Central register",,,SL
+Sierra Leone,,"EITI,OGP: Public register,OGP: Central register",,,SL
 Singapore,,,,,SG
-Slovakia,TBD,"EU: All sectors,BOLG",,,SK
+Slovakia,,"EU: All sectors,BOLG",,,SK
 Slovenia,,EU: All sectors,,,SI
 Solomon Islands,,EITI,,,SB
 Somalia,,,,,SO
-South Africa,TBD,"OGP: Central register,OGP: All sectors,Other",,,ZA
+South Africa,Standard,"OGP: Central register,OGP: All sectors,Other",,,ZA
 South Sudan,,,,,SS
 Spain,,"EU: All sectors,2016 ACS: Public register,2016 ACS: Central register,2016 ACS: All sectors",,,ES
 Sri Lanka,,,,,LK
@@ -180,15 +180,16 @@ Turkey,,,,,TR
 Turkmenistan,,,,,TM
 Tuvalu,,,,,TV
 Uganda,,,,,UG
-Ukraine,Medium,"EITI,OGP: Public register,OGP: Central register,OGP: All sectors,2016 ACS: Public register,2016 ACS: Central register,2016 ACS: All sectors,BOLG",,,UA
+Ukraine,Standard,"EITI,OGP: Public register,OGP: Central register,OGP: All sectors,2016 ACS: Public register,2016 ACS: Central register,2016 ACS: All sectors,BOLG",,,UA
 United Arab Emirates,,,,,AE
 United Kingdom of Great Britain and Northern Ireland,Medium,"EITI,OGP: Public register,OGP: Central register,OGP: All sectors,2016 ACS: Public register,2016 ACS: Central register,2016 ACS: All sectors",,,GB
-United Republic of Tanzania,TBD,EITI,,,TZ
-United States of America,TBD,,,,US
+United Republic of Tanzania,,EITI,,,TZ
+United States of America,,,,,US
 Uruguay,,Other,,,UY
 Uzbekistan,,,,,UZ
 Vanuatu,,,,,VU
 Vietnam,,,,,VN
 Yemen,,,,,YE
-Zambia,TBD,EITI,,,ZM
+Zambia,,EITI,,,ZM
 Zimbabwe,,,,,ZW
+Zimbabwe,,,,,
