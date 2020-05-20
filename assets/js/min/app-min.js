@@ -25143,9 +25143,16 @@ $("#cookiesPolicy").foundation("open")
 // --------------------
 
 $(function(){
-  var $map;
+  // Jquery object for the map container
+  var $map = $('.world-map');
+  // Object for the jvectormap map object
+  var map;
+  // Jquery object for the country dom nodes where our initial data lives
+  var $countries = $('.country');
+  // Object for our parsed country data, will be indexed by ISO2 code
   var countries = {};
 
+  // Is a given OO involvement tag something we want to draw a marker for
   function validInvolvement(text) {
     var validInvolvements = [
       'Standard',
@@ -25156,10 +25163,11 @@ $(function(){
     return validInvolvements.includes(text);
   }
 
-  function parseCountries() {
+  // Parse the countries data from the given dom nodes (as a JQuery selection)
+  function parseCountries($countries) {
     var parsed = {};
 
-    $('.country').each(function(index, country) {
+    $countries.each(function(index, country) {
       var $country = $(country);
       var $commitments = $country.find('.country_commitments');
       var $involvement = $country.find('.country_involvement');
@@ -25194,7 +25202,8 @@ $(function(){
     return parsed;
   };
 
-  function countryMarkers() {
+  // Build jvector map marker data for every country given
+  function countryMarkers(countries) {
     return Object.keys(countries)
       .filter(function(iso2) { return countries[iso2].involvement })
       .map(function(iso2) {
@@ -25207,6 +25216,7 @@ $(function(){
   };
 
   /**
+   * Utility function from SO.
    * @description determine if an array contains one or more items from another array.
    * @param {array} haystack the array to search.
    * @param {array} arr the array providing items to check for in the haystack.
@@ -25218,6 +25228,7 @@ $(function(){
     });
   };
 
+  // Map commitment tags to a commitment level
   function commitmentLevel(commitments) {
     var centralCommitments = [
       '2016 ACS: Central register',
@@ -25265,7 +25276,9 @@ $(function(){
     return level;
   }
 
-  function countryCommitmentLevels() {
+  // Build jvector map series data for each country to control region colouring
+  // based on commitment level
+  function countryCommitmentLevels(countries) {
     levels = {};
     $.each(countries, function(index, country) {
       levels[country.iso2] = country.commitmentLevel;
@@ -25273,15 +25286,29 @@ $(function(){
     return levels;
   };
 
+  // Build baseline jvector map series data for each country, i.e. to set
+  // everything to zero
+  function baselineCountryCommitmentLevels() {
+    levels = {};
+    $.each(countries, function(index, country) {
+      levels[country.iso2] = 0;
+    });
+    return levels;
+  };
+
+  // Build tooltip html for a given country (by modifying a copy of the original
+  // DOM node for it)
   function countryTooltip(country) {
     $tooltip = $(country.infobox);
     $tooltip.removeAttr('data-equalizer-watch').removeAttr('style').removeClass('large shadow');
     return $tooltip[0].outerHTML;
   };
 
-  countries = parseCountries();
+  // Parse the data from the DOM
+  countries = parseCountries($countries);
 
-  $map = $('.world-map').vectorMap({
+  // Initialise the jvector map
+  $map.vectorMap({
     map: 'world_merc',
     zoomOnScroll: false,
     panOnDrag: false,
@@ -25300,11 +25327,11 @@ $(function(){
         'stroke-width': 1
       }
     },
-    markers: countryMarkers(),
+    markers: countryMarkers(countries),
     series: {
       regions: [
         {
-          values: countryCommitmentLevels(),
+          values: countryCommitmentLevels(countries),
           attribute: 'fill',
           scale: ['#DCDCDC', '#3596f2', '#31408c'],
           min: 0,
@@ -25313,15 +25340,14 @@ $(function(){
       ],
     },
     // Disable jvectormap tooltips, we'll use our own library for them
-    onRegionTipShow: function(e) { e.preventDefault() },
-    onMarkerTipShow: function(e) { e.preventDefault() },
+    onRegionTipShow: function(e) { e.preventDefault(); },
+    onMarkerTipShow: function(e) { e.preventDefault(); },
   });
-
-  var map = $map.vectorMap('get', 'mapObject');
+  map = $map.vectorMap('get', 'mapObject');
 
   // Markers are not indexed by country code, so build our own index of
   // iso code -> dom node for ease of initialising tooltips
-  var markerNodes = {}
+  var markerNodes = {};
   $.each(map.markers, function(index, marker) {
     markerNodes[marker.config.iso2] = marker.element.shape.node;
   });
@@ -25342,6 +25368,33 @@ $(function(){
         content: countryTooltip(country),
         allowHTML: true
       });
+    }
+  });
+
+  // Wire up filters to hide/show map countries and cards
+  $('.map-filters select').on('change', function() {
+    var $select = $(this);
+    var filter = $select.val();
+    if (filter === '') {
+      $countries.show();
+      map.reset();
+    } else {
+      // Get countries that match the filter
+      var $filteredCountries = $countries.filter('.' + filter);
+      var filteredCountries = {};
+      $filteredCountries.each(function(index, country) {
+        var iso2 = $(country).attr('id');
+        filteredCountries[iso2] = countries[iso2];
+      });
+      // Update map with regions and markers for those countries
+      map.series.regions[0].setValues(baselineCountryCommitmentLevels());
+      map.series.regions[0].setValues(countryCommitmentLevels(filteredCountries));
+
+      map.removeAllMarkers();
+      map.addMarkers(countryMarkers(filteredCountries));
+
+      $countries.hide();
+      $filteredCountries.show();
     }
   });
 });

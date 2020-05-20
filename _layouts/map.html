@@ -12,6 +12,14 @@ layout: default
 
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 cell map-filters">
+      <label for='commitment-filter'>Filter by register commitments:</label>
+      <select id='commitment-filter' name="commitment">
+        <option value="">Any</option>
+        <option value="central">Central register</option>
+        <option value="public">Public register</option>
+      </select>
+    </div>
     <div class="small-12 cell">
       <div class="world-map">
         <noscript>Sorry, you need javascript enabled to see a map of countries.</noscript>
@@ -22,10 +30,10 @@ layout: default
 
 <section class="snow-background padding-top-2 padding-bottom-1">
   <div class="grid-container">
-    <div class="grid-x grid-padding-x" data-equalizer>
+    <div class="grid-x grid-padding-x countries-grid" data-equalizer>
       {% for country in site.data.countries %}
         {% if country.commitments or country.involvement %}
-          <div class="small-12 medium-4 cell padding-1 country" id="{{country.iso2}}">
+          <div class="small-12 medium-4 cell padding-1 country central current" id="{{country.iso2}}">
             <div class="callout shadow large" data-equalizer-watch>
               <h2 class="country_name">{{ country['name'] }}</h2>
               {% if country.commitments %}
