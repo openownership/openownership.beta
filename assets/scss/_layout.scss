@@ -875,22 +875,14 @@ padding-top: 3rem;
   }
 }
 
-.jvectormap-tip {
-  // Override the styles jvectormap includes for tooltips
-  border: none;
-  background: $white;
-  color: $black;
-  font-family: inherit;
-  padding: 0;
-  margin: 0;
-  max-width: 90%;
-  @include breakpoint(small) {
-    max-width: 50%;
+.map-filters {
+  label {
+    color: $black;
+    font-size: 1rem;
+    line-height: 1.5rem; // To match the select
   }
-  @include breakpoint(medium) {
-    max-width: 25%;
-  }
-  .callout {
-    margin-bottom: 0;
+  select {
+    background: none;
+    border: 1px solid; // without a border, vertical alignment looks off
   }
 }
