@@ -25377,7 +25377,12 @@ $(function(){
     var filter = $select.val();
     if (filter === '') {
       $countries.show();
-      map.reset();
+
+      map.series.regions[0].setValues(countryCommitmentLevels(countries));
+      map.series.regions[0].setValues(countryCommitmentLevels(countries));
+
+      map.removeAllMarkers();
+      map.addMarkers(countryMarkers(countries));
     } else {
       // Get countries that match the filter
       var $filteredCountries = $countries.filter('.' + filter);
@@ -25386,6 +25391,7 @@ $(function(){
         var iso2 = $(country).attr('id');
         filteredCountries[iso2] = countries[iso2];
       });
+
       // Update map with regions and markers for those countries
       map.series.regions[0].setValues(baselineCountryCommitmentLevels());
       map.series.regions[0].setValues(countryCommitmentLevels(filteredCountries));

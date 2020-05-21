@@ -11933,17 +11933,11 @@ footer .icon {
 .js .no-js-map-message {
   display: none; }
 
-.jvectormap-tip {
-  border: none;
-  background: #fefefe;
+.map-filters label {
   color: #373A3C;
-  font-family: inherit;
-  padding: 0;
-  margin: 0;
-  max-width: 90%;
-  max-width: 50%; }
-  @media print, screen and (min-width: 40em) {
-    .jvectormap-tip {
-      max-width: 25%; } }
-  .jvectormap-tip .callout {
-    margin-bottom: 0; }
+  font-size: 1rem;
+  line-height: 1.5rem; }
+
+.map-filters select {
+  background: none;
+  border: 1px solid; }
