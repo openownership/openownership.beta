@@ -20,6 +20,7 @@ layout: default
           <option value="">Any commitment</option>
           <option value="central">Commitments to a central register</option>
           <option value="public">Commitments to a public register</option>
+          <option value="all-sectors">Commitments to a register covering the whole economy</option>
         </select>
     </div>
   </div>
@@ -54,7 +55,7 @@ layout: default
             <div class="summary">
               <p class="margin-bottom-0"><strong>Central register:</strong> {% if country.central == 'True' %}✓{% else %}x{%endif%}</p>
               <p class="margin-bottom-0"><strong>Public register:</strong> {% if country.public == 'True' %}✓{% else %}x{%endif%}</p>
-              <p class="margin-bottom-0"><strong>All economic sectors:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Register covering whole economy:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
               <p><strong>OpenOwnership support:</strong> {{ country.involvement }}</p>
             </div>
             <div class="commitments">
