@@ -11268,6 +11268,10 @@ Single-colored icons can be modified like so:
 .icon-guide {
   font-size: 6rem; }
 
+.icon-country {
+  width: 2em;
+  height: 2em; }
+
 body {
   cursor: default;
   font-kerning: normal; }
@@ -11927,14 +11931,24 @@ footer .icon {
 
 .world-map {
   width: 100%;
-  height: 350px;
+  height: 300px;
   margin: 0 auto; }
   @media print, screen and (min-width: 40em) {
     .world-map {
       height: 400px; } }
   @media print, screen and (min-width: 64em) {
     .world-map {
-      height: 600px; } }
+      height: 500px; } }
+
+.map-legend {
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem; }
+
+.map-legend-icon {
+  text-align: center;
+  width: 2rem;
+  display: inline-block;
+  margin-right: 0.5rem; }
 
 .map-filters label {
   color: #373A3C;

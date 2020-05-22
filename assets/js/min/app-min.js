@@ -25165,7 +25165,7 @@ $(function(){
       $tooltip.removeClass('large shadow');
       $tooltip.find('.commitments').remove();
       $tooltip.find('.news').remove();
-      parsed[data.iso2] = Object.assign(data, {tooltip: $tooltip[0].outerHTML});
+      parsed[data.iso2] = Object.assign(data, {tooltipContent: $tooltip[0].outerHTML});
     });
 
     return parsed;
@@ -25204,44 +25204,87 @@ $(function(){
     return levels;
   };
 
-  function countrySelected(e, iso2, isSelected, selectedRegions) {
-    if(isSelected) {
-      $countries.hide();
-      $countries.filter('[data-iso2="' + iso2 + '"]').show();
-    } else {
-      showFilteredCountries();
+  function filterCountries(filter) {
+    // Work out what we're showing
+    var $filteredCountries = $countries
+    if(filter) {
+      $filteredCountries = $filteredCountries.filter(filter);
     }
-  };
+    var filteredCountries = {};
+    $filteredCountries.each(function(index, country) {
+      var iso2 = $(country).data('iso2');
+      filteredCountries[iso2] = countries[iso2];
+    });
 
-  function showFilteredCountries() {
-    var $select = $('.map-filters select');
-    var filter = $select.val();
-    if (filter === '') {
-      $countries.show();
+    // Clear the map and grid out
+    destroyTooltips(countries);
+    map.series.regions[0].setValues(baselineCountryCommitmentLevels());
+    map.removeAllMarkers();
+    $countries.hide();
 
-      map.series.regions[0].setValues(countryCommitmentLevels(countries));
-      map.series.regions[0].setValues(countryCommitmentLevels(countries));
+    // Rebuild it
+    map.series.regions[0].setValues(countryCommitmentLevels(filteredCountries));
+    map.addMarkers(countryMarkers(filteredCountries));
+    buildTooltips(filteredCountries);
+    $filteredCountries.show();
+  }
 
-      map.removeAllMarkers();
-      map.addMarkers(countryMarkers(countries));
-    } else {
-      // Get countries that match the filter
-      var $filteredCountries = $countries.filter('[data-'+ filter + '=true]');
-      var filteredCountries = {};
-      $filteredCountries.each(function(index, country) {
-        var iso2 = $(country).data('iso2');
-        filteredCountries[iso2] = countries[iso2];
-      });
+  function indexMarkers() {
+    indexed = {};
+    // Markers are not indexed by country code, so build our own index of
+    // iso code -> dom node for ease of initialising tooltips
+    $.each(map.markers, function(index, marker) {
+      indexed[marker.config.iso2] = marker.element.shape.node;
+    });
+    return indexed;
+  }
 
-      // Update map with regions and markers for those countries
-      map.series.regions[0].setValues(baselineCountryCommitmentLevels());
-      map.series.regions[0].setValues(countryCommitmentLevels(filteredCountries));
+  function destroyTooltips() {
+    $.each(countries, function(index, country) {
+      if(country.tooltip) {
+        country.tooltip.destroy();
+      }
+    });
+  }
 
-      map.removeAllMarkers();
-      map.addMarkers(countryMarkers(filteredCountries));
+  function buildTooltips(countries) {
+    markers = indexMarkers();
+    $.each(countries, function(index, country) {
+      var region = map.regions[country.iso2];
+      var marker = markers[country.iso2];
+      var targets = []
+      if(marker) {
+        targets.push(marker)
+      }
+      if(region) {
+        targets.push(region.element.shape.node)
+      }
+      if(targets.length === 0) {
+        return;
+      }
+      options = {
+        theme: 'light',
+        content: country.tooltipContent,
+        allowHTML: true,
+        triggerTarget: targets,
+        appendTo: function() { return document.body; },
+      };
+      // We put the tooltip on the marker if we have both, so that it always
+      // appears in the same place and we don't get duplicates
+      country.tooltip = tippy(targets[0], options);
+    });
+  }
 
-      $countries.hide();
-      $filteredCountries.show();
+  function regionClick(e, iso2) {
+    if(countries[iso2]) {
+      window.location.hash = iso2;
+    }
+  }
+
+  function markerClick(e, index) {
+    var iso2 = map.markers[index].config.iso2;
+    if(countries[iso2]) {
+      window.location.hash = iso2;
     }
   }
 
@@ -25252,18 +25295,13 @@ $(function(){
   $map.vectorMap({
     map: 'world_merc',
     zoomOnScroll: false,
-    panOnDrag: false,
+    panOnDrag: true,
     backgroundColor: '#fefefe',
-    regionsSelectable: true,
-    regionsSelectableOne: true,
     regionStyle: {
       initial: {
         fill: '#DCDCDC',
         stroke: '#fefefe',
         'stroke-width': 1
-      },
-      selected: {
-        fill: '#3C31D5'
       }
     },
     markerStyle: {
@@ -25288,42 +25326,38 @@ $(function(){
     // Disable jvectormap tooltips, we'll use our own library for them
     onRegionTipShow: function(e) { e.preventDefault(); },
     onMarkerTipShow: function(e) { e.preventDefault(); },
-    onRegionSelected: countrySelected
+    onRegionClick: regionClick,
+    onMarkerClick: markerClick
   });
 
   map = $map.vectorMap('get', 'mapObject');
 
-  // Markers are not indexed by country code, so build our own index of
-  // iso code -> dom node for ease of initialising tooltips
-  $.each(map.markers, function(index, marker) {
-    markerNodes[marker.config.iso2] = marker.element.shape.node;
-  });
-
   // Wire up tooltips
-  $.each(countries, function(index, country) {
-    var region = map.regions[country.iso2];
-    var markerNode = markerNodes[country.iso2];
-    var tooltipTargets = [];
-    if(region) {
-      tooltipTargets.push(region.element.shape.node);
-    }
-    if(markerNode) {
-      tooltipTargets.push(markerNode);
-    }
-    tooltipOptions = {
-      theme: 'light',
-      content: country.tooltip,
-      allowHTML: true,
-      trigger: 'click',
-      onHide: function(instance) {
-        // The map doesnt clear if you click off countries, so we use tippy's
-        // hooks to achieve that
-        map.clearSelectedRegions();
-      }
-    };
-    tippy(tooltipTargets, tooltipOptions);
-  });
+  buildTooltips(countries);
 
   // Wire up filters to hide/show map countries and cards
-  $('.map-filters select').on('change', showFilteredCountries);
+  $('.map-filters select').on('change', function() {
+    value = $(this).val();
+    if(value === '') {
+      filterCountries();
+    } else {
+      filterCountries('[data-'+ value + '=true]');
+    }
+  });
+
+  // Add a 'back-to-map' link to each country
+  $countries.each(function(index, country) {
+    $(country)
+      .find('.callout')
+      .append('<a class="button primary" href="#map">Back to map</a>')
+  });
+
+  // Have we got an initial selection?
+  if(location.hash) {
+    var iso2 = location.hash.substr(1);
+    if(countries[iso2]) {
+      filterCountries('[data-iso2="' + iso2 + '"]');
+      $('.map-filters').append('<div class="small-12 cell text-center"><a class="button primary" href="/map">See all countries</a></div>');
+    }
+  }
 });
