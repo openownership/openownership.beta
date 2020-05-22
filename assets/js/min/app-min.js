@@ -25151,17 +25151,8 @@ $(function(){
   var $countries = $('.country');
   // Object for our parsed country data, will be indexed by ISO2 code
   var countries = {};
-
-  // Is a given OO involvement tag something we want to draw a marker for
-  function validInvolvement(text) {
-    var validInvolvements = [
-      'Standard',
-      'Medium',
-      'High',
-      'Past engagement'
-    ]
-    return validInvolvements.includes(text);
-  }
+  // Dom nodes for markers, so that we can attach tooltips to them
+  var markerNodes = {};
 
   // Parse the countries data from the given dom nodes (as a JQuery selection)
   function parseCountries($countries) {
@@ -25169,34 +25160,10 @@ $(function(){
 
     $countries.each(function(index, country) {
       var $country = $(country);
-      var $commitments = $country.find('.country_commitments');
-      var $involvement = $country.find('.country_involvement');
-
-      var iso2 = $country.attr('id');
-      var name = $country.find('h2').first().text();
-      var involvement = null;
-      var commitments = $commitments.first().data('commitments') || [];
-      var location = null;
-      var infobox = $country.find('.callout').first()[0].outerHTML;
-
-      var potentialInvolvement = $involvement.first().data('involvement');
-      if(validInvolvement(potentialInvolvement)) {
-        involvement = potentialInvolvement;
-      }
-
-      if(involvement) {
-        location = $involvement.data('location').split(',');
-      }
-
-      parsed[iso2] = {
-        iso2: iso2,
-        name: name,
-        involvement: involvement,
-        commitments: commitments,
-        commitmentLevel: commitmentLevel(commitments),
-        location: location,
-        infobox: infobox
-      }
+      var data = $country.data();
+      var tooltip = $($country.find('.callout').first()[0].outerHTML)
+        .removeClass('large shadow')[0].outerHTML;
+      parsed[data.iso2] = Object.assign(data, {tooltip: tooltip});
     });
 
     return parsed;
@@ -25205,76 +25172,17 @@ $(function(){
   // Build jvector map marker data for every country given
   function countryMarkers(countries) {
     return Object.keys(countries)
-      .filter(function(iso2) { return countries[iso2].involvement })
+      .filter(function(iso2) { return countries[iso2].involved })
       .map(function(iso2) {
         return {
-          latLng: countries[iso2].location,
+          latLng: [countries[iso2].capitalLat, countries[iso2].capitalLon],
           name: countries[iso2].name,
           iso2: iso2
         };
       });
   };
 
-  /**
-   * Utility function from SO.
-   * @description determine if an array contains one or more items from another array.
-   * @param {array} haystack the array to search.
-   * @param {array} arr the array providing items to check for in the haystack.
-   * @return {boolean} true|false if haystack contains at least one item from arr.
-   */
-  var findOne = function (haystack, arr) {
-    return arr.some(function (v) {
-      return haystack.indexOf(v) >= 0;
-    });
-  };
 
-  // Map commitment tags to a commitment level
-  function commitmentLevel(commitments) {
-    var centralCommitments = [
-      '2016 ACS: Central register',
-      'OGP: Central register',
-      'EU: All sectors',
-      'EITI'
-    ];
-    var allSectorCommitments = [
-      '2016 ACS: All sectors',
-      'OGP: All sectors',
-      'EU: All sectors',
-    ];
-    var publicCommitments = [
-      '2016 ACS: Public register',
-      'OGP: Public register',
-      'EU: All sectors',
-      'EITI'
-    ];
-    var otherCommitments = [
-      'Other',
-      'BOLG',
-      'FSI'
-    ];
-
-    var score = 0;
-    if(findOne(commitments, centralCommitments)) {
-      score += 1;
-    }
-    if(findOne(commitments, allSectorCommitments)) {
-      score += 1;
-    }
-    if(findOne(commitments, publicCommitments)) {
-      score += 1;
-    }
-
-    // We map to a 0-1-2 scale, where you have to make 2/3 of central, public
-    // and all sectors to get 1, or all three to get 2.
-    var level = 0;
-    if(score == 2) {
-      level = 1;
-    }
-    if(score == 3) {
-      level = 2;
-    }
-    return level;
-  }
 
   // Build jvector map series data for each country to control region colouring
   // based on commitment level
@@ -25294,14 +25202,6 @@ $(function(){
       levels[country.iso2] = 0;
     });
     return levels;
-  };
-
-  // Build tooltip html for a given country (by modifying a copy of the original
-  // DOM node for it)
-  function countryTooltip(country) {
-    $tooltip = $(country.infobox);
-    $tooltip.removeAttr('data-equalizer-watch').removeAttr('style').removeClass('large shadow');
-    return $tooltip[0].outerHTML;
   };
 
   // Parse the data from the DOM
@@ -25343,11 +25243,11 @@ $(function(){
     onRegionTipShow: function(e) { e.preventDefault(); },
     onMarkerTipShow: function(e) { e.preventDefault(); },
   });
+
   map = $map.vectorMap('get', 'mapObject');
 
   // Markers are not indexed by country code, so build our own index of
   // iso code -> dom node for ease of initialising tooltips
-  var markerNodes = {};
   $.each(map.markers, function(index, marker) {
     markerNodes[marker.config.iso2] = marker.element.shape.node;
   });
@@ -25358,14 +25258,14 @@ $(function(){
     if(region) {
       tippy(region.element.shape.node, {
         theme: 'light',
-        content: countryTooltip(country),
+        content: country.tooltip,
         allowHTML: true
       });
     }
     if(markerNode) {
       tippy(markerNode, {
         theme: 'light',
-        content: countryTooltip(country),
+        content: country.tooltip,
         allowHTML: true
       });
     }
@@ -25385,10 +25285,10 @@ $(function(){
       map.addMarkers(countryMarkers(countries));
     } else {
       // Get countries that match the filter
-      var $filteredCountries = $countries.filter('.' + filter);
+      var $filteredCountries = $countries.filter('[data-'+ filter + '=true]');
       var filteredCountries = {};
       $filteredCountries.each(function(index, country) {
-        var iso2 = $(country).attr('id');
+        var iso2 = $(country).data('iso2');
         filteredCountries[iso2] = countries[iso2];
       });
 
