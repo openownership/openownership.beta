@@ -34,26 +34,49 @@ layout: default
 
 <section class="snow-background padding-top-2 padding-bottom-1">
   <div class="grid-container">
-    <div class="grid-x grid-padding-x countries-grid" data-equalizer>
+    <div class="grid-x grid-padding-x countries-grid align-center">
       {% for country in site.data.countries %}
-        {% if country.commitments or country.involvement %}
-          <div class="small-12 medium-4 cell padding-1 country central current" id="{{country.iso2}}">
-            <div class="callout shadow large" data-equalizer-watch>
-              <h2 class="country_name">{{ country['name'] }}</h2>
-              {% if country.commitments %}
-                <p class="country_commitments" data-commitments="{{ country['commitments'] }}">Commitments: {{ country['commitments'] }}</p>
-              {% endif %}
-              {% if country.involvement %}
-                {% assign capital = site.data.country_capitals | where: "iso2", country.iso2 | first %}
-                <p class="country_involvement"
-                  data-involvement="{{country['involvement']}}"
-                  data-location="{{capital.lat}},{{capital.lon}}">
-                  OpenOwnership involvement: {{ country['involvement'] }}
-                </p>
+        <div class="small-12 medium-10 large-8 cell padding-1 country"
+              id="{{country.iso2}}"
+              data-iso2="{{country.iso2}}"
+              data-name="{{country.name}}"
+              data-committed="{{country.committed | downcase}}"
+              data-involved="{{country.involved | downcase}}"
+              data-involvement="{{country.involvement}}"
+              data-central="{{country.central | downcase}}"
+              data-public="{{country.public | downcase}}"
+              data-all-sectors="{{country.all_sectors | downcase}}"
+              data-commitment-level="{{country.commitment_level}}"
+              data-capital-lat="{{country.capital_lat}}"
+              data-capital-lon="{{country.capital_lon}}">
+          <div class="callout shadow large">
+            <h2 class="country_name">{{ country['name'] }}</h2>
+            <div class="summary">
+              <p class="margin-bottom-0"><strong>Central register:</strong> {% if country.central == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Public register:</strong> {% if country.public == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>All economic sectors:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
+              <p><strong>OpenOwnership support:</strong> {{ country.involvement }}</p>
+            </div>
+            <div class="commitments">
+              {% if country.commitments_html != '' %}
+                <h4>Commitments</h4>
+                {{country.commitments_html}}
               {% endif %}
             </div>
+            {% assign country_tag = country.name | downcase %}
+            {% assign tag_posts = site.tags[country_tag] %}
+            {% if tag_posts %}
+              <div class="news">
+                <h4>News & Resources</h4>
+                <ul>
+                  {% for post in tag_posts %}
+                    <li><a href="{{ post.url }}">{{post.title}}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endif %}
           </div>
-        {% endif %}
+        </div>
       {% endfor %}
     </div>
   </div>
