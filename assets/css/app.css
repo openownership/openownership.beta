@@ -11926,12 +11926,15 @@ footer .icon {
   border-top: 1rem solid #7e8da3; }
 
 .world-map {
-  width: 1200px;
-  height: 800px;
+  width: 100%;
+  height: 350px;
   margin: 0 auto; }
-
-.js .no-js-map-message {
-  display: none; }
+  @media print, screen and (min-width: 40em) {
+    .world-map {
+      height: 400px; } }
+  @media print, screen and (min-width: 64em) {
+    .world-map {
+      height: 600px; } }
 
 .map-filters label {
   color: #373A3C;

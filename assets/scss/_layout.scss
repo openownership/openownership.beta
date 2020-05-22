@@ -864,15 +864,15 @@ padding-top: 3rem;
 }
 
 .world-map {
-  width: 1200px;
-  height: 800px;
-  margin: 0 auto;
-}
-
-.js {
-  .no-js-map-message {
-    display: none;
+  width: 100%;
+  height: 350px;
+  @include breakpoint(medium) {
+    height: 400px;
   }
+  @include breakpoint(large) {
+    height: 600px;
+  }
+  margin: 0 auto;
 }
 
 .map-filters {
