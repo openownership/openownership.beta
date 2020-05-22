@@ -865,14 +865,25 @@ padding-top: 3rem;
 
 .world-map {
   width: 100%;
-  height: 350px;
+  height: 300px;
   @include breakpoint(medium) {
     height: 400px;
   }
   @include breakpoint(large) {
-    height: 600px;
+    height: 500px;
   }
   margin: 0 auto;
+}
+
+.map-legend {
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+}
+.map-legend-icon {
+  text-align: center;
+  width: 2rem;
+  display: inline-block;
+  margin-right: 0.5rem;
 }
 
 .map-filters {
