@@ -25267,6 +25267,7 @@ $(function(){
         content: country.tooltipContent,
         allowHTML: true,
         triggerTarget: targets,
+        touch: false,
         appendTo: function() { return document.body; },
       };
       // We put the tooltip on the marker if we have both, so that it always
