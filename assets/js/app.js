@@ -87,9 +87,11 @@ $(function(){
     $countries.each(function(index, country) {
       var $country = $(country);
       var data = $country.data();
-      var tooltip = $($country.find('.callout').first()[0].outerHTML)
-        .removeClass('large shadow')[0].outerHTML;
-      parsed[data.iso2] = Object.assign(data, {tooltip: tooltip});
+      var $tooltip = $($country.find('.callout').first()[0].outerHTML)
+      $tooltip.removeClass('large shadow');
+      $tooltip.find('.commitments').remove();
+      $tooltip.find('.news').remove();
+      parsed[data.iso2] = Object.assign(data, {tooltip: $tooltip[0].outerHTML});
     });
 
     return parsed;
@@ -107,8 +109,6 @@ $(function(){
         };
       });
   };
-
-
 
   // Build jvector map series data for each country to control region colouring
   // based on commitment level
@@ -130,76 +130,17 @@ $(function(){
     return levels;
   };
 
-  // Parse the data from the DOM
-  countries = parseCountries($countries);
-
-  // Initialise the jvector map
-  $map.vectorMap({
-    map: 'world_merc',
-    zoomOnScroll: false,
-    panOnDrag: false,
-    backgroundColor: '#fefefe',
-    regionStyle: {
-      initial: {
-        fill: '#DCDCDC',
-        stroke: '#fefefe',
-        'stroke-width': 1
-      }
-    },
-    markerStyle: {
-      initial: {
-        fill: '#B20F47',
-        stroke: '#fefefe',
-        'stroke-width': 1
-      }
-    },
-    markers: countryMarkers(countries),
-    series: {
-      regions: [
-        {
-          values: countryCommitmentLevels(countries),
-          attribute: 'fill',
-          scale: ['#DCDCDC', '#3596f2', '#31408c'],
-          min: 0,
-          max: 2
-        }
-      ],
-    },
-    // Disable jvectormap tooltips, we'll use our own library for them
-    onRegionTipShow: function(e) { e.preventDefault(); },
-    onMarkerTipShow: function(e) { e.preventDefault(); },
-  });
-
-  map = $map.vectorMap('get', 'mapObject');
-
-  // Markers are not indexed by country code, so build our own index of
-  // iso code -> dom node for ease of initialising tooltips
-  $.each(map.markers, function(index, marker) {
-    markerNodes[marker.config.iso2] = marker.element.shape.node;
-  });
-
-  $.each(countries, function(index, country) {
-    var region = map.regions[country.iso2];
-    var markerNode = markerNodes[country.iso2];
-    if(region) {
-      tippy(region.element.shape.node, {
-        theme: 'light',
-        content: country.tooltip,
-        allowHTML: true
-      });
+  function countrySelected(e, iso2, isSelected, selectedRegions) {
+    if(isSelected) {
+      $countries.hide();
+      $countries.filter('[data-iso2="' + iso2 + '"]').show();
+    } else {
+      showFilteredCountries();
     }
-    if(markerNode) {
-      tippy(markerNode, {
-        theme: 'light',
-        content: country.tooltip,
-        allowHTML: true
-      });
-    }
-  });
+  };
 
-  // Wire up filters to hide/show map countries and cards
-  $('.map-filters select').on('change', function() {
-    var $select = $(this);
+  function showFilteredCountries() {
+    var $select = $('.map-filters select');
     var filter = $select.val();
     if (filter === '') {
       $countries.show();
@@ -228,5 +169,87 @@ $(function(){
       $countries.hide();
       $filteredCountries.show();
     }
+  }
+
+  // Parse the data from the DOM
+  countries = parseCountries($countries);
+
+  // Initialise the jvector map
+  $map.vectorMap({
+    map: 'world_merc',
+    zoomOnScroll: false,
+    panOnDrag: false,
+    backgroundColor: '#fefefe',
+    regionsSelectable: true,
+    regionsSelectableOne: true,
+    regionStyle: {
+      initial: {
+        fill: '#DCDCDC',
+        stroke: '#fefefe',
+        'stroke-width': 1
+      },
+      selected: {
+        fill: '#3C31D5'
+      }
+    },
+    markerStyle: {
+      initial: {
+        fill: '#B20F47',
+        stroke: '#fefefe',
+        'stroke-width': 1
+      }
+    },
+    markers: countryMarkers(countries),
+    series: {
+      regions: [
+        {
+          values: countryCommitmentLevels(countries),
+          attribute: 'fill',
+          scale: ['#DCDCDC', '#3596f2', '#31408c'],
+          min: 0,
+          max: 2
+        }
+      ],
+    },
+    // Disable jvectormap tooltips, we'll use our own library for them
+    onRegionTipShow: function(e) { e.preventDefault(); },
+    onMarkerTipShow: function(e) { e.preventDefault(); },
+    onRegionSelected: countrySelected
   });
+
+  map = $map.vectorMap('get', 'mapObject');
+
+  // Markers are not indexed by country code, so build our own index of
+  // iso code -> dom node for ease of initialising tooltips
+  $.each(map.markers, function(index, marker) {
+    markerNodes[marker.config.iso2] = marker.element.shape.node;
+  });
+
+  // Wire up tooltips
+  $.each(countries, function(index, country) {
+    var region = map.regions[country.iso2];
+    var markerNode = markerNodes[country.iso2];
+    var tooltipTargets = [];
+    if(region) {
+      tooltipTargets.push(region.element.shape.node);
+    }
+    if(markerNode) {
+      tooltipTargets.push(markerNode);
+    }
+    tooltipOptions = {
+      theme: 'light',
+      content: country.tooltip,
+      allowHTML: true,
+      trigger: 'click',
+      onHide: function(instance) {
+        // The map doesnt clear if you click off countries, so we use tippy's
+        // hooks to achieve that
+        map.clearSelectedRegions();
+      }
+    };
+    tippy(tooltipTargets, tooltipOptions);
+  });
+
+  // Wire up filters to hide/show map countries and cards
+  $('.map-filters select').on('change', showFilteredCountries);
 });
