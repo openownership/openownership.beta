@@ -1,6 +1,8 @@
 header:
   - title: What we do
     url: /what-we-do/
+  - title: Map
+    url: /map/
   - title: Latest
     url: /latest/
   - title: Resources
@@ -13,10 +15,11 @@ header:
 footer:
   - title: What we do
     url: /what-we-do/
+  - title: Map
+    url: /map/
   - title: Latest
     url: /latest/
   - title: Resources
     url: /resources/
   - title: Connect with us
     url: /connect-with-us/
-
