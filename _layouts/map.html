@@ -52,6 +52,11 @@ layout: default
           <option value="public">Commitments to a public register</option>
           <option value="all-sectors">Commitments to a register covering the whole economy</option>
         </select>
+        <select id='register-filter' name="register-status">
+          <option value="">Any or no register</option>
+          <option value="register-online">An online register</option>
+          <option value="in-oo-register">Data in the OpenOwnership register</option>
+        </select>
     </div>
   </div>
 </section>
@@ -86,10 +91,10 @@ layout: default
               <p class="margin-bottom-0"><strong>Register online?</strong> {% if country.register_online == 'True' %}✓{% else %}x{%endif%}</p>
               <p class="margin-bottom-0"><strong>Data in the OpenOwnership Register?</strong> {% if country.in_oo_register == 'True' %}✓{% else %}x{%endif%}</p>
               <p><strong>OpenOwnership support:</strong> {{ country.involvement }}</p>
-              {% if country.register_url %}
+              {% if country.register_online == 'True' %}
                 <a href="{{country.register_url}}" class="register-link button hollow">Visit register</a>
               {% endif %}
-              {% if country.oo_register_url %}
+              {% if country.in_oo_register == 'True' %}
                 <a href="{{country.oo_register_url}}" class="register-link button hollow">OpenOwnership Register data</a>
               {% endif %}
             </div>
