@@ -1,6 +1,7 @@
 import csv
 import os
 import pathlib
+import re
 
 from dotenv import load_dotenv
 from notion.client import NotionClient
@@ -162,9 +163,37 @@ def commitmentDetails(commitments):
     }
 
 
+def extractUrl(text):
+    if text is None:
+        return
+    url_regex = re.compile(r"(http(s)?://[^\s]+)")
+    match = url_regex.search(text)
+    if match:
+        return match[0]
+    else:
+        return
+
+
+def regimesByCountryId(client):
+    regime_tracker = client.get_collection_view("https://www.notion.so/openownership/ff93549f6c6a430fa5887b16f274f82c?v=a19b080ab95547008078452f219351bc")
+    regimes = {}
+
+    for row in regime_tracker.collection.get_rows():
+        register_url = extractUrl(row.get_property('6_1_register_url_r_online_url'))
+        oo_register_url = extractUrl(row.get_property('3_1_oo_register_page_url'))
+        if register_url or oo_register_url:
+            regimes[row.country[0].id] = {
+                'register_url': register_url,
+                'oo_register_url': oo_register_url
+            }
+
+    return regimes
+
+
 def main():
     token = notionToken()
     client = NotionClient(token_v2=token)
+    regimes = regimesByCountryId(client)
     country_tracker = client.get_collection_view("https://www.notion.so/openownership/0bec13375fea4bd1a083f6baf8a21d78?v=88eca4f4bd5b4b72aa6b2cd5c2b5530d")
     fieldnames = [
         'name',
@@ -178,7 +207,11 @@ def main():
         'commitment_level',
         'commitments_html',
         'capital_lat',
-        'capital_lon'
+        'capital_lon',
+        'register_online',
+        'register_url',
+        'in_oo_register',
+        'oo_register_url'
     ]
     data_dir = os.path.join(
         pathlib.Path(__file__).parent.parent.absolute(),
@@ -207,6 +240,7 @@ def main():
                     involvement = involvementText(country.oo_support)
                 commitments = commitmentDetails(country.commitments)
                 capital = country_capitals.get(country.iso2, {})
+                regime = regimes.get(country.id, {})
                 row = {
                     'name': country.country,
                     'iso2': country.iso2,
@@ -219,7 +253,11 @@ def main():
                     'commitment_level': commitments['commitment_level'],
                     'commitments_html': commitmentsAsHTML(country),
                     'capital_lat': capital.get('lat'),
-                    'capital_lon': capital.get('lon')
+                    'capital_lon': capital.get('lon'),
+                    'register_online': regime.get('register_url') is not None,
+                    'register_url': regime.get('register_url'),
+                    'in_oo_register': regime.get('oo_register_url') is not None,
+                    'oo_register_url': regime.get('oo_register_url')
                 }
                 writer.writerow(row)
 
