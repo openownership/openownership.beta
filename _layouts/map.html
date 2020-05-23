@@ -72,14 +72,26 @@ layout: default
               data-all-sectors="{{country.all_sectors | downcase}}"
               data-commitment-level="{{country.commitment_level}}"
               data-capital-lat="{{country.capital_lat}}"
-              data-capital-lon="{{country.capital_lon}}">
+              data-capital-lon="{{country.capital_lon}}"
+              data-register-online="{{country.register_online | downcase}}"
+              data-register-url="{{country.register_url}}"
+              data-in-oo-register="{{country.in_oo_register | downcase}}"
+              data-oo-register-url="{{country.oo_register_url}}">
           <div class="callout shadow large">
             <h2 class="country_name">{{ country['name'] }}</h2>
             <div class="summary">
               <p class="margin-bottom-0"><strong>Central register:</strong> {% if country.central == 'True' %}✓{% else %}x{%endif%}</p>
               <p class="margin-bottom-0"><strong>Public register:</strong> {% if country.public == 'True' %}✓{% else %}x{%endif%}</p>
               <p class="margin-bottom-0"><strong>Register covering whole economy:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Register online?</strong> {% if country.register_online == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Data in the OpenOwnership Register?</strong> {% if country.in_oo_register == 'True' %}✓{% else %}x{%endif%}</p>
               <p><strong>OpenOwnership support:</strong> {{ country.involvement }}</p>
+              {% if country.register_url %}
+                <a href="{{country.register_url}}" class="register-link button hollow">Visit register</a>
+              {% endif %}
+              {% if country.oo_register_url %}
+                <a href="{{country.oo_register_url}}" class="register-link button hollow">OpenOwnership Register data</a>
+              {% endif %}
             </div>
             <div class="commitments">
               {% if country.commitments_html != '' %}
