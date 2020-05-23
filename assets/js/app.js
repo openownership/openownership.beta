@@ -265,11 +265,22 @@ $(function(){
 
   // Wire up filters to hide/show map countries and cards
   $('.map-filters select').on('change', function() {
-    value = $(this).val();
-    if(value === '') {
+    values = []
+    $('.map-filters select').each(function(index, select) {
+      var value = $(select).val();
+      if(value !== '') {
+        values.push(value);
+      }
+    })
+    if(values.length === 0) {
       filterCountries();
     } else {
-      filterCountries('[data-'+ value + '=true]');
+      // We AND together multiple filters so join them into one string:
+      // https://api.jquery.com/multiple-attribute-selector/
+      var filters = values.map(function(value) {
+        return '[data-'+ value + '=true]';
+      }).join('');
+      filterCountries(filters);
     }
   });
 
