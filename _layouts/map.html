@@ -82,7 +82,8 @@ layout: default
               data-register-online="{{country.register_online | downcase}}"
               data-register-url="{{country.register_url}}"
               data-in-oo-register="{{country.in_oo_register | downcase}}"
-              data-oo-register-url="{{country.oo_register_url}}">
+              data-oo-register-url="{{country.oo_register_url}}"
+              data-last-updated="{{country.last_updated}}">
           <div class="callout shadow large">
             <h2 class="country_name">{{ country['name'] }}</h2>
             <div class="summary">
@@ -98,6 +99,7 @@ layout: default
               {% if country.in_oo_register == 'True' %}
                 <a href="{{country.oo_register_url}}" class="register-link button hollow">OpenOwnership Register data</a>
               {% endif %}
+              <p><strong>Last updated:</strong> {{ country.last_updated | date_to_long_string }}</p>
             </div>
             <div class="commitments">
               {% if country.commitments_html != '' %}
@@ -117,6 +119,11 @@ layout: default
                 </ul>
               </div>
             {% endif %}
+            <div class="country-footer">
+              <p>
+                Data outdated/incorrect? <a href="https://share.hsforms.com/1ooDVGfPWQFyc93l3Bds9jA3upv4">Please let us know</a>.
+              </p>
+            </div>
           </div>
         </div>
       {% endfor %}
