@@ -77,8 +77,8 @@ $(function(){
   var $countries = $('.country');
   // Object for our parsed country data, will be indexed by ISO2 code
   var countries = {};
-  // Dom nodes for markers, so that we can attach tooltips to them
-  var markerNodes = {};
+  var $allCountriesButton = $('.see-all-countries-button');
+  var $filters = $('.map-filters select');
 
   // Parse the countries data from the given dom nodes (as a JQuery selection)
   function parseCountries($countries) {
@@ -133,7 +133,7 @@ $(function(){
 
   function filterCountries(filter) {
     // Work out what we're showing
-    var $filteredCountries = $countries
+    var $filteredCountries = $countries;
     if(filter) {
       $filteredCountries = $filteredCountries.filter(filter);
     }
@@ -203,17 +203,53 @@ $(function(){
     });
   }
 
-  function regionClick(e, iso2) {
+  function filterBySelections() {
+    values = []
+    $filters.each(function(index, select) {
+      var value = $(select).val();
+      if(value !== '') {
+        values.push(value);
+      }
+    })
+    if(values.length === 0) {
+      filterCountries();
+    } else {
+      // We AND together multiple filters so join them into one string:
+      // https://api.jquery.com/multiple-attribute-selector/
+      var filters = values.map(function(value) {
+        return '[data-'+ value + '=true]';
+      }).join('');
+      filterCountries(filters);
+    }
+  }
+
+  function filterByCountry(iso2) {
+    filterCountries('[data-iso2="' + iso2 + '"]');
+  }
+
+  function selectCountry(iso2) {
     if(countries[iso2]) {
       window.location.hash = iso2;
+      $filters.prop('disabled', 'disabled');
+      filterByCountry(iso2);
+      $allCountriesButton.show();
     }
+  }
+
+  function clearSelectedCountry() {
+    window.location.hash = '#map';
+    $filters.prop('disabled', false);
+    $allCountriesButton.hide();
+    filterBySelections();
+  }
+
+  function regionClick(e, iso2) {
+    selectCountry(iso2);
   }
 
   function markerClick(e, index) {
     var iso2 = map.markers[index].config.iso2;
-    if(countries[iso2]) {
-      window.location.hash = iso2;
-    }
+    selectCountry(iso2);
   }
 
   // Parse the data from the DOM
@@ -264,23 +300,21 @@ $(function(){
   buildTooltips(countries);
 
   // Wire up filters to hide/show map countries and cards
-  $('.map-filters select').on('change', function() {
-    values = []
-    $('.map-filters select').each(function(index, select) {
-      var value = $(select).val();
-      if(value !== '') {
-        values.push(value);
-      }
-    })
-    if(values.length === 0) {
-      filterCountries();
-    } else {
-      // We AND together multiple filters so join them into one string:
-      // https://api.jquery.com/multiple-attribute-selector/
-      var filters = values.map(function(value) {
-        return '[data-'+ value + '=true]';
-      }).join('');
-      filterCountries(filters);
+  $filters.on('change', filterBySelections);
+
+  // Hide the see all countries button and wire up clicks on it for future use
+  $allCountriesButton.click(function(e) {
+    e.preventDefault();
+    clearSelectedCountry();
+    return false;
+  });
+
+  // Wire up clicks on the map to clear selected countries
+  $map.find('svg').on('click', function(e) {
+    // We only want clicks on the svg, not on things (e.g. paths) inside it, as
+    // those will be regions/markers whose clicks are handled separately
+    if(e.target === e.currentTarget) {
+      clearSelectedCountry();
     }
   });
 
@@ -294,9 +328,6 @@ $(function(){
   // Have we got an initial selection?
   if(location.hash) {
     var iso2 = location.hash.substr(1);
-    if(countries[iso2]) {
-      filterCountries('[data-iso2="' + iso2 + '"]');
-      $('.map-filters').append('<div class="small-12 cell text-center"><a class="button primary" href="/map">See all countries</a></div>');
-    }
+    selectCountry(iso2);
   }
 });

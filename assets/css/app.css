@@ -11958,3 +11958,6 @@ footer .icon {
 .map-filters select {
   background: none;
   border: 1px solid; }
+
+.see-all-countries-button {
+  display: none; }
