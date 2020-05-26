@@ -203,14 +203,19 @@ $(function(){
     });
   }
 
-  function filterBySelections() {
-    values = []
+  function filterValues() {
+    var values = {};
     $filters.each(function(index, select) {
       var value = $(select).val();
       if(value !== '') {
-        values.push(value);
+        values[$(select).attr('name')] = value;
       }
-    })
+    });
+    return values;
+  }
+
+  function filterBySelections() {
+    var values = Object.values(filterValues());
     if(values.length === 0) {
       filterCountries();
     } else {
@@ -250,6 +255,38 @@ $(function(){
   function markerClick(e, index) {
     var iso2 = map.markers[index].config.iso2;
     selectCountry(iso2);
+  }
+
+  function setFiltersFromURL() {
+    var urlParams = new URLSearchParams(location.search.substr(1));
+    var commitment = urlParams.get('commitment');
+    var register = urlParams.get('register');
+    if(commitment) {
+      $filters
+        .filter('[name="commitment"]')
+        .find('option[value="' + commitment + '"]')
+        .prop('selected', true);
+    }
+    if(register) {
+      $filters
+        .filter('[name="register"]')
+        .find('option[value="' + register + '"]')
+        .prop('selected', true);
+    }
+    if(commitment || register) {
+      $filters.trigger('change');
+    }
+  }
+
+  function saveFiltersToURL() {
+    var values = filterValues();
+    var queryString = new URLSearchParams(values);
+    var url = location.pathname;
+    if(Object.keys(values).length > 0) {
+      url = url + '?' + queryString.toString();
+    }
+    url = url + location.hash;
+    history.replaceState({}, "", url)
   }
 
   // Parse the data from the DOM
@@ -300,7 +337,10 @@ $(function(){
   buildTooltips(countries);
 
   // Wire up filters to hide/show map countries and cards
-  $filters.on('change', filterBySelections);
+  $filters.on('change', function() {
+    filterBySelections();
+    saveFiltersToURL();
+  });
 
   // Hide the see all countries button and wire up clicks on it for future use
   $allCountriesButton.click(function(e) {
@@ -325,7 +365,13 @@ $(function(){
       .append('<a class="button primary" href="#map">Back to map</a>')
   });
 
-  // Have we got an initial selection?
+  // Have we got an initial selection or filters? We process both, even if we're
+  // going to overwrite filters with a hash, so that we can set up the map for
+  // if/when the user removes the country selection
+  if(location.search) {
+    setFiltersFromURL();
+  }
+
   if(location.hash) {
     var iso2 = location.hash.substr(1);
     selectCountry(iso2);
