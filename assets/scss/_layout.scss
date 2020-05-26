@@ -897,3 +897,8 @@ padding-top: 3rem;
     border: 1px solid; // without a border, vertical alignment looks off
   }
 }
+
+// JS will show this when needed, it's not needed at all without JS
+.see-all-countries-button {
+  display: none;
+}
