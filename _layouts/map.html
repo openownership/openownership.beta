@@ -48,9 +48,9 @@ layout: default
     <div class="small-12  medium-4 large-3 cell">
         <select id='commitment-filter' name="commitment-level">
           <option value="">Any commitment</option>
+          <option value="all-sectors">Commitments to a register covering the whole economy</option>
           <option value="central">Commitments to a central register</option>
           <option value="public">Commitments to a public register</option>
-          <option value="all-sectors">Commitments to a register covering the whole economy</option>
         </select>
         <select id='register-filter' name="register-status">
           <option value="">Any or no register</option>
@@ -88,9 +88,9 @@ layout: default
           <div class="callout shadow large">
             <h2 class="country_name">{{ country['name'] }}</h2>
             <div class="summary">
+              <p class="margin-bottom-0"><strong>Register covering whole economy:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
               <p class="margin-bottom-0"><strong>Central register:</strong> {% if country.central == 'True' %}✓{% else %}x{%endif%}</p>
               <p class="margin-bottom-0"><strong>Public register:</strong> {% if country.public == 'True' %}✓{% else %}x{%endif%}</p>
-              <p class="margin-bottom-0"><strong>Register covering whole economy:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
               <p class="margin-bottom-0"><strong>Register online?</strong> {% if country.register_online == 'True' %}✓{% else %}x{%endif%}</p>
               <p class="margin-bottom-0"><strong>Data in the OpenOwnership Register?</strong> {% if country.in_oo_register == 'True' %}✓{% else %}x{%endif%}</p>
               <p><strong>OpenOwnership support:</strong> {{ country.involvement }}</p>
