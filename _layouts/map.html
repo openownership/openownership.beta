@@ -19,7 +19,7 @@ layout: default
     </div>
   </div>
   <div class="grid-x grid-padding-x padding-bottom-2 map-filters">
-    <div class="small-12 large-6 cell">
+    <div class="small-12 medium-7 cell">
       <p>
         Legend:
       </p>
@@ -42,21 +42,19 @@ layout: default
         Countries with 2/3 commitments to registers that are central, public and cover all sectors.
       </p>
     </div>
-    <div class="small-12 medium-8 large-3 cell">
-      <label for=""commitment-filter" class="text-right middle">Show countries with:</label>
-    </div>
-    <div class="small-12  medium-4 large-3 cell">
-        <select id='commitment-filter' name="commitment-level">
-          <option value="">Any commitment</option>
-          <option value="all-sectors">Commitments to a register covering the whole economy</option>
-          <option value="central">Commitments to a central register</option>
-          <option value="public">Commitments to a public register</option>
-        </select>
-        <select id='register-filter' name="register-status">
-          <option value="">Any or no register</option>
-          <option value="register-online">An online register</option>
-          <option value="in-oo-register">Data in the OpenOwnership register</option>
-        </select>
+    <div class="small-12 medium-5 cell">
+      <p><label for="commitment-filter">Show countries with:</label></p>
+      <select id='commitment-filter' name="commitment">
+        <option value="">Any commitment</option>
+        <option value="all-sectors">Commitments to a register covering the whole economy</option>
+        <option value="central">Commitments to a central register</option>
+        <option value="public">Commitments to a public register</option>
+      </select>
+      <select id='register-filter' name="register">
+        <option value="">Any or no register</option>
+        <option value="register-online">An online register</option>
+        <option value="in-oo-register">Data in the OpenOwnership register</option>
+      </select>
     </div>
     <div class="small-12 cell text-center">
       <a class="button primary see-all-countries-button" href="/map">See all countries</a>
