@@ -92,6 +92,7 @@ $(function(){
       $tooltip.find('.register-link').remove();
       $tooltip.find('.commitments').remove();
       $tooltip.find('.news').remove();
+      $tooltip.find('.country-footer').remove();
       parsed[data.iso2] = Object.assign(data, {tooltipContent: $tooltip[0].outerHTML});
     });
 
@@ -361,7 +362,7 @@ $(function(){
   // Add a 'back-to-map' link to each country
   $countries.each(function(index, country) {
     $(country)
-      .find('.callout')
+      .find('.country-footer')
       .append('<a class="button primary" href="#map">Back to map</a>')
   });
 

@@ -211,7 +211,8 @@ def main():
         'register_online',
         'register_url',
         'in_oo_register',
-        'oo_register_url'
+        'oo_register_url',
+        'last_updated'
     ]
     data_dir = os.path.join(
         pathlib.Path(__file__).parent.parent.absolute(),
@@ -257,7 +258,8 @@ def main():
                     'register_online': regime.get('register_url') is not None,
                     'register_url': regime.get('register_url'),
                     'in_oo_register': regime.get('oo_register_url') is not None,
-                    'oo_register_url': regime.get('oo_register_url')
+                    'oo_register_url': regime.get('oo_register_url'),
+                    'last_updated': country.last_changed_automatic.isoformat()
                 }
                 writer.writerow(row)
 
