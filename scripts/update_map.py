@@ -179,6 +179,9 @@ def regimesByCountryId(client):
     regimes = {}
 
     for row in regime_tracker.collection.get_rows():
+        if len(row.country) == 0:
+            print(f'{row} is missing a country to match it to')
+            continue
         register_url = extractUrl(row.get_property('6_1_register_url_r_online_url'))
         oo_register_url = extractUrl(row.get_property('3_1_oo_register_page_url'))
         if register_url or oo_register_url:
