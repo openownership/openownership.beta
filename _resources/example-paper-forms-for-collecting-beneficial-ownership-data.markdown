@@ -7,6 +7,8 @@ tags:
 - robust definitions
 file: "/uploads/oo-example-paper-forms-329df2.pdf"
 thumbnail-image: "/uploads/oo-example-paper-forms-image.JPG"
+author: OpenOwnership
+position: 3
 ---
 
 This document provides example forms to guide officials tasked with developing paper forms to collect beneficial ownership information.
