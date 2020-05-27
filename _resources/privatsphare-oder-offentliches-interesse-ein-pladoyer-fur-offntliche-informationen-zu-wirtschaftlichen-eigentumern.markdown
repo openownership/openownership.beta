@@ -12,6 +12,7 @@ description: German version. This is a summary of a research report from OpenOwn
 file: "/uploads/OpenOwnership%20Privacy%20Report%20Summary%20German.pdf"
 author: OpenOwnership, The B Team and The Engine Room
 thumbnail-image: "/uploads/Privacy-summary-german.png"
+resource_type: Reports
 ---
 
 German Version. This is a summary of a research report from OpenOwnership, The B Team and The Engine Room in which we consider the legal implications of public beneficial ownership data to the public, evaluated from both the perspective of the companies holding that information and the authorities requiring it to be disclosed publicly, and the relationship with data protection and privacy laws. Translation by Michael Peters.

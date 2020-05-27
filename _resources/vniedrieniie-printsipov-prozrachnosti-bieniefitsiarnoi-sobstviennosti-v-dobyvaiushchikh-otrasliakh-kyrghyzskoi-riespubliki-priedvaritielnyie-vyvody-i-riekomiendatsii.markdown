@@ -10,6 +10,7 @@ description: Russian version. This report summarizes findings from Open Ownershi
 file: "/uploads/opo-kyrgyz-republic-scoping-report-russian.pdf"
 author: Louise Russell-Prywata
 thumbnail-image: "/uploads/opo-kyrgyz-republic-scoping-report-russian.jpg"
+resource_type: Reports
 ---
 
 Russian version. This report summarizes findings from Open Ownership’s scoping visit to the Kyrgyz Republic in September 2018, and the research surrounding the visit. It makes recommendations for improvements to the legal and regulatory environment, business process and technical tools that will enable the Kyrgyz Republic to fulfil its policy objective and generate useful beneficial ownership data. The issues and recommendations in this report will also be relevant to other EITI countries implementing beneficial ownership transparency commitments in line with the EITI Standard.
