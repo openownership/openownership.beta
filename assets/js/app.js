@@ -71,6 +71,12 @@ $("#cookiesPolicy").foundation("open")
 $(function(){
   // Jquery object for the map container
   var $map = $('.world-map');
+
+  // Don't run on pages without a map
+  if($map.length == 0) {
+    return
+  }
+
   // Object for the jvectormap map object
   var map;
   // Jquery object for the country dom nodes where our initial data lives
