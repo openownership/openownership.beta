@@ -14,7 +14,7 @@ var sassPaths = [
 function styles() {
   return gulp.src('assets/scss/app.scss')
     .pipe(
-      sass({includePaths: sassPaths})
+      sass({includePaths: sassPaths, outputStyle: 'compressed'})
       .on('error', sass.logError)
     )
     .pipe(gulp.dest('assets/css'));
