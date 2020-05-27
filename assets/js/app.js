@@ -390,3 +390,84 @@ $(function(){
     selectCountry(iso2);
   }
 });
+
+// 4. Resources page
+$(function(){
+  var $resources = $('.resource');
+  if($resources.length == 0) {
+    return;
+  }
+
+  var $filters = $('.resource-filters select');
+
+  function filterValues() {
+    var values = {};
+    $filters.each(function(index, select) {
+      var value = $(select).val();
+      if(value !== '') {
+        values[$(select).attr('name')] = value;
+      }
+    });
+    return values;
+  }
+
+  function filterBySelections() {
+    var values = Object.values(filterValues());
+    if(values.length === 0) {
+      filterResources();
+    } else {
+      // We AND together multiple filters so join them into one string:
+      // https://api.jquery.com/multiple-attribute-selector/
+      var filters = values.map(function(value) {
+        return '.' + value;
+      }).join('');
+      filterResources(filters);
+    }
+  }
+
+  function filterResources(filter) {
+    // Work out what we're showing
+    var $filteredResources = $resources;
+    if(filter) {
+      $filteredResources = $filteredResources.filter(filter);
+    }
+    $resources.hide();
+    $filteredResources.show();
+  }
+
+  function setFiltersFromURL() {
+    var urlParams = new URLSearchParams(location.search.substr(1));
+    var resourceType = urlParams.get('resource-type');
+    if(resourceType) {
+      $filters
+        .filter('[name="resource-type"]')
+        .find('option[value="' + resourceType + '"]')
+        .prop('selected', true)
+        .trigger('change');
+    }
+  }
+
+  function saveFiltersToURL() {
+    var values = filterValues();
+    var queryString = new URLSearchParams(values);
+    var url = location.pathname;
+    if(Object.keys(values).length > 0) {
+      url = url + '?' + queryString.toString();
+    }
+    url = url + location.hash;
+    history.replaceState({}, "", url)
+  }
+
+  // Wire up filters to hide/show map countries and cards
+  $filters.on('change', function() {
+    filterBySelections();
+    saveFiltersToURL();
+  });
+
+  // Have we got an initial selection or filters? We process both, even if we're
+  // going to overwrite filters with a hash, so that we can set up the map for
+  // if/when the user removes the country selection
+  if(location.search) {
+    setFiltersFromURL();
+  }
+});
