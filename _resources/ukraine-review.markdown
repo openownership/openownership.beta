@@ -6,6 +6,7 @@ tags:
 file: "/uploads/opo-ukraine-report.pdf"
 author: Zosia Sztykowski and Tom Mayne
 thumbnail-image: "/uploads/opo-ukraine-report.jpg"
+resource_type: Reports
 ---
 
 Ukraine became the second country in the world after the United Kingdom to implement a public register of the beneficial owners of corporate entities registered in country. Laws were passed in 2014 and 2015, and a decree of the Cabinet of Ministers stipulated that this information should be published by Spring 2016.

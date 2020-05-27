@@ -9,6 +9,7 @@ tags:
 description: A guide to data quality and verification
 file: "/uploads/oo-verification-presentation.pdf"
 thumbnail-image: "/uploads/oo-verification-image.JPG"
+resource_type: Presentations
 ---
 
 A guide to data quality and verification
