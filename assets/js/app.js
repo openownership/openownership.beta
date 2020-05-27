@@ -185,7 +185,11 @@ $(function(){
         targets.push(marker)
       }
       if(region) {
-        targets.push(region.element.shape.node)
+        // In older jvectormap versions, the region held a direct reference to
+        // DOM node we could attach an event to, but now it wraps that in an
+        // invisible path which has a margin, to allow better UX, which isn't
+        // stored in the region, so we have to find the DOM node ourself
+        targets.push($('.jvectormap-region[data-code="' + country.iso2 + '"]')[0]);
       }
       if(targets.length === 0) {
         return;
@@ -197,6 +201,8 @@ $(function(){
         triggerTarget: targets,
         touch: false,
         appendTo: function() { return document.body; },
+        delay: 0,
+        duration: 0
       };
       // We put the tooltip on the marker if we have both, so that it always
       // appears in the same place and we don't get duplicates
