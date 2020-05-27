@@ -5,6 +5,7 @@ description: This factsheet provides a two-page introduction to OpenOwnership.
 file: "/uploads/openownership-factsheet.pdf"
 author: OpenOwnership
 thumbnail-image: "/uploads/factsheet-thumbnail.jpg"
+position: 1
 ---
 
 This factsheet provides a two-page introduction to OpenOwnership.
