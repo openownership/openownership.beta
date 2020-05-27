@@ -56,17 +56,6 @@ view with `git diff`, commit, etc.
 - Copy and paste the paths from the result into a new symbol in symbol-defs.svg
 - Add the viewBox attribute into the symbol from the SVG
 
-## Setting up a deploy preview
-
-1. You need to tell Netlify about the branch you want to deploy, as it only deploys
-   from a whitelist. Go to: https://app.netlify.com/sites/open-ownership/settings/deploys#deploy-contexts
-   and add it.
-2. Push code to github under the same branch name
-3. Go to https://app.netlify.com/sites/open-ownership/deploys to find your newly
-   deployed branch
-
-Remember to delete the branch after you're done.
-
 ## Deploying changes to production
 
 1. Merge the branch you've been working on into `master`
