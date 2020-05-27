@@ -7,7 +7,8 @@ var sassPaths = [
   'node_modules/foundation-sites/scss',
   'node_modules/motion-ui',
   'node_modules/aos/src/sass',
-  'node_modules/hamburgers/_sass'
+  'node_modules/hamburgers/_sass',
+  'node_modules/tippy.js'
 ];
 
 function styles() {
@@ -26,6 +27,8 @@ var jsPaths = [
   'node_modules/aos/dist/aos.js',
   'node_modules/motion-ui/dist/motion-ui.js',
   'node_modules/jquery.cookie/jquery.cookie.js',
+  'node_modules/@popperjs/core/dist/umd/popper.js',
+  'node_modules/tippy.js/dist/tippy.umd.js',
   'assets/js/jquery-jvectormap-2.0.5.min.js',
   'assets/js/jquery-jvectormap-world-merc.js',
   'assets/js/svgxuse.js',

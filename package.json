@@ -1,6 +1,7 @@
 {
   "main": "gulpfile.js",
   "devDependencies": {
+    "@popperjs/core": "2",
     "aos": "^2.3.4",
     "foundation-sites": "6.5.1",
     "gulp": "^4.0.2",
@@ -12,6 +13,7 @@
     "jquery.cookie": "^1.4.1",
     "motion-ui": "^2.0.3",
     "svgxuse": "^1.2.6",
+    "tippy.js": "6",
     "what-input": "^5.1.1"
   },
   "scripts": {
