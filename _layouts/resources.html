@@ -11,11 +11,29 @@ layout: default
 <!-- End Page Content -->
 
 <!-- Resources Grid -->
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 cell resource-filters">
+      <p><label for="resource-type-filter">Filter resources:</label></p>
+      <select id="resource-type-filter" name="resource-type">
+        <option value="">In any category</option>
+        <option value="tools">Tools</option>
+        <option value="briefings">Briefings</option>
+        <option value="presentations">Presentations</option>
+        <option value="reports">Reports</option>
+        <option value="summaries-factsheets">Summaries & Factsheets</option>
+        <option value="consultations">Consultations</option>
+        <option value="charters-principles-mission-statements">Charters, Principles & Mission Statements</option>
+      </select>
+    </div>
+  </div>
+</section>
+
 <section class="grid-container padding-bottom-3">
   {% assign sorted_resources = site.resources | sort: "date" | sort:"position", "last" %}
   {% for resource in sorted_resources %}
 
-  <div class="grid-x grid-padding-x grid-padding-y align-center">
+  <div class="grid-x grid-padding-x grid-padding-y align-center resource {{resource.resource_type | slugify}}">
 
     <div class="small-12 medium-6 large-2 cell">
       <a href="{{ resource.file }}">
