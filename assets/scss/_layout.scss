@@ -872,18 +872,85 @@ padding-top: 3rem;
   @include breakpoint(large) {
     height: 500px;
   }
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .map-legend {
   font-size: 0.85rem;
-  margin-bottom: 0.5rem;
+  font-family: $serif-regular;
+  color: $medium-gray;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+
+  @include breakpoint(medium) {
+    font-size: 1rem;
+  }
 }
+
 .map-legend-icon {
+  font-family: $sans-bold;
+  font-size: 1rem;
   text-align: center;
-  width: 2rem;
+  vertical-align: middle;
+  color: $white;
+  margin-right: 1rem;
+
+  // Flexbox settings for alignment with map-legend-text
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+
+  // To position text over the SVG
   display: inline-block;
-  margin-right: 0.5rem;
+  position: relative;
+  width: 3rem;
+  height: 3rem;
+  line-height: 3rem;
+  .icon-hexagon {
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  @include breakpoint(medium) {
+    font-size: 1.25rem;
+    width: 4rem;
+    height: 4rem;
+    line-height: 4rem;
+    .icon-hexagon {
+      width: 4rem;
+      height: 4rem
+    }
+  }
+
+}
+
+.map-legend-text {
+  flex-grow: 1
+}
+
+.map-legend-highlight {
+  font-size: 1rem;
+
+  @include breakpoint(medium) {
+    font-size: 1.25rem;
+  }
+}
+
+.map-legend-engagement {
+  color: $engagement;
+}
+.map-legend-full {
+  color: $full-commitment;
+}
+.map-legend-partial {
+  color: $partial-commitment;
 }
 
 .map-filters {
