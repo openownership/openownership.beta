@@ -64,3 +64,9 @@ You may choose to enhance your diagrams further with the following Optional Feat
 : Give additional information about the Parties in your diagram with icons
 
 [More about Optional Features](/visualisation/optional)
+
+## Resources
+
+To help you create BOVS diagrams:
+
+[Free BOVS Resources](/visualisation/resources)
