@@ -862,10 +862,15 @@ padding-top: 3rem;
   font-size: 2rem;
 }
 
+// X. Framework
+// ------------
+
 .framework__page {
   border-top: 1rem solid #7e8da3;
 }
 
+// X. Map
+// ------
 .world-map {
   width: 100%;
   height: 300px;
@@ -973,8 +978,22 @@ padding-top: 3rem;
   display: none;
 }
 
-// Resources page
+// X. Resources page
+// ----------------
+
 // JS will show this when needed
 .no-resources-message {
   display: none;
+}
+
+// X. Visualisation
+// ----------------
+
+// Override Foundation's core styles for definition lists
+dl dt{
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+dl dd {
+  margin-left: 1rem
 }

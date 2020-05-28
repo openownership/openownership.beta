@@ -49,11 +49,18 @@ The Core Rules must be used for all BOVS diagrams, whether they:
 
 ### [Optional Features](/visualisation/optional/)
 
-You may choose to enhance your diagrams further with the following Optional Features. If doing so, you must follow all the rules for that Optional Feature. **We recommend that you always incorporate Colour and Annotation** features unless it's cumbersome to do so, e.g. when hand-sketching.
+You may choose to enhance your diagrams further with the following Optional Features. If doing so, you must follow all the rules for that Optional Feature. **We recommend that you always incorporate Annotation and Colour** features unless it's cumbersome to do so, e.g. when hand-sketching.
 
-* **[Annotation](/visualisation/optional/)**: specify the nature or level of interest for each line in the diagram
-* **[Colour](/visualisation/optional/)**: use colour to make ownership and control information easier to understand at a glance
-* **[Charts](/visualisation/optional/)**: summarise ownership or control information with a bar chart incorporated into the diagram
-* **[Metadata](/visualisation/optional/)**: give additional information about the Parties in your diagram with icons
+[Annotation](/visualisation/optional/)
+: Specify the nature or level of interest for each line in the diagram
+
+[Colour](/visualisation/optional/)
+: Use colour to make ownership and control information easier to understand at a glance
+
+[Charts](/visualisation/optional/)
+: Summarise ownership or control information with a bar chart incorporated into the diagram
+
+[Metadata](/visualisation/optional/)
+: Give additional information about the Parties in your diagram with icons
 
 [More about Optional Features](/visualisation/optional)
