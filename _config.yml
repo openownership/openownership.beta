@@ -12,6 +12,9 @@ collections:
   guide:
     title: Guide
     output: true
+  visualisation:
+    title: Visual Language
+    output: true
   posts:
     title: Posts
     output: true
