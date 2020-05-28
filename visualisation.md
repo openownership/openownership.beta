@@ -1,9 +1,9 @@
 ---
-title: Beneficial Ownership Visualisation Standard
+title: Beneficial Ownership Visualisation System
 layout: visualisation
 ---
 
-**The Beneficial Ownership Visualisation Standard (BOVS) is a set of visualisation rules** for producing diagrams that represent beneficial ownership structures as clearly as possible.
+**The Beneficial Ownership Visualisation System (BOVS) is a set of visualisation rules** for producing diagrams that represent beneficial ownership structures as clearly as possible.
 
 We encourage anyone who needs to visualise beneficial ownership situations to follow these visualisation rules. The rules are compatible with any brand, style or colour scheme, and are provided under the Apache Licence 2.0.
 
@@ -15,7 +15,7 @@ Diagrams that follow the BOVS are called **BOVS diagrams**.
 
 * All of your diagrams will follow a consistent logical approach.
 * Your diagrams will be consistent with those published by OpenOwnership and many other organisations.
-* You will benefit from the [design principles]() we followed when creating the Standard, in particular to avoid accidental ambiguities.
+* You will benefit from the [design principles]() we followed when creating the System, in particular to avoid accidental ambiguities.
 
 **BOVS can save you time**, because:
 
