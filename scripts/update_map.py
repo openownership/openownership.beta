@@ -86,7 +86,8 @@ def commitmentsAsHTML(country):
     if 'EU: All sectors' in country.commitments:
         commitments.append(
             f"As a European Union member, {country.country} is obliged to "
-            f"create a central register of beneficial ownership."
+            f"create a central, public register of beneficial ownership, "
+            f"covering the whole economy."
         )
     if 'EITI' in country.commitments:
         commitments.append(
