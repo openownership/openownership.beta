@@ -208,7 +208,8 @@ $(function(){
         touch: false,
         appendTo: function() { return document.body; },
         delay: 0,
-        duration: 0
+        duration: 0,
+        maxWidth: 450
       };
       // We put the tooltip on the marker if we have both, so that it always
       // appears in the same place and we don't get duplicates

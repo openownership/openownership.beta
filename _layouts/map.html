@@ -96,20 +96,29 @@ layout: default
           <div class="callout shadow large">
             <h2 class="country_name">{{ country['name'] }}</h2>
             <div class="summary">
-              <p class="margin-bottom-0"><strong>Register covering whole economy:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
-              <p class="margin-bottom-0"><strong>Central register:</strong> {% if country.central == 'True' %}✓{% else %}x{%endif%}</p>
-              <p class="margin-bottom-0"><strong>Public register:</strong> {% if country.public == 'True' %}✓{% else %}x{%endif%}</p>
-              <p class="margin-bottom-0"><strong>Register online?</strong> {% if country.register_online == 'True' %}✓{% else %}x{%endif%}</p>
-              <p class="margin-bottom-0"><strong>Data in the OpenOwnership Register?</strong> {% if country.in_oo_register == 'True' %}✓{% else %}x{%endif%}</p>
-              <p><strong>OpenOwnership support:</strong> {{ country.involvement }}</p>
-              {% if country.register_online == 'True' %}
-                <a href="{{country.register_url}}" class="register-link button hollow">Visit register</a>
-              {% endif %}
-              {% if country.in_oo_register == 'True' %}
-                <a href="{{country.oo_register_url}}" class="register-link button hollow">OpenOwnership Register data</a>
-              {% endif %}
+              <p class="margin-bottom-0"><strong>Any register(s) online:</strong> {% if country.register_online == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Any data in the OpenOwnership Register:</strong> {% if country.in_oo_register == 'True' %}✓{% else %}x{%endif%}</p>
+              <p><strong>OpenOwnership engaged:</strong> {% if country.involved == 'True' %}✓{% else %}x{%endif%}</p>
+
+              <p class="margin-bottom-0"><strong>Committed to register covering whole economy:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Committed to central register:</strong> {% if country.central == 'True' %}✓{% else %}x{%endif%}</p>
+              <p><strong>Committed to public register:</strong> {% if country.public == 'True' %}✓{% else %}x{%endif%}</p>
+
               <p><strong>Last updated:</strong> {{ country.last_updated | date_to_long_string }}</p>
             </div>
+            {% if country.register_online == 'True' or country.in_oo_register == 'True' %}
+              <div class="links">
+                <h4>Links</h4>
+                <p>
+                  {% if country.register_online == 'True' %}
+                    <a href="{{country.register_url}}" class="register-link button hollow">Online register</a>
+                  {% endif %}
+                  {% if country.in_oo_register == 'True' %}
+                    <a href="{{country.oo_register_url}}" class="register-link button hollow">OpenOwnership Register data</a>
+                  {% endif %}
+                </p>
+              </div>
+            {% endif %}
             <div class="commitments">
               {% if country.commitments_html != '' %}
                 <h4>Commitments</h4>
