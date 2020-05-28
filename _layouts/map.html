@@ -18,29 +18,38 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="grid-x grid-padding-x padding-bottom-2 map-filters">
+  <div class="grid-x grid-padding-x grid-padding-y padding-bottom-2 map-filters">
+    {% assign engaged = site.data.countries | where: 'involved', 'True' %}
+    {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
+    {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
     <div class="small-12 medium-7 cell">
-      <p>
-        Legend:
-      </p>
-      <p class="map-legend">
-        <span class="map-legend-icon">
-          <svg class="icon icon-map-dot"><use xlink:href="/assets/icons/symbol-defs.svg#icon-map-dot"></use></svg>
-        </span>
-        Countries OpenOwnership has provided support to.
-      </p>
-      <p class="map-legend">
-        <span class="map-legend-icon">
-          <svg class="icon icon-country icon-full-country"><use xlink:href="/assets/icons/symbol-defs.svg#icon-full-country"></use></svg>
-        </span>
-        Countries with commitments to registers that are central, public and cover all sectors.
-      </p>
-      <p class="map-legend">
-        <span class="map-legend-icon">
-          <svg class="icon icon-country icon-partial-country"><use xlink:href="/assets/icons/symbol-defs.svg#icon-partial-country"></use></svg>
-        </span>
-        Countries with 2/3 commitments to registers that are central, public and cover all sectors.
-      </p>
+      <div class="map-legend">
+        <div class="map-legend-icon ">
+          {{engaged.size | plus: 14 }}
+          <svg class="icon icon-hexagon map-legend-engagement"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        </div>
+        <div class="map-legend-text">
+          <span class="map-legend-highlight map-legend-engagement">countries where OpenOwnership is engaged</span><br>including 14 British Overseas Territories
+        </div>
+      </div>
+      <div class="map-legend">
+        <div class="map-legend-icon">
+          {{fully_committed.size}}
+          <svg class="icon icon-hexagon map-legend-full"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        </div>
+        <div class="map-legend-text">
+          <span class="map-legend-highlight map-legend-full">countries are fully committed</span><br>to Beneficial Ownership Transparency
+        </div>
+      </div>
+      <div class="map-legend">
+        <div class="map-legend-icon">
+          {{partially_committed.size}}
+          <svg class="icon icon-hexagon map-legend-partial"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        </div>
+        <div class="map-legend-text">
+          <span class="map-legend-highlight map-legend-partial">countries are partially committed</span><br>to Beneficial Ownership Transparency
+        </div>
+      </div>
     </div>
     <div class="small-12 medium-5 cell">
       <p><label for="commitment-filter">Show countries with:</label></p>
