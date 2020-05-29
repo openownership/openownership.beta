@@ -107,19 +107,26 @@ layout: default
             </div>
             {% if country.any_online_register == 'True' or country.any_data_in_oo_register == 'True' %}
               <div class="links">
-                <h4>Links</h4>
+                <h4>Data</h4>
+                <ul>
                 {% for regime in regimes %}
-                  <p>
+                  <li>
                     {% if regime.register_url != '' %}
-                      <a href="{{regime.register_url}}">{{ regime.name }}</a> {% if regime.scope != '' %} ({{ regime.scope }}){% endif %}
+                      <a href="{{regime.register_url}}">{{ regime.name }}</a>
+                      {% if regime.scope != '' %}
+                        <span class="margin-left-1 label label--tag text-capitalize">{{ regime.scope }}</span>
+                      {% endif %}
                     {% endif %}
-                  </p>
-                  <p>
-                    {% if regime.oo_register_url != '' %}
-                      <a href="{{regime.oo_register_url}}">Data source information in the OpenOwnership Register</a>.
-                    {% endif %}
-                  </p>
+                  </li>
                 {% endfor %}
+                {% for regime in regimes %}
+                  {% if regime.oo_register_url != '' %}
+                    <li>
+                      <a href="{{regime.oo_register_url}}">Data source information in the OpenOwnership Register</a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+                </ul>
               </div>
             {% endif %}
             <div class="commitments">
