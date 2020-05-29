@@ -997,3 +997,8 @@ dl dt{
 dl dd {
   margin-left: 1rem
 }
+
+// Add rule to Foundation table styling to bold header rows
+thead tr:first-child th {
+  font-weight: bold;
+}
