@@ -22,7 +22,8 @@
     "watch": "gulp",
     "styles": "gulp styles",
     "scripts": "gulp scripts",
-    "build": "gulp build"
+    "build": "gulp build",
+    "test": "bundle exec jekyll serve --no-watch"
   },
   "dependencies": {}
 }
