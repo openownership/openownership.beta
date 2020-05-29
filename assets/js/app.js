@@ -95,7 +95,7 @@ $(function(){
       var data = $country.data();
       var $tooltip = $($country.find('.callout').first()[0].outerHTML)
       $tooltip.removeClass('large shadow');
-      $tooltip.find('.register-link').remove();
+      $tooltip.find('.links').remove();
       $tooltip.find('.commitments').remove();
       $tooltip.find('.news').remove();
       $tooltip.find('.country-footer').remove();

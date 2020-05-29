@@ -1,3 +1,4 @@
+from collections import defaultdict
 import csv
 import os
 import pathlib
@@ -177,7 +178,7 @@ def extractUrl(text):
 
 def regimesByCountryId(client):
     regime_tracker = client.get_collection_view("https://www.notion.so/openownership/ff93549f6c6a430fa5887b16f274f82c?v=a19b080ab95547008078452f219351bc")
-    regimes = {}
+    regimes = defaultdict(list)
 
     for row in regime_tracker.collection.get_rows():
         if len(row.country) == 0:
@@ -186,20 +187,20 @@ def regimesByCountryId(client):
         register_url = extractUrl(row.get_property('6_1_register_url_r_online_url'))
         oo_register_url = extractUrl(row.get_property('3_1_oo_register_page_url'))
         if register_url or oo_register_url:
-            regimes[row.country[0].id] = {
+            regimes[row.country[0].id].append({
+                'name': row.get_property('title'),
+                'scope': row.get_property('1_regime_scope_c_scope'),
                 'register_url': register_url,
                 'oo_register_url': oo_register_url
-            }
+            })
 
     return regimes
 
 
-def main():
-    token = notionToken()
-    client = NotionClient(token_v2=token)
-    regimes = regimesByCountryId(client)
+def writeCountriesCSV(client, data_dir, capitals, regimes):
     country_tracker = client.get_collection_view("https://www.notion.so/openownership/0bec13375fea4bd1a083f6baf8a21d78?v=88eca4f4bd5b4b72aa6b2cd5c2b5530d")
     fieldnames = [
+        'notion_id',
         'name',
         'iso2',
         'committed',
@@ -212,27 +213,11 @@ def main():
         'commitments_html',
         'capital_lat',
         'capital_lon',
-        'register_online',
-        'register_url',
-        'in_oo_register',
-        'oo_register_url',
+        'any_online_register',
+        'any_data_in_oo_register',
         'last_updated'
     ]
-    data_dir = os.path.join(
-        pathlib.Path(__file__).parent.parent.absolute(),
-        '_data'
-    )
     output = os.path.join(data_dir, 'countries.csv')
-
-    country_capitals = {}
-    with open(os.path.join(data_dir, 'country_capitals.csv'), 'r') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            country_capitals[row['iso2']] = {
-                'lat': row['lat'],
-                'lon': row['lon']
-            }
-
     with open(output, "w") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, dialect='unix')
         writer.writeheader()
@@ -244,9 +229,10 @@ def main():
                 if involved:
                     involvement = involvementText(country.oo_support)
                 commitments = commitmentDetails(country.commitments)
-                capital = country_capitals.get(country.iso2, {})
-                regime = regimes.get(country.id, {})
+                capital = capitals.get(country.iso2, {})
+                country_regimes = regimes.get(country.id, [])
                 row = {
+                    'notion_id': country.id,
                     'name': country.country,
                     'iso2': country.iso2,
                     'committed': committed,
@@ -259,13 +245,61 @@ def main():
                     'commitments_html': commitmentsAsHTML(country),
                     'capital_lat': capital.get('lat'),
                     'capital_lon': capital.get('lon'),
-                    'register_online': regime.get('register_url') is not None,
-                    'register_url': regime.get('register_url'),
-                    'in_oo_register': regime.get('oo_register_url') is not None,
-                    'oo_register_url': regime.get('oo_register_url'),
+                    'any_online_register': any((regime.get('register_url') is not None) for regime in country_regimes),
+                    'any_data_in_oo_register': any((regime.get('oo_register_url') is not None) for regime in country_regimes),
                     'last_updated': country.last_changed_automatic.isoformat()
                 }
                 writer.writerow(row)
+
+
+def writeRegimesCSV(regimes, data_dir):
+    fieldnames = [
+        'country_notion_id',
+        'name',
+        'scope',
+        'register_url',
+        'oo_register_url'
+    ]
+    output = os.path.join(data_dir, 'regimes.csv')
+    with open(output, "w") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, dialect='unix')
+        writer.writeheader()
+        for country_id, country_regimes in regimes.items():
+            for regime in country_regimes:
+                row = {
+                    'country_notion_id': country_id,
+                    'name': regime.get('name'),
+                    'scope': ','.join(regime.get('scope')),
+                    'register_url': regime.get('register_url'),
+                    'oo_register_url': regime.get('oo_register_url')
+                }
+                writer.writerow(row)
+
+
+def loadCountryCapitals(data_dir):
+    capitals = {}
+    with open(os.path.join(data_dir, 'country_capitals.csv'), 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            capitals[row['iso2']] = {
+                'lat': row['lat'],
+                'lon': row['lon']
+            }
+    return capitals
+
+
+def main():
+    token = notionToken()
+    client = NotionClient(token_v2=token)
+    regimes = regimesByCountryId(client)
+    data_dir = os.path.join(
+        pathlib.Path(__file__).parent.parent.absolute(),
+        '_data'
+    )
+    capitals = loadCountryCapitals(data_dir)
+    regimes = regimesByCountryId(client)
+    writeRegimesCSV(regimes, data_dir)
+    writeCountriesCSV(client, data_dir, capitals, regimes)
 
 
 if __name__ == "__main__":
