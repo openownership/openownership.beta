@@ -32,6 +32,7 @@ You must choose one of these styles for how Regimes are visualised across your e
 {% capture SubjectTable %}
 | ![Person](bovs-person.jpg) | Person | PersonInfo
 | ![Regime](bovs-regime.jpg) | Regime | RegimeInfo
+{: .unstriped}
 {% endcapture %}
 
 {{ SubjectTable | markdownify
