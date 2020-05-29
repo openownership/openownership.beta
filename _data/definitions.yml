@@ -1,6 +1,6 @@
 BOVS:
-  Node: A vertex in a BOVS diagram. Nodes are like nouns, representing Parties.
-  Arrow: An edge in a BOVS diagram. Arrows are like verbs, connecting Nodes to show relationships.
+  Node: A vertex in a BOVS diagram. Nodes function like nouns, representing Parties.
+  Arrow: An edge in a BOVS diagram. Arrows function like verbs, connecting Nodes to show relationships.
   Chain: A series of Nodes continuously connected by Arrows is called a Chain. The "start" of the Chain is the first Node and the "end" is the last, based on the direction of the Arrows.
   Party: General term for any kind of thing (e.g. Person, Company) that can be involved in a beneficial ownership situation.
   Beneficiary: Any Party that has ownership or control of another Party. The Beneficiary at the start of a Chain is the "ultimate" Beneficiary.
@@ -10,3 +10,5 @@ BOVS:
   Regime: A country, state, or governing body with recognised sovereignty that can own or control Objects.
   Entity: Any legal construction that a Party could have an interest in, such as a Company, Trust, Partnership, Contract, etc.
   Organisation: Any incorporated entity such as a limited company, public company or charity.
+  Distance: The Distance between two Nodes is the length of the shortest Chain that connects them. The length of a Chain is the number of Arrows that are present in it.
+  Direct: A Party has a Direct interest in another if the Distance between them is 1. Otherwise the interest is Indirect.

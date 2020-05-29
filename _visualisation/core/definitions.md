@@ -5,20 +5,25 @@ layout: visualisation
 
 ![Nodes, Arrows and Chains in a BOVS Diagram](bovs-core-definitions-structure.jpg)
 
-At their core, BOVS diagrams are [directed graphs](https://en.wikipedia.org/wiki/Directed_graph){:target="_blank"} (basically, flow diagrams). They consist of nodes (vertices), connected by arrows (edges).
+At their core, BOVS Diagrams are [directed graphs](https://en.wikipedia.org/wiki/Directed_graph){:target="_blank"} (basically, flow diagrams). They consist of Nodes (vertices), connected by Arrows (edges).
+
+The following terms are used to talk generally about parts of BOVS Diagrams.
 
 Node
-: Nodes are like nouns, representing Parties (see below).
+: Nodes function like nouns, representing Parties (see below).
 
 Arrow
-: Arrows are like verbs, connecting Nodes to show relationships.
+: Arrows function like verbs, connecting Nodes to show relationships.
 
 Chain
 : {{ site.data.definitions.BOVS.Chain }}
 
+Distance 
+: {{ site.data.definitions.BOVS.Distance}}
+
 ![Parties, Beneficiaries, Subjects and Objects in a BOVS Diagram](bovs-core-definitions-vocabulary.jpg)
 
-The following terms are used to talk generally about BOVS's [Vocabulary](/visualisation/core/vocabulary).
+The following terms are used to talk generally about parts of beneficial ownership structures.
 
 Party
 : {{ site.data.definitions.BOVS.Party }}
@@ -31,3 +36,6 @@ Subject
 
 Object
 : {{ site.data.definitions.BOVS.Object }}
+
+Direct/Indirect Interest
+: {{ site.data.definitions.BOVS.Direct }}
