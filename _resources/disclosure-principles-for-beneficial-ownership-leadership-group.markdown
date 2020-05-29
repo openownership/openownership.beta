@@ -14,6 +14,7 @@ file: "/uploads/oo-disclosure-principles.pdf"
 author: Zosia Sztykowski
 thumbnail-image: "/uploads/OGP.jpg"
 resource_type: Charters, Principles & Mission Statements
+is_featured: false
 ---
 
 **Declaration of national commitment to meet the Beneficial Ownership Transparency Disclosure Principles**

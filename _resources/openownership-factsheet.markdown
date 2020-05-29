@@ -7,6 +7,7 @@ author: OpenOwnership
 thumbnail-image: "/uploads/factsheet-thumbnail.jpg"
 position: 1
 resource_type: Summaries & Factsheets
+is_featured: true
 ---
 
 This factsheet provides a two-page introduction to OpenOwnership.

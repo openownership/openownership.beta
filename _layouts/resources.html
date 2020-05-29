@@ -30,28 +30,15 @@ layout: default
 </section>
 
 <section class="grid-container padding-bottom-3">
-  {% assign sorted_resources = site.resources | sort: "date" | sort:"position", "last" %}
-  {% for resource in sorted_resources %}
-
-  <div class="grid-x grid-padding-x grid-padding-y align-center resource {{resource.resource_type | slugify}}">
-
-    <div class="small-12 medium-6 large-2 cell">
-      <a href="{{ resource.file }}">
-        <img src="{{ resource.thumbnail-image }}" class="image--resource">
-      </a>
-    </div>
-
-    <div class="small-12 medium-6 large-10 cell">
-      <h5 class="sans-bold">{{resource .title}}</h5>
-      <div class="medium-gray margin-bottom-1">{{resource.author }} · {{ resource.date | date: site.date_format }}</div>
-      {{resource.content | markdownify}}
-      <a class="button margin-bottom-0" href="{{resource.file}}">
-        View document
-      </a>
-    </div>
-
-
-  </div>
+  {% assign featured_resources = site.resources | where:"is_featured", true %}
+  {% assign other_resources = site.resources | where:"is_featured", false %}
+  {% assign sorted_featured_resources = featured_resources | sort:"position", "last" %}
+  {% assign sorted_other_resources = other_resources | sort:"date" | reverse %}
+  {% for resource in sorted_featured_resources %}
+    {% include blocks/resource.html resource=resource %}
+  {% endfor %}
+  {% for resource in sorted_other_resources %}
+    {% include blocks/resource.html resource=resource %}
   {% endfor %}
 </section>
 <!-- End Resources Grid -->

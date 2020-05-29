@@ -7,6 +7,7 @@ file: "/uploads/oo-response-to-british-columbia-consultation.pdf"
 thumbnail-image: "/uploads/oo-response-to-british-columbia-consultation.jpg"
 author: OpenOwnership
 resource_type: Consultations
+is_featured: false
 ---
 
 OpenOwnership's contribution to the British Columbia (B.C.) consultation on a public

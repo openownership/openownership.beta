@@ -10,6 +10,7 @@ thumbnail-image: "/uploads/oo-example-paper-forms-image.JPG"
 author: OpenOwnership
 position: 3
 resource_type: Tools
+is_featured: true
 ---
 
 This document provides example forms to guide officials tasked with developing paper forms to collect beneficial ownership information.

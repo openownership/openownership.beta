@@ -7,6 +7,7 @@ file: "/uploads/oo-response-to-corporate-transparency-and-register-reform-consul
 thumbnail-image: "/uploads/oo-response-to-corporate-transparency-and-register-reform-consultation.jpg"
 author: OpenOwnership
 resource_type: Consultations
+is_featured: false
 ---
 
 OpenOwnership's response to the UK Department for Business, Energy, and Industrial

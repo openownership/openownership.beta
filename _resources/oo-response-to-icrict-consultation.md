@@ -7,6 +7,7 @@ file: "/uploads/oo-response-to-icrict-consultation.pdf"
 thumbnail-image: "/uploads/oo-response-to-icrict-consultation.jpg"
 author: OpenOwnership
 resource_type: Consultations
+is_featured: false
 ---
 
 OpenOwnership's consultation response to the ICRICT consultation on a national

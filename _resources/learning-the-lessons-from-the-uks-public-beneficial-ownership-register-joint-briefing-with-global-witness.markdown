@@ -5,6 +5,7 @@ file: "/uploads/learning-the-lessons.pdf"
 author: OpenOwnership and Global Witness
 thumbnail-image: "/uploads/learning-lessons-doc.jpg"
 resource_type: Reports
+is_featured: false
 ---
 
 In 2016 the UK became one of the first countries to
