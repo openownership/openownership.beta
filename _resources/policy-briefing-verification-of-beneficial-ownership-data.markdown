@@ -4,7 +4,7 @@ date: 2020-05-07 16:24:00 Z
 categories:
 - Policy Briefing
 tags:
-- Verification
+- verification
 description: 'To maximise the impact of beneficial ownership registers, it is important
   that users and authorities can trust that the data contained in a register broadly
   reflects the true and up to date reality of who owns or controls a particular company.

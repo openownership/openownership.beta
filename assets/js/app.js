@@ -393,6 +393,9 @@ $(function(){
 });
 
 // 4. Resources page
+// TODO - this is copy-pasted from the map filters
+// with some improvements - make it generic and use the same code for both
+// filters if we do any more work on this
 $(function(){
   var $resources = $('.resource');
   if($resources.length == 0) {
@@ -438,14 +441,13 @@ $(function(){
 
   function setFiltersFromURL() {
     var urlParams = new URLSearchParams(location.search.substr(1));
-    var resourceType = urlParams.get('resource-type');
-    if(resourceType) {
+    urlParams.forEach(function(value, key) {
       $filters
-        .filter('[name="resource-type"]')
-        .find('option[value="' + resourceType + '"]')
+        .filter('[name="' + key + '"]')
+        .find('option[value="' + value + '"]')
         .prop('selected', true)
         .trigger('change');
-    }
+    });
   }
 
   function saveFiltersToURL() {

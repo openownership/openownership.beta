@@ -14,7 +14,7 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 cell resource-filters">
-      <p><label for="resource-type-filter">Filter resources:</label></p>
+      <p><label for="resource-type-filter">Show resources:</label></p>
       <select id="resource-type-filter" name="resource-type">
         <option value="">In any category</option>
         <option value="tools">Tools</option>
@@ -24,6 +24,13 @@ layout: default
         <option value="summaries-factsheets">Summaries & Factsheets</option>
         <option value="consultations">Consultations</option>
         <option value="charters-principles-mission-statements">Charters, Principles & Mission Statements</option>
+      </select>
+      <select id="topics-filter" name="topic">
+        {% assign resource_tags =  site.resources | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
+        <option value="">On any topic</option>
+        {% for tag in resource_tags %}
+          <option value="{{tag | slugify}}">{{tag | capitalize}}</option>
+        {% endfor %}
       </select>
     </div>
   </div>
