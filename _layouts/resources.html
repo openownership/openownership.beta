@@ -13,8 +13,10 @@ layout: default
 <!-- Resources Grid -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 cell resource-filters">
-      <p><label for="resource-type-filter">Show resources:</label></p>
+    <div class="small-12 cell resource-filters padding-bottom-0 margin-bottom-0">
+      <p class="margin-bottom-0"><label for="resource-type-filter">Show resources:</label></p>
+    </div>
+    <div class="small-12 medium-4 cell resource-filters">
       <select id="resource-type-filter" name="resource-type">
         <option value="">In any category</option>
         <option value="tools">Tools</option>
@@ -25,6 +27,8 @@ layout: default
         <option value="consultations">Consultations</option>
         <option value="charters-principles-mission-statements">Charters, Principles & Mission Statements</option>
       </select>
+    </div>
+    <div class="small-12 medium-4 cell resource-filters">
       <select id="topics-filter" name="topic">
         {% assign resource_tags =  site.resources | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
         <option value="">On any topic</option>
@@ -32,6 +36,8 @@ layout: default
           <option value="{{tag | slugify}}">{{tag | capitalize}}</option>
         {% endfor %}
       </select>
+    </div>
+    <div class="small-12 medium-4 cell resource-filters">
       <select id="languages-filter" name="language">
         {% assign languages = "" | split: "," %}
         {% for resource in site.resources %}
