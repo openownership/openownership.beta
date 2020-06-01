@@ -8,7 +8,8 @@ tags:
 - comprehensive coverage
 - timely and updated
 - historic records
-file: "/uploads/oo-bo-policy-reviewer-interactive.pdf"
+files:
+  en: "/uploads/oo-bo-policy-reviewer-interactive.pdf"
 thumbnail-image: "/uploads/oo-beneficial-ownership-policy-reviewer-image.JPG"
 author: OpenOwnership
 position: 5

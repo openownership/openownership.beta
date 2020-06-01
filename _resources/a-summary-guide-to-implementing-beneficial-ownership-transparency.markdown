@@ -3,7 +3,8 @@ title: A Summary Guide to Implementing Beneficial Ownership Transparency
 date: 2019-05-20 00:00:00 Z
 tags:
 - the beneficial ownership data standard
-file: "/uploads/oo-implementation-guide-booklet-68508a.pdf"
+files:
+  en: "/uploads/oo-implementation-guide-booklet-68508a.pdf"
 thumbnail-image: "/uploads/oo-implementation-guide-image.JPG"
 author: OpenOwnership
 resource_type: Summaries & Factsheets

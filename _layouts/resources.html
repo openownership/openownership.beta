@@ -32,6 +32,19 @@ layout: default
           <option value="{{tag | slugify}}">{{tag | capitalize}}</option>
         {% endfor %}
       </select>
+      <select id="languages-filter" name="language">
+        {% assign languages = "" | split: "," %}
+        {% for resource in site.resources %}
+          {% for file in resource.files %}
+            {% assign languages =  languages | push: file[0] %}
+          {% endfor %}
+        {% endfor %}
+        {% assign unique_languages = languages | uniq %}
+        <option value="">In any language</option>
+        {% for language in unique_languages %}
+          <option value="{{language}}">{{ site.data.language_names[language]['name'] | capitalize }}</option>
+        {% endfor %}
+      </select>
     </div>
   </div>
 </section>

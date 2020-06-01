@@ -2,20 +2,27 @@
   class="grid-x grid-padding-x grid-padding-y align-center resource
          {{resource.resource_type | slugify}}
          {% for tag in resource.tags %} {{tag | slugify}}{%endfor%}
+         {% for file in resource.files %} {{file[0]}}{%endfor%}
          ">
 
   <div class="small-12 medium-6 large-2 cell">
-    <a href="{{ resource.file }}">
-      <img src="{{ resource.thumbnail-image }}" class="image--resource">
-    </a>
+    <img src="{{ resource.thumbnail-image }}" class="image--resource">
   </div>
 
   <div class="small-12 medium-6 large-10 cell">
     <h5 class="sans-bold">{{resource .title}}</h5>
     <div class="medium-gray margin-bottom-1">{{resource.author }} · {{ resource.date | date: site.date_format }}</div>
     {{resource.content | markdownify}}
-    <a class="button margin-bottom-0" href="{{resource.file}}">
-      View document
-    </a>
+    <p>
+      <strong>Download document</strong>
+    </p>
+    <p>
+      {% for file in resource.files %}
+        <a class="button margin-bottom-0" href="{{ file[1] }}">
+          {% assign lang_code = file[0] %}
+          {{ site.data.language_names[lang_code]['name'] | capitalize }}
+        </a>
+      {% endfor %}
+    </p>
   </div>
 </div>

@@ -1,7 +1,8 @@
 ---
 title: OpenOwnership Mission Statement 2018
 date: 2018-08-01 11:32:00 Z
-file: "/uploads/mission-statement.pdf"
+files:
+  en: "/uploads/mission-statement.pdf"
 author: Zosia Sztykowski
 thumbnail-image: "/uploads/mission-statement-doc.jpg"
 resource_type: Charters, Principles & Mission Statements

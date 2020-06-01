@@ -12,7 +12,9 @@ description: This report summarizes findings from Open Ownership’s scoping vis
   its policy objective and generate useful beneficial ownership data. The issues and
   recommendations in this report will also be relevant to other EITI countries implementing
   beneficial ownership transparency commitments in line with the EITI Standard.
-file: "/uploads/opo-kyrgyz-republic-scoping-report.pdf"
+files:
+  en: "/uploads/opo-kyrgyz-republic-scoping-report.pdf"
+  ru: "/uploads/opo-kyrgyz-republic-scoping-report-russian.pdf"
 author: 'Louise Russell-Prywata, Jack Lord '
 thumbnail-image: "/uploads/opo-kyrgyz-republic-scoping-report.jpg"
 resource_type: Reports

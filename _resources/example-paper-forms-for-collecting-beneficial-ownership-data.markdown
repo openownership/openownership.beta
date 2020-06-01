@@ -5,7 +5,8 @@ title: |-
 date: 2019-06-12 12:00:00 Z
 tags:
 - robust definitions
-file: "/uploads/oo-example-paper-forms-329df2.pdf"
+files:
+  en: "/uploads/oo-example-paper-forms-329df2.pdf"
 thumbnail-image: "/uploads/oo-example-paper-forms-image.JPG"
 author: OpenOwnership
 position: 3
