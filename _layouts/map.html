@@ -1,0 +1,164 @@
+---
+layout: default
+---
+
+<!-- Page Title -->
+{% include blocks/title.html %}
+<!-- End Page Title -->
+
+<!-- Page Content -->
+{% include blocks/content.html %}
+<!-- End Page Content -->
+
+<section class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 cell">
+      <div class="world-map" id="map">
+        <noscript>Sorry, you need javascript enabled to see a map of countries.</noscript>
+      </div>
+    </div>
+  </div>
+  <div class="grid-x grid-padding-x grid-padding-y padding-bottom-2 map-filters">
+    {% assign engaged = site.data.countries | where: 'involved', 'True' %}
+    {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
+    {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
+    <div class="small-12 medium-7 cell">
+      <div class="map-legend">
+        <div class="map-legend-icon ">
+          {% comment %}
+            We support 14 UK overseas territories, but we only have one entry
+            for them in our knowledgebase, so we bump up the numbers here
+          {% endcomment %}
+          {{engaged.size | plus: 13 }}
+          <svg class="icon icon-hexagon map-legend-engagement"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        </div>
+        <div class="map-legend-text">
+          <span class="map-legend-highlight map-legend-engagement">countries where OpenOwnership is engaged</span><br>including 14 British Overseas Territories
+        </div>
+      </div>
+      <div class="map-legend">
+        <div class="map-legend-icon">
+          {{fully_committed.size}}
+          <svg class="icon icon-hexagon map-legend-full"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        </div>
+        <div class="map-legend-text">
+          <span class="map-legend-highlight map-legend-full">countries are fully committed</span><br>to Beneficial Ownership Transparency
+        </div>
+      </div>
+      <div class="map-legend">
+        <div class="map-legend-icon">
+          {{partially_committed.size}}
+          <svg class="icon icon-hexagon map-legend-partial"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        </div>
+        <div class="map-legend-text">
+          <span class="map-legend-highlight map-legend-partial">countries are partially committed</span><br>to Beneficial Ownership Transparency
+        </div>
+      </div>
+    </div>
+    <div class="small-12 medium-5 cell">
+      <p><label for="commitment-filter">Show countries with:</label></p>
+      <select id='commitment-filter' name="commitment">
+        <option value="">Any commitment</option>
+        <option value="all-sectors">Commitments to a register covering the whole economy</option>
+        <option value="central">Commitments to a central register</option>
+        <option value="public">Commitments to a public register</option>
+      </select>
+      <select id='register-filter' name="register">
+        <option value="">Any or no register</option>
+        <option value="register-online">An online register</option>
+        <option value="in-oo-register">Data in the OpenOwnership register</option>
+      </select>
+    </div>
+    <div class="small-12 cell text-center">
+      <a class="button primary see-all-countries-button" href="/map">See all countries</a>
+    </div>
+  </div>
+</section>
+
+<section class="snow-background padding-top-2 padding-bottom-1">
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x countries-grid align-center">
+      {% for country in site.data.countries %}
+        {% assign regimes = site.data.regimes | where: "country_notion_id", country.notion_id %}
+        <div class="small-12 medium-10 large-8 cell padding-1 country"
+              id="{{country.iso2}}"
+              data-iso2="{{country.iso2}}"
+              data-name="{{country.name}}"
+              data-committed="{{country.committed | downcase}}"
+              data-involved="{{country.involved | downcase}}"
+              data-involvement="{{country.involvement}}"
+              data-central="{{country.central | downcase}}"
+              data-public="{{country.public | downcase}}"
+              data-all-sectors="{{country.all_sectors | downcase}}"
+              data-commitment-level="{{country.commitment_level}}"
+              data-capital-lat="{{country.capital_lat}}"
+              data-capital-lon="{{country.capital_lon}}"
+              data-register-online="{{country.any_online_register | downcase}}"
+              data-in-oo-register="{{country.any_data_in_oo_register | downcase}}"
+              data-last-updated="{{country.last_updated}}">
+          <div class="callout shadow large">
+            <h2 class="country_name">{{ country['name'] }}</h2>
+            <div class="summary">
+              <p class="margin-bottom-0"><strong>Any register(s) online:</strong> {% if country.any_online_register == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Any data in the OpenOwnership Register:</strong> {% if country.any_data_in_oo_register == 'True' %}✓{% else %}x{%endif%}</p>
+              <p><strong>OpenOwnership engagement:</strong> {% if country.involved == 'True' %}{{ country.involvement }}{% else %}None{%endif%}</p>
+
+              <p class="margin-bottom-0"><strong>Committed to register covering whole economy:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Committed to central register:</strong> {% if country.central == 'True' %}✓{% else %}x{%endif%}</p>
+              <p><strong>Committed to public register:</strong> {% if country.public == 'True' %}✓{% else %}x{%endif%}</p>
+
+              <p><strong>Last updated:</strong> {{ country.last_updated | date_to_long_string }}</p>
+            </div>
+            {% if country.any_online_register == 'True' or country.any_data_in_oo_register == 'True' %}
+              <div class="links">
+                <h4>Data</h4>
+                <ul>
+                {% for regime in regimes %}
+                  <li>
+                    {% if regime.register_url != '' %}
+                      <a href="{{regime.register_url}}">{{ regime.name }}</a>
+                      {% if regime.scope != '' %}
+                        <span class="margin-left-1 label label--tag text-capitalize">{{ regime.scope }}</span>
+                      {% endif %}
+                    {% endif %}
+                  </li>
+                {% endfor %}
+                {% for regime in regimes %}
+                  {% if regime.oo_register_url != '' %}
+                    <li>
+                      <a href="{{regime.oo_register_url}}">Data source information in the OpenOwnership Register</a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+                </ul>
+              </div>
+            {% endif %}
+            <div class="commitments">
+              {% if country.commitments_html != '' %}
+                <h4>Commitments</h4>
+                {{country.commitments_html}}
+              {% endif %}
+            </div>
+            {% assign country_tag = country.name | downcase %}
+            {% assign tag_posts = site.tags[country_tag] %}
+            {% if tag_posts %}
+              <div class="news">
+                <h4>News & Resources</h4>
+                <ul>
+                  {% for post in tag_posts %}
+                    <li><a href="{{ post.url }}">{{post.title}}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endif %}
+            <div class="country-footer">
+              <p>
+                Data outdated/incorrect? <a href="https://share.hsforms.com/1ooDVGfPWQFyc93l3Bds9jA3upv4">Please let us know</a>.
+              </p>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
