@@ -1,7 +1,6 @@
 name: Update map
 
 on:
-  push:
   schedule:
     - cron: '0 4 * * 0'
 
