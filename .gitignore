@@ -3,6 +3,10 @@
 Gemfile.lock
 _site/
 node_modules/
+bower_components
 .jekyll-cache
+.jekyll-metadata
 .sh
 scripts/env.sh
+.env
+venv

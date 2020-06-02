@@ -99,6 +99,11 @@ $green: #25cb55; // Malachite
 $anti-flash-white: #f3f3f5;
 $spring-wood: #f9f7f2;
 
+// Map colours
+$engagement: rgb(178,15,71);
+$full-commitment: rgb(50,64,140);
+$partial-commitment: rgb(53,150,242);
+
 $body-background: $white;
 $body-font-color: $black;
 // $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
@@ -960,4 +965,3 @@ $grid-padding-gutters: $grid-margin-gutters;
 $grid-container-padding: $grid-padding-gutters;
 $grid-container-max: $global-width;
 $xy-block-grid-max: 8;
-
