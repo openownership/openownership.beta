@@ -24,7 +24,7 @@ Diagrams with a Subject Focus show all the Parties that exist in the forward dir
 
 ## Distance
 
-**Diagrams have a Distance, which, unless you decide otherwise, is unlimited.** All Chains in the diagram are cut short at a length equal to the Distance.
+**Diagrams have a Distance, which, unless you decide and note otherwise, is unlimited.** All Chains in the diagram are cut short at a length equal to the Distance.
 
 In backwards diagrams, this allows you to focus on:
 

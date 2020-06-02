@@ -3,7 +3,7 @@ title: Optional Features
 layout: visualisation
 ---
 
-**The Optional Features of the Beneficial Ownership Visualisation System (BODS) allow diagrams to be progressively enhanced.** If you choose to use an Optional Feature, you must follow all of its related rules.
+**Optional Features allow BOVS diagrams to be progressively enhanced.** If you choose to use an Optional Feature, you must follow all of its related rules.
 
 **We recommend that you always incorporate Annotation and Colour** features unless it's cumbersome to do so, e.g. when hand-sketching.
 

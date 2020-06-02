@@ -12,7 +12,7 @@ layout: visualisation
 
 ## Core Rules
 
-You can learn all of the Core Rules in 20 minutes by reading through the following sections.
+You can learn all of the Core Rules in a few minutes by reading the following sections.
 
 ### Terms
 

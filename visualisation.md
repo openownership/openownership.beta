@@ -40,30 +40,9 @@ The above shows an example of a BOVS diagram. This describes a situation where:
 
 ## How to draw BOVS Diagrams
 
-### [Core Rules](/visualisation/core)
-
-The Core Rules must be used for all BOVS Diagrams.
-
-[Learn the Core Rules](/visualisation/core)
-
-### [Optional Features](/visualisation/optional/)
-
-You may choose to enhance your diagrams further with the following Optional Features. If doing so, you must follow all the rules for that Optional Feature. **We recommend that you always incorporate Annotation and Colour** features unless it's cumbersome to do so, e.g. when hand-sketching.
-
-[Annotation](/visualisation/optional/)
-: Specify the nature or level of interest for each line in the diagram
-
-[Colour](/visualisation/optional/)
-: Use colour to make ownership and control information easier to understand at a glance
-
-[Charts](/visualisation/optional/)
-: Summarise ownership or control information with a bar chart incorporated into the diagram
-
-[Metadata](/visualisation/optional/)
-: Give additional information about the Parties in your diagram with icons
-
-[More about Optional Features](/visualisation/optional)
-
+| **[Core Rules](/visualisation/core)**             | Must be followed for all BOVS Diagrams.
+| **[Optional Features](/visualisation/optional/)** | Ways to enhance your diagrams further.
+{: .unstriped }
 
 ## Resources
 
