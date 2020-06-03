@@ -3,7 +3,9 @@ title: Directionality
 layout: visualisation
 ---
 
-**Diagrams may be either vertical or horizontal.** Choose which, based on the space you have available.
+Diagrams may be either vertical or horizontal. Choose which, based on the space you have available.
+{: .lead}
+
 
 ## Vertical
 
@@ -12,6 +14,7 @@ In vertical diagrams, arrows must point down.
 ![Vertical BOVS Diagram](bovs-core-directionality-vertical.jpg)
 
 Prefer vertical diagrams if space allows.
+
 
 ## Horizontal
 
