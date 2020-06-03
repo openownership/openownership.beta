@@ -4,6 +4,10 @@ layout: visualisation
 ---
 
 Nodes represent interested Parties, such as Persons, Entities or Regimes.
+{: .lead}
+
+
+## Appearance
 
 * Nodes are drawn as a circle containing an icon.
   * Always draw circles/icons at the same size.
@@ -22,7 +26,7 @@ Nodes must have a Label underneath, identifying the Party. The Label can either 
 
 ### Identifiers
 
-Instead of naming a Party in its Label, you can create an Identifier. Do this when identifying the name is not [relevant]() or is not known. An Identifier is formed from:
+Instead of naming a Party in its Label, you can create an Identifier. Do this when identifying the name is not [relevant](/visualisation/core/relevance) or is not known. An Identifier is formed from:
 
 |      | Status +       | Type +             | Unique ID
 |      | (if required)  | The type of Party  | A unique incrementing letter or number
@@ -50,3 +54,8 @@ For each of these parts:
 {{ IdentifierPartTable | markdownify
   | replace: "UniqueIDInfo", UniqueIDInfo
 }}
+
+
+*[Nodes]: {{ site.data.definitions.BOVS.Node }}
+*[Parties]: {{ site.data.definitions.BOVS.Party }}
+*[Entities]: {{ site.data.definitions.BOVS.Entities }}
