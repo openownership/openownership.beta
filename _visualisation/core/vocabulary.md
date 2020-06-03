@@ -3,7 +3,8 @@ title: Vocabulary and Icons
 layout: visualisation
 ---
 
-**The "vocabulary" of the Beneficial Ownership Visualisation System (BOVS) specifies the types of Parties that can appear at the Nodes** in a BOVS diagram.
+The BOVS "vocabulary" specifies the types of Parties that can appear at the Nodes in a BOVS diagram.
+{: .lead }
 
 
 ## Subjects
