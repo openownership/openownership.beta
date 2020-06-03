@@ -1,7 +1,6 @@
 ---
 title: 'Global Register'
 date: 2020-05-07 16:24:00 Z
-tags:
 files:
   en: "https://register.openownership.org"
 author: OpenOwnership

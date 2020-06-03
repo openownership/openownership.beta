@@ -1,6 +1,8 @@
 ---
 title: The Beneficial Ownership Data Standard — Tools for developing good quality
   data
+tags:
+  - the beneficial ownership data standard
 date: 2019-01-09 10:07:00 Z
 files:
   en: "/uploads/BOT-network-support-tools-for-implementation.pdf"

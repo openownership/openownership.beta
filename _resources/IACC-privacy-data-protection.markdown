@@ -1,6 +1,8 @@
 ---
 title: Beneficial ownership transparency, privacy and data protection - IACC
 date: 2019-01-11 12:00:00 Z
+tags:
+  - privacy
 files:
   en: "/uploads/IACC-slides.pdf"
 author: Tom Walker, The Engine Room
