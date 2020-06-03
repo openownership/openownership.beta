@@ -3,7 +3,9 @@ title: Unknowns
 layout: visualisation
 ---
 
-**Often, our picture of a beneficial ownership situation contains many unknowns.** The following rules allow BOVS Diagrams to portray what we *do* know and indicate what we don't.
+Often, our picture of a beneficial ownership situation contains many unknowns. The following rules allow BOVS Diagrams to portray what we *do* know and indicate what we *don't*.
+{: .lead}
+
 
 ## Unknown Parties
 
@@ -15,16 +17,16 @@ layout: visualisation
   * For legitimate reasons
   * Due to non-disclosure or missing data
 
-As a Party is known to exist – despite its details being Unknown – we still draw a Node for it:
+As a Party is known to exist – despite its details being unknown – we still draw a Node for it:
 
 * Use the Unknown variant of the icon for that type of Party (see below)
 * Label the node with an [Identifier](/visualisation/core/parties-nodes), using the status "Unknown" or "Anonymous"
 
-### Unknown Party Icons
+### Icons
 
 Each icon in the [Vocabulary](/visualisation/core/vocabulary) has an Unknown variant. In general, the Unknown variant of an icon is the outline of the original icon, with a question mark inside it.
 
-### Unknown Number of Parties
+### Unknown Number
 
 **We may know that Parties exist, but not *how many*.** In such situations:
 
@@ -39,11 +41,24 @@ Each icon in the [Vocabulary](/visualisation/core/vocabulary) has an Unknown var
 
 ## Obscured Interests
 
-**We may know an interest exists, but lack detail about it** – such interests are referred to as 'obscured'. This applies if there is an:
+**We may know an interest exists, but lack information about it** – such interests are referred to as 'obscured'. This applies in the cases of:
 
-* **Unknown *nature*** of interest (might be control or ownership)
-* **Unknown *level*** of interest (nature of interest is known, but it is not quantified)
-* ***Uncertain* level** of interest (known to be in a range, e.g. 10-20%)
-* **Unquantifiable** aspect to the interest (all of part of the interest cannot be expressed as a number)
+**Unknown *nature*** of interest
+: Not known if the interest includes control, and/or not known if the interest includes ownership.
 
-If an interest is known to exist, even if it is obscured, it should be included in the diagram. However, the Arrows for obscured interests may be treated differently by other rules, such as those for [Annotation](/visualisation/optional/annotation).
+**Unknown *level*** of interest
+: The nature of interest is known, but not the level of interest (it is not quantified).
+
+***Uncertain* level** of interest
+: The nature of interest is known, but the level of interest is only known to be within a range, e.g. 10-20%.
+
+**Unquantifiable** aspects of interest
+: All or part of the interest is of a nature that cannot be expressed as a number.
+
+All of these obscured interests, despite the missing information, should be included in your diagram.
+
+The Arrows for obscured interests may be treated differently by other rules, such as those for [Annotation](/visualisation/optional/annotation). As such, it is recommended to use Annotation especially when your diagram includes obscured interests.
+
+
+*[Entity]: {{ site.data.definitions.BOVS.Entity }}
+*[Entities]: {{ site.data.definitions.BOVS.Entity }}
