@@ -461,9 +461,22 @@ $(function(){
     history.replaceState({}, "", url)
   }
 
+  function toggleNoDataMessages() {
+    $('.no-resources-message').hide();
+    if($('.featured-resources .resource:visible').length === 0) {
+      $('.featured-resources .no-resources-message').show();
+    } else {
+
+    }
+    if($('.additional-resources .resource:visible').length === 0) {
+      $('.additional-resources .no-resources-message').show();
+    }
+  }
+
   // Wire up filters to hide/show map countries and cards
   $filters.on('change', function() {
     filterBySelections();
+    toggleNoDataMessages();
     saveFiltersToURL();
   });
 

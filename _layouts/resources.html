@@ -55,19 +55,21 @@ layout: default
   </div>
 </section>
 
-<section class="grid-container padding-bottom-3">
+<section class="grid-container padding-bottom-3 featured-resources">
   {% assign featured_resources = site.resources | where:"is_featured", true %}
   {% assign sorted_featured_resources = featured_resources | sort:"position", "last" %}
   <h2>Featured resources</h2>
+  <p class="no-resources-message">There are no featured resources which match your filters.</p>
   {% for resource in sorted_featured_resources %}
     {% include blocks/resource.html resource=resource %}
   {% endfor %}
 </section>
 
-<section class="grid-container padding-bottom-3">
+<section class="grid-container padding-bottom-3 additional-resources">
   {% assign other_resources = site.resources | where:"is_featured", false %}
   {% assign sorted_other_resources = other_resources | sort:"date" | reverse %}
   <h2>Additional resources</h2>
+  <p class="no-resources-message">There are no additional resources which match your filters.</p>
   {% for resource in sorted_other_resources %}
     {% include blocks/resource.html resource=resource %}
   {% endfor %}
