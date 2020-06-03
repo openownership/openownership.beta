@@ -9,7 +9,7 @@ files:
   en: "/uploads/oo-example-paper-forms-329df2.pdf"
 thumbnail-image: "/uploads/oo-example-paper-forms-image.JPG"
 author: OpenOwnership
-position: 3
+position: 5
 resource_type: Tools
 is_featured: true
 ---

@@ -57,12 +57,17 @@ layout: default
 
 <section class="grid-container padding-bottom-3">
   {% assign featured_resources = site.resources | where:"is_featured", true %}
-  {% assign other_resources = site.resources | where:"is_featured", false %}
   {% assign sorted_featured_resources = featured_resources | sort:"position", "last" %}
-  {% assign sorted_other_resources = other_resources | sort:"date" | reverse %}
+  <h2>Featured resources</h2>
   {% for resource in sorted_featured_resources %}
     {% include blocks/resource.html resource=resource %}
   {% endfor %}
+</section>
+
+<section class="grid-container padding-bottom-3">
+  {% assign other_resources = site.resources | where:"is_featured", false %}
+  {% assign sorted_other_resources = other_resources | sort:"date" | reverse %}
+  <h2>Additional resources</h2>
   {% for resource in sorted_other_resources %}
     {% include blocks/resource.html resource=resource %}
   {% endfor %}

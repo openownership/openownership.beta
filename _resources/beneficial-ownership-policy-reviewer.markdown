@@ -12,7 +12,7 @@ files:
   en: "/uploads/oo-bo-policy-reviewer-interactive.pdf"
 thumbnail-image: "/uploads/oo-beneficial-ownership-policy-reviewer-image.JPG"
 author: OpenOwnership
-position: 5
+position: 9
 resource_type: Tools
 is_featured: true
 ---
