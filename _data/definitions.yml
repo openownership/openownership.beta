@@ -10,5 +10,5 @@ BOVS:
   Regime: A country, state, or governing body with recognised sovereignty that can own or control Objects.
   Entity: Any legal construction that a Party could have an interest in, such as a Company, Trust, Partnership, Contract, etc.
   Organisation: Any incorporated entity such as a limited company, public company or charity.
-  Distance: The Distance between two Nodes is the length of the shortest Chain that connects them. The length of a Chain is the number of Arrows that are present in it.
+  Distance: The Distance between two Nodes is the length of the shortest Chain that connects them. The length of a Chain is the number of Arrows that are present in it. Two parties are 'distant' if the Chain connecting them has a length greater than 1.
   Direct: A Party has a Direct interest in another if the Distance between them is 1. Otherwise the interest is Indirect.
