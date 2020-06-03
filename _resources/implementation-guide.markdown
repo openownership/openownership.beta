@@ -12,6 +12,7 @@ files:
   en: "/guide/"
 author: OpenOwnership
 thumbnail-image: "/uploads/implementation-guide-thumbnail.jpg"
+thumbnail-image-class: web-resource
 resource_type: Tools
 is_featured: true
 position: 2

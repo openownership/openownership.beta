@@ -5,6 +5,7 @@ files:
   en: "https://register.openownership.org"
 author: OpenOwnership
 thumbnail-image: "/uploads/register-thumbnail.jpg"
+thumbnail-image-class: web-resource
 resource_type: Tools
 is_featured: true
 position: 8

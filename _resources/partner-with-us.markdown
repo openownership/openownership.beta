@@ -6,6 +6,7 @@ files:
   es: "/uploads/asociese-con-nosotros.pdf"
 author: OpenOwnership
 thumbnail-image: "/uploads/partner-with-us-thumbnail.jpg"
+thumbnail-image-class: web-resource
 resource_type: Summaries & Factsheets
 is_featured: true
 position: 7

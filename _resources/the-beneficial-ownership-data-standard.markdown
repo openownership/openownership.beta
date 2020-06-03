@@ -9,6 +9,7 @@ files:
   ru: "http://standard.openownership.org/ru/0.2.0/"
 author: OpenOwnership
 thumbnail-image: "/uploads/data-standard-thumbnail.jpg"
+thumbnail-image-class: web-resource
 resource_type: Tools
 is_featured: true
 position: 3

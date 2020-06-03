@@ -233,6 +233,9 @@ p {
 
 .image--resource {
   box-shadow: 4px 4px 0px $primary-color;
+  &.web-resource {
+    box-shadow: none;
+  }
 }
 
 .home ol li p, .home ol {

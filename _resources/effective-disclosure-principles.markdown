@@ -7,6 +7,7 @@ files:
   es: "/uploads/principios-divulgacion-efectiva-de-los-beneficiarios-finales.pdf"
 author: OpenOwnership
 thumbnail-image: "/uploads/principles-thumbnail.jpg"
+thumbnail-image-class: web-resource
 resource_type: Tools
 is_featured: true
 position: 4
