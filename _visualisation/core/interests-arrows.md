@@ -4,6 +4,7 @@ layout: visualisation
 ---
 
 Arrows connect Nodes, showing that one Party has a direct interest in another.
+{: .lead}
 
 
 ## Direction
@@ -31,3 +32,8 @@ Just one arrow is used to represent any nature or level of interest.
 
 * Draw arrows as clearly as possible.
 * Arrows may be drawn straight, curly or with elbow joints – whatever works best for you.
+
+
+*[Nodes]: {{ site.data.definitions.BOVS.Node }}
+*[Arrows]: {{ site.data.definitions.BOVS.Node }}
+*[Party]: {{ site.data.definitions.BOVS.Party }}
