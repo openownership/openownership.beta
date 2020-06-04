@@ -6,34 +6,68 @@ layout: default
 {% include blocks/title.html %}
 <!-- End Page Title -->
 
-<!-- Page Content -->
-{% include blocks/content.html %}
-<!-- End Page Content -->
-
 <!-- Resources Grid -->
-<section class="grid-container padding-bottom-3">
-  {% assign sorted_resources = site.resources | sort:"date" | reverse %}
-  {% for resource in sorted_resources %}
-
+<section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-
-    <div class="small-12 medium-6 large-2 cell">
-      <a href="{{ resource.file }}">
-        <img src="{{ resource.thumbnail-image }}" class="image--resource">
-      </a>
+    <div class="small-12 cell resource-filters padding-bottom-0 margin-bottom-0">
+      <p class="margin-bottom-0"><label for="resource-type-filter">Show resources:</label></p>
     </div>
-
-    <div class="small-12 medium-6 large-10 cell">
-      <h5 class="sans-bold">{{resource .title}}</h5>
-      <div class="medium-gray margin-bottom-1">{{resource.author }} · {{ resource.date | date: site.date_format }}</div>
-      {{resource.content | markdownify}}
-      <a class="button margin-bottom-0" href="{{resource.file}}">
-        View document
-      </a>
+    <div class="small-12 medium-4 cell resource-filters">
+      <select id="resource-type-filter" name="resource-type">
+        <option value="">In any category</option>
+        <option value="tools">Tools</option>
+        <option value="briefings">Briefings</option>
+        <option value="presentations">Presentations</option>
+        <option value="reports">Reports</option>
+        <option value="summaries-factsheets">Summaries & Factsheets</option>
+        <option value="consultations">Consultations</option>
+        <option value="charters-principles-mission-statements">Charters, Principles & Mission Statements</option>
+      </select>
     </div>
-
-
+    <div class="small-12 medium-4 cell resource-filters">
+      <select id="topics-filter" name="topic">
+        {% assign resource_tags =  site.resources | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
+        <option value="">On any topic</option>
+        {% for tag in resource_tags %}
+          <option value="{{tag | slugify}}">{{tag | capitalize}}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="small-12 medium-4 cell resource-filters">
+      <select id="languages-filter" name="language">
+        {% assign languages = "" | split: "," %}
+        {% for resource in site.resources %}
+          {% for file in resource.files %}
+            {% assign languages =  languages | push: file[0] %}
+          {% endfor %}
+        {% endfor %}
+        {% assign unique_languages = languages | uniq %}
+        <option value="">In any language</option>
+        {% for language in unique_languages %}
+          <option value="{{language}}">{{ site.data.language_names[language]['name'] | capitalize }}</option>
+        {% endfor %}
+      </select>
+    </div>
   </div>
+</section>
+
+<section class="grid-container padding-bottom-3 featured-resources">
+  {% assign featured_resources = site.resources | where:"is_featured", true %}
+  {% assign sorted_featured_resources = featured_resources | sort:"position", "last" %}
+  <h2>Featured resources</h2>
+  <p class="no-resources-message">There are no featured resources which match your filters.</p>
+  {% for resource in sorted_featured_resources %}
+    {% include blocks/resource.html resource=resource %}
+  {% endfor %}
+</section>
+
+<section class="grid-container padding-bottom-3 additional-resources">
+  {% assign other_resources = site.resources | where:"is_featured", false %}
+  {% assign sorted_other_resources = other_resources | sort:"date" | reverse %}
+  <h2>Additional resources</h2>
+  <p class="no-resources-message">There are no additional resources which match your filters.</p>
+  {% for resource in sorted_other_resources %}
+    {% include blocks/resource.html resource=resource %}
   {% endfor %}
 </section>
 <!-- End Resources Grid -->

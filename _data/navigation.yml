@@ -9,8 +9,6 @@ header:
     url: /resources/
   - title: Connect with us
     url: /connect-with-us/
-  - title: Jobs
-    url: /jobs/
 
 footer:
   - title: What we do
@@ -23,3 +21,7 @@ footer:
     url: /resources/
   - title: Connect with us
     url: /connect-with-us/
+  - title: Jobs
+    url: /jobs/
+  - title: Español
+    url: /resources/?language=es

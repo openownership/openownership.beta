@@ -1,0 +1,21 @@
+---
+title: Implementation Guide
+date: 2020-05-07 16:24:00 Z
+tags:
+- the beneficial ownership data standard
+- privacy
+- robust definitions
+- comprehensive coverage
+- timely and updated
+- historic records
+position: 2
+files:
+  en: "/guide/"
+author: OpenOwnership
+thumbnail-image: "/uploads/implementation-guide-thumbnail.jpg"
+thumbnail-image-class: web-resource
+resource_type: Tools
+is_featured: true
+---
+
+A step-by-step guide to implementing beneficial ownership transparency.

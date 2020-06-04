@@ -1,15 +1,17 @@
 ---
 title: Five Characteristics of Effective Beneficial Ownership Data
 date: 2019-06-06 09:23:00 Z
+position: 10
 description: |-
   This briefing outlines five characteristics of effective beneficial ownership data, which together help make published data easy to use, more accurate, and interoperable.
 
   These characteristics draw on established principles for publishing open data, and underpin OpenOwnership’s approach to beneficial ownership transparency. For each characteristic, we make concrete recommendations for countries implementing beneficial ownership transparency. These are consistent with the Beneficial Ownership Data Standard, which allows beneficial ownership data to be interoperable with data from other jurisdictions.
-file: "/uploads/oo-characteristics-effective-bo-data.pdf"
+files:
+  en: "/uploads/oo-characteristics-effective-bo-data.pdf"
 thumbnail-image: "/uploads/Characteristics%20Image.jpg"
+author: OpenOwnership
+resource_type: Summaries & Factsheets
+is_featured: true
 ---
 
 This briefing outlines five characteristics of effective beneficial ownership data, which together help make published data easy to use, more accurate, and interoperable.
-
-These characteristics draw on established principles for publishing open data, and underpin OpenOwnership’s approach to beneficial ownership transparency. For each characteristic, we make concrete recommendations for countries implementing beneficial ownership transparency. These are consistent with the Beneficial Ownership Data Standard, which allows beneficial ownership data to
-be interoperable with data from other jurisdictions.
