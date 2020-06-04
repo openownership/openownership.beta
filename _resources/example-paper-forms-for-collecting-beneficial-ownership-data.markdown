@@ -7,6 +7,7 @@ tags:
 - robust definitions
 files:
   en: "/uploads/oo-example-paper-forms-329df2.pdf"
+  es: "/uploads/paper-form-spanish.pdf"
 thumbnail-image: "/uploads/oo-example-paper-forms-image.JPG"
 author: OpenOwnership
 position: 5
