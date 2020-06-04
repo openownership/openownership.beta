@@ -1,10 +1,12 @@
 ---
 title: OpenOwnership Mission Statement 2018
 date: 2018-08-01 11:32:00 Z
-position: 2
-file: "/uploads/mission-statement.pdf"
+files:
+  en: "/uploads/mission-statement.pdf"
 author: Zosia Sztykowski
 thumbnail-image: "/uploads/mission-statement-doc.jpg"
+resource_type: Charters, Principles & Mission Statements
+is_featured: false
 ---
 
 Anonymously-owned companies stand in the way of better, fairer markets and a more just society. Our mission is to drive greater corporate transparency across the world by making it easy to publish and access high-quality, linked data about who owns companies. 3

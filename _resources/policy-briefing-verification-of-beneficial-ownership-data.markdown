@@ -4,14 +4,15 @@ date: 2020-05-07 16:24:00 Z
 categories:
 - Policy Briefing
 tags:
-- Verification
-description: 'To maximise the impact of beneficial ownership registers, it is important
-  that users and authorities can trust that the data contained in a register broadly
-  reflects the true and up to date reality of who owns or controls a particular company.
-
-'
-file: "/uploads/OpenOwnership%20Verification%20Briefing.pdf"
+- verification
+description:
+files:
+  en: "/uploads/OpenOwnership%20Verification%20Briefing.pdf"
+  es: "/uploads/verification-briefing-spanish.pdf"
 author: OpenOwnership
 thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
+position: 6
+resource_type: Briefings
+is_featured: true
 ---
-
+A policy briefing on verification best practice, case studies and implementation.

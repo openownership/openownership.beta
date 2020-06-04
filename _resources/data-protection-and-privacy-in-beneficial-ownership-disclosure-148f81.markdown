@@ -12,9 +12,12 @@ description: 'This is a research report from OpenOwnership, The B Team and The E
   data to the public, evaluated from both the perspective of the companies holding
   that information and the authorities requiring it to be disclosed publicly, and
   the relationship with data protection and privacy laws.  '
-file: "/uploads/oo-data-protection-and-privacy-188205.pdf"
+files:
+  en: "/uploads/oo-data-protection-and-privacy-188205.pdf"
 author: OpenOwnership, The B Team and The Engine Room
 thumbnail-image: "/uploads/Cover.JPG"
+resource_type: Reports
+is_featured: false
 ---
 
 This is a research report from OpenOwnership, The B Team and The Engine Room in which we consider the legal implications of public beneficial ownership data to the public, evaluated from both the perspective of the companies holding that information and the authorities requiring it to be disclosed publicly, and the relationship with data protection and privacy laws.

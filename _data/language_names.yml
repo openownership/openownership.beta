@@ -1,0 +1,368 @@
+ab:
+  name: "аҧсуа бызшәа, аҧсшәа"
+aa:
+  name: "Afaraf"
+af:
+  name: "Afrikaans"
+ak:
+  name: "Akan"
+sq:
+  name: "Shqip"
+am:
+  name: "አማርኛ"
+ar:
+  name: "العربية"
+an:
+  name: "aragonés"
+hy:
+  name: "Հայերեն"
+as:
+  name: "অসমীয়া"
+av:
+  name: "авар мацӀ"
+ae:
+  name: "avesta"
+ay:
+  name: "aymar aru"
+az:
+  name: "azərbaycan dili"
+bm:
+  name: "bamanankan"
+ba:
+  name: "башҡорт теле"
+eu:
+  name: "euskara"
+be:
+  name: "беларуская мова"
+bn:
+  name: "বাংলা"
+bh:
+  name: "भोजपुरी"
+bi:
+  name: "Bislama"
+bs:
+  name: "bosanski jezik"
+br:
+  name: "brezhoneg"
+bg:
+  name: "български език"
+my:
+  name: "ဗမာစာ"
+ca:
+  name: "català, valencià"
+ch:
+  name: "Chamoru"
+ce:
+  name: "нохчийн мотт"
+ny:
+  name: "chiCheŵa"
+zh:
+  name: "中文 (Zhōngwén)"
+cv:
+  name: "чӑваш чӗлхи"
+kw:
+  name: "Kernewek"
+co:
+  name: "Corsu"
+cr:
+  name: "ᓀᐦᐃᔭᐍᐏᐣ"
+hr:
+  name: "hrvatski jezik"
+cs:
+  name: "čeština"
+da:
+  name: "dansk"
+dv:
+  name: "ދިވެހި"
+nl:
+  name: "Nederlands"
+dz:
+  name: "རྫོང་ཁ"
+en:
+  name: "English"
+eo:
+  name: "Esperanto"
+et:
+  name: "Eesti"
+ee:
+  name: "Eʋegbe"
+fo:
+  name: "føroyskt"
+fj:
+  name: "vosa Vakaviti"
+fi:
+  name: "Suomi"
+fr:
+  name: "Français"
+ff:
+  name: "Fulfulde"
+gl:
+  name: "Galego"
+ka:
+  name: "ქართული"
+de:
+  name: "Deutsch"
+el:
+  name: "ελληνικά"
+gn:
+  name: "Avañe'ẽ"
+gu:
+  name: "ગુજરાતી"
+ht:
+  name: "Kreyòl ayisyen"
+ha:
+  name: "(Hausa) هَوُسَ"
+he:
+  name: "עברית"
+hz:
+  name: "Otjiherero"
+hi:
+  name: "हिन्दी, हिंदी"
+ho:
+  name: "Hiri Motu"
+hu:
+  name: "magyar"
+ia:
+  name: "Interlingua"
+id:
+  name: "Bahasa Indonesia"
+ie:
+  name: "Interlingue"
+ga:
+  name: "Gaeilge"
+ig:
+  name: "Asụsụ Igbo"
+ik:
+  name: "Iñupiaq"
+io:
+  name: "Ido"
+is:
+  name: "Íslenska"
+it:
+  name: "Italiano"
+iu:
+  name: "ᐃᓄᒃᑎᑐᑦ"
+ja:
+  name: "日本語 (にほんご)"
+jv:
+  name: "Jawa"
+kl:
+  name: "kalaallisut"
+kn:
+  name: "ಕನ್ನಡ"
+kr:
+  name: "Kanuri"
+ks:
+  name: "कश्मीरी"
+kk:
+  name: "қазақ тілі"
+km:
+  name: "ខ្មែរ"
+ki:
+  name: "Gĩkũyũ"
+rw:
+  name: "Ikinyarwanda"
+ky:
+  name: "Кыргызча, Кыргыз тили"
+kv:
+  name: "коми кыв"
+kg:
+  name: "Kikongo"
+ko:
+  name: "한국어"
+ku:
+  name: "Kurdî, کوردی‎"
+kj:
+  name: "Kuanyama"
+la:
+  name: "latine"
+lb:
+  name: "Lëtzebuergesch"
+lg:
+  name: "Luganda"
+li:
+  name: "Limburgs"
+ln:
+  name: "Lingála"
+lo:
+  name: "ພາສາລາວ"
+lt:
+  name: "lietuvių kalba"
+lu:
+  name: "Kiluba"
+lv:
+  name: "latviešu valoda"
+gv:
+  name: "Gaelg"
+mk:
+  name: "македонски јазик"
+mg:
+  name: "fiteny malagasy"
+ms:
+  name: "Bahasa Melayu, بهاس ملايو‎"
+ml:
+  name: "മലയാളം"
+mt:
+  name: "Malti"
+mi:
+  name: "te reo Māori"
+mr:
+  name: "मराठी"
+mh:
+  name: "Kajin M̧ajeļ"
+mn:
+  name: "Монгол хэл"
+na:
+  name: "Dorerin Naoero"
+nv:
+  name: "Diné bizaad"
+nd:
+  name: "isiNdebele"
+ne:
+  name: "नेपाली"
+ng:
+  name: "Owambo"
+nb:
+  name: "Norsk Bokmål"
+nn:
+  name: "Norsk Nynorsk"
+no:
+  name: "Norsk"
+ii:
+  name: "ꆈꌠ꒿ Nuosuhxop"
+nr:
+  name: "isiNdebele"
+oc:
+  name: "occitan"
+oj:
+  name: "ᐊᓂᔑᓈᐯᒧᐎᓐ"
+cu:
+  name: "ѩзыкъ словѣньскъ"
+om:
+  name: "Afaan Oromoo"
+or:
+  name: "ଓଡ଼ିଆ"
+os:
+  name: "ирон æвзаг"
+pa:
+  name: "ਪੰਜਾਬੀ, پنجابی‎"
+pi:
+  name: "पालि, पाळि"
+fa:
+  name: "فارسی"
+pl:
+  name: "język polski"
+ps:
+  name: "پښتو"
+pt:
+  name: "Português"
+qu:
+  name: "Runa Simi, Kichwa"
+rm:
+  name: "Rumantsch Grischun"
+rn:
+  name: "Ikirundi"
+ro:
+  name: "Română"
+ru:
+  name: "русский"
+sa:
+  name: "संस्कृतम्"
+sc:
+  name: "sardu"
+sd:
+  name: "सिन्धी, سنڌي، سندھی‎"
+se:
+  name: "Davvisámegiella"
+sm:
+  name: "gagana fa'a Samoa"
+sg:
+  name: "yângâ tî sängö"
+sr:
+  name: "српски језик"
+gd:
+  name: "Gàidhlig"
+sn:
+  name: "chiShona"
+si:
+  name: "සිංහල"
+sk:
+  name: "Slovenčina"
+sl:
+  name: "Slovenščina"
+so:
+  name: "Soomaaliga"
+st:
+  name: "Sesotho"
+es:
+  name: "Español"
+su:
+  name: "Basa Sunda"
+sw:
+  name: "Kiswahili"
+ss:
+  name: "SiSwati"
+sv:
+  name: "Svenska"
+ta:
+  name: "தமிழ்"
+te:
+  name: "తెలుగు"
+tg:
+  name: "тоҷикӣ, toçikī, تاجیکی‎"
+th:
+  name: "ไทย"
+ti:
+  name: "ትግርኛ"
+bo:
+  name: "བོད་ཡིག"
+tk:
+  name: "Türkmen, Түркмен"
+tl:
+  name: "Wikang Tagalog"
+tn:
+  name: "Setswana"
+to:
+  name: "Faka Tonga"
+tr:
+  name: "Türkçe"
+ts:
+  name: "Xitsonga"
+tt:
+  name: "татар теле, tatar tele"
+tw:
+  name: "Twi"
+ty:
+  name: "Reo Tahiti"
+ug:
+  name: "ئۇيغۇرچە‎, Uyghurche"
+uk:
+  name: "Українська"
+ur:
+  name: "اردو"
+uz:
+  name: "Oʻzbek, Ўзбек, أۇزبېك‎"
+ve:
+  name: "Tshivenḓa"
+vi:
+  name: "Tiếng Việt"
+vo:
+  name: "Volapük"
+wa:
+  name: "Walon"
+cy:
+  name: "Cymraeg"
+wo:
+  name: "Wollof"
+fy:
+  name: "Frysk"
+xh:
+  name: "isiXhosa"
+yi:
+  name: "ייִדיש"
+yo:
+  name: "Yorùbá"
+za:
+  name: "Saɯ cueŋƅ, Saw cuengh"
+zu:
+  name: "isiZulu"

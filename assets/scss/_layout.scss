@@ -233,6 +233,9 @@ p {
 
 .image--resource {
   box-shadow: 4px 4px 0px $primary-color;
+  &.web-resource {
+    box-shadow: none;
+  }
 }
 
 .home ol li p, .home ol {
@@ -953,7 +956,7 @@ padding-top: 3rem;
   color: $partial-commitment;
 }
 
-.map-filters {
+.map-filters, .resource-filters {
   label {
     color: $black;
     font-size: 1rem;
@@ -967,5 +970,11 @@ padding-top: 3rem;
 
 // JS will show this when needed, it's not needed at all without JS
 .see-all-countries-button {
+  display: none;
+}
+
+// Resources page
+// JS will show this when needed
+.no-resources-message {
   display: none;
 }
