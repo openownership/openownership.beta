@@ -1,5 +1,6 @@
 ---
-title: OpenOwnership response to British Columbia consultation on a Public Beneficial Ownership Registry
+title: OpenOwnership response to British Columbia consultation on a Public Beneficial
+  Ownership Registry
 date: 2020-03-13 00:00:00 Z
 files:
   en: "/uploads/oo-response-to-british-columbia-consultation.pdf"

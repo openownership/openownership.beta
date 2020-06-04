@@ -1,5 +1,6 @@
 ---
-title: OpenOwnership response to Consultation on strengthening corporate beneficial ownership transparency in Canada
+title: OpenOwnership response to Consultation on strengthening corporate beneficial
+  ownership transparency in Canada
 date: 2020-03-13 00:00:00 Z
 files:
   en: "/uploads/oo-response-to-canada-consultation.pdf"

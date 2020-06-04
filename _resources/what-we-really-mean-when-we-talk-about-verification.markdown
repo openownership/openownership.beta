@@ -5,8 +5,8 @@ title: |-
   verification
 date: 2019-06-27 10:21:00 Z
 tags:
-  - accurate and complete
-  - verification
+- accurate and complete
+- verification
 description: A guide to data quality and verification
 files:
   en: "/uploads/oo-verification-presentation.pdf"
