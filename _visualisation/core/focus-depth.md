@@ -1,6 +1,5 @@
 ---
 title: Focus and Depth
-layout: visualisation
 position: 1.06
 ---
 
