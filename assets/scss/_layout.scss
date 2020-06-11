@@ -1008,9 +1008,9 @@ padding-top: 3rem;
 // ----------------
 
 // Override Foundation's core styles for definition lists
-dl dt{
-  margin-top: 0.5rem;
-  font-weight: bold;
+dl dt {
+  margin-top: 0.75rem;
+  font-family: $sans-bold
 }
 dl dd {
   margin-left: 1rem
