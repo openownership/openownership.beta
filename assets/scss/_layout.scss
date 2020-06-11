@@ -1043,3 +1043,6 @@ dl dd {
 thead tr:first-child th {
   font-weight: bold;
 }
+
+// Add override for button appearing in a table cell
+td .button { margin-bottom: 0 }
