@@ -6,6 +6,8 @@ position: 1.04
 Arrows connect Nodes, showing that one Party has a direct interest in another.
 {: .lead}
 
+![Parties, Beneficiaries, Subjects and Objects in a BOVS Diagram](/visualisation/diagrams/bovs-core-arrows.png){: style="width: 100%" }
+
 
 ## Direction
 

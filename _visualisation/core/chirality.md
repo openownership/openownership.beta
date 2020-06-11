@@ -13,7 +13,7 @@ If ownership or control information is shown, it must consistently appear on the
 
 ## Vertical Diagrams
 
-![Vertical BOVS Diagram demonstrating Chirality]()
+![Vertical BOVS Diagram demonstrating Chirality](/visualisation/diagrams/bovs-core-chirality-vertical.png){: style="width: 62.5%" }
 
 In [vertical diagrams](/visualisation/core/directionality), irrespective of writing direction:
 
@@ -25,7 +25,7 @@ You can remember this with the mnemonic: "*control has the rights, ownership has
 
 ## Horizontal Diagrams
 
-![Horizontal BOVS Diagram demonstrating Chirality]()
+![Horizontal BOVS Diagram demonstrating Chirality](/visualisation/diagrams/bovs-core-chirality-horizontal.png){: style="width: 62.5%" }
 
 In [horizontal diagrams](/visualisation/core/directionality), irrespective of writing direction:
 

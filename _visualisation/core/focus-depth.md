@@ -20,13 +20,13 @@ Your diagram's focus determines which Parties and interests are included.
 
 #### Object Focus
 
-![BOVS Diagram with Object Focus]()
+![BOVS Diagram with Object Focus](/visualisation/diagrams/bovs-core-focus-object.png){: style="width: 87.5%" }
 
 Diagrams with an Object Focus (the most common) show all the Parties that exist in the reverse direction of the Arrows from the selected Objects (usually just one). For instance, it may trace all of the Parties interested in a specific Company, back to a set of Persons.
 
 #### Subject Focus
 
-![BOVS Diagram with Subject Focus]()
+![BOVS Diagram with Subject Focus](/visualisation/diagrams/bovs-core-focus-subject.png){: style="width: 87.5%" }
 
 Diagrams with a Subject Focus show all the Parties that exist in the forward direction of the Arrows from the selected Subjects (usually just one). For instance, it may show all the interests of a specific Person.
 
@@ -36,7 +36,7 @@ Diagrams with a Subject Focus show all the Parties that exist in the forward dir
 
 #### Interest Focus
 
-![BOVS Diagram with Interest Focus]()
+![BOVS Diagram with Interest Focus](/visualisation/diagrams/bovs-core-focus-interest.png){: style="width: 87.5%" }
 
 You may choose to adopt an Interest Focus, that is, include only one type of interest. If so:
 
@@ -64,7 +64,7 @@ Depth should be limited only for the above reasons, that is, not for cosmetic re
 
 ### Appearance
 
-![BOVS Diagram with Limited Depth]()
+![BOVS Diagram with Depth limited to 1](/visualisation/diagrams/bovs-core-focus-depth.png){: style="width: 87.5%" }
 
 If you choose to use a Depth that is not unlimited:
 

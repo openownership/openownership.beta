@@ -8,6 +8,8 @@ Line Weight is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. 
 
 The general rule is to use thicker Arrows for stronger interests.
 
+![BOVS Diagram with Optional Feature for Line Weight](/visualisation/diagrams/bovs-optional-weight.png){: style="width: 62.5%" }
+
 
 ## Unquantified Interests
 
@@ -19,6 +21,8 @@ If information about the level of interest does in fact exist, you should prefer
 ## Quantified Interests
 
 If your diagram includes information about the level of interests, then the weight of the Arrows should be drawn in proportion with the level of interest.
+
+![BOVS Diagram with the line weight of Arrows drawn in proportion to level of interest](/visualisation/diagrams/bovs-optional-weight-calculation.png){: style="width: 100%" }
 
 * Ideally, the arrow thickness will be perfectly proportional to the level of interest. For instance, if a 10pt arrow is your heaviest style, a 53% interest would be drawn using a 5.3pt arrow.
   * Where an Arrow represents two types of interest, i.e. both ownership and control, the weight of the Arrow would be the based on the sum of both types of interest. e.g. 60% ownership + 70% control gives a 130% Arrow (e.g. 13pt).

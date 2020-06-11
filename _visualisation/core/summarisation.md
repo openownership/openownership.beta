@@ -29,7 +29,7 @@ Summarisation must focus on interests of a single nature, i.e. either ownership 
 
 ## Combined Interests (Addition)
 
-![Combined Interests in a BOVS Diagram]()
+![Combined Interests in a BOVS Diagram](/visualisation/diagrams/bovs-core-summarisation-combined.png){: style="width: 87.5%" }
 
 You may summarise the interests of multiple Parties in a given Entity by adding together each of their direct interests in that Entity. The summarised figure is referred to as their **combined interest** in the given Entity.
 
@@ -132,7 +132,7 @@ When giving the combined control interests of the above 3 people, you might choo
 
 ## Compounded Interests (Multiplication)
 
-![Compounded Interests in a BOVS Diagram]()
+![Compounded Interests in a BOVS Diagram](/visualisation/diagrams/bovs-core-summarisation-compounded.png){: style="width: 87.5%" }
 
 You may summarise the interests of multiple Parties in a given Entity by adding together each of their direct interests in that Entity. The summarised figure is referred to as their **combined interest** in the given Entity.
 

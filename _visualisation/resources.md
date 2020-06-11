@@ -11,10 +11,10 @@ These resources can be used to help you create BOVS Diagrams.
 
 The BOVS icons are released under a Creative Commons Zero (CC0) licence, that is, they are released into the Public Domain. No attribution is necessary for their usage, and you may incorporate them into any work, commercial or non-commercial.
 
-| Format     | Black                      | White
+| Format     | Icons Pack
 | -----------------------------------------
-| **PNG**    | [Download](){: .button }   | [Download](){: .button }
-| **SVG**    | [Download](){: .button }   | [Download](){: .button }
+| **PNG**    | [Download](/visualisation/resources/bovs-png.zip){: .button }
+| **SVG**    | [Download](/visualisation/resources/bovs-svg.zip){: .button }
 {: .unstriped }
 
 The icons are provided with clear space such that a circle drawn in the same dimensions will proportionally enclose the icon.

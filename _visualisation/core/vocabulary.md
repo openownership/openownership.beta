@@ -31,8 +31,8 @@ You must choose one of these styles for how Regimes are visualised across your e
 {% capture RegimeInfo %}{{ RegimeInfo | markdownify }}{% endcapture %}
 
 {% capture SubjectTable %}
-| ![Person](bovs-person.jpg) | Person | PersonInfo
-| ![Regime](bovs-regime.jpg) | Regime | RegimeInfo
+| ![Person](/visualisation/resources/bovs-person.png){: style="width: 20em" } | **Person** | PersonInfo
+| ![Regime](/visualisation/resources/bovs-regime.png){: style="width: 20em" } | **Regime** | RegimeInfo
 {: .unstriped}
 {% endcapture %}
 
@@ -65,8 +65,9 @@ You may use the Label "Organisation" with the Organisation icon, or, if you are 
 {% capture OrganisationInfo %}{{ OrganisationInfo | markdownify }}{% endcapture %}
 
 {% capture ObjectTable %}
-| ![Entity](bovs-person.jpg)       | Entity       | EntityInfo
-| ![Organisation](bovs-regime.jpg) | Organisation | OrganisationInfo
+| ![Entity](/visualisation/resources/bovs-entity.png){: style="width: 20em" }             | **Entity**       | EntityInfo
+| ![Organisation](/visualisation/resources/bovs-organisation.png){: style="width: 20em" } | **Organisation** | OrganisationInfo
+{: .unstriped}
 {% endcapture %}
 
 {{ ObjectTable | markdownify

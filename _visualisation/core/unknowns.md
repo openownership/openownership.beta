@@ -19,6 +19,8 @@ Often, our picture of a beneficial ownership situation contains many unknowns. T
 
 As a Party is known to exist – despite its details being unknown – we still draw a Node for it:
 
+![BOVS Diagram with Unknown Party using unknown icon variant and labelled Unknown](/visualisation/diagrams/bovs-core-unknowns.png){: style="width: 62.5%" }
+
 * Use the Unknown variant of the icon for that type of Party (see below)
 * Label the node with an [Identifier](/visualisation/core/parties-nodes), using the status "Unknown" or "Anonymous"
 
@@ -27,6 +29,8 @@ As a Party is known to exist – despite its details being unknown – we still 
 Each icon in the [Vocabulary](/visualisation/core/vocabulary) has an Unknown variant. In general, the Unknown variant of an icon is the outline of the original icon, with a question mark inside it.
 
 ### Unknown Number
+
+![BOVS Diagram containing Parties of an unknown number](/visualisation/diagrams/bovs-core-unknowns-number.png){: style="width: 100%" }
 
 **We may know that Parties exist, but not *how many*.** In such situations:
 

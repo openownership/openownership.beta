@@ -9,6 +9,8 @@ Nodes represent interested Parties, such as Persons, Entities or Regimes.
 
 ## Appearance
 
+![Parties, Beneficiaries, Subjects and Objects in a BOVS Diagram](/visualisation/diagrams/bovs-core-parties.png){: style="width: 62.5%" }
+
 * Nodes are drawn as a circle containing an icon.
   * Always draw circles/icons at the same size.
   * Try to space nodes at regular intervals across the diagram.

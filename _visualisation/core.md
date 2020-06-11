@@ -14,6 +14,8 @@ They apply whether your diagram represents real or fictional situations, is draw
 
 ### Key terms
 
+![Nodes and Arrows](/visualisation/diagrams/bovs-core-definitions.png){: style="width: 62.5%" }
+
 BOVS diagrams consist of Nodes connected by Arrows.
 {: .lead }
 
@@ -27,6 +29,8 @@ Key types of Parties include Persons (private individuals) and Entities (legal c
 [Vocabulary](/visualisation/core/vocabulary){: .button }
 
 ### The basics
+
+![Parties in a BOVS Diagram with icons and labels](/visualisation/diagrams/bovs-core-parties.png){: style="width: 62.5%" }
 
 Parties are drawn as a circle containing an icon, with a label underneath.
 {: .lead }
@@ -58,6 +62,8 @@ However, you may adopt a different focus.
 
 ### Keeping diagrams simple
 
+![BOVS Diagram with non-relevant parts diminished](/visualisation/diagrams/bovs-core-relevance.png){: style="width: 100%" }
+
 You must show all Parties involved, but may treat only some as relevant.
 {: .lead }
 
@@ -65,12 +71,16 @@ There are ways to diminish the non-relevant parts of your diagram, to emphasise 
 
 [Relevance](/visualisation/core/relevance){: .button }
 
+![3 parties in a BOVS Diagram condensed into a Stack](/visualisation/diagrams/bovs-core-stacks.png){: style="width: 100%" }
+
 Multiple Parties can be condensed into a single Node, called a Stack, for clarity.
 {: .lead }
 
 [Stacks](/visualisation/core/stacks){: .button }
 
 ### How to handle unknowns
+
+![Unknown Party shown with an icon containing a question mark](/visualisation/diagrams/bovs-core-unknowns.png){: style="width: 62.5%" }
 
 Diagrams visualise both the information we know and the information we're missing.
 {: .lead }

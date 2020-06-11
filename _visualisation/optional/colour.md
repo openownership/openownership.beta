@@ -11,6 +11,8 @@ Ownership and control information should each be assigned a distinct colour. The
 
 ## Arrows
 
+![How to add colour to a BOVS Diagram](/visualisation/diagrams/bovs-optional-colour-half-arrows.png){: style="width: 100%" }
+
 You should now think of each Arrow as consisting of two half-arrows, one half for the ownership part of the interest and one half for the control part. Which half is which follows the [Chirality](/visualisation/core/chirality) rule, that is:
 
 * In vertical diagrams, the left side of the Arrow is for ownership, and the right side is for control.
@@ -21,6 +23,8 @@ Colour each half-arrow using your chosen colours for ownership and control.
 Arrows should always have a complete end cap, even if they only represent one type of interest.
 
 ### Line Weight
+
+![BOVS Diagram with Optional Features for both Colour and Line Weight](/visualisation/diagrams/bovs-optional-colour-weight.png){: style="width: 100%" }
 
 The Colour feature is best combined with the [Optional Feature](/visualisation/optional) for [Line Weight](/visualisation/optional/weight). If doing so, the rules for drawing the line weight proportionally are applied to each half-arrow independently.
 

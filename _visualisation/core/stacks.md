@@ -11,7 +11,7 @@ When you group Parties like this, the Parties are said to be "stacked", and are 
 
 ## Appearance
 
-![Stack in a BOVS Diagram]()
+![Stack in a BOVS Diagram](/visualisation/diagrams/bovs-core-stacks-appearance.png){: style="width: 50%" }
 
 * Stack Nodes are drawn as a series of overlaid circles.
   * If possible, show as many circles as there were Nodes originally, up to a maximum of 3 circles.
@@ -26,7 +26,7 @@ There are two situations in which you are allowed to group Parties, to create ei
 
 ## Chain Stacks
 
-![Chain Stack in a BOVS Diagram]()
+![Chain Stack in a BOVS Diagram](/visualisation/diagrams/bovs-core-stacks-chain.png){: style="width: 100%" }
 
 A non-forking Chain of Parties, where each Party is directly interested in the next, can be reduced into a Stack.
 
@@ -35,7 +35,7 @@ When drawing a Chain Stack, the circles are overlaid according to the diagram's 
 
 ## Beneficiary Stacks
 
-![Beneficiary Stack in a BOVS Diagram]()
+![Beneficiary Stack in a BOVS Diagram](/visualisation/diagrams/bovs-core-stacks-beneficiary.png){: style="width: 100%" }
 
 If you have multiple Subjects who are all directly interested in the same Entities, you may choose to reduce some of them into a single Node.
 

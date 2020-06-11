@@ -11,7 +11,7 @@ We offer these specifications to anyone building visualisations of beneficial ow
 
 ## Example
 
-![Example of a BOVS diagram](bovs-index-example.jpg)
+![Example of a BOVS diagram](/visualisation/diagrams/bovs-example.png)
 
 The above shows an example of a BOVS diagram. This describes a situation where:
 

@@ -24,11 +24,16 @@ Each metadata type must be a property of a Party that can take on one or more of
 
 ## Appearance
 
+![BOVS Diagram with Optional Feature for Metadata Overlays](/visualisation/diagrams/bovs-optional-metadata.png){: style="width: 62.5%" }
+
 Metadata values are shown by overlaying icons around the circumference of the related Party's Node.
 
 For each type of metadata, determine all of its possible values, and what icons will be used to indicate each of these values.
 
 Each type of metadata has a reserved position where its related icons can appear.
+
+![Examples of positions where metadata can appear on a Node in a BOVS Diagram](/visualisation/diagrams/bovs-optional-metadata-positions.png){: style="width: 62.5%" }
+
 You may determine these positions as you see fit, however we recommend:
 
 * Prefer positions at 45, 135, 225 and 315 degree (i.e. the diagonal compass points)
@@ -45,9 +50,13 @@ Where a type of metadata can have a value of **false, none, zero or not applicab
 
 ### Unknown Values
 
+![BOVS Diagram with metadata that have unknown values](/visualisation/diagrams/bovs-optional-metadata-unknowns.png){: style="width: 25%" }
+
 It is possible that the value for a type of metadata is unknown for some Parties. In this case, show a question mark in place of an icon, in the correct position for that type of metadata.
 
 ### Key
+
+![BOVS Diagram with metadata and key](/visualisation/diagrams/bovs-optional-metadata-key.png){: style="width: 87.5%" }
 
 Include a key on your diagram fully explaining all of your icons.
 
@@ -64,12 +73,16 @@ Show metadata icons on all and only the [relevant](/visualisation/core/relevance
 
 ## Multiple Metadata
 
+![BOVS Diagram with multiple values for given types of metadata](/visualisation/diagrams/bovs-optional-metadata-multiple.png){: style="width: 25%" }
+
 If there are multiple values for a type of metadata:
 
 * Show multiple icons.
 * Cluster the icons together by slightly overlapping them in a line extending from the Node.
 
 Selected icons can be grouped into a Metadata Stack. Do this if too many types of metadata apply.
+
+![BOVS Diagram with multiple values for given types of metadata, and some of these values grouped into stacks](/visualisation/diagrams/bovs-optional-metadata-stacks.png){: style="width: 53.125%" }
 
 * Replace grouped icons with a series of overlaid circles.
 * If possible, show as many circles as there were icons originally, up to a maximum of 3 circles.

@@ -26,6 +26,8 @@ If you use this mode, you should not also use [Annotation](/visualisation/option
 
 ## Appearance
 
+![BOVS Diagram with Optional Feature for Charts](/visualisation/diagrams/bovs-optional-charts.png){: style="width: 62.5%" }
+
 Charts are shown as bar charts attached to the Node of the given Entity.
 
 * The chart shows a breakdown of either the Beneficiaries with ownership interest or those with control interest.
@@ -50,6 +52,8 @@ If a Beneficiary is shown in the diagram, it must appear in the chart (otherwise
 
 ## Bar Grouping
 
+![BOVS Diagram with Chart showing how multiple bars can be grouped](/visualisation/diagrams/bovs-optional-charts-bar-group.png){: style="width: 87.5%" }
+
 You may choose to combine several bars into one.
 
 * The value of the grouped bar is the [combined interest](/visualisation/core/summarisation) of the Beneficiaries that are grouped.
@@ -63,6 +67,8 @@ You may choose to combine several bars into one.
 ## Obscured Interests
 
 The rules below describe how to handle obscured interests in bar charts.
+
+![BOVS Diagram with Chart and obscured interests](/visualisation/diagrams/bovs-optional-charts-obscured.png){: style="width: 87.5%" }
 
 ### Unknown Interests
 
