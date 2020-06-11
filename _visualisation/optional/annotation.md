@@ -77,8 +77,10 @@ Where a **Chain Stack** appears along a relevant Chain:
 
 ![BOVS Diagram with Annotated Chain Stack](/visualisation/diagrams/bovs-optional-annotation-stack-chain.png){: style="width: 100%" }
 
-* Add an annotation directly to the Chain Stack, as if the Stack were a Arrow.
-* Label this with the [compounded interests](/visualisation/core/summarisation) of the Parties within the Stack.
+* Add a disconnected Indirect Arrow, floating beside the Node, parallel to the Arrows leading into/out of it.
+  * Add an Arrow for each nature of interest present inside the Stack (i.e. ownership or control).
+  * Add these Arrows on the appropriate sides of the Node, respecting the [Chirality](/visualisation/core/chirality) rule.
+* Label these Arrows with the [compounded interests](/visualisation/core/summarisation) of the Parties within the Stack.
 
 Where a **Beneficiary Stack** appears along a relevant Chain:
 
