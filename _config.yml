@@ -13,7 +13,7 @@ collections:
     title: Guide
     output: true
   visualisation:
-    title: Visual Language
+    title: Visualisation System (BOVS)
     output: true
   posts:
     title: Posts
@@ -73,6 +73,11 @@ defaults:
     email: 
     social: 
     layout: team
+- scope:
+    path: ''
+    type: visualisation
+  values:
+    layout: visualisation
 url: https://www.openownership.org
 description: Driving the global shift towards transparency over who owns and controls
   companies.
