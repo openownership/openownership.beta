@@ -1046,3 +1046,36 @@ thead tr:first-child th {
 
 // Add override for button appearing in a table cell
 td .button { margin-bottom: 0 }
+
+// Active item in nav menu
+.sidemenu {
+
+  ul {
+    margin-left: 0
+  }
+
+  li {
+    list-style: none
+  }
+
+  li ul {
+    margin-bottom: 0.5rem
+  }
+
+  li li {
+    &:before {
+      content: '\2013';
+      display: inline-block;
+      width: 1rem;
+      text-align: center;
+      color: get-color(primary)
+    }
+  }
+
+  .active > a {
+    font-family: $sans-bold
+  }
+
+  @include underline-links-invert();
+
+}
