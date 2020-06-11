@@ -66,7 +66,7 @@ The rules below describe how to handle obscured interests in bar charts.
 
 ### Unknown Interests
 
-If it is not known whether a Beneficiary has an interest:
+If it is not known whether a Beneficiary has an interest (Person C's ownership, in the example above):
 
 * Do not show a bar.
 * Instead, show a question mark.
@@ -75,14 +75,14 @@ If it is not known whether a Beneficiary has an interest:
 
 Uncertain ranges are indicated by a semi-shaded region of the bar. For instance:
 
-* If ownership is between 50-100%, draw a bar 50% fully-shaded and 50% semi-shaded.
-* If ownership is 0-25%, draw a 25% bar that is only semi-shaded.
+* If ownership is between 60-80%, draw a bar 60% fully-shaded and 20% semi-shaded (Person A's ownership, in the example above).
+* If ownership is 0-20%, draw a 20% bar that is only semi-shaded (Person B's ownership, in the example above).
 
 "Semi-shading" can be any style that is less prominent than the regular colouring for the bar.
 
 ### Unquantifiable Interests
 
-Where an interest has an unquantifiable element:
+Where an interest has an unquantifiable element (Person D in the example above):
 
 * Show an icon representing this unquantifiable property.
 * The icon should appear just before the label.

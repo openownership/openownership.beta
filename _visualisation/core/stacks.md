@@ -15,6 +15,7 @@ When you group Parties like this, the Parties are said to be "stacked", and are 
 
 * Stack Nodes are drawn as a series of overlaid circles.
   * If possible, show as many circles as there were Nodes originally, up to a maximum of 3 circles.
+  * The circles in the background may be drawn with up to a 60% tint.
 * Label the Stack with the number and type of grouped Parties.
   * If there is more than 1 type of Party in the Stack, then use the term "Parties".
 * Show an icon on the topmost circle for each type of Party in the Stack.

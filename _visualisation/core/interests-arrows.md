@@ -28,10 +28,10 @@ Just one arrow is used to represent any nature or level of interest.
 * Using the [Optional Features](/visualisation/optional) for [Annotation](/visualisation/optional/annotation) and [Colour](/visualisation/optional/colour), you can indicate the specific nature and/or level of interest that an arrow represents.
 
 
-## Style
+## Appearance
 
-* Draw arrows as clearly as possible.
-* Arrows may be drawn straight, curly or with elbow joints – whatever works best for you.
+* Draw Arrows as clearly as possible.
+* Arrows may be drawn straight, curly or with elbow joints – whatever works best.
 
 
 *[Nodes]: {{ site.data.definitions.BOVS.Node }}

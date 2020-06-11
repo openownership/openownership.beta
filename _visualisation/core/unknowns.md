@@ -49,11 +49,13 @@ Each icon in the [Vocabulary](/visualisation/core/vocabulary) has an Unknown var
 **Unknown *level*** of interest
 : The nature of interest is known, but not the level of interest (it is not quantified).
 
+The Arrows for the above two types of unknown interest may be drawn with up to a 60% tint.
+
 ***Uncertain* level** of interest
 : The nature of interest is known, but the level of interest is only known to be within a range, e.g. 10-20%.
 
 **Unquantifiable** aspects of interest
-: All or part of the interest is of a nature that cannot be expressed as a number.
+: All or part of the interest is of a nature that cannot be expressed objectively as a number.
 
 All of these obscured interests, despite the missing information, should be included in your diagram.
 

@@ -9,7 +9,7 @@ Annotation is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. I
 
 ## Appearance
 
-Annotations are text labels that appear alongside Arrows. They may appear at the beginning, middle or end of the Arrow; whatever is the clearest in each situation. These labels are written in a standard way:
+Annotations are text labels that appear alongside Arrows. They may appear at the start, middle or end of the Arrow; whatever is the clearest in each situation (this is usually the start). These labels are written in a standard way:
 
 * The nature of interest is given in the active voice, e.g. "Owns" or "Controls"
 * The level of interest is given as a percentage, e.g. "10%".
@@ -79,19 +79,27 @@ Where a **Beneficiary Stack** appears along a relevant Chain:
 
 ## Obscured Interests
 
+### Unknown Nature
+
 If the **nature** of interest is unknown:
 
 * Write '?' on the appropriate side of the Arrow, respecting the [Chirality](/visualisation/core/chirality) rule, if it is not known whether the interest includes control, or it is not known whether the interest includes ownership.
 * If the nature of interest is completely unknown, write a '?' on both sides of the Arrow.
 
-If the **level** of interest is unknown, and you quantifying interests:
+### Unknown Level
+
+If the **level** of interest is unknown, and you are quantifying interests:
 
 * Write '?%' on the appropriate side of the Arrow.
 * Don’t skip the '%'. Otherwise it looks like the nature is in question, not the level.
 
+### Uncertain Level
+
 If the level has **uncertainty** in it:
 
 * Write a percentage range, e.g. "Owns 10-15%", "Controls 50-100%".
+
+### Unquantifiable Interest
 
 If there is an **unquantifiable** interest:
 

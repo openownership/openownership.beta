@@ -27,9 +27,10 @@ Metadata values are shown by overlaying icons around the circumference of the re
 
 For each type of metadata, determine all of its possible values, and what icons will be used to indicate each of these values.
 
-Each type of metadata has a reserved position where its related icons can appear. You may determine these positions as you see fit, however we recommend:
+Each type of metadata has a reserved position where its related icons can appear.
+You may determine these positions as you see fit, however we recommend:
 
-* Prefer positions at 45, 135, 225 and 315 degress (i.e. the diagonal compass points)
+* Prefer positions at 45, 135, 225 and 315 degree (i.e. the diagonal compass points)
 * Avoid positions on the bottom of the circle, where icons may appear too close to the Node's label.
 
 When a particular value for a type of metadata applies to a Party, show the icon for that value in the position reserved for that type of metadata.
@@ -67,11 +68,11 @@ If there are multiple values for a type of metadata:
 * Show multiple icons.
 * Cluster the icons together by slightly overlapping them in a line extending from the Node.
 
-Selected icons can be grouped into a Stack. Do this if too many types of metadata apply.
+Selected icons can be grouped into a Metadata Stack. Do this if too many types of metadata apply.
 
 * Replace grouped icons with a series of overlaid circles.
 * If possible, show as many circles as there were icons originally, up to a maximum of 3 circles.
-* The Stack shows the number of icons grouped, in place of an icon.
+* The Metadata Stack shows the number of icons grouped, in place of an icon.
 
 
 ## Standard Metadata
@@ -81,3 +82,7 @@ Currently, only one type of metadata is defined in a standard format by BOVS:
 | Type                   | Icon
 | Regime of Jurisdiction | Show the same icon as you would use for that Regime as a Party.
 {: .unstriped }
+
+
+*[Party]: {{ site.data.definitions.BOVS.Party }}
+*[Regime]: {{ site.data.definitions.BOVS.Regime }}

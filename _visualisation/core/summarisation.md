@@ -41,6 +41,7 @@ If any interest in your addition is uncertain, i.e. is given as a range, then yo
 2. Add up the known and unknown portions separately.
 3. Recombine the known and unknown portions into a range.
 
+
 #### Example 1
 
 | Party    |   | Interest | Known Portion | Unknown Portion

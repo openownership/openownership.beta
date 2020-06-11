@@ -21,7 +21,9 @@ If information about the level of interest does in fact exist, you should prefer
 If your diagram includes information about the level of interests, then the weight of the Arrows should be drawn in proportion with the level of interest.
 
 * Ideally, the arrow thickness will be perfectly proportional to the level of interest. For instance, if a 10pt arrow is your heaviest style, a 53% interest would be drawn using a 5.3pt arrow.
-* Alternatively, the weight of the Arrow might correspond to a range, such as levels of interest between 25-50%, 50-75%, etc.
+  * Where an Arrow represents two types of interest, i.e. both ownership and control, the weight of the Arrow would be the based on the sum of both types of interest. e.g. 60% ownership + 70% control gives a 130% Arrow (e.g. 13pt).
+  * A minimum weight should always be observed, such that Arrows representing low levels of interest do not become invisible.
+* Alternatively, the weight of the Arrow might correspond to ranges of interest, such as levels of interest between 25-50%, 50-75%, etc.
 
 ### Obscured Interests
 

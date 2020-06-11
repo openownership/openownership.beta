@@ -22,12 +22,12 @@ Arrows should always have a complete end cap, even if they only represent one ty
 
 ### Line Weight
 
-The Colour feature is best combined with the Optional Feature for Line Weight. If doing so, the rules for drawing the line weight proportionally are applied to each half-arrow independently.
+The Colour feature is best combined with the [Optional Feature](/visualisation/optional) for [Line Weight](/visualisation/optional/weight). If doing so, the rules for drawing the line weight proportionally are applied to each half-arrow independently.
 
 
 ## Annotations
 
-You may choose also to colour your annotation text using your chosen colours.
+If using the [Optional Feature](/visualisation/optional) for [Annotation](/visualisation/optional/annotation), you may also choose to colour your annotation text using your chosen colours.
 
 
 ## Colours

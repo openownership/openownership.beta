@@ -19,7 +19,7 @@ Which Parties must be included for a diagram to be 'complete' is determined by y
 **However, you may consider only some Parties or interest Chains to be *relevant*** to your point. If so, there are ways to collapse or diminish the other parts of your diagram while maintaining an accurate portrayal of the situation:
 
 * [Stacks](/visualisation/core/stacks) let you reduce a Chain of interests, or multiple Subjects, into a single Node.
-* You may draw non-relevant parts of your diagram less prominently, e.g. slightly greyed-out.
+* You may draw non-relevant parts of your diagram with up to a 25% tint or 25% opacity (if doing so, these must be more tinted/transparent than any other such treatments in your diagram).
 * [Optional Features](/visualisation/optional) may be applied only to the Chains you consider to be relevant.
 
 If you apply Optional Features only to relevant parts, then you *must* also draw non-relevant parts less prominently. This ensures readers understand why those Optional Features are not shown elsewhere.
