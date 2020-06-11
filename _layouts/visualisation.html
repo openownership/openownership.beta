@@ -10,7 +10,7 @@ layout: default
   {% unless page.content == '' %}
   <section class="grid-container">
     <div class="grid-x grid-padding-x grid-padding-y align-center">
-      <div class="small-3 cell">
+      <div class="large-3 cell">
         <!-- menu -->
         <a href="/visualisation">BOVS 1.0</a>
         <ul>
@@ -48,8 +48,8 @@ layout: default
           {% assign menu = menu | sort: 'position' %}
           {% include pagination/prevnext.liquid collection=menu wrap=false %}
       </div>
-      <div class="small-9 cell">
-        {{ content }}
+      <div class="large-9 cell">
+          {{ content }}
       </div>
     </div>
   </section>
