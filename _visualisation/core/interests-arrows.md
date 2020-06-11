@@ -1,6 +1,7 @@
 ---
 title: Interests (Arrows)
 layout: visualisation
+position: 1.04
 ---
 
 Arrows connect Nodes, showing that one Party has a direct interest in another.

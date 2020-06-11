@@ -1,6 +1,7 @@
 ---
 title: Version History
 layout: visualisation
+position: 5
 ---
 
 The pages on this website always reflect the most recent and up-to-date version of the Beneficial Ownership Visualisation Standard (BOVS). You should always use the most recent version.

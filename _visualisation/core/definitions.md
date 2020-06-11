@@ -1,6 +1,7 @@
 ---
 title: Definitions
 layout: visualisation
+position: 1.01
 ---
 
 The following terms are used throughout the BOVS specifications.

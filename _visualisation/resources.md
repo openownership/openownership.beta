@@ -1,6 +1,7 @@
 ---
 title: Resources
 layout: visualisation
+position: 3
 ---
 
 These resources can be used to help you create BOVS Diagrams.

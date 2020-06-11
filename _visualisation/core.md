@@ -1,6 +1,7 @@
 ---
 title: Core Rules
 layout: visualisation
+position: 1
 ---
 
 The Core Rules must be followed for all BOVS Diagrams.

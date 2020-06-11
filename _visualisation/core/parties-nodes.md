@@ -1,6 +1,7 @@
 ---
 title: Parties (Nodes)
 layout: visualisation
+position: 1.03
 ---
 
 Nodes represent interested Parties, such as Persons, Entities or Regimes.

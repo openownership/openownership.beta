@@ -1,6 +1,7 @@
 ---
 title: Directionality
 layout: visualisation
+position: 1.05
 ---
 
 Diagrams may be either vertical or horizontal. Choose which, based on the space you have available.

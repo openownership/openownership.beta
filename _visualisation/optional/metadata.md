@@ -1,6 +1,7 @@
 ---
 title: Metadata Overlays
 layout: visualisation
+position: 2.05
 ---
 
 Metadata Overlays is an [Optional Feature](/visualisation/optional/) of BOVS Diagrams. It allows further information about Parties to be shown as icons overlaid on their Nodes.

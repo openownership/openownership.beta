@@ -1,6 +1,7 @@
 ---
 title: Charts
 layout: visualisation
+position: 2.04
 ---
 
 Charts are an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to add a chart directly into the diagram in order to show a given Entity's ownership/control breakdown in detail.

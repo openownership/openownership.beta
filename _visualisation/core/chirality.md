@@ -1,6 +1,7 @@
 ---
 title: Chirality
 layout: visualisation
+position: 1.10
 ---
 
 BOVS Diagrams are [chiral](https://en.wikipedia.org/wiki/Chirality){:target="_blank"}, that is, they can’t be mirrored or flipped – there is a correct way around.
