@@ -1,6 +1,5 @@
 ---
 title: Design Principles
-layout: visualisation
 position: 4
 ---
 

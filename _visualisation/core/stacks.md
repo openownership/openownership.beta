@@ -1,6 +1,5 @@
 ---
 title: Stacks
-layout: visualisation
 position: 1.08
 ---
 

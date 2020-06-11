@@ -1,6 +1,5 @@
 ---
 title: Unknowns
-layout: visualisation
 position: 1.09
 ---
 

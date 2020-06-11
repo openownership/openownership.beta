@@ -1,6 +1,5 @@
 ---
 title: Vocabulary and Icons
-layout: visualisation
 position: 1.02
 ---
 

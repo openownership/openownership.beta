@@ -1,6 +1,5 @@
 ---
 title: Annotation
-layout: visualisation
 position: 2.01
 ---
 

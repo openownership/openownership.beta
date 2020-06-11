@@ -1,6 +1,5 @@
 ---
 title: Optional Features
-layout: visualisation
 position: 2
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Summarisation of Interests
-layout: visualisation
 position: 1.11
 ---
 

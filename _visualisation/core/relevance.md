@@ -1,6 +1,5 @@
 ---
 title: Relevance and Completeness
-layout: visualisation
 position: 1.07
 ---
 

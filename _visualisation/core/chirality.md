@@ -1,6 +1,5 @@
 ---
 title: Chirality
-layout: visualisation
 position: 1.10
 ---
 

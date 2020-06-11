@@ -1,6 +1,5 @@
 ---
 title: Version History
-layout: visualisation
 position: 5
 ---
 

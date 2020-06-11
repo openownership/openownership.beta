@@ -1,6 +1,5 @@
 ---
 title: Definitions
-layout: visualisation
 position: 1.01
 ---
 

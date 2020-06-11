@@ -1,6 +1,5 @@
 ---
 title: Charts
-layout: visualisation
 position: 2.04
 ---
 

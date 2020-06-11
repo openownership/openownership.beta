@@ -1,6 +1,5 @@
 ---
 title: Interests (Arrows)
-layout: visualisation
 position: 1.04
 ---
 

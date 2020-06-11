@@ -1,6 +1,5 @@
 ---
 title: Line Weight
-layout: visualisation
 position: 2.03
 ---
 

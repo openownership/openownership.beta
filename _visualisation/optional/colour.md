@@ -1,6 +1,5 @@
 ---
 title: Colour
-layout: visualisation
 position: 2.02
 ---
 

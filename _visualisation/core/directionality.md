@@ -1,6 +1,5 @@
 ---
 title: Directionality
-layout: visualisation
 position: 1.05
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Metadata Overlays
-layout: visualisation
 position: 2.05
 ---
 

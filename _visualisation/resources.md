@@ -1,6 +1,5 @@
 ---
 title: Resources
-layout: visualisation
 position: 3
 ---
 

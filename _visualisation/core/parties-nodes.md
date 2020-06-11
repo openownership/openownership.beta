@@ -1,6 +1,5 @@
 ---
 title: Parties (Nodes)
-layout: visualisation
 position: 1.03
 ---
 
