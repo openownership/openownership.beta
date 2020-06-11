@@ -7,6 +7,9 @@ Annotation is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. I
 {: .lead}
 
 
+* TOC
+{:toc}
+
 ## Appearance
 
 Annotations are text labels that appear alongside Arrows. They may appear at the start, middle or end of the Arrow; whatever is the clearest in each situation (this is usually the start). These labels are written in a standard way:

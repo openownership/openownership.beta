@@ -8,6 +8,9 @@ You may wish to summarise the interests of more than one Party as a single figur
 
 Summarised figures might appear in the captions to your diagram, in its supporting text, or as part of the diagram itself through [Optional Features](/visualisation/optional) such as [Indirect Arrows](/visualisation/optional/annotation) or [Charts](/visualisation/optional/charts).
 
+* Sections
+{:toc}
+
 Summarisation results in a quantified interest, that is, a percentage figure, even if the interests that were summarised were [obscured](/visualisation/core/unknowns) or not quantified. However, the summarised figure may contain [uncertainty](/visualisation/core/unknowns) (that is, it may be a range, e.g. 10-20%).
 
 These summarised figures must obviously be mathematically accurate. This can be tricky to calculate when interests are [obscured](/visualisation/core/unknowns). Take care to follow the arithmetic rules below to ensure summarised figures are correct.
