@@ -13,7 +13,7 @@ The following terms are used throughout the BOVS specifications.
 
 At their core, BOVS Diagrams are [directed graphs](https://en.wikipedia.org/wiki/Directed_graph){:target="_blank"} (basically, flow diagrams). They consist of Nodes (vertices), connected by Arrows (edges).
 
-These terms are used to talk generally about parts of BOVS Diagrams.
+The following terms are used to talk generally about parts of BOVS Diagrams.
 
 Node
 : Nodes function like nouns, representing Parties (see below).
@@ -31,8 +31,8 @@ Distance
 ## Structures
 
 ![Parties, Beneficiaries, Subjects and Objects in a BOVS Diagram](bovs-core-definitions-vocabulary.jpg)
+The following terms are used to talk generally about the participants within beneficial ownership structures.
 
-These terms are used to talk generally about the participants within beneficial ownership structures.
 
 Party
 : {{ site.data.definitions.BOVS.Party }}
