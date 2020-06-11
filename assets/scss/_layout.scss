@@ -1079,3 +1079,34 @@ td .button { margin-bottom: 0 }
   @include underline-links-invert();
 
 }
+
+.bovs__page {
+
+  // Make small diagrams bigger on smaller screens (even though this disrupts proportions)
+  @include breakpoint(small down) {
+    .text-body img {
+      width: 100%;
+      min-width: 100%;
+    }
+  }
+
+  // Prettier TOC
+  #markdown-toc {
+    @include underline-links-invert();
+
+    font-size: 90%;
+    list-style: none;
+    margin-left: 0;
+    border-left: 1px solid lighten(get-color(secondary), 25%);
+    padding-left: 1rem;
+    margin: 1rem 0;
+    
+    &:before {
+      content: 'On This Page';
+      display: block;
+      font-size: 110%;
+      font-family: $sans-bold;
+    }
+  }
+
+}
