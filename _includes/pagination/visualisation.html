@@ -1,0 +1,46 @@
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y" data-equalizer>
+  
+    <div class="small-6 cell">
+      {% if page_previous.url %}
+        <a href="{{page_previous.url}}" class="button hollow expanded align-middle" data-equalizer-watch>
+        
+        <div class="grid-y height-100 align-center">
+        <div class="shrink cell">
+          <div class="grid-x align-middle">
+            <div class="shrink cell">
+            <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
+            </div>
+            <div class="auto cell">
+            {{page_previous.title}}
+            </div>
+          </div>
+        </div>
+        </div>
+          
+
+        </a>
+      {% endif %}
+    </div>
+    
+    <div class="small-6 cell text-right">
+      {% if page_next.url %}
+      <a href="{{page_next.url}}" class="button hollow expanded align-middle" data-equalizer-watch>
+        <div class="grid-y height-100 align-center">
+        <div class="shrink cell">
+          <div class="grid-x align-middle">
+            <div class="auto cell">
+            {{page_next.title}}
+            </div>
+            <div class="shrink cell">
+            <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+            </div>
+          </div>
+        </div>
+        </div>
+      </a>
+      {% endif %}
+    </div>
+  
+  </div>
+</div>

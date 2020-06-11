@@ -44,12 +44,18 @@ layout: default
           <li><a href="/visualisation/principles">Design Principles</a></li>
           <li><a href="/visualisation/changelog">Version History</a></li>
         </ul>
+          {% assign menu = site.visualisation %}
+          {% assign menu = menu | sort: 'position' %}
+          {% include pagination/prevnext.liquid collection=menu wrap=false %}
       </div>
       <div class="small-9 cell">
         {{ content }}
       </div>
     </div>
   </section>
+
+  {% include pagination/visualisation.html %}
+
   {% endunless %}
   <!-- End Page Content -->
 </section>
