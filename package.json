@@ -23,7 +23,7 @@
     "styles": "gulp styles",
     "scripts": "gulp scripts",
     "build": "gulp build",
-    "test": "bundle exec jekyll serve --no-watch"
+    "jekyll": "bundle exec jekyll serve --no-watch"
   },
   "dependencies": {}
 }
