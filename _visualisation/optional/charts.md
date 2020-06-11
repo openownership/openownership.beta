@@ -3,25 +3,10 @@ title: Charts
 position: 2.04
 ---
 
-Charts are an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to add a chart directly into the diagram in order to show a given Entity's ownership/control breakdown in detail.
+Charts are an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to add a chart directly into the diagram which summarises the Beneficiaries of a given Entity.
 {: .lead}
 
-
-## Beneficiaries
-
-There are two charting modes. The mode determines which Beneficiaries are shown on the chart.
-
-### Ultimate Beneficiaries
-
-The chart includes an item for each Subject with a Chain leading to the given Entity.
-
-This is the most common mode, which can be used to clearly show the end result of all the interests in your diagram.
-
-### Direct Beneficiaries
-
-The chart includes an item for each of the given Entity's directly interested Parties (i.e. the Nodes just before it).
-
-If you use this mode, you should not also use [Annotation](/visualisation/optional/annotation) as this duplicates information.
+If you find that you want to draw more than a couple [Indirect Lines](/visualisation/optional/annotation) leading to a given Entity, you are probably better summarising that information with a Chart. Instead of drawing Indirect Lines, the Chart has a bar for each Beneficiary whose interest you want to summarise.
 
 
 ## Appearance
@@ -34,10 +19,11 @@ Charts are shown as bar charts attached to the Node of the given Entity.
 * The chart appears on the appropriate side of the Node according to the [Chirality](/visualisation/core/chirality) rule.
 * Nodes may have 2 charts; one each for its ownership and control breakdown.
 
-Each chart should include one bar for each Beneficiary.
+Each chart should include one bar for each Beneficiary that you want to highlight.
 
 * The Beneficiaries may be different between ownership and control charts.
-* Label each bar with the same Label that appears beneath that Beneficiary's Node.
+* Label each bar with its value (percentage) and the Beneficiary it relates to.
+  * The Beneficiary should be identified using the same Label that appears beneath that Beneficiary's Node.
   * The bar label should appear on the outside end of the bar.
 * Colour the bar according to the [Colour](/visualisation/optional/colour) rules (if you are using them).
 * Attempt to sort bars by the level of interest, using a consistent sorting direction across your diagram.
@@ -47,7 +33,13 @@ The chart must have a scale.
 * The scale runs from 0% at the closest point to the Node, to 100% at the further point.
 * Label the scale either Ownership or Control as appropriate.
 
-If a Beneficiary is shown in the diagram, it must appear in the chart (otherwise the breakdown is misleadingly simplified). However, you can group Beneficiaries into a single bar (see below) if desired.
+The chart must be complete (otherwise it will be misleadingly oversimplified).
+
+* All Beneficiaries present in the main diagram should have representation within the Chart, either by:
+  * Appearing directly, labelled against a bar; or
+  * The inclusion of a Beneficiary that is further along the Chain.
+* If this leads to a Chart with too many bars, so you can group multiple Beneficiaries into a single bar (see below).
+* In practice, it is likely you will want to show a separate bar for each Beneficiary that you want to highlight, and then one further grouped bar for all other Beneficiaries.
 
 
 ## Bar Grouping
