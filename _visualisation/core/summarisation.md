@@ -1,5 +1,6 @@
 ---
 title: Summarisation of Interests
+short_title: Summarisation
 position: 1.11
 ---
 

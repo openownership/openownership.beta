@@ -1,5 +1,6 @@
 ---
 title: Metadata Overlays
+short_title: Metadata
 position: 2.05
 ---
 

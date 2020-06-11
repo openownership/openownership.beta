@@ -1,5 +1,6 @@
 ---
 title: Relevance and Completeness
+short_title: Relevance
 position: 1.07
 ---
 
