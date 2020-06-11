@@ -4,7 +4,18 @@ layout: default
 
 <section class="framework__page">
   <!-- Page Title -->
-  {% include blocks/title.html  %}
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
+      <div class="small-12 medium-10 large-8 cell">
+        {% unless page.url == "/visualisation/" %}
+        <p>
+          <a href="/visualisation">BOVS</a>
+        </p>
+        {% endunless %}
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+  </section>
   <!-- End Page Title -->
   <!-- Page Content -->
   {% unless page.content == '' %}
