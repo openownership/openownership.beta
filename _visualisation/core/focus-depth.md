@@ -70,7 +70,7 @@ Depth should be limited only for the above reasons, that is, not for cosmetic re
 If you choose to use a Depth that is not unlimited:
 
 * You must state the Depth you have chosen clearly in the information provided with your diagram.
-* Any Chains that are cut short due to your choice must indicate this with an Arrow that trails off (see image).
+* Any Chains that are cut short due to your choice must indicate this with a line that trails off (see image).
 
 
 *[Parties]: {{ site.data.definitions.BOVS.Party }}
