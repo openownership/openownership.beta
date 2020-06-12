@@ -1,6 +1,6 @@
 ---
 title: Sufficient information should be published to understand the full ownership
-  ownership chains
+  chains
 component: Ownership chains
 order: 5
 summary_version: |-
