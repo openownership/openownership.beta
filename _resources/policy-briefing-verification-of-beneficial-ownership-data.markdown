@@ -5,13 +5,13 @@ categories:
 - Policy Briefing
 tags:
 - verification
+- accurate and complete
 position: 6
-description: 
+author: OpenOwnership
+thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
 files:
   en: "/uploads/OpenOwnership%20Verification%20Briefing.pdf"
   es: "/uploads/verification-briefing-spanish.pdf"
-author: OpenOwnership
-thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
 resource_type: Briefings
 is_featured: true
 ---
