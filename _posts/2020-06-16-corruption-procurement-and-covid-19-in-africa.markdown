@@ -18,7 +18,7 @@ Apart from the obvious burden placed on healthcare systems, other sectors that a
 
 In addition, the distribution of cash grants and food parcels to food-insecure communities has been wrought with irregularities, some due to the weak underlying infrastructure necessary for distribution and others due to corruption. 
 
-Urgency of due diligence now for COVID-19 financial flows 
+**Urgency of due diligence now for COVID-19 financial flows **
 
 Significant amounts of money are flowing through global financial systems in the form of debt relief, loans from multilateral institutions and government stimulus packages. The International Monetary Fund (IMF) and World Bank have [mobilised $57bn to assist Africa](https://www.commercialriskonline.com/world-bank-and-imf-join-forces-to-support-africa-through-covid-19-crisis/) to manage the pandemic, with a further $13bn expected from private creditors. Of the larger economies in the region, Nigeria is raising over a trillion naira to mitigate the effects of COVID-19 and is a [recent recipient of a $3.4bn IMF rapid relief loan](https://www.imf.org/en/News/Articles/2020/04/28/pr20191-nigeria-imf-executive-board-approves-emergency-support-to-address-covid-19). South Africa has announced [a R500bn (approximately $23bn) economic stimulus](https://mg.co.za/article/2020-04-21-ramaphosa-announces-r500-billion-covid-19-package-for-south-africa/) and social support package for the country, to be potentially financed through the IMF, BRICS and African Development Bank. The urgency of due diligence and oversight in public finance cannot be overstated, given the vast sums at play. Transparency is critical to ensure due diligence in the disbursement of funds and the effectiveness of the response to the pandemic.
 
@@ -28,7 +28,7 @@ This is unfortunate, given that SMEs provide an estimated two-thirds of the cont
 
 The illicit economy and organised criminal syndicates are, on the other hand, positioning themselves to benefit from the crisis. In some instances, crime syndicates have swooped in to ‘rescue’ vulnerable SMEs with loans, or have been the hidden beneficiaries of rapidly awarded government contracts. Verification of legal persons and beneficial owners in real-time could go some way in mitigating this risk, as anonymous companies are known to be a corruption risk for procurement and illicit financial flows. As has occurred in other parts of the world such as with Brazil’s favelas or Italy’s mafia gangs, gang networks in Cape Town, South Africa have co-opted food parcel distribution in vulnerable communities and used these channels to distribute drugs and small arms, fuelling potential violence in the months to come. 
 
-The risk of deferring accountability to after the crisis
+**The risk of deferring accountability to after the crisis**
 
 The temptation may be to sideline transparency and accountability during the crisis, and treat the pressing needs created by the pandemic as being inconsistent with accountability and transparency measures. However, the consequences of not monitoring in the midst of the crisis could be dire. The Ebola epidemic which affected West Africa between 2013-2016, and led to thousands of deaths and socioeconomic disruption in the region, mainly in Guinea, Liberia and Sierra Leone, provides an indication of the consequences of not monitoring financial flows provided from domestic and development assistance. It is estimated that of the development assistance made available to the government of Sierra Leone, 30% funds were unaccounted for, due to fraud and corruption. 
 
@@ -36,7 +36,7 @@ In relation to the COVID-19 funds, the IMF has cautioned that countries should e
 
 The cost and time of ex post corruption inquiries and prosecutions is also staggering. In the last two years, South Africa’s series of commissions of inquiry into wrongdoing within various arms of the state, linked closely to public procurement, have cost R297million ($16million). This does not include the cost of prosecutions. Such inquiries also have questionable results in exerting accountability, as seen in South Africa with the ‘Arms Procurement Commission’ inquiry. 
 
-An appropriate response which saves lives and economies
+**An appropriate response which saves lives and economies**
 
 What is necessary is for governments to ensure that procurement and expenditure of funds is done properly, and that beneficial ownership data is used as a component of due diligence processes. For whatever corrupt activity is flagged, be it anti-competitive behaviour or price gouging, procurement systems need to include measures which will redflag and retain such data. In ensuring the integrity of supply chains and procurement procedures in the future, beneficial ownership data will be necessary for debarring suppliers found to be implicated in COVID-19 related wrongdoing. 
 
