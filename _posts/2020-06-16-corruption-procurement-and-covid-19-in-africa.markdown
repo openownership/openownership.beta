@@ -1,13 +1,13 @@
 ---
 title: Corruption, procurement and COVID-19 in Africa
 date: 2020-06-16 13:30:00 Z
-published: false
 categories:
 - blog
 tags:
 - coronavirus
 - procurement
 - Africa
+image: "/uploads/Sope.png"
 author: Professor Sope Williams-Elegbe
 is_featured: true
 ---
@@ -42,6 +42,6 @@ What is necessary is for governments to ensure that procurement and expenditure 
 
 While limited data is available on beneficial ownership as it is a relatively new policy area, there are already some countries in Africa moving towards implementation and that  have developed the legal and policy frameworks necessary to ascertain beneficial ownership. For instance, in Nigeria, the extractive sector requires companies to disclose ownership through a public central register. Kenya recently passed regulations to set up a central registry of beneficial ownership and also issued a 2018 Executive Order, making disclosure of winning suppliers mandatory in public procurement. Important positive signals have also been issued by some recipients of multilateral funds. For instance, Nigeria has committed to disclosing contracting and beneficial data of the IMF rapid relief loan. In Gabon, the Ministry of Finance has agreed to make disclosure of beneficial ownership data part of oversight mechanisms. The accurate, timely and public availability of the data disclosed is as important as these commitments. Tools such as the [OpenOwnership Principles](https://www.openownership.org/framework/) for beneficial ownership disclosure can assist in meeting these standards and aid in reducing the corruption risk in distributing financial and non-financial resources, as well as  awarding contracts during the pandemic and in the recovery phase. This approach must be at the centre of government responses to save lives and economies in sub-Saharan Africa and globally. 
 
- Author Bio: Professor Sope Williams-Elegbe is a Professor and Head of Department of Mercantile Law, and the deputy director of the African Procurement Law Unit, Stellenbosch University. She specializes in public procurement law, anti-corruption law, sustainable development law and commercial law.   She is the author of over 50 publications in the areas of anti-corruption and public procurement law, including the books: Fighting Corruption in Public Procurement: A Comparative Analysis of Disqualification or Debarment Measures (Hart, 2012); Public Procurement and Multilateral Development Banks: Law, Practice and Problems (Bloomsbury/Hart 2017) and Public Procurement Regulation for 21st Century Africa (with G Quinot; Juta, 2018). She is also an NRF B2 rated scholar.
+Author Bio: [Professor Sope Williams-Elegbe is a Professor and Head of Department of Mercantile Law, and the deputy director of the African Procurement Law Unit, Stellenbosch University](http://blogs.sun.ac.za/law/staff/publiekreg-public-law/dr-sope-williams-elegbe/). She specializes in public procurement law, anti-corruption law, sustainable development law and commercial law.   She is the author of over 50 publications in the areas of anti-corruption and public procurement law, including the books: Fighting Corruption in Public Procurement: A Comparative Analysis of Disqualification or Debarment Measures (Hart, 2012); Public Procurement and Multilateral Development Banks: Law, Practice and Problems (Bloomsbury/Hart 2017) and Public Procurement Regulation for 21st Century Africa (with G Quinot; Juta, 2018). She is also an NRF B2 rated scholar.
 
 This article is based on a panel discussion given at [OpenOwnership’s  webinar on “Corruption and COVID-19: transparency’s role in ensuring an effective response and recovery”](https://www.youtube.com/watch?v=vVXaD1FdXI8&t=5s) held on the on the 30 April 2020. 
