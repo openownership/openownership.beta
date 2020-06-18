@@ -3,14 +3,14 @@ title: Claire Reichenbach
 categories:
 - project-team
 position: 14
-job-title: Operations Manager
+job-title: Director - Finance & Human Resources
 image: "/uploads/claire-reichenbach-2.jpg"
 email: claire@openownership.org
 social:
   linkedin: https://www.linkedin.com/in/claire-reichenbach-b633b4106/
 ---
 
-Claire Reichenbach is OpenOwnership’s People and Operations Manager. She is responsible for the organisation's finances and the well-being of staff as well as ensuring that all runs smoothly behind the scenes.
+Claire Reichenbach is OpenOwnership’s Finance & Human Resources Director. She is responsible for the organisation's finances and the well-being of staff as well as ensuring that all runs smoothly behind the scenes.
 
 Working in the international, non-profit sector her whole life, she spent over twelve years at Amnesty International. She has since taken her skills to various start-up charities in international children’s health and global education. Having until recently served as the Chair of the Board for AbleChildAfrica, she brings a governance perspective to her financial, operational and human resources non-profit experience.
 
