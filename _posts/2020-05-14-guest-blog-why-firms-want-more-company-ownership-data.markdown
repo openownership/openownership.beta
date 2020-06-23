@@ -2,7 +2,7 @@
 title: 'Guest blog: Why firms want more company ownership data'
 date: 2020-05-14 13:43:00 Z
 categories:
-- blog
+- blogs
 tags:
 - private sector
 image: "/uploads/refintiv%20blog%20photo.png"
