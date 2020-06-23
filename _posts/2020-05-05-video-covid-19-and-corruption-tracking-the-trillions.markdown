@@ -2,7 +2,7 @@
 title: 'Video - Covid-19 and Corruption: Tracking the trillions'
 date: 2020-05-05 12:05:00 Z
 categories:
-- event
+- events
 tags:
 - video
 image: "/uploads/video.png"
