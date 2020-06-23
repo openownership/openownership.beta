@@ -2,7 +2,7 @@
 title: Corruption, procurement and COVID-19 in Africa
 date: 2020-06-16 13:30:00 Z
 categories:
-- blog
+- blogs
 tags:
 - coronavirus
 - procurement
