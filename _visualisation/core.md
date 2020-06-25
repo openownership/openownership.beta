@@ -21,7 +21,7 @@ BOVS diagrams consist of Nodes connected by Arrows.
 
 [Definitions](/visualisation/core/definitions){: .button }
 
-Nodes represent Parties, the participants in beneficial ownership structures.
+Nodes represent Parties, the participants in beneficial ownership relationships.
 {: .lead }
 
 Key types of Parties include Persons (private individuals) and Entities (legal constructions, like Companies). Each type of Party has an associated icon.
@@ -40,7 +40,7 @@ Parties are drawn as a circle containing an icon, with a label underneath.
 Arrows connect Parties, representing their interests, which may be ownership or control interests, or both.
 {: .lead }
 
-Arrows flow from the interested Party to the object of their interest. Each type of interest may also have a level between 0% and 100%.
+Arrows flow from the interested Party to the Entity they are interested in. Each type of interest may also have a strength between 0% and 100%.
 
 [Interests (Arrows)](/visualisation/core/interests-arrows){: .button }
 
@@ -107,3 +107,7 @@ For instance, if two Parties each own 50% of a Company, then together they own 1
 ## Optional Features
 
 Once you understand the Core Rules, learn how diagrams can be enhanced further with [Optional Features](/visualisation/optional).
+
+![BOVS Diagram with Annotations](/visualisation/diagrams/bovs-optional-annotation.png){: style="width: 62.5%" }
+
+In particular, [Annotation](/visualisation/optional/annotation) allows you to draw Indirect Arrows to summarise interests, and to add labels to Arrows to indicate their nature or strength.

@@ -6,7 +6,7 @@ position: 2.02
 Colour is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. Colour can be used to make ownership and control information easier to see at a glance.
 {: .lead}
 
-Ownership and control information should each be assigned a distinct colour. They may be any colours you like, so long as they contrast well. Ownership and control information will then be shown in these colours consistently across your diagram.
+Ownership and control information should each be assigned a distinct colour. They may be any colours you like, so long as they contrast well. Ownership and control information must then be shown in these colours consistently across your diagram.
 
 
 ## Arrows

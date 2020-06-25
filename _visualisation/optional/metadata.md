@@ -14,7 +14,7 @@ The types of metadata you wish to show are your choice; we envisage that these a
 
 | Metadata Type              | Explanation
 | ----------------------------
-| Regime of Jurisdiction     | Which Regime (e.g. country) has jurisdiction over this Party?
+| Jurisdiction               | Which State (e.g. country) has jurisdiction over this Party?
 | Disclosure Status          | Has this Party fully disclosed its beneficial ownership information?
 | Below Disclosure Threshold | Is this Party below the threshold for disclosure?
 {: .unstriped }
@@ -24,9 +24,9 @@ Each metadata type must be a property of a Party that can take on one or more of
 
 ## Appearance
 
-![BOVS Diagram with Optional Feature for Metadata Overlays](/visualisation/diagrams/bovs-optional-metadata.png){: style="width: 62.5%" }
-
 Metadata values are shown by overlaying icons around the circumference of the related Party's Node.
+
+![BOVS Diagram with Optional Feature for Metadata Overlays](/visualisation/diagrams/bovs-optional-metadata.png){: style="width: 62.5%" }
 
 For each type of metadata, determine all of its possible values, and what icons will be used to indicate each of these values.
 
@@ -94,9 +94,10 @@ Selected icons can be grouped into a Metadata Stack. Do this if too many types o
 Currently, only one type of metadata is defined in a standard format by BOVS:
 
 | Type                   | Icon
-| Regime of Jurisdiction | Show the same icon as you would use for that Regime as a Party.
+| ------------------------
+| **Jurisdiction**       | Identify the State that has jurisdiction using the same icon you would use for that State as a Party.
 {: .unstriped }
 
 
 *[Party]: {{ site.data.definitions.BOVS.Party }}
-*[Regime]: {{ site.data.definitions.BOVS.Regime }}
+*[State]: {{ site.data.definitions.BOVS.State }}

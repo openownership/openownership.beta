@@ -7,9 +7,10 @@ The BOVS "vocabulary" specifies the types of Parties that can appear at the Node
 {: .lead }
 
 
-## Subjects
+## Beneficial Owners
 
-The following types of Parties are Subjects, and so must appear at the start of all Chains in a diagram.
+The following types of Parties are types of Beneficial Owner, and so must appear at the start of all Chains in a diagram.
+
 
 {% capture PersonInfo %}
 {{ site.data.definitions.BOVS.Person }} Note that the plural in the context of BOVS is "Persons" not "people".
@@ -18,40 +19,53 @@ Persons are indicated with the [Person icon](/visualisation/resources).
 {% endcapture %}
 {% capture PersonInfo %}{{ PersonInfo | markdownify }}{% endcapture %}
 
-{% capture RegimeInfo %}
-{{ site.data.definitions.BOVS.Regime }}
 
-Regimes may be indicated either with:
+{% capture StateInfo %}
+{{ site.data.definitions.BOVS.State }}
 
-* The flag of that Regime.
-* A horizontal rectangle containing a textual abbreviation for that Regime. The abbreviation should be the Regime's [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2){:target="_blank"} 2-letter country code, if such a code exists.
+States are indicated with the [State icon](/visualisation/resources).
 
-You must choose one of these styles for how Regimes are visualised across your entire diagram.
+A specific State is indicated either with:
+
+* The flag of that State. If you use this style at all, you must use it for all States that have a flag.
+* The State icon, with the addition of a textual abbreviation for that State written inside the icon.
+
 {% endcapture %}
-{% capture RegimeInfo %}{{ RegimeInfo | markdownify }}{% endcapture %}
+{% capture StateInfo %}{{ StateInfo | markdownify }}{% endcapture %}
 
-{% capture SubjectTable %}
-| ![Person](/visualisation/resources/bovs-person.png){: style="width: 20em" } | **Person** | PersonInfo
-| ![Regime](/visualisation/resources/bovs-regime.png){: style="width: 20em" } | **Regime** | RegimeInfo
+
+{% capture ListedInfo %}
+{{ site.data.definitions.BOVS.Listed }}
+
+Public Listed Companies are indicated with the [Public Listed Company icon](/visualisation/resources).
+{% endcapture %}
+{% capture ListedInfo %}{{ ListedInfo | markdownify }}{% endcapture %}
+
+
+{% capture OwnerTable %}
+| ![Person](/visualisation/resources/bovs-person.png){: style="width: 10em" }              | **Person** | PersonInfo
+| ![State](/visualisation/resources/bovs-state.png){: style="width: 10em" }  | **State** | StateInfo
+| ![Listed Company](/visualisation/resources/bovs-listed.png){: style="width: 10em" }      | **Public Listed Company** | ListedInfo
 {: .unstriped}
 {% endcapture %}
 
-{{ SubjectTable | markdownify
+{{ OwnerTable | markdownify
   | replace: "PersonInfo", PersonInfo
-  | replace: "RegimeInfo", RegimeInfo
+  | replace: "StateInfo", StateInfo
+  | replace: "ListedInfo", ListedInfo
 }}
 
 
-## Objects
+## Owned Entities
 
-The following types of Parties are Objects, and so never appear at the start of a Chain.
+The following types of Parties are Owned Entities, and so never appear at the start of a Chain.
 
 {% capture EntityInfo %}
 {{ site.data.definitions.BOVS.Entity }}
 
 Entities are indicated with the [Entity icon](/visualisation/resources).
 
-If you are able, and want, to be more specific than Entity, then the following more specific types of Party can be used.
+"Entity" is the most generic term for all the types of Party which can be owned. All of the Parties in this table are kinds of Entity.
 {% endcapture %}
 {% capture EntityInfo %}{{ EntityInfo | markdownify }}{% endcapture %}
 
@@ -64,16 +78,18 @@ You may use the Label "Organisation" with the Organisation icon, or, if you are 
 {% endcapture %}
 {% capture OrganisationInfo %}{{ OrganisationInfo | markdownify }}{% endcapture %}
 
-{% capture ObjectTable %}
-| ![Entity](/visualisation/resources/bovs-entity.png){: style="width: 20em" }             | **Entity**       | EntityInfo
-| ![Organisation](/visualisation/resources/bovs-organisation.png){: style="width: 20em" } | **Organisation** | OrganisationInfo
+{% capture EntitiesTable %}
+| ![Entity](/visualisation/resources/bovs-entity.png){: style="width: 10em" }             | **Entity**       | EntityInfo
+| ![Organisation](/visualisation/resources/bovs-organisation.png){: style="width: 10em" } | **Organisation** | OrganisationInfo
 {: .unstriped}
 {% endcapture %}
 
-{{ ObjectTable | markdownify
+{{ EntitiesTable | markdownify
   | replace: "EntityInfo", EntityInfo
   | replace: "OrganisationInfo", OrganisationInfo
 }}
+
+You may choose just to identify all Owned Entities just as "Entities", or select certain types of Parties (e.g. Companies) for which you will identify their type more specifically.
 
 
 ## Icons
@@ -83,6 +99,6 @@ We provide icons for the above types of Party in our [Resources](/visualisation/
 
 *[Nodes]: {{ site.data.definitions.BOVS.Node }}
 *[Parties]: {{ site.data.definitions.BOVS.Party }}
-*[Subjects]: {{ site.data.definitions.BOVS.Subject }}
-*[Objects]: {{ site.data.definitions.BOVS.Object }}
+*[Beneficial Owner]: {{ site.data.definitions.BOVS.BeneficialOwner }}
+*[Owned Entities]: {{ site.data.definitions.BOVS.OwnedEntities }}
 *[Chains]: {{ site.data.definitions.BOVS.Chain }}

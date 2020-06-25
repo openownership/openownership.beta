@@ -12,7 +12,7 @@ Often, our picture of a beneficial ownership situation contains many unknowns. T
 **We may know that Parties exist, but *lack detail* about them.** For instance:
 
 * We may know that an intermediary exists in between two Entities, but have no information about it
-* We may know that an Entity must be owned by a Person, but not know whom
+* We may know that an Entity is owned by a Person, but not know whom
 * A Person may be anonymous
   * For legitimate reasons
   * Due to non-disclosure or missing data
@@ -22,7 +22,7 @@ As a Party is known to exist – despite its details being unknown – we still 
 ![BOVS Diagram with Unknown Party using unknown icon variant and labelled Unknown](/visualisation/diagrams/bovs-core-unknowns.png){: style="width: 62.5%" }
 
 * Use the Unknown variant of the icon for that type of Party (see below)
-* Label the node with an [Identifier](/visualisation/core/parties-nodes), using the status "Unknown" or "Anonymous"
+* Label the Node with an [Identifier](/visualisation/core/parties-nodes), using the status "Unknown" or "Anonymous" as appropriate
 
 ### Icons
 
@@ -42,6 +42,16 @@ Each icon in the [Vocabulary](/visualisation/core/vocabulary) has an Unknown var
   * X is a number, 0 or greater
   * Y is the type of Party, written in the plural
 
+### Stacking Unknowns
+
+Nodes for Unknown Parties can be [stacked](/visualisation/core/stacks) following the same rules as for known Parties.
+
+* If a Stack contains only unknown Parties, include the status "Unknown" in the Stack Label, e.g. "3 Unknown Entities".
+  * If you are including an Unknown Number Node in the Stack, the Stack Label must also include "or more". For instance, an "Unknown Person" stacked together with "2 or more Unknown Parties" gives a Stack labelled with "3 or more Unknown Parties".
+* If a Stack contains both both known and unknown types of Parties:
+  * Consider the Labels for just the known Parties and the unknown Parties separately.
+  * The Label for the Stack is the combination of the two, joined with a "+", e.g. "2 Persons + 3 Unknown Organisations".
+
 
 ## Obscured Interests
 
@@ -50,13 +60,13 @@ Each icon in the [Vocabulary](/visualisation/core/vocabulary) has an Unknown var
 **Unknown *nature*** of interest
 : Not known if the interest includes control, and/or not known if the interest includes ownership.
 
-**Unknown *level*** of interest
-: The nature of interest is known, but not the level of interest (it is not quantified).
+**Unknown *strength*** of interest
+: The nature of interest is known, but not the strength of interest (it is not quantified).
 
-The Arrows for the above two types of unknown interest may be drawn with up to a 60% tint.
+The Arrows for the above two types of unknown interest may be drawn with a tint.
 
-***Uncertain* level** of interest
-: The nature of interest is known, but the level of interest is only known to be within a range, e.g. 10-20%.
+***Uncertain* strength** of interest
+: The nature of interest is known, but the strength of interest is only known to be within a range, e.g. 10-20%.
 
 **Unquantifiable** aspects of interest
 : All or part of the interest is of a nature that cannot be expressed objectively as a number.

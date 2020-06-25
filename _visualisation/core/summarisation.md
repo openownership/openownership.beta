@@ -59,7 +59,7 @@ If any interest in your addition is uncertain, i.e. is given as a range, then yo
 
 #### Example 2
 
-Addition involving uncertainty may result in a range with a maximum of 100% as its lowerbound, and more than 100% as its upperbound. For instance:
+Addition involving uncertainty may result in a range with more than 100% as its upperbound. For instance:
 
 | Party    |   | Interest | Known Portion | Unknown Portion
 | -----------------------------------------
@@ -74,7 +74,7 @@ This accurately reflects our lack of knowledge about where these uncertainties o
 
 ### Unknown Interests
 
-If any interest in your addition is unknown, i.e. the nature or the level of interest is not known:
+If any interest in your addition is unknown, i.e. the nature or the strength of interest is not known:
 
 1. Treat this interest as a range from 0-100%.
 2. Follow the rules above for combining uncertain interests.
@@ -91,13 +91,13 @@ If any interest in your addition is unknown, i.e. the nature or the level of int
 
 #### Example 2
 
-| Party    |   | Interest        | Known Portion | Unknown Portion
-| ------------------------------------------------
-| Person A | + | Unknown Level   | 0%            | 100%
-| Person B | + | Unknown Nature  | 0%            | 100%
-| Person C | + | Unknown Level   | 0%            | 100%
-| ================================================
-| Combined | = | 0-300%          | 0%            | 300%
+| Party    |   | Interest         | Known Portion | Unknown Portion
+| -------------------------------------------------
+| Person A | + | Unknown Strength | 0%            | 100%
+| Person B | + | Unknown Nature   | 0%            | 100%
+| Person C | + | Unknown Strength | 0%            | 100%
+| =================================================
+| Combined | = | 0-300%           | 0%            | 300%
 {: .unstriped }
 
 Any result that is a range from 0% to 100% or more, i.e. a complete unknown, can be abbreviated as "?%".
@@ -134,9 +134,9 @@ When giving the combined control interests of the above 3 people, you might choo
 
 ![Compounded Interests in a BOVS Diagram](/visualisation/diagrams/bovs-core-summarisation-compounded.png){: style="width: 87.5%" }
 
-You may summarise the interests of multiple Parties in a given Entity by adding together each of their direct interests in that Entity. The summarised figure is referred to as their **combined interest** in the given Entity.
+You may summarise the interest of a single Party in a distant Entity by multiplying together each direct interest along the Chain from the first Party to the final Entity. The summarised figure is referred to as the Party's **compounded interest** in the given Entity.
 
-* Any Party that does not have a direct interest in the selected Entity is treated as a zero in the multiplication.
+* Any Party in the Chain that does not have a direct interest in the next Entity is treated as a zero in the multiplication.
 * See below for how to handle multiplication in cases where interests are obscured.
 
 
@@ -171,7 +171,7 @@ If any interest in your multiplication is uncertain, i.e. is given as a range, t
 
 ### Unknown Interests
 
-If any interest in your multiplication is unknown, i.e. the nature or the level of interest is not known:
+If any interest in your multiplication is unknown, i.e. the nature or the strength of interest is not known:
 
 1. Treat this interest as a range from 0-100%.
 2. Follow the rules above for compounding uncertain interests.
@@ -188,13 +188,13 @@ If any interest in your multiplication is unknown, i.e. the nature or the level 
 
 #### Example 2
 
-| Party      |   | Interest        | Lowerbound | Upperbound
-| -----------------------------------------------
-| Entity A   |   | Unknown Level   | 0%         | 100%
-| Entity B   | × | Unknown Nature  | 0%         | 100%
-| Entity C   | × | Unknown Level   | 0%         | 100%
-| ===============================================
-| Compounded | = | 0-100%          | 0%         | 100%
+| Party      |   | Interest         | Lowerbound | Upperbound
+| ------------------------------------------------
+| Entity A   |   | Unknown Strength | 0%         | 100%
+| Entity B   | × | Unknown Nature   | 0%         | 100%
+| Entity C   | × | Unknown Strength | 0%         | 100%
+| ================================================
+| Compounded | = | 0-100%           | 0%         | 100%
 {: .unstriped }
 
 Any result that is a range from 0% to 100% or more, i.e. a complete unknown, can be abbreviated as "?%".
@@ -224,3 +224,16 @@ When giving the compounded interest of Person A, you might choose to give this a
 
 * "0%", i.e. no control interest, if you consider that Person A's influence is not strong enough to exert any control through 2 intermediaries
 * "Influence", i.e. you note that Entity B has 25% control (via Entity C), and you consider Person A to have a strong influence over Entity B
+
+
+## Interests >100%
+
+Diagrams should be faithful to the data they are drawn from, and that data may sometimes imply a strength of interest that is greater than 100% (in either its known or unknown part). This may be because:
+
+* The data is taken from different points in time
+* The data contains errors
+* The data contains ranges rather than absolute values
+
+In each of these cases, visualising that the data implies interests greater than 100% is informative, highlighting the need for further checks on the data, or for care to be taken in data interpretation. It's another way in which the diagram shows what we [don't know](/visualisation/core/unknowns) about the situation.
+
+For this reason, it's not advisable to round interests down to 100%. However, if such manipulation is unavoidable for a particular use case, note within the diagram that you have done this, and provide a clear explanation of the process and rationale in your supporting text.

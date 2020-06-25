@@ -32,19 +32,19 @@ Distance
 
 The following terms are used to talk generally about the participants within beneficial ownership structures.
 
-![Parties, Beneficiaries, Subjects and Objects in a BOVS Diagram](/visualisation/diagrams/bovs-core-definitions-structures.png){: style="width: 62.5%" }
+![Parties, Beneficial Owners and Entities in a BOVS Diagram](/visualisation/diagrams/bovs-core-definitions-structures.png){: style="width: 62.5%" }
 
 Party
 : {{ site.data.definitions.BOVS.Party }}
 
-Beneficiary
-: {{ site.data.definitions.BOVS.Beneficiary }}
+Interested Party
+: {{ site.data.definitions.BOVS.InterestedParty }}
 
-Subject
-: {{ site.data.definitions.BOVS.Subject }}
+Beneficial Owner
+: {{ site.data.definitions.BOVS.BeneficialOwner }}
 
-Object
-: {{ site.data.definitions.BOVS.Object }}
+Owned Entities
+: {{ site.data.definitions.BOVS.OwnedEntities }}
 
 Direct/Indirect Interest
 : {{ site.data.definitions.BOVS.Direct }}

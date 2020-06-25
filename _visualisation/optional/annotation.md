@@ -14,10 +14,10 @@ Annotation is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. I
 
 ![BOVS Diagram with Annotations](/visualisation/diagrams/bovs-optional-annotation.png){: style="width: 62.5%" }
 
-Annotations are text labels that appear alongside Arrows. They may appear at the start, middle or end of the Arrow; whatever is the clearest in each situation (this is usually the start). These labels are written in a standard way:
+Annotations are text labels that appear alongside Arrows. They may appear at the start, middle or end of the Arrow; whatever is unambiguous and the clearest in each situation (this is usually the start). These labels are written in a standard way:
 
 * The nature of interest is given in the active voice, e.g. "Owns" or "Controls"
-* The level of interest is given as a percentage, e.g. "10%".
+* The strength of interest is given as a percentage, e.g. "10%".
 
 Annotations respect the [Chirality](/visualisation/core/chirality) rule, that is:
 
@@ -31,7 +31,7 @@ Annotations across your diagram must use a consistent detail level. Annotations 
 
 ### Qualifying Interests
 
-Annotations indicate if the nature of interest is ownership, control or both; but they do not indicate the level of interest.
+Annotations indicate if the nature of interest is ownership, control or both; but they do not indicate the strength of interest.
 
 ![BOVS Diagram with Annotations Qualifying Interests](/visualisation/diagrams/bovs-optional-annotation-qualified.png){: style="width: 100.5%" }
 
@@ -39,11 +39,11 @@ If your diagram also has an [Interest Focus](/visualisation/core/focus-depth), o
 
 ### Quantifying Interests
 
-Annotations additionally indicate the level of ownership or control.
+Annotations additionally indicate the strength of ownership or control.
 
 ![BOVS Diagram with Annotations Quantifying Interests](/visualisation/diagrams/bovs-optional-annotation-quantified.png){: style="width: 100%" }
 
-If your diagram also has an [Interest Focus](/visualisation/core/focus-depth), omit the nature of interest and write the level (percentage) only.
+If your diagram also has an [Interest Focus](/visualisation/core/focus-depth), omit the nature of interest and write the strength (percentage) only.
 
 ![BOVS Diagram with Annotations and Interest Focus](/visualisation/diagrams/bovs-optional-annotation-interest-focus.png){: style="width: 75%" }
 
@@ -63,7 +63,7 @@ All [relevant](/visualisation/core/relevance) Arrows in your diagram must be ann
 
 ![BOVS Diagram with Indirect Arrow](/visualisation/diagrams/bovs-optional-annotation-indirect.png){: style="width: 100%" }
 
-You may choose to add Arrows that connect distant Parties, and annotate these. These are indirect Arrows.
+You may choose to add Arrows that connect distant Parties, and annotate these. These are Indirect Arrows.
 
 * Indirect Arrows are drawn with a dotted or dashed line.
 * This Arrow must be annotated with the [compounded interest](/visualisation/core/summarisation) of the first Party in the last.
@@ -73,20 +73,20 @@ You may choose to add Arrows that connect distant Parties, and annotate these. T
 
 If a [Stack](/visualisation/core/stacks) appears at a Node you are considering to be [relevant](/visualisation/core/relevance), you must annotate the Node with a [summary](/visualisation/core/summarisation) of the interests within the Stack. This ensures the interest flow along the Chain remains clear.
 
-Where a **Chain Stack** appears along a relevant Chain:
+Where an **Entity Stack** appears along a relevant Chain:
 
-![BOVS Diagram with Annotated Chain Stack](/visualisation/diagrams/bovs-optional-annotation-stack-chain.png){: style="width: 100%" }
+![BOVS Diagram with Annotated Entity Stack](/visualisation/diagrams/bovs-optional-annotation-stack-entity.png){: style="width: 100%" }
 
-* Add a disconnected Indirect Arrow, floating beside the Node, parallel to the Arrows leading into/out of it.
+* Add a disconnected Indirect Arrow, floating beside the Entity Stack, parallel to the Arrows leading into/out of it.
   * Add an Arrow for each nature of interest present inside the Stack (i.e. ownership or control).
   * Add these Arrows on the appropriate sides of the Node, respecting the [Chirality](/visualisation/core/chirality) rule.
 * Label these Arrows with the [compounded interests](/visualisation/core/summarisation) of the Parties within the Stack.
 
-Where a **Beneficiary Stack** appears along a relevant Chain:
+Where a **Owner Stack** appears along a relevant Chain:
 
-![BOVS Diagram with Annotated Beneficiary Stack](/visualisation/diagrams/bovs-optional-annotation-stack-beneficiary.png){: style="width: 100%" }
+![BOVS Diagram with Annotated Owner Stack](/visualisation/diagrams/bovs-optional-annotation-stack-owner.png){: style="width: 100%" }
 
-* Draw the Arrow from the Beneficiary Stack as an Indirect Arrow (see above).
+* Draw the Arrow from the Owner Stack as an Indirect Arrow (see above).
 * Label this with the [combined interests](/visualisation/core/summarisation) of the Parties in the Stack.
 
 
@@ -101,20 +101,20 @@ If the **nature** of interest is unknown:
 * Write '?' on the appropriate side of the Arrow, respecting the [Chirality](/visualisation/core/chirality) rule, if it is not known whether the interest includes control, or it is not known whether the interest includes ownership.
 * If the nature of interest is completely unknown, write a '?' on both sides of the Arrow.
 
-### Unknown Level
+### Unknown Strength
 
-![BOVS Diagram with Annotations for unknown levels of interest](/visualisation/diagrams/bovs-optional-annotation-unknown-level.png){: style="width: 75%" }
+![BOVS Diagram with Annotations for unknown strengths of interest](/visualisation/diagrams/bovs-optional-annotation-unknown-strength.png){: style="width: 75%" }
 
-If the **level** of interest is unknown, and you are quantifying interests:
+If the **strength** of interest is unknown, and you are quantifying interests:
 
 * Write '?%' on the appropriate side of the Arrow.
-* Don’t skip the '%'. Otherwise it looks like the nature is in question, not the level.
+* Don’t skip the '%'. Otherwise it looks like the nature is in question, not the strength.
 
-### Uncertain Level
+### Uncertain Strength
 
-![BOVS Diagram with Annotations for uncertain levels of interest](/visualisation/diagrams/bovs-optional-annotation-uncertain-level.png){: style="width: 75%" }
+![BOVS Diagram with Annotations for uncertain strength of interest](/visualisation/diagrams/bovs-optional-annotation-uncertain-strength.png){: style="width: 75%" }
 
-If the level has **uncertainty** in it:
+If the strength has **uncertainty** in it:
 
 * Write a percentage range, e.g. "Owns 10-15%", "Controls 50-100%".
 

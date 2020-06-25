@@ -13,22 +13,22 @@ Your diagram's focus determines which Parties and interests are included.
 
 ### Parties
 
-**Diagrams have either an Object or Subject Focus.** That is, they either:
+**Diagrams have either an Owner or Entity Focus.** That is, they either:
 
-* Focus on selected Objects (at the ends of Chains), then trace backwards all of their Beneficiaries.
-* Focus on selected Subjects (at the starts of Chains), and trace forwards all the Objects they are interested in.
+* Focus on selected Entities (at the ends of Chains), then trace backwards all of their Interested Parties.
+* Focus on selected Beneficial Owners (at the starts of Chains), and trace forwards all the Entities they are interested in.
 
-#### Object Focus
+#### Entity Focus
 
-![BOVS Diagram with Object Focus](/visualisation/diagrams/bovs-core-focus-object.png){: style="width: 87.5%" }
+![BOVS Diagram with Entity Focus](/visualisation/diagrams/bovs-core-focus-entity.png){: style="width: 87.5%" }
 
-Diagrams with an Object Focus (the most common) show all the Parties that exist in the reverse direction of the Arrows from the selected Objects (usually just one). For instance, it may trace all of the Parties interested in a specific Company, back to a set of Persons.
+Diagrams with an Entity Focus (the most common) show all the Parties that exist in the reverse direction of the Arrows from the selected Entities (usually just one). For instance, it may trace all of the Parties interested in a specific Company, back to a set of Persons.
 
-#### Subject Focus
+#### Owner Focus
 
-![BOVS Diagram with Subject Focus](/visualisation/diagrams/bovs-core-focus-subject.png){: style="width: 87.5%" }
+![BOVS Diagram with Owner Focus](/visualisation/diagrams/bovs-core-focus-owner.png){: style="width: 87.5%" }
 
-Diagrams with a Subject Focus show all the Parties that exist in the forward direction of the Arrows from the selected Subjects (usually just one). For instance, it may show all the interests of a specific Person.
+Diagrams with an Owner Focus show all the Parties that exist in the forward direction of the Arrows from the selected Beneficial Owners (usually just one). For instance, it may show all the interests of a specific Person.
 
 ### Interests
 
@@ -48,17 +48,17 @@ You may choose to adopt an Interest Focus, that is, include only one type of int
 
 **Diagrams have a Depth, which, unless you decide and note otherwise, is unlimited.** All Chains in the diagram are cut short at a length equal to the Depth.
 
-In **Object Focus** diagrams, the Chains in the reverse direction from the Entities at the end should be cut short after the specified Depth. This allows you to focus on:
+In **Entity Focus** diagrams, the Chains in the reverse direction from the Entities at the end should be cut short after the specified Depth. This allows you to focus on:
 
-* The ultimate Beneficiaries of the Entity you are focusing on (unlimited Depth)
+* The Beneficial Owners of the Entity you are focusing on (unlimited Depth)
 * The Parties interested in the Entity through a given number of intermediaries (Depth X)
-* The immediate Beneficiaries of the Entity only (Depth 1)
+* The immediate beneficiaries of the Entity only (Depth 1)
 
-In **Subject Focus** diagrams, the Chains in the forward direction from the Subjects at the start should be cut short after the specified Depth. This allows you to show either:
+In **Owner Focus** diagrams, the Chains in the forward direction from the Beneficial Owners at the start should be cut short after the specified Depth. This allows you to show either:
 
-* All the Entities that the Subjects you are focusing on have an interest in, through any number of intermediaries (unlimited Depth)
-* All the Entities that the Subjects have an interest in, through a given number of intermediaries (Depth X)
-* The Direct interests of the Subjects only (Depth 1)
+* All the Entities that the Beneficial Owners you are focusing on have an interest in, through any number of intermediaries (unlimited Depth)
+* All the Entities that the Beneficial Owners have an interest in, through a given number of intermediaries (Depth X)
+* The Direct Interests of the Beneficial Owners only (Depth 1)
 
 Depth should be limited only for the above reasons, that is, not for cosmetic reasons, to make diagrams fit into a given space, or to hide Parties not relevant to your point. If this is your chief concern, use [Stacks](/visualisation/core/stacks) rather than limiting your diagram's Depth.
 
@@ -73,8 +73,8 @@ If you choose to use a Depth that is not unlimited:
 
 
 *[Parties]: {{ site.data.definitions.BOVS.Party }}
-*[Subjects]: {{ site.data.definitions.BOVS.Subject }}
-*[Objects]: {{ site.data.definitions.BOVS.Object }}
+*[Beneficial Owners]: {{ site.data.definitions.BOVS.BeneficialOwner }}
+*[Owned Entities]: {{ site.data.definitions.BOVS.OwnedEntities }}
 *[Entity]: {{ site.data.definitions.BOVS.Entity }}
 *[Chains]: {{ site.data.definitions.BOVS.Chain }}
 *[Direct]: {{ site.data.definitions.BOVS.Direct }}

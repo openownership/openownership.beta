@@ -13,7 +13,7 @@ Optional Features allow BOVS diagrams to be progressively enhanced. If you choos
 
 ![BOVS Diagram with Optional Feature for Annotation](/visualisation/diagrams/bovs-optional-annotation.png){: style="width: 62.5%" }
 
-Specify the nature or level of interest for each line in the diagram.
+Specify the nature or strength of interest for each Arrow in the diagram.
 
 [Annotation](/visualisation/optional/annotation){: .button }
 
@@ -31,7 +31,7 @@ Use colour to make ownership and control information easier to understand at a g
 
 ![BOVS Diagram with Optional Feature for Line Weight](/visualisation/diagrams/bovs-optional-weight.png){: style="width: 62.5%" }
 
-Draw stronger interests with heavier arrows.
+Draw stronger interests with heavier Arrows.
 
 [Line Weight](/visualisation/optional/weight){: .button }
 
@@ -49,6 +49,6 @@ Summarise ownership or control information with a bar chart incorporated into th
 
 ![BOVS Diagram with Optional Feature for Metadata](/visualisation/diagrams/bovs-optional-metadata.png){: style="width: 62.5%" }
 
-Give additional information about the Parties in your diagram with icons.
+Give additional information about the Parties in your diagram, with icons.
 
 [Metadata](/visualisation/optional/metadata){: .button }

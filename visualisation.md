@@ -39,11 +39,12 @@ The above shows an example of a BOVS diagram. This describes a situation where:
 
 ## How to draw BOVS Diagrams
 
-The System includes a number of rules and features, so we've divided it up to make it easier to get started. You have to follow a few rules, but you can then pick and choose the additional features your diagrams need.
+The System includes a number of rules and features, so we've divided it up to make it easier to get started. You have to follow a few Core Rules, but you can then pick and choose the Optional Features your diagrams need.
 
-| [Core Rules](/visualisation/core){: .button}             | Must be followed for all BOVS Diagrams. If you're new to BOVS, start here.
+| [Core Rules](/visualisation/core){: .button}             | If you're new to BOVS, start here.
 | [Optional Features](/visualisation/optional/){: .button} | Ways to enhance your diagrams further.
 {: .unstriped }
+
 
 ## Resources
 
