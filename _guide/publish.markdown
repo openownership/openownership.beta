@@ -43,7 +43,7 @@ questions:
     data continues to meet the needs of users, and drives policy impact. The [Beneficial
     Ownership Data Standard](https://standard.openownership.org/en/latest/) will continue
     to develop under an open standards development process, and the OpenOwnership
-    [Helpdesk](mailto@support@openownership.org) will provide technical support with
+    [Helpdesk](mailto:support@openownership.org) will provide technical support with
     updates.
 resource-text:
 - 'Principles: [12 Principles for Effective Beneficial Ownership Disclosure](/framework)'
