@@ -24,7 +24,7 @@ Arrow
 Chain
 : {{ site.data.definitions.BOVS.Chain }}
 
-Distance 
+Distance
 : {{ site.data.definitions.BOVS.Distance}}
 
 

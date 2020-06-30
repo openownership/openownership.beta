@@ -1,6 +1,6 @@
 ---
 title: Vocabulary and Icons
-position: 1
+position: 2
 ---
 
 The BOVS "vocabulary" specifies the types of Parties that can appear at the Nodes in a BOVS diagram.

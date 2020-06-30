@@ -1,6 +1,6 @@
 ---
 title: Interests (Arrows)
-position: 1
+position: 4
 ---
 
 Arrows connect Nodes, showing that one Party has a Direct Interest in another.
@@ -15,7 +15,7 @@ Arrows connect Nodes, showing that one Party has a Direct Interest in another.
 * All Arrows in a diagram must proceed in the same direction.
   * e.g. always down, or always left/right, according to your chosen [Directionality](/visualisation/core/directionality).
   * This must be kept consistent unless it is logically impossible to do so, for instance in cases of circular relationships.
-  
+
 
 ## Nature and Strength
 

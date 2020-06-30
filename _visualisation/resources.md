@@ -1,6 +1,6 @@
 ---
 title: Resources
-position: 3
+position: 18
 ---
 
 These resources can be used to help you create BOVS Diagrams.

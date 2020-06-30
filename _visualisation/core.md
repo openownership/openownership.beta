@@ -1,6 +1,6 @@
 ---
 title: Core Rules
-position: 1
+position: 0
 layout: visualisation
 ---
 

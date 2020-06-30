@@ -1,6 +1,6 @@
 ---
 title: Charts
-position: 2
+position: 16
 ---
 
 Charts are an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to add a chart directly into the diagram which summarises the Beneficial Owners of a given Entity.
