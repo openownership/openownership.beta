@@ -1,0 +1,15 @@
+BOVS:
+  Node: A vertex in a BOVS diagram. Nodes function like nouns, representing Parties.
+  Arrow: An edge in a BOVS diagram. Arrows function like verbs, connecting Nodes to show relationships.
+  Chain: A series of Nodes continuously connected by Arrows is called a Chain. The "start" of the Chain is the first Node and the "end" is the last, based on the direction of the Arrows.
+  Party: General term for any kind of thing (e.g. Person, Company) that can be involved in a beneficial ownership situation.
+  InterestedParty: Any Party that has ownership or control of another Party. The Interested Party at the start of a Chain is the Beneficial Owner.
+  BeneficialOwner: Beneficial Owners are a type of Party that cannot be owned or controlled, and so always begin a Chain, e.g. a Person.
+  OwnedEntities: Entities are always owned or controlled by an Interested Party, and can appear at any point in a Chain except the start.
+  Person: A single private individual.
+  State: A country, state, or governing body with recognised sovereignty; or a department, ministry or fully controlled instrument of such a governing body.
+  Listed: A publicly traded company listed on a recognised stock exchange.
+  Entity: Any legal construction that a Party could have an interest in, such as a Company, Trust, Partnership, Contract, etc.
+  Organisation: Any incorporated entity such as a limited company, public company or charity.
+  Distance: The Distance between two Nodes is the length of the shortest Chain that connects them. The length of a Chain is the number of Arrows that are present in it. Two parties are 'distant' if the Chain connecting them has a length greater than 1.
+  Direct: A Party has a Direct interest in another if the Distance between them is 1. Otherwise the interest is Indirect.

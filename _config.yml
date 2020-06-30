@@ -24,6 +24,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  visualisation:
+    title: Visualisation System (BOVS)
+    output: true
   what-we-do:
     title: What We Do
     output: true
@@ -70,6 +73,11 @@ defaults:
     email: 
     social: 
     layout: team
+- scope:
+    path: ''
+    type: visualisation
+  values:
+    layout: visualisation
 url: https://www.openownership.org
 description: Driving the global shift towards transparency over who owns and controls
   companies.
@@ -95,7 +103,11 @@ plugins:
 - jekyll/imgix
 markdown: kramdown
 kramdown:
-  auto_ids: false
+  auto_ids: true
+  auto_id_stripping: true
+  transliterated_header_ids: true
+  auto_id_prefix: section-
+  toc_levels: 1..3
   input: GFM
   hard_wrap: false
 highlighter: rouge

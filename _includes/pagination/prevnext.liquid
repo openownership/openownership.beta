@@ -1,0 +1,42 @@
+{% assign prevnext_collection = include.collection %}
+
+{% if prevnext_collection.size >= 1 %}
+  {% assign next_index = 0 %}
+  {% assign prev_index = -1 %}
+
+  {% for item in prevnext_collection %}
+    {% if item.url == page.url %}
+      {% assign this_index = forloop.index0 %}
+      {% assign next_index = this_index | plus: 1 %}
+      {% assign prev_index = this_index | minus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if next_index >= prevnext_collection.size %}
+    {% unless include.wrap == false %}
+      {% assign next_index = 0 %}
+    {% endunless %}
+  {% endif %}
+
+  {% if prev_index < 0 %}
+    {% unless include.wrap == false %}
+      {% assign prev_index = prevnext_collection.size | minus: 1 %}
+    {% endunless %}
+  {% endif %}
+
+  {% if next_index >= prevnext_collection.size %}
+    {% assign page_next = '' %}
+  {% else %}
+    {% assign page_next = prevnext_collection[next_index] %}
+  {% endif %}
+
+  {% if prev_index < 0 %}
+    {% assign page_previous = '' %}
+  {% else %}
+    {% assign page_previous = prevnext_collection[prev_index] %}
+  {% endif %}
+
+{% else %}
+  {% assign page_next = '' %}
+  {% assign page_previous = '' %}
+{% endif %}
