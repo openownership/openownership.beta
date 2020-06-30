@@ -1,6 +1,6 @@
 ---
 title: Definitions
-position: 0
+position: 1
 ---
 
 The following terms are used throughout the BOVS specifications.
@@ -24,7 +24,7 @@ Arrow
 Chain
 : {{ site.data.definitions.BOVS.Chain }}
 
-Distance 
+Distance
 : {{ site.data.definitions.BOVS.Distance}}
 
 

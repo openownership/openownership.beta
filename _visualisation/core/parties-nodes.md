@@ -1,6 +1,6 @@
 ---
 title: Parties (Nodes)
-position: 2
+position: 3
 ---
 
 Nodes represent interested Parties, such as Persons, Entities or States.

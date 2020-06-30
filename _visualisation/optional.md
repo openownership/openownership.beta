@@ -1,6 +1,6 @@
 ---
 title: Optional Features
-position: 2
+position: 12
 ---
 
 Optional Features allow BOVS diagrams to be progressively enhanced. If you choose to use an Optional Feature, you must follow all of its related rules.

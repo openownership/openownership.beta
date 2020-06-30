@@ -1,6 +1,6 @@
 ---
 title: Summarisation of Interests
-position: 10
+position: 11
 short_title: Summarisation
 ---
 
@@ -116,11 +116,11 @@ If any interest in your addition includes an unquantifiable property, i.e. somet
 
 | Party    |   | Interest        | Quantifiable  | Unquantifiable
 | ------------------------------------------------
-| Person A |   | 5%              | 5%            | 
+| Person A |   | 5%              | 5%            |
 | Person B | + | Influence       | 0%            | Influence
-| Person C | + | 5%              | 5%            | 
+| Person C | + | 5%              | 5%            |
 | ================================================
-| Combined | = | 10%             | 10%           | 
+| Combined | = | 10%             | 10%           |
 | or       | = | 10% + Influence | 10%           | Influence
 {: .unstriped }
 

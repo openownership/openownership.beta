@@ -1,6 +1,6 @@
 ---
 title: Design Principles
-position: 4
+position: 19
 ---
 
 BOVS is designed to allow complex beneficial ownership structures to be visualised clearly.
