@@ -6,7 +6,7 @@ layout: visualisation
 **The Beneficial Ownership Visualisation System (BOVS) specifies how to illlustrate beneficial ownership structures** using a BOVS Diagram. It is designed to visualise these structures as clearly as possible.
 {: .lead }
 
-We offer these specifications to anyone building visualisations of beneficial ownership structures, to support their choices over how to represent different aspects of ownership. The specifications are compatible with any brand, style, colour scheme or language, and are provided under a Creative Commons Zero (CC0) licence.
+We offer these specifications to anyone building visualisations of beneficial ownership structures, to support their choices over how to represent different aspects of ownership. The specifications are compatible with any brand, style, colour scheme or language, and are provided under the GNU Free Documentation Licence.
 
 
 ## Example
