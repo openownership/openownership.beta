@@ -1,6 +1,6 @@
 ---
 title: Metadata Overlays
-position: 2
+position: 3
 short_title: Metadata
 ---
 
