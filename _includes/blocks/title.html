@@ -2,7 +2,7 @@
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
     <div class="small-12 medium-10 large-8 cell">
-      <h1>{{page.title | captialize}}</h1>
+      <h1>{{ page.title }}</h1>
       {% assign description = page.description | strip_newlines %}
       {% unless description == ""  %}
         <p>{{description}}</p>

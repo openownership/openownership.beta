@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<section class="bovs__page">
+  <!-- Page Title -->
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
+      <div class="small-12 medium-10 large-8 cell">
+        {% unless page.url == "/visualisation/" %}
+        <p>
+          <a href="/visualisation">BOVS</a>
+        </p>
+        {% endunless %}
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+  </section>
+  <!-- End Page Title -->
+  <!-- Page Content -->
+  {% unless page.content == '' %}
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y align-center">
+      <div class="large-3 cell">
+        <!-- menu -->
+
+        <div data-responsive-toggle="bovs-menu" data-hide-for="large">
+          <button class="button" type="button" data-toggle="bovs-menu">Contents</button>
+        </div>
+
+        <div class="sidemenu" id="bovs-menu">
+
+          {% assign menu = site.visualisation %}
+          {% assign menu = menu | sort: 'position' %}
+          {% include pagination/prevnext.liquid collection=menu wrap=false %}
+
+          <ul class="vertical medium-horizontal">
+            {% assign menu_current_level = 1 %}
+            {% for item in menu %}
+              {% assign item_level = item.url | split: '/' | compact | size | minus: 2 %}
+              
+              {% if item_level <= menu_current_level %}</li>{% endif %}
+              {% if item_level < menu_current_level %}</ul></li>{% endif %}
+              {% if item_level > menu_current_level %}<ul>{% endif %}
+              
+              <li class="{% if item.url == page.url %} active{% endif %}">
+                <a href="{{ item.url }}">
+                  {% if item.short_title %}{{ item.short_title }}
+                  {% else %}{{ item.title }}
+                  {% endif %}
+                </a>
+              
+              {% assign menu_current_level = item_level %}
+            {% endfor %}</li>
+          </ul>
+        </div>
+      </div>
+      <div class="large-9 cell">
+        <div class="text-with-sections text-body">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include pagination/visualisation.html %}
+
+  {% endunless %}
+  <!-- End Page Content -->
+</section>

@@ -141,7 +141,7 @@ a {
   text-transform: uppercase;
 }
 
-p {
+@mixin underline-links {
   a {
     border-bottom: 1px solid get-color(primary);
     transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
@@ -149,6 +149,24 @@ p {
       border-bottom: 1px solid transparent;
     }
   }
+}
+
+@mixin underline-links-invert {
+  a {
+    border-bottom: 1px solid transparent;
+    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
+    &:hover {
+      border-bottom: 1px solid get-color(primary);
+    }
+  }
+}
+
+p {
+  @include underline-links;
+}
+
+.text-body {
+  @include underline-links;
 }
 
 .sans-regular {
@@ -170,6 +188,29 @@ p {
 .serif-headline {
   font-family: $serif-headline;
 }
+
+.text-with-sections {
+
+  h1, h2 {
+    margin-top: 4rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid get-color(primary);
+  }
+
+  h3, h4, h5, h6 {
+    margin-top: 2rem;
+  }
+  
+  h4, h5, h6 {
+    font-family: $sans-regular;
+  }
+
+  h5, h6 {
+    color: $grey-blue
+  }
+
+}
+
 
 // X. Header
 // ---------
@@ -862,10 +903,15 @@ padding-top: 3rem;
   font-size: 2rem;
 }
 
+// X. Framework
+// ------------
+
 .framework__page {
   border-top: 1rem solid #7e8da3;
 }
 
+// X. Map
+// ------
 .world-map {
   width: 100%;
   height: 300px;
@@ -973,8 +1019,94 @@ padding-top: 3rem;
   display: none;
 }
 
-// Resources page
+// X. Resources page
+// ----------------
+
 // JS will show this when needed
 .no-resources-message {
   display: none;
+}
+
+// X. Visualisation
+// ----------------
+
+// Override Foundation's core styles for definition lists
+dl dt {
+  margin-top: 0.75rem;
+  font-family: $sans-bold
+}
+dl dd {
+  margin-left: 1rem
+}
+
+// Add rule to Foundation table styling to bold header rows
+thead tr:first-child th {
+  font-weight: bold;
+}
+
+// Add override for button appearing in a table cell
+td .button { margin-bottom: 0 }
+
+// Active item in nav menu
+.sidemenu {
+
+  ul {
+    margin-left: 0
+  }
+
+  li {
+    list-style: none
+  }
+
+  li ul {
+    margin-bottom: 0.5rem
+  }
+
+  li li {
+    &:before {
+      content: '\2013';
+      display: inline-block;
+      width: 1rem;
+      text-align: center;
+      color: get-color(primary)
+    }
+  }
+
+  .active > a {
+    font-family: $sans-bold
+  }
+
+  @include underline-links-invert();
+
+}
+
+.bovs__page {
+
+  // Make small diagrams bigger on smaller screens (even though this disrupts proportions)
+  @include breakpoint(small down) {
+    .text-body img {
+      width: 100%;
+      min-width: 100%;
+    }
+  }
+
+  // Prettier TOC
+  #markdown-toc {
+    @include underline-links-invert();
+
+    font-size: 90%;
+    list-style: none;
+    margin-left: 0;
+    border-left: 1px solid lighten(get-color(secondary), 25%);
+    padding-left: 1rem;
+    margin: 1rem 0;
+    
+    &:before {
+      content: 'On This Page';
+      display: block;
+      font-size: 110%;
+      font-family: $sans-bold;
+    }
+  }
+
 }

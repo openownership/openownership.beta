@@ -189,19 +189,19 @@ $header-styles: (
   ),
   'medium': (
     'h1': ('font-size': 36, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 1rem),
-    'h2': ('font-size': 32, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 1rem),
-    'h3': ('font-size': 28, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 1rem),
-    'h4': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
+    'h2': ('font-size': 32, 'line-height': 1.2, 'margin-top': 3rem, 'margin-bottom': 1rem),
+    'h3': ('font-size': 28, 'line-height': 1.2, 'margin-top': 2rem, 'margin-bottom': 1rem),
+    'h4': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 1rem, 'margin-bottom': $header-margin-bottom),
+    'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 1rem, 'margin-bottom': $header-margin-bottom),
+    'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 1rem, 'margin-bottom': $header-margin-bottom)
   ),
   'xxlarge': (
     'h1': ('font-size': 48, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 1rem),
-    'h2': ('font-size': 40, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 1rem),
-    'h3': ('font-size': 31, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 1rem),
-    'h4': ('font-size': 25, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
+    'h2': ('font-size': 40, 'line-height': 1.2, 'margin-top': 3rem, 'margin-bottom': 1rem),
+    'h3': ('font-size': 31, 'line-height': 1.2, 'margin-top': 2rem, 'margin-bottom': 1rem),
+    'h4': ('font-size': 25, 'line-height': $header-lineheight, 'margin-top': 1rem, 'margin-bottom': $header-margin-bottom),
+    'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 1rem, 'margin-bottom': $header-margin-bottom),
+    'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 1rem, 'margin-bottom': $header-margin-bottom)
   ),
 );
 $header-text-rendering: optimizeLegibility;
