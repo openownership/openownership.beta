@@ -1,6 +1,6 @@
 ---
 title: Summarisation of Interests
-position: 6
+position: 9
 short_title: Summarisation
 ---
 

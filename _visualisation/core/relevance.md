@@ -1,6 +1,6 @@
 ---
 title: Relevance and Completeness
-position: 5
+position: 8
 short_title: Relevance
 ---
 
