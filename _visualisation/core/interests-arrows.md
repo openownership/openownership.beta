@@ -1,6 +1,6 @@
 ---
 title: Interests (Arrows)
-position: 1.04
+position: 1
 ---
 
 Arrows connect Nodes, showing that one Party has a Direct Interest in another.

@@ -1,6 +1,6 @@
 ---
 title: Annotation
-position: 2.01
+position: 2
 ---
 
 Annotation is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to label Arrows to be more specific about the interest relationships they represent.

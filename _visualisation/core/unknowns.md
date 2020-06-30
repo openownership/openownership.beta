@@ -1,6 +1,6 @@
 ---
 title: Unknowns
-position: 1.09
+position: 1
 ---
 
 Often, our picture of a beneficial ownership situation contains many unknowns. The following rules allow BOVS Diagrams to portray what we *do* know and indicate what we *don't*.

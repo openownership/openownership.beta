@@ -1,6 +1,6 @@
 ---
 title: Definitions
-position: 1.01
+position: 1
 ---
 
 The following terms are used throughout the BOVS specifications.

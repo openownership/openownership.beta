@@ -1,7 +1,7 @@
 ---
 title: Relevance and Completeness
+position: 1
 short_title: Relevance
-position: 1.07
 ---
 
 BOVS diagrams must be complete, while also serving the point you want to make.

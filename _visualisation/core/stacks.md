@@ -1,6 +1,6 @@
 ---
 title: Stacks
-position: 1.08
+position: 1
 ---
 
 You can group multiple Parties into a single Node, called a Stack, to simplify your diagram. Use this judiciously, only when it improves clarity, and when identifying each individual Party isn’t relevant to your point.

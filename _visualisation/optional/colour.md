@@ -1,6 +1,6 @@
 ---
 title: Colour
-position: 2.02
+position: 2
 ---
 
 Colour is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. Colour can be used to make ownership and control information easier to see at a glance.

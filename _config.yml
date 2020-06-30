@@ -12,9 +12,6 @@ collections:
   guide:
     title: Guide
     output: true
-  visualisation:
-    title: Visualisation System (BOVS)
-    output: true
   posts:
     title: Posts
     output: true
@@ -26,6 +23,9 @@ collections:
     output: true
   uploads:
     title: Uploads
+    output: true
+  visualisation:
+    title: Visualisation System (BOVS)
     output: true
   what-we-do:
     title: What We Do

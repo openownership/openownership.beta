@@ -1,6 +1,6 @@
 ---
 title: Directionality
-position: 1.05
+position: 1
 ---
 
 Diagrams may be either vertical or horizontal. Choose which, based on the space you have available.

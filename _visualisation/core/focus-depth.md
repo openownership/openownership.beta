@@ -1,6 +1,6 @@
 ---
 title: Focus and Depth
-position: 1.06
+position: 1
 ---
 
 Normally, diagrams will focus on a given Entity and show all Parties with either ownership or control interests in that Entity, either directly or indirectly. However, you may wish to adopt a different focus or limit which parties or interests are shown.

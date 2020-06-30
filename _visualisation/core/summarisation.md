@@ -1,7 +1,7 @@
 ---
 title: Summarisation of Interests
+position: 1
 short_title: Summarisation
-position: 1.11
 ---
 
 You may wish to summarise the interests of more than one Party as a single figure. For instance, to summarise the ownership interests of multiple Persons, or to give the ultimate result of a Chain of control interests.
