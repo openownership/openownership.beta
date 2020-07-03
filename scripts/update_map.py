@@ -12,36 +12,6 @@ import requests
 load_dotenv()
 
 
-# These are for the current commitment tags in the country tracker
-CENTRAL_COMMITMENTS = [
-    '2016 ACS: Central register',
-    'OGP: Central register',
-    'EU: All sectors',
-    'EITI'
-]
-ALL_SECTORS_COMMITMENTS = [
-    '2016 ACS: All sectors',
-    'OGP: All sectors',
-    'EU: All sectors',
-]
-PUBLIC_COMMITMENTS = [
-    '2016 ACS: Public register',
-    'OGP: Public register',
-    'EU: All sectors',
-    'EITI'
-]
-OGP_COMMITMENTS = [
-    'OGP: Central register',
-    'OGP: Public register',
-    'OGP: All sectors',
-]
-ACS_COMMITMENTS = [
-    '2016 ACS: Central register',
-    '2016 ACS: All sectors',
-    '2016 ACS: Public register',
-]
-
-
 def notionToken():
     loginData = {
         'email': os.getenv('NOTION_EMAIL'),
@@ -77,77 +47,67 @@ def involvementText(text):
         return 'Current'
 
 
-def commitmentsAsHTML(country):
-    commitments = []
-    if 'Other' in country.commitments:
-        commitments.append(
-            f"{country.country} has made a commitment to beneficial ownership "
-            f"transparency."
-        )
-    if 'EU: All sectors' in country.commitments:
-        commitments.append(
+def defaultCommitmentSummary(commitment_type, country):
+    if commitment_type == 'EU':
+        return (
             f"As a European Union member, {country.country} is obliged to "
             f"create a central, public register of beneficial ownership, "
             f"covering the whole economy."
         )
-    if 'EITI' in country.commitments:
-        commitments.append(
+    elif commitment_type == 'EITI':
+        return (
             f"As an <a href='https://eiti.org/'>Extractives Industry "
             f"Transparency Initiative (EITI)</a> member, {country.country} has "
             f"committed to beneficial ownership transparency for the "
             f"extractives sector."
         )
-    if 'FSI' in country.commitments:
-        commitments.append(
-            f"<a href='https://fsi.taxjustice.net/en/'>The Financial Secrecy "
-            f"Index (FSI)</a> record that {country.country} has a commitment to, "
-            f"or is making progress towards, a register of beneficial "
-            f"ownership transparency."
-        )
-    if 'BOLG' in country.commitments:
-        commitments.append(
+    elif commitment_type == 'BOLG':
+        return (
             f"{country.country} has made a commitment to beneficial ownership "
             f"transparency as part of the "
             f"<a href='https://www.openownership.org/what-we-do/the-beneficial-ownership-leadership-group/'>"
             f"Beneficial Ownership Leadership Group</a>."
         )
-    if(any(tag in ACS_COMMITMENTS for tag in country.commitments)):
-        commitments.append(
+    elif commitment_type == 'UK Anti-Corruption Summit':
+        return (
             f"At the "
             f"<a href='https://www.gov.uk/government/topical-events/anti-corruption-summit-london-2016'>"
             f"2016 UK Anti-Corruption Summit</a> {country.country} made a "
             f"commitment to beneficial ownership disclosure."
         )
-    if(any(tag in OGP_COMMITMENTS for tag in country.commitments)):
-        commitments.append(
+    elif commitment_type == 'OGP':
+        return (
             f"{country.country} has included a commitment in an Open "
             f"Government Partnership National Action Plan to beneficial "
             f"ownership transparency"
         )
-
-    if(len(commitments) == 0):
-        return ''
-    else:
-        html = "<ul>"
-        for commitment in commitments:
-            html += f"<li>{commitment}</li>"
-        html += "</ul>"
-
-        return html
+    elif commitment_type == 'Other':
+        return (
+            f"{country.country} has made a commitment to beneficial "
+            f"beneficial ownership transparency through some other means"
+        )
 
 
-def commitmentDetails(commitments):
-    central = any(tag in CENTRAL_COMMITMENTS for tag in commitments)
-    public = any(tag in PUBLIC_COMMITMENTS for tag in commitments)
-    allSectors = any(tag in ALL_SECTORS_COMMITMENTS for tag in commitments)
+def commitmentsSummaryHTML(commitments):
+    html = "<ul>"
+    for commitment in commitments:
+        html += f"<li>{commitment['summary']}</li>"
+    html += "</ul>"
+    return html
+
+
+def combinedCommitments(commitments):
+    central_register = any(commitment.get('central_register') for commitment in commitments)
+    public_register = any(commitment.get('public_register') for commitment in commitments)
+    all_sectors = any(commitment.get('all_sectors') for commitment in commitments)
     score = 0
     level = 0
 
-    if central:
+    if central_register:
         score += 1
-    if public:
+    if public_register:
         score += 1
-    if allSectors:
+    if all_sectors:
         score += 1
 
     # We map to a 0-1-2 scale, where you have to make 2/3 of central, public
@@ -158,10 +118,11 @@ def commitmentDetails(commitments):
         level = 2
 
     return {
-        'commitment_level': level,
-        'central': central,
-        'public': public,
-        'all_sectors': allSectors
+        'central': central_register,
+        'public': public_register,
+        'all_sectors': all_sectors,
+        'level': level,
+        'html': commitmentsSummaryHTML(commitments)
     }
 
 
@@ -197,7 +158,31 @@ def regimesByCountryId(client):
     return regimes
 
 
-def writeCountriesCSV(client, data_dir, capitals, regimes):
+def commitmentsByCountryId(client):
+    commitments_tracker = client.get_collection_view("https://www.notion.so/openownership/995e7787e85f45df8fa568684f30d16b?v=499db353db9c4bf2bb95d1a2d2f3a389")
+    commitments = defaultdict(list)
+
+    for row in commitments_tracker.collection.get_rows():
+        if len(row.country) == 0:
+            print(f'{row} is missing a country to match it to')
+            continue
+        commitment_type = row.get_property('commitment_type')
+        summary = row.get_property('summary_text')
+        if summary == '':
+            summary = defaultCommitmentSummary(commitment_type, row.get_property('country')[0])
+        commitments[row.country[0].id].append({
+            'type': commitment_type,
+            'all_sectors': row.get_property('all_sectors'),
+            'central_register': row.get_property('central_register'),
+            'public_register': row.get_property('public_register'),
+            'link': extractUrl(row.get_property('link')),
+            'summary': summary
+        })
+
+    return commitments
+
+
+def writeCountriesCSV(client, data_dir, capitals, regimes, commitments):
     country_tracker = client.get_collection_view("https://www.notion.so/openownership/0bec13375fea4bd1a083f6baf8a21d78?v=88eca4f4bd5b4b72aa6b2cd5c2b5530d")
     fieldnames = [
         'notion_id',
@@ -228,9 +213,9 @@ def writeCountriesCSV(client, data_dir, capitals, regimes):
                 involvement = 'None'
                 if involved:
                     involvement = involvementText(country.oo_support)
-                commitments = commitmentDetails(country.commitments)
                 capital = capitals.get(country.iso2, {})
                 country_regimes = regimes.get(country.id, [])
+                country_commitments = combinedCommitments(commitments.get(country.id, []))
                 row = {
                     'notion_id': country.id,
                     'name': country.country,
@@ -238,11 +223,11 @@ def writeCountriesCSV(client, data_dir, capitals, regimes):
                     'committed': committed,
                     'involved': involved,
                     'involvement': involvement,
-                    'central': commitments['central'],
-                    'public': commitments['public'],
-                    'all_sectors': commitments['all_sectors'],
-                    'commitment_level': commitments['commitment_level'],
-                    'commitments_html': commitmentsAsHTML(country),
+                    'central': country_commitments['central'],
+                    'public': country_commitments['public'],
+                    'all_sectors': country_commitments['all_sectors'],
+                    'commitment_level': country_commitments['level'],
+                    'commitments_html': country_commitments['html'],
                     'capital_lat': capital.get('lat'),
                     'capital_lon': capital.get('lon'),
                     'any_online_register': any((regime.get('register_url') is not None) for regime in country_regimes),
@@ -291,15 +276,15 @@ def loadCountryCapitals(data_dir):
 def main():
     token = notionToken()
     client = NotionClient(token_v2=token)
-    regimes = regimesByCountryId(client)
     data_dir = os.path.join(
         pathlib.Path(__file__).parent.parent.absolute(),
         '_data'
     )
     capitals = loadCountryCapitals(data_dir)
     regimes = regimesByCountryId(client)
+    commitments = commitmentsByCountryId(client)
     writeRegimesCSV(regimes, data_dir)
-    writeCountriesCSV(client, data_dir, capitals, regimes)
+    writeCountriesCSV(client, data_dir, capitals, regimes, commitments)
 
 
 if __name__ == "__main__":
