@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<!-- Page Title -->
+{% include blocks/title.html %}
+<!-- End Page Title -->
+
+<!-- Page Content -->
+{% include blocks/content.html %}
+<!-- End Page Content -->
+
+<!-- Resources Grid -->
+<section class="grid-container padding-bottom-3 additional-resources">
+  <h2>Herramientas y guías de implementación</h2>
+  {% for resource in page.resources %}
+    <div class="grid-x grid-padding-x grid-padding-y align-center resource">
+      <div class="small-12 medium-6 large-2 cell">
+        <img src="{{ resource.thumbnail-image }}" class="image--resource {{resource.thumbnail-image-class}}">
+      </div>
+
+      <div class="small-12 medium-6 large-10 cell">
+        <h5 class="sans-bold">{{resource.title}}</h5>
+        <div class="medium-gray margin-bottom-1">{{resource.attribution }}</div>
+        {{resource.content | markdownify}}
+        <p>
+          <a class="button margin-bottom-0" href="{{ resource.url }}">Leer más</a>
+        </p>
+      </div>
+    </div>
+  {% endfor %}
+</section>
+<!-- End Resources Grid -->
