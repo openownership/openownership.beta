@@ -207,7 +207,7 @@ def writeCountriesCSV(client, data_dir, capitals, regimes, commitments):
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, dialect='unix')
         writer.writeheader()
         for country in country_tracker.collection.get_rows():
-            committed = len(country.commitments) > 0
+            committed = len(commitments.get(country.id, [])) > 0
             involved = validInvolvement(country.oo_support)
             if(committed or involved):
                 involvement = 'None'
