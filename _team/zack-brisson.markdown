@@ -1,6 +1,5 @@
 ---
 title: Zack Brisson
-published: false
 categories:
 - project-team
 position: 13
