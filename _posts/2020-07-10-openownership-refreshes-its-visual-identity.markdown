@@ -18,12 +18,13 @@ This change coincides with the first public release of BOVS – the Beneficial O
 Company ownership is often complex and multi-layered. Visualizing corporate networks broadens the number of people that can intuitively understand how companies and beneficial owners are structured in practice. BOVS is open-source and can be used by governments, companies and citizens to map company ownership structures clearly and consistently, painting a picture that would otherwise be locked in text and data. Fundamentally, it makes beneficial ownership data easier to understand to a wider group of people.
 
 
-
+![BOVS Example Vertical.png](/uploads/BOVS%20Example%20Vertical.png)
 
 
 Clarifying these structures is central to our work, so incorporating BOVS into our logo was important to the team. Alongside a clean and legible font,our aim is that the new logo communicates our drive to make beneficial ownership simple, comprehensible and easy to implement.
 
 ### Using our new logo
 
-Our new logo can be downloaded for free below. You may use it only if you are referencing our organisation in your own work relating to beneficial ownership. The logo may not be altered in any way.
+Open Ownership's name and logo are the property of Open Ownership. Our new logo can be downloaded below. You may use it only if you are referencing Open Ownership in your own work relating to beneficial ownership. The logo may not be altered in any way.
+
 
