@@ -2,6 +2,7 @@
 title: OpenOwnership refreshes its visual identity
 date: 2020-07-10 12:29:00 Z
 published: false
+image: "/uploads/New%20logo.png"
 ---
 
 *A strong brand captures the essence of an organization.*
