@@ -17,11 +17,19 @@ This change coincides with the first public release of BOVS – the Beneficial O
 
 Company ownership is often complex and multi-layered. Visualizing corporate networks broadens the number of people that can intuitively understand how companies and beneficial owners are structured in practice. BOVS is open-source and can be used by governments, companies and citizens to map company ownership structures clearly and consistently, painting a picture that would otherwise be locked in text and data. Fundamentally, it makes beneficial ownership data easier to understand to a wider group of people.
 
+Clarifying company structures like the one below, is central to our work, so incorporating BOVS into our logo was important to the team. Alongside a clean and legible font, our aim is that the new logo communicates our drive to make beneficial ownership simple, comprehensible and easy to implement.
 
 ![BOVS Example Vertical.png](/uploads/BOVS%20Example%20Vertical.png)
 
+The above shows an example of a BOVS diagram. This describes a situation where:
 
-Clarifying these structures is central to our work, so incorporating BOVS into our logo was important to the team. Alongside a clean and legible font,our aim is that the new logo communicates our drive to make beneficial ownership simple, comprehensible and easy to implement.
+* We are interested in who ultimately owns and controls Widgets, Inc.
+* There is a Company that owns 50% of Widgets, Inc., and controls 25% of it (e.g. has 25% of the voting rights). Its name has not been declared, so we label it Anonymous Company B.
+* Amy owns 100% of Anonymous Company B, and therefore owns 50% of Widgets, Inc.
+* Another Person controls 100% of Anonymous Company B, and therefore controls 25% of Widgets, Inc. The name of this other Person has not been declared, so we label them Anonymous Person A.
+* Bob has an interest in Widgets, Inc. via an unknown chain of interests in at least 2 intermediary Entities.
+* Though we lack knowledge about the unknown chain, we know the ultimate result is that Bob owns 50% of Widgets, Inc., and has 75% control of it.
+
 
 ### Using our new logo
 
