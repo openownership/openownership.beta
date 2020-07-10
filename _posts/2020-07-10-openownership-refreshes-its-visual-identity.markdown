@@ -13,7 +13,7 @@ The most notable change is the replacement of the original avatar made up of lin
 
 With that in mind, we are now using an avatar composed of three interconnected circles that represent a simplified and typical beneficial ownership corporate structure: the lower circle as a corporate entity, and the two circles above as its beneficial owners. The circles representing beneficial owners are transparent, reflecting the focus and purpose of our work. These also mirror the initials ‘OO’ for OpenOwnership.' 
 
-This change coincides with the first public release of BOVS – the Beneficial Ownership Visualisation System – which provides guidelines for visualising corporate structures using circles and arrows. Our new “circles” avatar is a miniature BOVS diagram (though, of course, simplified for the purposes of a logo).
+This change coincides with the first public release of BOVS – the [Beneficial Ownership Visualisation System](https://www.openownership.org/visualisation/) – which provides guidelines for visualising corporate structures using circles and arrows. Our new “circles” avatar is a miniature BOVS diagram (though, of course, simplified for the purposes of a logo).
 
 Company ownership is often complex and multi-layered. Visualizing corporate networks broadens the number of people that can intuitively understand how companies and beneficial owners are structured in practice. BOVS is open-source and can be used by governments, companies and citizens to map company ownership structures clearly and consistently, painting a picture that would otherwise be locked in text and data. Fundamentally, it makes beneficial ownership data easier to understand to a wider group of people.
 
