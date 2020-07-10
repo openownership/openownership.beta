@@ -25,5 +25,6 @@ Clarifying these structures is central to our work, so incorporating BOVS into o
 
 ### Using our new logo
 
-Our new logo can be downloaded for free below. You may use it only if you are referencing our organisation in your own work relating to beneficial ownership. The logo may not be altered in any way.
+Open Ownership's name and logo are the property of Open Ownership. Our new logo can be downloaded below. You may use it only if you are referencing Open Ownership in your own work relating to beneficial ownership. The logo may not be altered in any way.
+
 
