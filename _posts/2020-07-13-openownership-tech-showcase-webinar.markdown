@@ -1,7 +1,6 @@
 ---
 title: OpenOwnership Tech Showcase Webinar
 date: 2020-07-13 12:05:00 Z
-published: false
 categories:
 - event
 tags:
