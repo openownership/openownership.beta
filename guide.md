@@ -7,7 +7,7 @@ description: This guide is designed to support governments that are considering 
   number of countries around the world. We also hope it will be helpful for people
   in international institutions, the private sector and civil society who are supporting
   beneficial ownership transparency.
-image: "/assets/img/og-image.png"
+image: "/assets/img/og-image.png?version=2"
 layout: guide
 ---
 
