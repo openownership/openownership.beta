@@ -4,7 +4,7 @@ position: 0
 description: Our mission is to make knowledge about who owns & controls companies
   open and impactful. We do this through the Beneficial Ownership Register and Beneficial
   Ownership Data Standard.
-image: "/assets/img/og-image.png"
+image: "/assets/img/og-image.png?version=2"
 header: Driving the global shift towards transparency over who owns and controls companies.
 key-fact-1-stat: 70%
 key-fact-1-text: of corruption cases involve the use of anonymous companies.
@@ -47,4 +47,3 @@ support-text: 'OpenOwnership is driven by the leading transparency NGOs: Transpa
   Development (UK).'
 layout: home
 ---
-
