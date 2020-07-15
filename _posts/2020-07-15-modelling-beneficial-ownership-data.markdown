@@ -1,6 +1,7 @@
 ---
 title: Modelling beneficial ownership data
 date: 2020-07-15 09:52:00 Z
+published: false
 ---
 
 *Part One in a series of technical posts, collecting our experience from three years of the Global Beneficial Ownership Register.*
