@@ -37,3 +37,10 @@ In any modelling task there are three key questions to consider:
 Question 1 always comes first, but depending on the kind of system being built, a user might have to answer question 2 or 3 next. If building a national register of beneficial ownership, one might be concerned first with collecting data from users, then with how it gets published. If, like us, users are building a system that aggregates data, they might first think about the ideal ways for data to be exchanged. In fact, this is what led us to create the Beneficial Ownership Data Standard.
 
 ## The Beneficial Ownership Data Standard
+
+Our primary work on modelling data is the Beneficial Ownership Data Standard (BODS). This lays out a data model that is designed to be flexible to different legal definitions of beneficial ownership. It also allows changes to ownership to be tracked over time and, crucially, lets users evaluate conflicting claims about ownership alongside each other. BODS does this through primary units of data called statements, which are sub-categorised into statements about entities, persons or ownership. BODS data produces an immutable chain of claims of ownership – ideal for wrangling the complicated, changing nature of ownership – but it is important to highlight that the notion of a ‘claim’ is central. Much beneficial ownership data is just that: claims made by people or companies at particular points in time, and does not always reflect the full truth about ownership.
+
+In our experience, the statement model does not map directly to how many systems model their own data. The core of BODS, however, has a clear set of fields for describing the three pieces of data needed: persons, entities and ownerships. The deep thinking that has gone into those can be a benefit regardless of the conceptual model used.
+
+The key objects of interest according to BODS are shown in the following tables. This is just a summary of the core fields; see the [data standard documentation](http://standard.openownership.org/en/0.2.0/schema/concepts.html#data-model-overview) for the full specification.
+
