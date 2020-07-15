@@ -39,6 +39,9 @@ The above shows an example of a BOVS diagram. This describes a situation where:
 
 ### Using our new logo
 
-Open Ownership's name and logo are the property of Open Ownership. Our new logo can be downloaded below. You may use it only if you are referencing Open Ownership in your own work relating to beneficial ownership. The logo may not be altered in any way.
+Open Ownership's name and logo are the property of Open Ownership. You may use it only if you are referencing Open Ownership in your own work relating to beneficial ownership. The logo may not be altered in any way. 
+
+* Our brand guidelines are available [here](https://www.openownership.org/uploads/OPO%20Brand%20Guidelines%201-2.pdf). 
+* Our new logo can be downloaded [OPO Logo-10028a.zip](/uploads/OPO%20Logo-10028a.zip).
 
 
