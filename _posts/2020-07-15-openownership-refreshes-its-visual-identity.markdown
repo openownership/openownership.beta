@@ -1,7 +1,11 @@
 ---
 title: OpenOwnership refreshes its visual identity
-date: 2020-07-10 12:29:00 Z
-published: false
+date: 2020-07-15 09:00:00 Z
+categories:
+- news
+tags:
+- brand
+- logo
 image: "/uploads/New%20logo.png"
 author: OpenOwnership
 is_featured: true
