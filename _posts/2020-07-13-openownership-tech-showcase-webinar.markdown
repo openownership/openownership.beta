@@ -4,10 +4,9 @@ date: 2020-07-13 12:05:00 Z
 categories:
 - events
 tags:
-- tech
-- showcase
+- tech showcase
 image: "/uploads/webinar-16-9.png"
-author: OpenOwnership
+author: Open Ownership
 is_featured: true
 ---
 
