@@ -6,7 +6,7 @@ categories:
 tags:
 - tech
 - showcase
-image: "/uploads/OPO%20Event%202020-07-30%2016-9%20with%20Text.jpg"
+image: "/uploads/webinar-16-9.png"
 author: OpenOwnership
 is_featured: true
 ---
