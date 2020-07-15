@@ -1,11 +1,11 @@
 ---
 title: Modelling beneficial ownership data
 date: 2020-07-15 09:52:00 Z
-published: false
 categories:
 - blogs
 tags:
 - working with beneficial ownership data series
+- data
 description: Part One in a series of technical posts, collecting our experience from
   three years of the Global Beneficial Ownership Register.
 author: Steve Day
