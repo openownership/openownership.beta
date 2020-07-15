@@ -6,6 +6,7 @@ categories:
 tags:
 - working with beneficial ownership data series
 - data
+image: "/uploads/modelling-bo-data-image-2-291ac3.png"
 description: Part One in a series of technical posts, collecting our experience from
   three years of the Global Beneficial Ownership Register.
 author: Steve Day
