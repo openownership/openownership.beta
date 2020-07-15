@@ -1,13 +1,14 @@
 ---
 title: Modelling beneficial ownership data
-description: Part One in a series of technical posts, collecting our experience from three years of the Global Beneficial Ownership Register.
-author: Steve Day
 date: 2020-07-15 09:52:00 Z
 published: false
 categories:
 - blogs
 tags:
 - working with beneficial ownership data series
+description: Part One in a series of technical posts, collecting our experience from
+  three years of the Global Beneficial Ownership Register.
+author: Steve Day
 ---
 
 Welcome to the first in a series of technical posts about working with beneficial ownership data. Over the past three years, OpenOwnership has been building a prototype [Global Beneficial Ownership Register](https://register.openownership.org), in order to prove the feasibility and value of linking beneficial ownership (BO) data across jurisdictions. We have used this project to experiment with a variety of tools and processes, from standardising data under the [Beneficial Ownership Data Standard](https://standard.openownership.org) to providing a search engine, disclosure viewer, data archive and network visualisation (amongst others). As this phase of our work draws to a close, we are documenting the things we have learned and sharing our experiences with data users and publishers in the public and private sector.
