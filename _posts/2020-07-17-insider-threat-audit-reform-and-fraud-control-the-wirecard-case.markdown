@@ -1,7 +1,6 @@
 ---
 title: 'Insider threat, audit reform and fraud control: the Wirecard case'
 date: 2020-07-17 14:42:00 Z
-published: false
 categories:
 - blogs
 tags:
