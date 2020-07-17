@@ -26,5 +26,4 @@ In a case where the firms in business with a company have not made their ownersh
 
 Beneficial ownership data should be public, and where it is, its use should be a normal and routine part of internal control, company reporting and transparency practices. No business should be unaware that members of its staff own or control or otherwise exert influence over companies they are trading with. In turn, this will allow for better audit and internal controls. The result will be more transparent, fair, open and successful markets. 
 
-*Image:"WebSummit 2019" by Web Summit is licensed under CC BY 2.0
-*
+*Image:"WebSummit 2019" by Web Summit is licensed under CC BY 2.0*
