@@ -1609,7 +1609,7 @@ jvectormap-content@^0.1.0:
   resolved "https://registry.yarnpkg.com/jvectormap-content/-/jvectormap-content-0.1.0.tgz#878caf0370dc3b97da8df97be91180e3a230e1ee"
   integrity sha512-bYpafo99afMSWzk9HljvOuSjn2OYC7eUTI8CnkQrIB3mseT1cEpw8CEhBLmAG7QYDLYdA35Q8YdaoWiRDQH/yw==
 
-jvectormap-next@^3.0.0:
+jvectormap-next@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/jvectormap-next/-/jvectormap-next-3.1.1.tgz#f88725f2f2e3cd03b8122960424520b7b32debb5"
   integrity sha512-Eo9yJLMvfq5gtO736udb8pQnGKNCEB/LQpX8LElgEeEa4EZDABPCReaFqM0QPce9VNI9X+Um/yvhyzoPaASAyQ==
@@ -1708,6 +1708,11 @@ lodash@^4.0.0, lodash@^4.17.11, lodash@^4.17.15, lodash@~4.17.12:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+
+lodash@^4.17.19:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 loud-rejection@^1.0.0:
   version "1.6.0"

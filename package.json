@@ -25,5 +25,7 @@
     "build": "gulp build",
     "jekyll": "bundle exec jekyll serve --no-watch"
   },
-  "dependencies": {}
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
 }
