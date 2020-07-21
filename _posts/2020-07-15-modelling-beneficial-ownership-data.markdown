@@ -31,6 +31,7 @@ Drawing from [our primer](http://standard.openownership.org/en/latest/primer/ind
   <img src="/uploads/modelling-bo-data-image-1.png" alt="Image from the Beneficial Ownership Data Standard documentation, showing how parts of different documents combine to create beneficial ownership data">
   <figcaption>Image from the Beneficial Ownership Data Standard documentation, showing how parts of different documents combine to create beneficial ownership data.</figcaption>
 </figure>
+<br>
 
 Gathering the necessary data can be challenging, but once done it is possible to get a complete picture of a company’s beneficial ownership, realising the benefits for anti-corruption and the market efficiency that beneficial ownership transparency (BOT) promises.
 
