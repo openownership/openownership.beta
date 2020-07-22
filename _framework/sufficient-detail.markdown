@@ -1,5 +1,6 @@
 ---
-title: Beneficial ownership disclosures should contain sufficient detail to allow users to understand and use the data
+title: Beneficial ownership disclosures should contain sufficient detail to allow
+  users to understand and use the data
 component: Sufficient detail
 order: 3
 summary_version: |-

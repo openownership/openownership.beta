@@ -1,5 +1,6 @@
 ---
-title: Beneficial Ownership should be clearly and robustly defined in law, with low thresholds used to determine when ownership and control is disclosed
+title: Beneficial Ownership should be clearly and robustly defined in law, with low
+  thresholds used to determine when ownership and control is disclosed
 component: Robust definitions
 order: 1
 summary_version: |-
