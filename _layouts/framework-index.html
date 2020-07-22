@@ -18,7 +18,7 @@ layout: default
           {{page.content | markdownify}}
           {% assign sorted_components = site.framework | sort:"order" %}
           {% for component in sorted_components %}
-            <h3>{{ component.order }}: {{ component.title }}</h3>
+            <h3>{{ component.title }}</h3>
             <p>{{ component.summary_version | markdownify }}</p>
             <p><a href="{{component.url}}">Read more</a></p>
           {% endfor %}
