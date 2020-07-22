@@ -6,8 +6,7 @@ tags:
 - privacy
 - robust definitions
 - comprehensive coverage
-- timely and updated
-- historic records
+- up to date and auditable
 position: 2
 files:
   en: "/guide/"

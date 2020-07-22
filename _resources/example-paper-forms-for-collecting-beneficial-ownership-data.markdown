@@ -5,6 +5,7 @@ title: |-
 date: 2019-06-12 12:00:00 Z
 tags:
 - robust definitions
+- sufficient detail
 position: 5
 files:
   en: "/uploads/oo-example-paper-forms-329df2.pdf"
