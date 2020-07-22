@@ -2,15 +2,11 @@
 title: Disclosure should comprehensively cover all relevant types of legal entities
   and natural persons
 component: Comprehensive coverage
-order: 3
-summary_version: "Having comprehensive coverage means all relevant legal entities
-  and arrangements, and natural persons must included in disclosures. \n\nAny exemptions
-  that mean certain classes of person or entity are not to be included in the public
-  register must be limited and proportionate."
+order: 2
+summary_version: |-
+  1. All relevant legal entities and arrangements, and all relevant natural persons (i.e. people), should be included in disclosures.
+  2. Any exemptions of certain types of entity from the disclosure requirements (such as for listed companies) should be clearly defined and justified, and information on the ownership of such entities should be collected elsewhere with comparable levels of quality and access.
+  3. Particular attention should be given to the disclosure requirements relating to ownership by state owned enterprises (SOEs).
 ---
 
-Having comprehensive coverage means all relevant legal entities and arrangements, and all natural persons must be included in disclosures.
-
-Comprehensive coverage is important because legal entities and arrangements not covered form potential loopholes that can be exploited for illegitimate purposes. This was the case, for instance, with Scottish Limited Partnerships in the UK, until they were included in the disclosure regime (see resources). 
-
-Any exemptions that mean certain classes of person or entity are not to be included in the public register should be limited and proportionate.
+Comprehensive coverage is important because if certain types of legal entities and arrangements are not covered, potential loopholes form that can be exploited for illegitimate purposes. Understanding where and how SOEs are involved in ownership or control of reporting companies can be an important element of understanding corruption risk. Due to their connections to PEPs, involvement of SOEs in an ownership chain can be an important piece of information to consider within due diligence and investigations.

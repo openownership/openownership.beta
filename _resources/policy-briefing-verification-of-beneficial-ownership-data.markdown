@@ -5,7 +5,7 @@ categories:
 - Policy Briefing
 tags:
 - verification
-- accurate and complete
+- verified
 position: 6
 author: OpenOwnership
 thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"

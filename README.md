@@ -37,7 +37,6 @@ NOTION_PASSWORD=password
 ```
 
 Generally you can run each python file in /scripts directly, e.g.
-- `python scripts/update_framework.py`
 - `python scripts/update_map.py`
 
 These will make some changes to files in jekyll's folders, which you can then
