@@ -25,6 +25,8 @@ layout: default
       <div class="small-9 cell">
         <h2>Principle {{ page.order }}: {{ page.title }}</h2>
 
+        {{page.summary_version | markdownify}}
+
         {{page.content | markdownify}}
 
         {% assign tag = page.component | downcase %}
@@ -66,4 +68,3 @@ layout: default
   {% endunless %}
   <!-- End Page Content -->
 </section>
-
