@@ -1,7 +1,7 @@
 ---
 title: Partnering with us
 date: 2020-05-07 16:24:00 Z
-position: 7
+position: 8
 files:
   en: "/what-we-do/partnering-with-us/"
   es: "/uploads/asociese-con-nosotros.pdf"

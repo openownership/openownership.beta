@@ -1,7 +1,7 @@
 ---
 title: Beneficial Ownership Visualisation System
 date: 2020-05-07 16:24:00 Z
-position: 11
+position: 12
 files:
   en: "/visualisation"
 author: OpenOwnership

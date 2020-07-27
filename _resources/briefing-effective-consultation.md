@@ -3,6 +3,7 @@ title: Effective consultation processes for beneficial ownership transparency re
 date: 2019-06-20 00:00:00 Z
 files:
   en: "/uploads/open-ownership-effective-consultation-processes-for-bot.pdf"
+position: 6
 thumbnail-image: "/uploads/open-ownership-effective-consultation-processes-for-bot-thumbnail.png"
 author: OpenOwnership
 resource_type: Briefings
