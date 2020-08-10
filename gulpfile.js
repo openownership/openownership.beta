@@ -24,7 +24,6 @@ function styles() {
 var jsPaths = [
   'node_modules/jquery/dist/jquery.js',
   'node_modules/foundation-sites/dist/js/foundation.js',
-  'node_modules/what-input/dist/what-input.js',
   'node_modules/aos/dist/aos.js',
   'node_modules/motion-ui/dist/motion-ui.js',
   'node_modules/jquery.cookie/jquery.cookie.js',

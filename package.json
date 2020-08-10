@@ -15,8 +15,7 @@
     "jvectormap-next": "^3.1.1",
     "motion-ui": "^2.0.3",
     "svgxuse": "^1.2.6",
-    "tippy.js": "6",
-    "what-input": "^5.1.1"
+    "tippy.js": "6"
   },
   "scripts": {
     "watch": "gulp",
