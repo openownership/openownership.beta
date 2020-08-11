@@ -1,6 +1,6 @@
 ---
 title: Effective consultation processes for beneficial ownership transparency reform
-date: 2019-06-20 00:00:00 Z
+date: 2020-06-20 00:00:00 Z
 position: 6
 files:
   en: "/uploads/open-ownership-effective-consultation-processes-for-bot.pdf"
