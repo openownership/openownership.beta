@@ -2,7 +2,7 @@
 title: Claire Reichenbach
 categories:
 - project-team
-position: 14
+position: 13
 job-title: Director - Finance & Human Resources
 image: "/uploads/claire-reichenbach-2.jpg"
 email: claire@openownership.org
