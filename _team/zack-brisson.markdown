@@ -2,7 +2,7 @@
 title: Zack Brisson
 categories:
 - project-team
-position: 13
+position: 12
 job-title: Chief Operating Officer
 image: uploads/zack-brisson.jpg
 email: zack@openownership.org

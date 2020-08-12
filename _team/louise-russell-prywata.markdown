@@ -2,7 +2,7 @@
 title: Louise Russell-Prywata
 categories:
 - project-team
-position: 6
+position: 5
 job-title: Director - Policy & Programs
 image: "/uploads/louise-russell-prywata.jpg"
 email: louise@openownership.org
