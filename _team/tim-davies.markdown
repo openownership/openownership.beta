@@ -2,7 +2,7 @@
 title: Tim Davies
 categories:
 - project-team
-position: 9
+position: 10
 job-title: Senior Advisor
 image: "/uploads/tim-davies-2.jpg"
 email: tim@openownership.org
