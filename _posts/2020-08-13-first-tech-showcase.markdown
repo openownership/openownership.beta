@@ -1,11 +1,11 @@
 ---
-title: 'Video - Open Ownership’s first technology showcase'
+title: Video - Open Ownership’s first technology showcase
 date: 2020-08-13 09:12:00 Z
 categories:
 - blogs
 tags:
 - Tech Showcase
-image: /uploads/video.png
+image: "/uploads/video.png"
 author: Steve Day
 is_featured: true
 ---
