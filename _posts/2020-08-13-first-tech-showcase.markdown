@@ -14,8 +14,9 @@ On 30 July 2020 Open Ownership held our first technology showcase – an online 
 
 The session was recorded and we are pleased to share the video for those who could not make it:
 
+<div class="responsive-embed">
 <iframe width="800" height="600" src="https://www.youtube-nocookie.com/embed/CAHvIJeRbD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+</div>
 
 We found this set of talks particularly enlightening, as it highlighted some of the more technical work that is often overlooked when we talk about the benefits and challenges of implementing BO.
 
