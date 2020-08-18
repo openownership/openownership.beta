@@ -4,6 +4,8 @@ title: |-
   change in beneficial ownership transparency
 date: 2020-08-18 10:38:00 Z
 published: false
+categories:
+- Reports
 tags:
 - Opening Extractives
 - EITI
