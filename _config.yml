@@ -52,9 +52,12 @@ defaults:
     type: resources
   values:
     description: 
-    file: 
+    files:
+      en: 
     author: 
     thumbnail-image: 
+    resource_type: 
+    is_featured: false
 - scope:
     path: ''
     type: framework
