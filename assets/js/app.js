@@ -44,27 +44,6 @@ $('a[href*="#"]')
     }
   });
 
-// 2. Cookies Policy
-// --------------------
-
-$(function() {
-  if($.cookie('showed_modal') != "true") {
-
-setTimeout(
-  function()
-  {
-    //do something special
-$("#cookiesPolicy").foundation("open")
-  }, 2000);
-
-//     $("#cookiesPolicy").foundation("open");
-//     $.cookie('showed_modal', 'true', { expires: 365, path: '/'});
-
-
-    $.cookie('showed_modal', 'true', { expires: 365 });
-  }
-});
-
 // 3. Map page
 // --------------------
 
