@@ -200,7 +200,7 @@ p {
   h3, h4, h5, h6 {
     margin-top: 2rem;
   }
-  
+
   h4, h5, h6 {
     font-family: $sans-regular;
   }
@@ -301,15 +301,6 @@ p {
 
 .offcanvas .menu a, .offcanvas .menu .menu-text {
   padding: 0.5rem 0.25rem;
-}
-
-.offcanvas .external {
-  a {
-    color: $green;
-    &:hover {
-      color: $white;
-    }
-  }
 }
 
 .offcanvas .icon-socials {
@@ -1100,7 +1091,7 @@ td .button { margin-bottom: 0 }
     border-left: 1px solid lighten(get-color(secondary), 25%);
     padding-left: 1rem;
     margin: 1rem 0;
-    
+
     &:before {
       content: 'On This Page';
       display: block;
