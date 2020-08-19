@@ -122,6 +122,7 @@ If you attend an online event, we will also process information about the times 
 
 We may use third party data processors, for example to manage event registrations and access control. Any use we make of data processors will require them only to act only on our instructions concerning your personal data. We currently use the following data processors:
 
+* Hubspot (event registration)
 * Zoom (event hosting, registration and access control)
 
 We will retain this information indefinitely.
