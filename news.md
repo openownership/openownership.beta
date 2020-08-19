@@ -1,1 +1,5 @@
-<head><meta http-equiv="refresh" content="0;url=/latest/"></head>
+---
+redirect: "/latest/"
+layout: redirect
+---
+
