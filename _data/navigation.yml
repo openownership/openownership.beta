@@ -7,8 +7,8 @@ header:
     url: /latest/
   - title: Resources
     url: /resources/
-  - title: Connect with us
-    url: /connect-with-us/
+  - title: About
+    url: /about/
 
 footer:
   - title: What we do
@@ -19,8 +19,8 @@ footer:
     url: /latest/
   - title: Resources
     url: /resources/
-  - title: Connect with us
-    url: /connect-with-us/
+  - title: About
+    url: /about/
   - title: Jobs
     url: /jobs/
   - title: Español
