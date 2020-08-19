@@ -9,7 +9,7 @@ day-to-day management relies on an executive team who are overseen by a
 Steering Group made up of leading transparency and accountability organisations.
 
 In order to focus on our mission, Open Ownership is fiscally sponsored by
-Global Impact. Fiscal sponsorship is a common mechanism in the non-profit sector
+[Global Impact](https://charity.org/fiscal-sponsorship). [Fiscal sponsorship](https://charity.org/fiscal-sponsorship) is a common mechanism in the non-profit sector
 that enables organisations to launch new programmes without needing to complete
 the full process of establishing a new legal entity.
 
