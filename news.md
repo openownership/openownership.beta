@@ -1,4 +1,5 @@
 ---
-redirect: /latest/
+redirect: "/latest/"
 layout: redirect
 ---
+
