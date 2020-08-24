@@ -7,3 +7,4 @@ files:
 author: Open Ownership
 thumbnail-image: "/uploads/brand-guidelines.jpg"
 ---
+

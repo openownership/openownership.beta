@@ -1,5 +1,5 @@
 ---
-title: "Beneficial Ownership Transparency In Armenia: Scoping Study"
+title: 'Beneficial Ownership Transparency In Armenia: Scoping Study'
 date: 2020-08-24 00:00:00 Z
 tags:
 - armenia
