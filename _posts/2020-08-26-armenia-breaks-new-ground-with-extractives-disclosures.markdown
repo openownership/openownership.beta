@@ -1,7 +1,6 @@
 ---
 title: Armenia breaks new ground with extractives disclosures
 date: 2020-08-26 08:21:00 Z
-published: false
 categories:
 - blogs
 tags:
