@@ -2,6 +2,12 @@
 title: Armenia breaks new ground with extractives disclosures
 date: 2020-08-26 08:21:00 Z
 published: false
+categories:
+- blogs
+tags:
+- Armenia
+- eiti
+image: "/uploads/gevorg-avetisyan-AjnjJNgD15A-unsplash.jpg"
 author: Peter Low
 is_featured: true
 ---
@@ -39,3 +45,5 @@ Expanding the scope of disclosure requirements from the extractives sector to co
 The existence of a broadly positive political context for reform, as well as the presence of an engaged group of local data users, bodes well for the potential future impact of Armenia’s BO data disclosures. Government agencies, moreover, have learned lessons from the initial pilot programme and have already made improvements to the policies and systems necessary for the upcoming economy-wide disclosure regime.
 
 Armenia’s experience of implementation is anticipated to yield key lessons regarding the conditions necessary for a comparatively rapid creation of a centralised, public register of BO. It will also provide useful insights over the reform roadmap for implementers in countries like Mexico, Nigeria, and Ghana to pursue when they later come to transitioning from a planned single-sector register to an economy-wide disclosure regime.
+
+<span>Photo by <a href="https://unsplash.com/@gev__avetisyan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Gevorg Avetisyan</a> on <a href="https://unsplash.com/s/photos/yerevan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
