@@ -12,8 +12,6 @@ Open Ownership is a global hub for this kind of information and support, from dr
 
 We are a distributed team and are actively looking to diversify our geographical presence. We strongly encourage women and individuals from marginalized communities to apply.
 
-<br>
-
 ## Current vacancies
 
 ### Technical consultant: beneficial ownership reform in Mexico
