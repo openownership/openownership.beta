@@ -17,5 +17,10 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ## Current vacancies
 
+### Technical consultant: beneficial ownership reform in Mexico
 
+We are currently seeking to expand our roster of Spanish-speaking technical consultants, with expertise in the area of open data, to help deliver an ambitious programme of support in Mexico and the wider Latin America region. Consultants will work with our in-house team of technical experts to assist government implementers to collect, store and publish high quality beneficial ownership data.
 
+Deadline: 13th September 2020
+
+[Job description & application details](/uploads/MX%20Technical%20Consultancy%20ToR%2026.08.20.pdf)
