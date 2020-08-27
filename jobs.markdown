@@ -1,7 +1,6 @@
 ---
 title: Jobs
 date: 2019-08-23 13:18:00 Z
-published: false
 description: OpenOwnership's current job openings.
 ---
 
