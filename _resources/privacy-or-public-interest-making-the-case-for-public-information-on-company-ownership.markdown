@@ -5,6 +5,7 @@ date: 2019-03-27 18:08:00 Z
 tags:
 - the beneficial ownership data standard
 - privacy
+position: 13
 description: This is a summary of a research report from OpenOwnership, The B Team
   and The Engine Room in which we consider the legal implications of public beneficial
   ownership data to the public, evaluated from both the perspective of the companies

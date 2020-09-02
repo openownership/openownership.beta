@@ -7,7 +7,7 @@ tags:
 - robust definitions
 - comprehensive coverage
 - up to date and auditable
-position: 10
+position: 31
 files:
   en: "/uploads/oo-bo-policy-reviewer-interactive.pdf"
 thumbnail-image: "/uploads/oo-beneficial-ownership-policy-reviewer-image.JPG"

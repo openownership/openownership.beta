@@ -4,6 +4,7 @@ date: 2020-08-24 00:00:00 Z
 tags:
 - armenia
 - eiti
+position: 21
 files:
   en: "/uploads/armenia-scoping-report.pdf"
 thumbnail-image: "/uploads/armenia-scoping-report.jpg"

@@ -5,6 +5,7 @@ tags:
 - a central register
 - public access
 - structured data
+position: 6
 files:
   en: "/uploads/briefing-on-beneficial-ownership-as-open-data.pdf"
 author: OpenOwnership

@@ -1,7 +1,7 @@
 ---
 title: Effective Disclosure Principles
 date: 2020-05-07 16:24:00 Z
-position: 4
+position: 25
 author: OpenOwnership
 thumbnail-image: "/uploads/principles-thumbnail.jpg"
 files:
