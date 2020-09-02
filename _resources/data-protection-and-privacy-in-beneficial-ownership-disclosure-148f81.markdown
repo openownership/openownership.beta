@@ -7,6 +7,7 @@ date: 2019-05-20 13:53:00 Z
 tags:
 - privacy
 - sufficient detail
+position: 15
 description: 'This is a research report from OpenOwnership, The B Team and The Engine
   Room in which we consider the legal implications of public beneficial ownership
   data to the public, evaluated from both the perspective of the companies holding

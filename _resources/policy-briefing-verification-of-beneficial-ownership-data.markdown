@@ -6,7 +6,7 @@ categories:
 tags:
 - verification
 - verified
-position: 7
+position: 28
 author: OpenOwnership
 thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
 files:

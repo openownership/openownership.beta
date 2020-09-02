@@ -4,6 +4,7 @@ date: 2018-08-08 15:13:00 Z
 tags:
 - open government partnership
 - verification
+position: 10
 files:
   en: "/uploads/what-we-mean-when-we-talk-about-verifcation.pdf"
 author: Zosia Sztykowski

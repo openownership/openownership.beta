@@ -2,6 +2,7 @@
 title: OpenOwnership response to BEIS consultation on Corporate Transparency and Register
   Reform
 date: 2019-08-05 00:00:00 Z
+position: 19
 files:
   en: "/uploads/oo-response-to-corporate-transparency-and-register-reform-consultation.pdf"
 thumbnail-image: "/uploads/oo-response-to-corporate-transparency-and-register-reform-consultation.jpg"

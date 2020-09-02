@@ -5,6 +5,7 @@ date: 2019-03-01 13:23:00 Z
 tags:
 - kyrgyz republic
 - eiti
+position: 12
 description: This report summarizes findings from Open Ownership’s scoping visit to
   the Kyrgyz Republic in September 2018, and the research surrounding the visit. It
   makes recommendations for improvements to the legal and regulatory environment,

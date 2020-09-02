@@ -7,7 +7,7 @@ tags:
 - robust definitions
 - comprehensive coverage
 - up to date and auditable
-position: 2
+position: 23
 files:
   en: "/guide/"
 author: OpenOwnership

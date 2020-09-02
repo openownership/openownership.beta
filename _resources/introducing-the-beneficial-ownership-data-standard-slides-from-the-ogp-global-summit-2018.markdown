@@ -4,6 +4,7 @@ title: Introducing the beneficial ownership data standard - slides from the OGP 
 date: 2018-08-08 11:22:00 Z
 tags:
 - open government partnership
+position: 8
 files:
   en: "/uploads/introducing-the-beneficial-ownership-data-standard.pdf"
 author: Zosia Sztykowski

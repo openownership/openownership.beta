@@ -4,6 +4,7 @@ date: 2017-07-06 18:34:00 Z
 tags:
 - a central register
 - public access
+position: 11
 files:
   en: "/uploads/the-case-for-public-beneficial-ownership.pdf"
 author: OpenOwnership

@@ -3,6 +3,7 @@ title: 'OpenOwnership Pilot Program: Summary of Methodology'
 date: 2019-01-28 19:26:00 Z
 tags:
 - the openownership pilot program
+position: 14
 description: The OpenOwnership Pilot Program supports national governments to establish
   open beneficial ownership registers that meets policy goals - from improving the
   business environment to tackling corruption and money laundering. It distinguishes

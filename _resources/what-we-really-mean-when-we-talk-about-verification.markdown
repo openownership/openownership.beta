@@ -6,6 +6,7 @@ title: |-
 date: 2019-06-27 10:21:00 Z
 tags:
 - verification
+position: 17
 description: A guide to data quality and verification
 thumbnail-image: "/uploads/oo-verification-image.JPG"
 files:

@@ -4,6 +4,7 @@ date: 2019-05-23 14:40:00 Z
 tags:
 - the beneficial ownership leadership group
 - open government partnership
+position: 16
 description: As a group of countries, the Beneficial Ownership Leadership Group will
   aim to create a new global norm of beneficial ownership transparency across asset
   classes. We believe that greater transparency of beneficial ownership will over
