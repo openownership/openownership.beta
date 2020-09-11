@@ -1,5 +1,0 @@
----
-redirect: "/latest/"
-layout: redirect
----
-

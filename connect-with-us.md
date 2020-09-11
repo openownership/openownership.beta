@@ -1,5 +1,0 @@
----
-redirect: "/about/"
-layout: redirect
----
-
