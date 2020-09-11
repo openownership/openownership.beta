@@ -35,9 +35,9 @@ defaults:
     path: ''
     type: posts
   values:
-    image: 
-    description: 
-    author: 
+    image:
+    description:
+    author:
     is_featured: false
     layout: post
     permalink: "/:categories/:title/"
@@ -45,36 +45,36 @@ defaults:
     path: ''
     type: pages
   values:
-    description: 
+    description:
     layout: page
 - scope:
     path: ''
     type: resources
   values:
-    description: 
+    description:
     files:
-      en: 
-    author: 
-    thumbnail-image: 
-    resource_type: 
+      en:
+    author:
+    thumbnail-image:
+    resource_type:
     is_featured: false
 - scope:
     path: ''
     type: framework
   values:
-    job-title: 
-    image: 
-    email: 
-    social: 
+    job-title:
+    image:
+    email:
+    social:
     layout: framework
 - scope:
     path: ''
     type: team
   values:
-    job-title: 
-    image: 
-    email: 
-    social: 
+    job-title:
+    image:
+    email:
+    social:
     layout: team
 - scope:
     path: ''
@@ -85,6 +85,8 @@ url: https://www.openownership.org
 description: Driving the global shift towards transparency over who owns and controls
   companies.
 permalink: pretty
+include:
+- _redirects
 exclude:
 - bower.json
 - Gemfile.lock
