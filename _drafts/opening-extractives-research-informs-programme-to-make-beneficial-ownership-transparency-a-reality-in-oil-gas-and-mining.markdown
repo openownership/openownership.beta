@@ -4,9 +4,10 @@ title: 'Opening Extractives: Research informs programme to make beneficial owner
 date: 2020-09-15 12:12:00 Z
 image: "/uploads/bart-van-dijk-DqGIaY0K08o-unsplash.jpg"
 author: Tymon Kiepe and Ines Schjolberg Marques
+is_featured: true
 ---
 
-_Beneficial ownership transparency - knowing who ultimately controls and benefits from a company - is critical to fighting corruption and preventing illicit financial flows. Making beneficial ownership transparency the norm in the extractives sector can reduce the potential for corrupt activity in a sector that often yields significant revenues. [New research](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf) has shown that there is both high demand for technical assistance to achieve beneficial ownership transparency, and a need for tailored support to address the complex dynamics that give rise to reform. _
+*Beneficial ownership transparency - knowing who ultimately controls and benefits from a company - is critical to fighting corruption and preventing illicit financial flows. Making beneficial ownership transparency the norm in the extractives sector can reduce the potential for corrupt activity in a sector that often yields significant revenues. [New research](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf) has shown that there is both high demand for technical assistance to achieve beneficial ownership transparency, and a need for tailored support to address the complex dynamics that give rise to reform.*
 
 The Extractive Industries Transparency Initiative (EITI) and Open Ownership (OO) are partnering to develop and deliver a new global programme, _Opening Extractives_, to catalyse transformative change in beneficial ownership transparency in the extractives industry. To inform the design of this programme, we interviewed over 20 stakeholders including in-country practitioners and international beneficial ownership transparency experts. 
 
@@ -33,7 +34,7 @@ In these countries, _Opening Extractives_ will be pushing into new territory for
 
 To respond to the need for better understanding of beneficial ownership transparency and clear explanations about the benefits of reform, the programme will measure and track impact in different countries. It will also provide tailored communications resources and capacity-building activities in select countries to build legitimacy for reform. As the programme progresses, we will share lessons and resources internationally to support broader advancement of beneficial ownership transparency beyond the programme’s  target countries. Through this, the programme aims to leverage beneficial ownership transparency in the extractives sector as a springboard for wider disclosures.
 
-_The EITI and OO team is working with the BHP Foundation on the design of the programme and is also engaging with other partners to support certain programmatic themes and specific regions. _
+*The EITI and OO team is working with the BHP Foundation on the design of the programme and is also engaging with other partners to support certain programmatic themes and specific regions.*
 
 [Download the research report
 ](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf)
