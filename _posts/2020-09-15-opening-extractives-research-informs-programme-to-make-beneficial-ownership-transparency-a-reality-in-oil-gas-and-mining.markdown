@@ -2,6 +2,14 @@
 title: 'Opening Extractives: Research informs programme to make beneficial ownership
   transparency a reality in oil, gas and mining'
 date: 2020-09-15 12:12:00 Z
+categories:
+- blogs
+tags:
+- EITI
+- OpeningExtractives
+- oil
+- gas
+- mining
 image: "/uploads/bart-van-dijk-DqGIaY0K08o-unsplash.jpg"
 author: Tymon Kiepe and Ines Schjolberg Marques
 is_featured: true
