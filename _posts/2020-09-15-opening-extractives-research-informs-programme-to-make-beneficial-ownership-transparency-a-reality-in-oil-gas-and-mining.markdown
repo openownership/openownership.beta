@@ -1,7 +1,7 @@
 ---
-title: New Research informs  programme to make beneficial ownership transparency a
-  reality in oil, gas and mining
+title: Making beneficial ownership transparency a reality in oil, gas and mining
 date: 2020-09-15 12:12:00 Z
+published: false
 categories:
 - blogs
 tags:
