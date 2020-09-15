@@ -4,6 +4,7 @@ title: 'Opening Extractives: Research informs programme to make beneficial owner
 date: 2020-09-15 12:12:00 Z
 image: "/uploads/bart-van-dijk-DqGIaY0K08o-unsplash.jpg"
 author: Tymon Kiepe and Ines Schjolberg Marques
+is_featured: true
 ---
 
 _Beneficial ownership transparency - knowing who ultimately controls and benefits from a company - is critical to fighting corruption and preventing illicit financial flows. Making beneficial ownership transparency the norm in the extractives sector can reduce the potential for corrupt activity in a sector that often yields significant revenues. [New research](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf) has shown that there is both high demand for technical assistance to achieve beneficial ownership transparency, and a need for tailored support to address the complex dynamics that give rise to reform. _
