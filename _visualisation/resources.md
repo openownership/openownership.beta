@@ -37,11 +37,3 @@ If you want to use the Optional Features for [Colour](/visualisation/optional/co
 The Beneficial Ownership Data Standard (BODS) provides a structured data format, along with guidance for collecting, sharing and using data on beneficial ownership.
 
 [Learn about BODS](https://standard.openownership.org/){: .button }
-
-{::comment}
-## Visualisation Tool
-
-Automatically create BOVS Diagrams from BODS data with our visualisation tool.
-
-[BOVS Visualiser](){: .button }
-{:/comment}

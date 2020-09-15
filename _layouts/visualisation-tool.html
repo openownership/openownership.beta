@@ -1,0 +1,167 @@
+---
+layout: default
+---
+
+<section class="bovs__page">
+  <!-- Page Title -->
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
+      <div class="small-12 medium-10 large-8 cell">
+        {% unless page.url == "/visualisation/" %}
+        <p>
+          <a href="/visualisation">BOVS</a>
+        </p>
+        {% endunless %}
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+  </section>
+  <!-- End Page Title -->
+  <!-- Page Content -->
+  {% unless page.content == '' %}
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y align-center">
+      <div class="large-3 cell">
+        <!-- menu -->
+
+        <div data-responsive-toggle="bovs-menu" data-hide-for="large">
+          <button class="button" type="button" data-toggle="bovs-menu">Contents</button>
+        </div>
+
+        <div class="sidemenu" id="bovs-menu">
+
+          {% assign menu = site.visualisation %}
+          {% assign menu = menu | sort: 'position' %}
+          {% include pagination/prevnext.liquid collection=menu wrap=false %}
+
+          <ul class="vertical medium-horizontal">
+            {% assign menu_current_level = 1 %}
+            {% for item in menu %}
+              {% assign item_level = item.url | split: '/' | compact | size | minus: 2 %}
+
+              {% if item_level <= menu_current_level %}</li>{% endif %}
+              {% if item_level < menu_current_level %}</ul></li>{% endif %}
+              {% if item_level > menu_current_level %}<ul>{% endif %}
+
+              <li class="{% if item.url == page.url %} active{% endif %}">
+                <a href="{{ item.url }}">
+                  {% if item.short_title %}{{ item.short_title }}
+                  {% else %}{{ item.title }}
+                  {% endif %}
+                </a>
+
+              {% assign menu_current_level = item_level %}
+            {% endfor %}</li>
+          </ul>
+        </div>
+      </div>
+      <div class="large-9 cell">
+        <p>
+          Upload a BODS JSON file or paste your data directly into
+          the form below to produce a visualisation according to the basic rules
+          of BOVS.
+        </p>
+        <p>
+          You can use <a href="https://register.openownership.org">our register</a>
+          to get some example data if you don't have any to hand.
+        </p>
+        <p>
+          This tool is a work in progress, but you can find the underlying code on
+          <a href="https://www.npmjs.com/package/@openownership/bods-dagre">NPM</a>
+          and <a href="https://github.com/openownership/visualisation-tool">GitHub</a>
+          if you want to reuse it. Our GitHub repo has examples of how to use it
+          in a variety of different applications.
+        </p>
+        <div class="file-input">
+          <h2>File upload</h2>
+          <input type="file" id="selectFiles" value="Import"/>
+          <button id="import" class="button">Import</button>
+        </div>
+        <div class="data-paste">
+          <h2>Paste data</h2>
+          <textarea id="result">Paste an array of BODS statements here</textarea>
+        </div>
+        <div class="drawing-controls">
+          <button class="drawing-control button" id="draw-vis">Draw</button>
+        </div>
+        <h2>Visualisation</h2>
+        <h4>Legend</h4>
+        <ul class="no-bullet">
+          <li>
+            <span style="background: #652eb1; width: 25px; height: 5px; display: inline-block; margin-right: 1rem"></span> Ownership
+          </li>
+          <li>
+            <span style="background: #349aee; width: 25px; height: 5px; display: inline-block; margin-right: 1rem"></span> Control
+          </li>
+        </ul>
+        <div id="svg-holder">
+          <button class="button" id="zoom_in">+</button>
+          <button class="button" id="zoom_out">-</button>
+          <svg id="bods-svg"></svg>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% endunless %}
+  <!-- End Page Content -->
+
+  <script src="https://unpkg.com/@openownership/bods-dagre@0.1.5/dist/bods-dagre.js"></script>
+  <script>
+    (function() {
+      var clearDrawing = function() {
+        const svg = document.getElementById('bods-svg');
+        if(svg) {
+          svg.remove();
+        }
+      };
+
+      var getJSON = function() {
+        clearDrawing();
+        var files = document.getElementById('selectFiles').files;
+        if (files.length <= 0) {
+          return false;
+        }
+
+        var fr = new FileReader();
+
+        fr.onload = function (e) {
+          var result = JSON.parse(e.target.result);
+          var formatted = JSON.stringify(result, null, 2);
+          document.getElementById('result').value = formatted;
+          visualiseData();
+        };
+
+        fr.readAsText(files.item(0));
+      };
+
+      var visualiseData = function() {
+        clearDrawing();
+        try {
+          var data = JSON.parse(document.getElementById('result').value);
+          try {
+            BODSDagre.draw(data, document.getElementById('svg-holder'), '/assets/vendor/bods-dagre/images');
+          } catch(err) {
+            alert("Sorry, there was an error drawing your data. Is it valid BODS?");
+          }
+        }
+        catch(err) {
+          alert("Sorry, there was an error parsing your data. The tool expects a JSON array of BODS statements.");
+        }
+
+        document.getElementById('draw-vis').disabled = false;
+      };
+
+      var visualisePastedData = function() {
+        document.getElementById('draw-vis').disabled = true;
+        setTimeout(visualiseData, 100);
+      }
+
+      window.onload = function() {
+        document.getElementById('import').addEventListener('click', getJSON, true);
+        document.getElementById('draw-vis').addEventListener('click', visualiseData, true);
+        document.getElementById('result').addEventListener('paste', visualisePastedData, true);
+      };
+    })();
+  </script>
+</section>
