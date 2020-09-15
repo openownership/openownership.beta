@@ -13,7 +13,7 @@ is_featured: true
 
 Following on from the success of our [first event](/blogs/first-tech-showcase), we're hosting another webinar to share updates and learning from people working on digital transparency tools related to company ownership and control. The event will take place online, via Zoom, starting at 2pm BST.
 
-[Register now as an attendee.](https://share.hsforms.com/1uG5uDC22SQOH1H-WD8iTyQ3upv4)
+[Register now as an attendee.](https://us02web.zoom.us/webinar/register/WN_xC4todRORR2NvoN1yWJSwg)
 
 ## Speakers
 
