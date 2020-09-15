@@ -6,7 +6,7 @@ image: "/uploads/bart-van-dijk-DqGIaY0K08o-unsplash.jpg"
 author: Tymon Kiepe and Ines Schjolberg Marques
 ---
 
-_Beneficial ownership transparency - knowing who ultimately controls and benefits from a company - is critical to fighting corruption and preventing illicit financial flows. Making beneficial ownership transparency the norm in the extractives sector can reduce the potential for corrupt activity in a sector that often yields significant revenues. New research has shown that there is both high demand for technical assistance to achieve beneficial ownership transparency, and a need for tailored support to address the complex dynamics that give rise to reform. _
+_Beneficial ownership transparency - knowing who ultimately controls and benefits from a company - is critical to fighting corruption and preventing illicit financial flows. Making beneficial ownership transparency the norm in the extractives sector can reduce the potential for corrupt activity in a sector that often yields significant revenues. [New research](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf) has shown that there is both high demand for technical assistance to achieve beneficial ownership transparency, and a need for tailored support to address the complex dynamics that give rise to reform. _
 
 The Extractive Industries Transparency Initiative (EITI) and Open Ownership (OO) are partnering to develop and deliver a new global programme, _Opening Extractives_, to catalyse transformative change in beneficial ownership transparency in the extractives industry. To inform the design of this programme, we interviewed over 20 stakeholders including in-country practitioners and international beneficial ownership transparency experts. 
 
@@ -35,4 +35,5 @@ To respond to the need for better understanding of beneficial ownership transpar
 
 _The EITI and OO team is working with the BHP Foundation on the design of the programme and is also engaging with other partners to support certain programmatic themes and specific regions. _
 
-Download the research report
+[Download the research report
+](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf)
