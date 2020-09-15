@@ -38,3 +38,5 @@ To respond to the need for better understanding of beneficial ownership transpar
 
 [Download the research report
 ](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf)
+
+![Screenshot 2020-08-18 at 12.40.00.png](/uploads/Screenshot%202020-08-18%20at%2012.40.00.png)
