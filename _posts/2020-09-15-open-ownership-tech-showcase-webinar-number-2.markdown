@@ -5,6 +5,7 @@ categories:
 - events
 tags:
 - tech showcase
+image: "/uploads/webinar-2-16-9.jpg"
 description: Join the OpenOwnership tech team for our second 'Technology Showcase'
   event on 1st October 2020.
 author: Open Ownership
