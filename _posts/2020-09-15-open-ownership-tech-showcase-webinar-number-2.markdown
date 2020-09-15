@@ -5,11 +5,12 @@ categories:
 - events
 tags:
 - tech showcase
+image: "/uploads/webinar-2-16-9.jpg"
+description: Join the OpenOwnership tech team for our second 'Technology Showcase'
+  event on 1st October 2020.
 author: Open Ownership
 is_featured: true
 ---
-
-*Join the OpenOwnership tech team for our second 'Technology Showcase' event on 1st October 2020.*
 
 Following on from the success of our [first event](/blogs/first-tech-showcase), we're hosting another webinar to share updates and learning from people working on digital transparency tools related to company ownership and control. The event will take place online, via Zoom, starting at 2pm BST.
 
