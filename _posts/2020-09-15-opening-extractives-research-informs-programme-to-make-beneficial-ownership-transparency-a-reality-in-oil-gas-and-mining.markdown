@@ -1,6 +1,6 @@
 ---
-title: 'Opening Extractives: Research informs programme to make beneficial ownership
-  transparency a reality in oil, gas and mining'
+title: New Research informs  programme to make beneficial ownership transparency a
+  reality in oil, gas and mining
 date: 2020-09-15 12:12:00 Z
 categories:
 - blogs
