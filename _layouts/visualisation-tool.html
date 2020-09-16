@@ -56,22 +56,8 @@ layout: default
         </div>
       </div>
       <div class="large-9 cell">
-        <p>
-          Upload a BODS JSON file or paste your data directly into
-          the form below to produce a visualisation according to the basic rules
-          of BOVS.
-        </p>
-        <p>
-          You can use <a href="https://register.openownership.org">our register</a>
-          to get some example data if you don't have any to hand.
-        </p>
-        <p>
-          This tool is a work in progress, but you can find the underlying code on
-          <a href="https://www.npmjs.com/package/@openownership/bods-dagre">NPM</a>
-          and <a href="https://github.com/openownership/visualisation-tool">GitHub</a>
-          if you want to reuse it. Our GitHub repo has examples of how to use it
-          in a variety of different applications.
-        </p>
+        {{page.content | markdownify}}
+
         <div class="file-input">
           <h2>File upload</h2>
           <input type="file" id="selectFiles" value="Import"/>
