@@ -5,7 +5,7 @@ categories:
 - events
 tags:
 - tech showcase
-image: "/uploads/webinar-2-16-9.jpg"
+image: "/uploads/webinar-2-16-9-5c80b3.jpg"
 description: Join the OpenOwnership tech team for our second 'Technology Showcase'
   event on 1st October 2020.
 author: Open Ownership
@@ -26,6 +26,9 @@ Antoine will be discussing UNODC's goAML anti-money laundering system - a fully 
 
 ### Peter Niebling - Chief Consultant - Denmark CVR
 Peter will talk about the development of Denmark's Centrale Virksomhedsregister, the company and beneficial ownership register.
+
+### Catherine Greene & Noel Alonso-Murray - Extractive Industries Transparency Initiative & Directorio Legislativo
+Catherine and Noel will talk about their work for the recent IMF Anti-Corruption challenge, finding corruption risks by linking financial asset disclosures to beneficial ownership and contracts in the extractives sector.
 
 We also have limited space for additional speakers, so if you would like to give a 5-10 minute lightening talk about a product or service, please [drop our team an email](mailto:tech@openownership.org)
 
