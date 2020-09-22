@@ -8,6 +8,7 @@ tags:
 - leaks
 - beneficial ownership
 - statement
+image: "/uploads/broken%20chain.png"
 author: Open Ownership
 is_featured: true
 ---
