@@ -9,6 +9,8 @@ tags:
 - leaks
 - beneficial ownership
 - statement
+author: Open Ownership
+is_featured: true
 ---
 
 The FinCEN files are the latest leak confirming that anonymous companies are the vehicle of choice for hiding illicit activities and money. More than USD 2 trillion in suspicious transactions have been revealed and investigated by BuzzFeed News and the International Consortium of Investigative Journalists (ICIJ). They have exposed how money laundering, secret deals and organised crime flourish when it is possible to hide money and other assets using anonymous companies. Beneficial ownership transparency is therefore key to improving oversight and minimising mismanagement, thereby strengthening global governance.
