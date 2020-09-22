@@ -28,3 +28,7 @@ Money laundering, tax evasion, corruption and other illicit activities have a hu
 Open Ownership has been working with more than 30 countries to help them make beneficial ownership transparency a reality in their economies. When information on company ownership is collected and made available by governments, it becomes much easier for banks and other institutions to check who they are doing business with and for. It also raises the bar for banks and others undertaking anti-money laundering checks to do more than tick boxes and claim that, in spite of their ‘best effort’ when conducting checks, they could not determine beneficial ownership. Simply put, no transaction should be completed if the ultimate owner of the company sending or receiving the funds is unknown. Over 90 countries have committed to undertake beneficial ownership reforms - and national registers are just the first step. 
 
 The use of anonymous companies is a transnational problem and requires a global solution, because financial institutions routinely take on clients from around the world and move money across multiple jurisdictions. Existing anti-money laundering standards such as the Financial Action Task Force (FATF) recognise the value of sharing beneficial ownership data with law enforcement agencies to investigate economic crime. Ensuring routine access to trusted beneficial ownership data around the globe must be a central policy response in order to prevent corrupt and criminal actors using our financial system.
+
+Press contact:
+M: +4795974977
+E: victor@openownership.org
