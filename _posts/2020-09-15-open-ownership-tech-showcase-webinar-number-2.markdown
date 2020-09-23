@@ -33,6 +33,4 @@ Catherine and Noel will talk about their work for the recent IMF Anti-Corruption
 ### Xue Tan - Global Legal Entity Identifier Foundation
 Xue and colleagues will provide a brief introduction to the Global LEI System and how the legal entity relationship data it collects can be used within AML/KYC processes.
 
-We also have limited space for additional speakers, so if you would like to give a 5-10 minute lightening talk about a product or service, please [drop our team an email](mailto:tech@openownership.org)
-
 The session will end with space for Q&A, community notices, and informal networking break-outs. As with the first session, this will take place in English and will be recorded. We’ll make the recording available later for those who can’t make it in person.
