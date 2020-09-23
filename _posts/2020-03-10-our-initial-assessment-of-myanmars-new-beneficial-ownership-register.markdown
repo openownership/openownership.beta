@@ -5,6 +5,7 @@ categories:
 - News
 tags:
 - EITI
+- register
 image: "/uploads/Myanmar%20EITI%20portal%20blog%20image%20(2).png"
 is_featured: true
 ---
