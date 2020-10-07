@@ -64,34 +64,34 @@ Steve talked about Companies House's cloud hosting journey and the
 lessons they have learned along the way. Companies House is responsible for the
 UK's company and beneficial ownership registers.
 
-[Jump to Steve's talk at 06:30](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=390s)
+[Jump to Steve's talk at 06:30.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=390s)
 
 ### Peter Niebling - Chief Consultant - Denmark CVR
 
 Peter talked about the development of Denmark's Centrale Virksomhedsregister, the company, and the beneficial ownership register. In particular, he talked about how they made the switch to offering open data, free of charge, and the impact this had on their technical services.
 
-[See Peter's slides](/uploads/tech-showcase-october-2020-denmark.pdf)
+[See Peter's slides.](/uploads/tech-showcase-october-2020-denmark.pdf)
 
-[Jump to Peter's talk at 19:50](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=1190s)
+[Jump to Peter's talk at 19:50.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=1190s)
 
 ### Xue Tan & Burcu Mentesoglu Tuncer - Global Legal Entity Identifier Foundation
 
 Xue and Burcu gave a brief introduction to the Global LEI System, how the legal entity relationship data is collected via LEI, and how the LEI can be used within AML/KYC processes.
 
-[See Xue and Burcu's slides](/uploads/tech-showcase-october-2020-gleif.pdf)
+[See Xue and Burcu's slides.](/uploads/tech-showcase-october-2020-gleif.pdf)
 
-[Jump to Xue and Burcu's talk at 35:41](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=2141s)
+[Jump to Xue and Burcu's talk at 35:41.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=2141s)
 
 ### Antoine Karam - Officer-in-Charge, Software Products for Member States - UNODC
 
 Antoine presented UNODC's goAML anti-money laundering system - a fully integrated software solution developed specifically for use by Financial Intelligence Units (FIUs), which is one of UNODC's strategic responses to financial crime, including money-laundering and terrorist financing.
 
-[Jump to Antoine's talk at 52:52](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=3172s)
+[Jump to Antoine's talk at 52:52.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=3172s)
 
 ### Catherine Greene & Noel Alonso-Murray - Extractive Industries Transparency Initiative & Directorio Legislativo
 
 Catherine and Noel talked about their work for the recent IMF Anti-Corruption challenge, finding corruption risks by linking financial asset disclosures to beneficial ownership and contracts in the extractives sector.
 
-[Watch the live pitch event](https://www.imf.org/en/Topics/innovation-at-the-imf/imf-acc-event) where Catherine and Noel will officially pitch their project for the IMF's support and where you can vote to help them succeed.
+[Watch the live pitch event.](https://www.imf.org/en/Topics/innovation-at-the-imf/imf-acc-event) where Catherine and Noel will officially pitch their project for the IMF's support and where you can vote to help them succeed.
 
-[Jump to Catherine & Noel's talk at 1:13:06](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=4386s)
+[Jump to Catherine & Noel's talk at 1:13:06.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=4386s)
