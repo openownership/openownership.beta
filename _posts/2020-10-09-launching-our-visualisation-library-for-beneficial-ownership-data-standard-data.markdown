@@ -1,6 +1,7 @@
 ---
 title: 'New: visualising beneficial ownership Data Standard tool'
 date: 2020-10-09 10:42:00 Z
+is_featured: true
 ---
 
 Open Ownership is launching [a new software tool](https://github.com/openownership/visualisation-tool) for visualising beneficial ownership (BO) data. Beneficial ownership data is at its most useful when it can be understood by the widest possible group of people. Visualisations of corporate structures are intuitive and easily understood, allowing more people to use beneficial ownership data. It is open-source and available for anyone to use in their own projects. [A hosted version](https://www.openownership.org/visualisation/visualisation-tool/) is also available, so that it can be used straight away without any coding. Users will need to bring some valid Beneficial Ownership Data Standard (BODS) data, but Open Ownership has done the hard work of turning the basic rules from the [Beneficial Ownership Visualisation System](https://openownership.org/visualisation) (BOVS) into code so that users can generate visualisations of any networks they have.
