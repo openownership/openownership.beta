@@ -1,6 +1,8 @@
 ---
 title: Access to beneficial ownership information remains a long term goal
 date: 2020-09-28 08:14:00 Z
+categories:
+- blogs
 image: "/uploads/UAI%20day.jpg"
 author: Open Ownership
 is_featured: true
