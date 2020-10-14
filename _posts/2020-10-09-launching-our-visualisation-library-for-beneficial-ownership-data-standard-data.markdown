@@ -1,6 +1,11 @@
 ---
 title: 'New: visualising beneficial ownership Data Standard tool'
 date: 2020-10-09 10:42:00 Z
+categories:
+- news
+tags:
+- BODS
+- BOVS
 image: "/uploads/BOVS%20Diagram%20Tilable%20(1).png"
 is_featured: true
 ---
