@@ -1,5 +1,5 @@
 ---
-title: OpenOwnership
+title: Open Ownership
 timezone: UTC
 collections:
   authors:
@@ -117,7 +117,7 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 colophon: http://www.garethjohnsdesign.com
-company: OpenOwnership
+company: Open Ownership
 cookies-text: We use Google Analytics to help us understand website traffic, webpage
   usage and enhance the functionality of our website and improve your user experience.
   We do not capture your personal data or transfer it to anyone else, or use any third-party
