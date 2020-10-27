@@ -3,7 +3,7 @@ title: My first year as Open Ownership’s Executive Director
 date: 2020-10-27 08:54:00 Z
 categories:
 - blogs
-image: "/uploads/Grey-0142%20(1).JPG"
+image: "/uploads/Grey-0142%20(1)-1124bf.JPG"
 author: Thom Townsend
 is_featured: true
 ---
