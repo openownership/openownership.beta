@@ -5,7 +5,7 @@ position: 0
 files:
   en: "/uploads/definitions-briefing.pdf"
 thumbnail-image: "/uploads/definitions-briefing.png"
-author: OpenOwnership
+author: Peter Low & Tymon Kiepe
 resource_type: Briefings
 is_featured: true
 ---
