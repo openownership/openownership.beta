@@ -1,0 +1,29 @@
+---
+title: My first year as Open Ownership’s Executive Director
+date: 2020-10-27 08:54:00 Z
+categories:
+- blogs
+image: "/uploads/Grey-0142%20(1).JPG"
+author: Thom Townsend
+is_featured: true
+---
+
+I have been Executive Director of Open Ownership for a little over a year now, and it is time to publicly reflect on my experience and share some thoughts about what we have done.
+
+It has been an unusual year, with a global pandemic and two massive leaks of financial information: first the Luanda Leaks in January, then the FinCEN Files in September. All three have highlighted the key role shell companies play in facilitating money laundering, corruption, and crime. These scanalds have grabbed the headlines, but also pushed the potential solutions on how anonymous shell companies can be tackled to halfway down the page. Nevertheless, the terms “beneficial ownership” (BO) and “anonymous companies” are now more widely known and understood – even if the attention invariably falls on egregious examples rather than systemic failures.  
+
+This reflects how in many ways BO stands behind better known governance failures in the anti-corruption space – from dodgy procurement to white collar crime. Anonymous companies remain the vehicle of choice for corruption, hiding illicit activities and money laundering. It is worth noting here that corruption and crime simply cannot operate in today’s globalised world without anonymous companies, which, in turn, allow money laundering to exist. 
+
+The urgent need to start effectively addressing these issues led us to focus Open Ownership’s work on what we call “the only performance indicator that actually matters”: how many countries are publishing data on their beneficial owners openly.  
+ 
+Our metric has the added benefit of being easy to use. However, delivering beneficial ownership transparency (BOT) reforms to the point where data is being actively used to counter crime and corruption is a marathon, not a sprint. So, are more countries publishing data on beneficial owners than they were a year ago? Sort of. Are more countries moving in the right direction? Yes – [see for yourself on our map](https://www.openownership.org/map/). 
+ 
+We are meeting our new metric in two majors ways. Firstly, with the expansion of our country team, and secondly, in new frontiers of BO disclosure. Our expanded country team has shifted our emphasis as an organisation from deep thinking about BO disclosure and providing remote technical support, to being an organisation that is down in the weeds, getting our hands dirty with supporting government and civil society week in, week out to get the work done. BO disclosure of the kind we advocate for is an immature space. To be frank, there is a lot we do not yet know, and much that remains unproven at scale. That is fine, but we need to make sure we are investing in research that really understands all of the levers that need to be pulled to deliver successful reforms. To that end, we have produced research and briefings on [data verification](https://www.openownership.org/uploads/OpenOwnership%20Verification%20Briefing.pdf), [BO definitions](https://www.openownership.org/uploads/definitions-briefing.pdf), and private-sector use of BO data.
+ 
+I took this job because I believe that knowing who owns and controls  companies is the very basic information we all need to understand the complicated world we were born to live in. Whether it is knowing who is really behind a political advert, or being able to find out quickly who we are really about to buy something from, understanding ownership and control is, in my view, the basic building block to understanding our world. 
+ 
+Whilst we rightly focus on the incredible harm done by the abuse of anonymous companies, we have done very little so far on thinking about, and advocating for, all of the hugely positive things that better, open data on ownership and control could do for us. On day two of this job, I had dinner with a colleague and they asked, “We know all the bad things that beneficial ownership disclosure can prevent, but we don’t talk much about all the good things it can enable.” Whilst not the simplest task, it is certainly my goal to make this a reality over the next year.
+ 
+There are reasons to be optimistic. I mentioned the Luanda leaks at the start, and our emphasis on research and country delivery; if I had to point to one major success this year, it would be formalising our partnership with the Extractive Industries Transparency Initiative (EITI). We have jointly researched how BOT can be achieved in the most tricky of governance spaces: oil, gas, and mining. Our Opening Extractives programme will be launched later this year and, linking back to our metric, countries will soon start publishing quality BO data with an eye on covering full economy disclosures in the future. We are all very excited about this, and there will be news about it soon. 
+ 
+Finally, I am extremely grateful for my team. They are wonderful, extraordinarily smart, deeply committed, and a huge amount of fun to be around. Thank you. I am also extremely grateful to our steering committee and, in particular, our Chair Gavin Hayman who puts in so much time, energy, and enthusiasm for our cause. Above all, I want to thank the implementers and beneficial ownership champions that we have engaged with in the past year – we exist to support their work. Without their dedication and drive, beneficial ownership transparency would not be a reality.
