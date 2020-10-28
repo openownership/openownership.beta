@@ -23,6 +23,8 @@ Open Ownership recently secured funding to deepen technical and policy support t
 
 Open Ownership, working with international and local partners, will provide technical and policy support on the use of beneficial ownership data to transform procurement systems. This will build on existing work done in the region.   
 
-We seek a short-term contractor, either an organisation or independent consultant,  to support this work.  The contractor will work closely with the Open Ownership team, international and local partners in the delivery of this assignment. 
+We seek a short-term contractor, either an organisation or independent consultant,  to support this work.  The contractor will work closely with the Open Ownership team, international and local partners in the delivery of this assignment.
 
-[Job description & application details]()
+Deadline: Sunday 15th November 2020 
+
+[Indonesia Consultant Profile.pdf](/uploads/Indonesia%20Consultant%20Profile.pdf)
