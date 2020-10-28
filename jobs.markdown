@@ -1,6 +1,7 @@
 ---
 title: Jobs
 date: 2019-08-23 13:18:00 Z
+published: false
 description: OpenOwnership's current job openings.
 ---
 
@@ -14,10 +15,14 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ## Current vacancies
 
-### Technical consultant: beneficial ownership reform in Mexico
+### Technical consultant: Short-Term Contract Opportunity
 
-We are currently seeking to expand our roster of Spanish-speaking technical consultants, with expertise in the area of open data, to help deliver an ambitious programme of support in Mexico and the wider Latin America region. Consultants will work with our in-house team of technical experts to assist government implementers to collect, store and publish high quality beneficial ownership data.
+Implementation support for beneficial ownership reform in Indonesia
 
-Deadline: 13th September 2020
+Open Ownership recently secured funding to deepen technical and policy support to beneficial ownership implementation in Indonesia. This is an adaptive programme that will respond to the changing needs and circumstances in-country.  A key aim of the project is to support the use of beneficial ownership data in development of mitigation strategies for corruption risks during the emergency procurement processes linked to the COVID-19 pandemic and building resilience for the recovery. 
 
-[Job description & application details](/uploads/MX%20Technical%20Consultancy%20ToR%2026.08.20.pdf)
+Open Ownership, working with international and local partners, will provide technical and policy support on the use of beneficial ownership data to transform procurement systems. This will build on existing work done in the region.   
+
+We seek a short-term contractor, either an organisation or independent consultant,  to support this work.  The contractor will work closely with the Open Ownership team, international and local partners in the delivery of this assignment. 
+
+[Job description & application details]()
