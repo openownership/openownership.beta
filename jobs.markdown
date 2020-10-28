@@ -26,4 +26,4 @@ We seek a short-term contractor, either an organisation or independent consultan
 
 Deadline: Sunday 15th November 2020 
 
-[Indonesia Consultant Profile.pdf](/uploads/Indonesia%20Consultant%20Profile.pdf)
+[Terms of reference](/uploads/Indonesia%20Consultant%20Profile.pdf)
