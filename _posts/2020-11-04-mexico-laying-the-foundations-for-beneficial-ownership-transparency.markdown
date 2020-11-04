@@ -1,11 +1,11 @@
 ---
 title: 'Mexico: Laying the foundations for beneficial ownership transparency'
 date: 2020-11-04 11:30:00 Z
-published: false
 categories:
 - blogs
 tags:
 - Mexico
+image: "/uploads/jezael-melgoza-E4b-PlxipV4-unsplash-0d728a.jpg"
 author: Peter Low
 is_featured: true
 ---
