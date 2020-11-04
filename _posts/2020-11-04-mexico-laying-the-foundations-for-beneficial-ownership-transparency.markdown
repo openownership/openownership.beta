@@ -56,3 +56,6 @@ This level is lower than what some of the early adopters of BOT used, but it fol
 ## Mexico’s implementation pathway
 
 As Mexico drafts its legal definition of BO, it will need to give careful consideration to these various elements;seemingly minor decisions during the early stages of implementation can have significant consequences for systems development and data publication. By drawing on the international implementation experiences outlined above, Mexico will be well-placed to create a robust definition that effectively reveals the identity of firms’ beneficial owners and ultimately help the country meet its anti-corruption policy goals. 
+
+
+<span>Photo by <a href="https://unsplash.com/@jezael?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jezael Melgoza</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
