@@ -23,12 +23,12 @@ As we outline in our latest policy briefing, a single best practice definition o
 In short, BO should be defined in law and include the following points: 
 
 *The BO definition should consist of a broad catch-all definition capturing that a beneficial owner is someone who: 
- has the right to some share or enjoy of a legal entity’s income or assets; 
-has the right to direct or influence the entity’s activities. 
+* has the right to some share or enjoy of a legal entity’s income or assets; 
+* has the right to direct or influence the entity’s activities. 
 Specifically, the definition should:
-specify that a beneficial owner must be a natural person (not a legal entity – has to be a real person);
-should cover both ownership and control interests;
-should encompass both indirect and direct interests. 
+* specify that a beneficial owner must be a natural person (not a legal entity – has to be a real person);
+* should cover both ownership and control interests;
+* should encompass both indirect and direct interests. 
 The catch-all definition should be complemented by a non-exhaustive list of example ways in which BO can be held (particular attention should be paid to the many ways ownership or control can be exercised in a given national context).
 There should be a single and unified definition of BO, preferably in primary legislation (additional laws involving BO should refer to this law). 
 Low thresholds for disclosure should be applied. Variable (lower) thresholds should be considered using a risk-based approach (i.e. for individuals or sectors with a higher risk of corruption).*
