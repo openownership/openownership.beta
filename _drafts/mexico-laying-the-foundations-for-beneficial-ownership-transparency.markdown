@@ -5,6 +5,8 @@ categories:
 - blogs
 tags:
 - Mexico
+author: Peter Low
+is_featured: true
 ---
 
 Mexico is one of [more than 90 countries](https://www.openownership.org/map/) worldwide to have committed to transparency over who ultimately owns and controls companies incorporated in its jurisdiction. One of the first areas that government stakeholders are considering as part of its beneficial ownership (BO) reform process is how to produce a robust and comprehensive definition that will deliver on the government’s stated policy priority of tackling corruption.
