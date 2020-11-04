@@ -31,7 +31,7 @@ Specifically, the definition should:
 * should encompass both indirect and direct interests. 
 The catch-all definition should be complemented by a non-exhaustive list of example ways in which BO can be held (particular attention should be paid to the many ways ownership or control can be exercised in a given national context).
 There should be a single and unified definition of BO, preferably in primary legislation (additional laws involving BO should refer to this law). 
-Low thresholds for disclosure should be applied. Variable (lower) thresholds should be considered using a risk-based approach (i.e. for individuals or sectors with a higher risk of corruption).*
+Low thresholds for disclosure should be applied. Variable (lower) thresholds should be considered using a risk-based approach (i.e. for individuals or sectors with a higher risk of corruption).
 
 ## Minimising loopholes
 
