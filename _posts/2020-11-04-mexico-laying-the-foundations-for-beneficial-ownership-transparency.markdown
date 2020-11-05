@@ -26,7 +26,7 @@ As we outline in our latest policy briefing, a single best practice definition o
 In short, BO should be defined in law and include the following points: 
 
 The BO definition should consist of a broad catch-all definition capturing that a beneficial owner is someone who: 
-* has the right to some share or enjoy of a legal entity’s income or assets; 
+* has the right to some share or enjoyment of a legal entity’s income or assets or; 
 * has the right to direct or influence the entity’s activities.
  
 Specifically, the definition should:
