@@ -32,3 +32,5 @@ Speakers:
 * Elisa de Anda Madrazo, Vice-President of the Financial Action Task Force (FATF)
 * Eduardo Bohorquez, Executive Director, Transparencia Mexicana
 Ivana Rossi, Financial Sector Expert, International Monetary Fund (IMF)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0QA23IIUD0A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
