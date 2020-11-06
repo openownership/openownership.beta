@@ -8,6 +8,7 @@ tags:
 - video
 - covid-19
 - the beneficial ownership leadership group
+image: "/uploads/Panel%20screenshot.png"
 ---
 
 On 5 November, 2020, Open Ownership and the Open Government Partnership led a high-level panel discussion on how beneficial ownership transparency (BOT) is of paramount importance in order to both strengthen public procurement during the COVID-19 pandemic and ensure relief packages go to where they are intended. 
