@@ -8,6 +8,8 @@ tags:
 - covid-19
 - the beneficial ownership leadership group
 image: "/uploads/Panel%20screenshot.png"
+author: Open Ownership
+is_featured: true
 ---
 
 On 5 November, 2020, Open Ownership and the Open Government Partnership led a high-level panel discussion on how beneficial ownership transparency (BOT) is of paramount importance in order to both strengthen public procurement during the COVID-19 pandemic and ensure relief packages go to where they are intended. 
@@ -30,3 +32,5 @@ Speakers:
 * Elisa de Anda Madrazo, Vice-President of the Financial Action Task Force (FATF)
 * Eduardo Bohorquez, Executive Director, Transparencia Mexicana
 Ivana Rossi, Financial Sector Expert, International Monetary Fund (IMF)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0QA23IIUD0A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
