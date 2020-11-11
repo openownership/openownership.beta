@@ -26,7 +26,6 @@ var jsPaths = [
   'node_modules/foundation-sites/dist/js/foundation.js',
   'node_modules/aos/dist/aos.js',
   'node_modules/motion-ui/dist/motion-ui.js',
-  'node_modules/jquery.cookie/jquery.cookie.js',
   'node_modules/@popperjs/core/dist/umd/popper.js',
   'node_modules/tippy.js/dist/tippy.umd.js',
   'node_modules/jvectormap-next/jquery-jvectormap.js',

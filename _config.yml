@@ -35,9 +35,9 @@ defaults:
     path: ''
     type: posts
   values:
-    image: 
-    description: 
-    author: 
+    image:
+    description:
+    author:
     is_featured: false
     layout: post
     permalink: "/:categories/:title/"
@@ -45,36 +45,36 @@ defaults:
     path: ''
     type: pages
   values:
-    description: 
+    description:
     layout: page
 - scope:
     path: ''
     type: resources
   values:
-    description: 
+    description:
     files:
-      en: 
-    author: 
-    thumbnail-image: 
-    resource_type: 
+      en:
+    author:
+    thumbnail-image:
+    resource_type:
     is_featured: false
 - scope:
     path: ''
     type: framework
   values:
-    job-title: 
-    image: 
-    email: 
-    social: 
+    job-title:
+    image:
+    email:
+    social:
     layout: framework
 - scope:
     path: ''
     type: team
   values:
-    job-title: 
-    image: 
-    email: 
-    social: 
+    job-title:
+    image:
+    email:
+    social:
     layout: team
 - scope:
     path: ''
@@ -118,11 +118,6 @@ kramdown:
 highlighter: rouge
 colophon: http://www.garethjohnsdesign.com
 company: Open Ownership
-cookies-text: We use Google Analytics to help us understand website traffic, webpage
-  usage and enhance the functionality of our website and improve your user experience.
-  We do not capture your personal data or transfer it to anyone else, or use any third-party
-  cookies. You can disable the use of cookies from your browser settings. By closing
-  this message and continuing to use our website you consent to our use of cookies.
 email: info@openownership.org
 tag_manager: GTM-KHKK838
 logo: "/assets/img/logo.svg"
