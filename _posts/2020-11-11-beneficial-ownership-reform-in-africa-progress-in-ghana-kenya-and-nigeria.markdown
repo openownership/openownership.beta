@@ -1,6 +1,6 @@
 ---
-title: 'Beneficial Ownership Reform in Africa: Analysing progress in Ghana, Kenya
-  and Nigeria.'
+title: 'Beneficial Ownership reform in Africa: analysing progress in Ghana, Kenya,
+  and Nigeria'
 date: 2020-11-11 15:10:00 Z
 categories:
 - blogs
