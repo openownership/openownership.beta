@@ -57,7 +57,7 @@ Kenya’s regulations place obligations on companies to issue non-complying bene
 
 ## Growing momentum 
 
-The progress in these countries is part of a growing momentum of BO reform. Globally, over 90 countries have made BO reform commitments, and in Africa, over half of the 54 states have a commitment to BOT.  
+The progress in these countries is part of a growing momentum of BO reform. Globally, over 90 countries have made BO reform commitments, and in Africa, over half of the 54 states have a commitment to BOT. Country commitments made through the National Action Plans (NAP) of the Open Government Partnership (OGP)  have played an important role in driving reforms through civil society and government co-creation processes.   
 
 In 2020, seven countries in Africa – Egypt, Kenya, Nigeria, Senegal, Seychelles, Tanzania, and Zimbabwe, have implemented legal reforms to advance their BO commitments. COVID-19 has also acted as an accelerator for commitments, with countries including South Africa, Nigeria, Cameroon, and Gabon making new sectoral commitments to disclose BO data in procurement expenditure under the International Monetary Fund (IMF) Rapid Financing Instrument loans.
 
