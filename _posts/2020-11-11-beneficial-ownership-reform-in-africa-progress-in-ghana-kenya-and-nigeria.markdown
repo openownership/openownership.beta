@@ -65,7 +65,7 @@ This year has also seen Uganda take its first step towards BOT with its membersh
 
 Whilst further work is still required, the progress in Ghana, Kenya, Nigeria, and other countries are encouraging indicators that Africa is firmly part of a growing global momentum of countries adopting measures to reduce the opacity around company ownership. An important next step for all three countries will be designing systems to allow collected data to be structured for easy and timely sharing with other government agencies, the public, and across jurisdictions. 
 
-OO is committed to providing the technical expertise to support this work. If you would like to discuss technical assistance for your country, please contact: Karabo Rajuili, OO country manager at [karabo@openownership.org](karabo@openownership.org)
+OO is committed to providing the technical expertise to support this work. If you would like to discuss technical assistance for your country, please contact: Karabo Rajuili, OO country manager at [karabo@openownership.org](mailto:karabo@openownership.org)
 
 
 
