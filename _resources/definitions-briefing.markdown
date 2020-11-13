@@ -4,6 +4,7 @@ date: 2020-10-27 00:00:00 Z
 position: 0
 files:
   en: "/uploads/definitions-briefing.pdf"
+  es: "/uploads/Beneficiarios finales - definiciones y umbrales.pdf"
 author: Peter Low & Tymon Kiepe
 thumbnail-image: "/uploads/definitions-briefing.png"
 resource_type: Briefings
