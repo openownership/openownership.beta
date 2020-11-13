@@ -2,6 +2,19 @@
 title: Qué hacemos
 layout: espanol
 resources:
+- title: 'Beneficiarios reales: umbrales y definiciones en la ley'
+  author: Peter Low & Tymon Kiepe · octubre 2020
+  content: Para aprovechar al máximo el efecto generado por los registros de beneficiarios
+    reales, es importante reducir al mínimo las lagunas y lograr que los datos tengan
+    la mayor utilidad posible. Una definición legal de beneficiarios reales y sus
+    umbrales asociados constituyen la base sobre la cual se crea un régimen de divulgación.
+    El presente informe de políticas tiene como objetivo ayudar a los encargados de
+    formular políticas y a aquellos que implementan o promueven la transparencia sobre
+    los beneficiarios reales a reflexionar sobre las decisiones requeridas para definir
+    la titularidad real en la ley, así como a establecer y poner en práctica umbrales
+    apropiados
+  url: "/uploads/Beneficiarios finales - definiciones y umbrales.pdf"
+  thumbnail-image: "/uploads/definitions-briefing.png"
 - title: Estándar de Datos sobre Beneficiarios Finales
   author: OpenOwnership · mayo 2020
   content: Nuestro Estándar de Datos sobre Beneficiarios Finales (BODS) ofrece un
