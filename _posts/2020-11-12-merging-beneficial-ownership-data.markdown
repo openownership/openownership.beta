@@ -7,8 +7,8 @@ tags:
 - working with beneficial ownership data series
 - data
 image: "/uploads/merging-data-cover-image.jpeg"
-description: Part Three in a series of technical posts, collecting our experience from
-  three years of the Global Beneficial Ownership Register
+description: Part Three in a series of technical posts, collecting our experience
+  from three years of the Global Beneficial Ownership Register
 author: Steve Day
 is_featured: true
 ---
