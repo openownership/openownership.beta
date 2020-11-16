@@ -25,7 +25,7 @@ Here is an illustrative example from the UK’s Persons of Significant Control r
 
 <figure>
   <img src="/uploads/merging-data-prince-charles.png" alt="Screenshot of the Open Ownership Register showing multiple search results for the UK’s heir to the throne: Prince Charles"/>
-  <figcaption>Screenshot of the Open Ownership Register showing multiple search results for the UK’s heir to the throne: Prince Charles</figcaption>
+  <figcaption><i>Screenshot of the Open Ownership Register showing multiple search results for the UK’s heir to the throne: Prince Charles</i></figcaption>
 </figure>
 <br>
 
@@ -61,7 +61,7 @@ No matter how clever a matching algorithm is, there will always be mistakes to d
 
 <figure>
   <img src="/uploads/merging-data-soft-merge-model.png" alt="Diagram showing three individual ownership records connected by new links between duplicate people"/>
-  <figcaption>Diagram showing three individual ownership records connected by new links between duplicate people</figcaption>
+  <figcaption><i>Diagram showing three individual ownership records connected by new links between duplicate people</i></figcaption>
 </figure>
 <br>
 
