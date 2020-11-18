@@ -24,9 +24,11 @@ Open Ownership, working with international and local partners, will provide tech
 
 We seek a short-term contractor, either an organisation or independent consultant,  to support this work.  The contractor will work closely with the Open Ownership team, international and local partners in the delivery of this assignment.
 
-Deadline: Sunday 15th November 2020
+Deadline: Sunday 22nd November 2020
 
 [Terms of reference](/uploads/Indonesia%20Consultant%20Profile.pdf)
+
+<a href="mailto:recruitment@openownership.org" class="button">Apply</a>
 
 ### Opening Extractives Programme Manager
 Open Ownership, together with The Extractive Industries Transparency Initiative (EITI) International Secretariat, has launched a new global programme, Opening Extractives, with the aim of deepening beneficial ownership transparency in the extractives sector and reducing corruption risk.
