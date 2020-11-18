@@ -12,7 +12,7 @@ is_featured: true
 
 In recent months, the various jurisdictions that comprise the UK Overseas Territories (OTs) have each announced their intention to build publicly accessible registers of beneficial owners for companies registered in their territories. Open Ownership (OO) will be working with the OTs each step of the way as they act on their beneficial ownership (BO) commitments, from analysing their specific needs and how these can be met through to final data publication. 
 
-These public announcements have followed the 2018 Sanctions and Anti-Money Laundering Act that obliged the UK to provide “all reasonable assistance” to the OTs to establish public registers. This same UK law – passed after opaque structures in some of the OTs were linked to the Panama Papers and other scandals – also required the territories to introduce registers by the end of 2020 (a deadline later extended to 2023). 
+These public announcements have followed the [2018 Sanctions and Anti-Money Laundering Act](https://www.legislation.gov.uk/ukpga/2018/13/section/51) that obliged the UK to provide “all reasonable assistance” to the OTs to establish public registers. This same UK law – passed after opaque structures in some of the [OTs were linked to the Panama Papers and other scandals](https://publications.parliament.uk/pa/cm201719/cmselect/cmfaff/1464/146406.htm) – also required the territories to introduce registers by the end of 2020 (a deadline later extended to 2023). 
 
 The challenges associated with implementation will vary significantly across these jurisdictions. Whilst some territories will create registers from scratch, others will concentrate their reforms on updating and publishing the BO data from registers that authorities already hold. 
 
