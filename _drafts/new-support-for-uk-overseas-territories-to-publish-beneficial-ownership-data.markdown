@@ -2,9 +2,12 @@
 title: New support for UK Overseas Territories to publish beneficial ownership data
 date: 2020-11-18 08:38:00 Z
 categories:
-- blogs
+- news
 tags:
 - beneficial ownership
+image: "/uploads/OT%20blog.png"
+author: Open Ownership
+is_featured: true
 ---
 
 In recent months, the various jurisdictions that comprise the UK Overseas Territories (OTs) have each announced their intention to build publicly accessible registers of beneficial owners for companies registered in their territories. Open Ownership (OO) will be working with the OTs each step of the way as they act on their beneficial ownership (BO) commitments, from analysing their specific needs and how these can be met through to final data publication. 
