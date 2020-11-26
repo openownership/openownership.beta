@@ -25,9 +25,10 @@ Speakers:
 Thom Townsend - Open Ownership
 Olayinka Akinyede - Inter Governmental Action Group against Money Laundering in West Africa (GIABA) 
 Olesia Arkhypska -  Together Against Corruption
+Nadiia Babynska - Country Coordinator - OpenUP 
 John Cusack - Global Coalition to Fight Financial Crime
 Jennifer Haslett - HM Treasury
 Khadija Sharife - OCCRP
 
+Join our panel discussion [here](https://19thiacc.pathable.co/meetings/virtual/rfQFbNpe2g6MqhK4E). 
 
-Register here. 
