@@ -16,7 +16,7 @@ Open Ownership is hosting and participating in number of workshops at the IACC.
 
 ## Advancing Implementation Through Collective Action: Translating Political Commitment to Beneficial Ownership Transparency into High Quality, Usable Data
 
-1300 - 1400 GMT          Monday 30 November 
+1300 - 1400 GMT          Monday 30 November
 
 Our session at the IACC will provide an opportunity for an in depth and interactive discussion into the key principles that allow for the successful implementation of beneficial ownership policies, address challenges, and how government, business and civil society can work cooperatively to achieve the goal of international reform.
 
@@ -40,15 +40,10 @@ Khadija Sharife - OCCRP
 
 Join our panel discussion [here](https://19thiacc.pathable.co/meetings/virtual/rfQFbNpe2g6MqhK4E).
 
-You'll also find members of our team speaking at the following panels: 
+You'll also find members of our team speaking at the following panels:
 
-**[Next Generation of Anti-Corruption Priorities: Towards 2030](https://19thiacc.pathable.co/meetings/virtual/G2m2vrntAEvhN8f2o)  - **11:00 AM-12:30 PM GMT on Monday, November 30
+\*\*[Next Generation of Anti-Corruption Priorities: Towards 2030](https://19thiacc.pathable.co/meetings/virtual/G2m2vrntAEvhN8f2o)  - \*\*11:00 AM-12:30 PM GMT on Monday, November 30
 
-**[Nowhere to Hide: Why We Need Beneficial Ownership Registries](https://19thiacc.pathable.co/meetings/virtual/pPnAie653fvGpKZ4B) - **5:30 PM-7:00 PM GMT on Tuesday, December 1
+\*\*[Nowhere to Hide: Why We Need Beneficial Ownership Registries](https://19thiacc.pathable.co/meetings/virtual/pPnAie653fvGpKZ4B) - \*\*5:30 PM-7:00 PM GMT on Tuesday, December 1
 
-**[At the forefront in the fight against hidden ownership: Early successes and unforeseen challenges](https://19thiacc.pathable.co/meetings/virtual/cmWcQ7J8eBsW99e4G) - **8:00 AM-9:30 AM GMT on Wednesday, December 2\
-\
-[\
-](https://19thiacc.pathable.co/people/MWCmfDoTMwdjKvXcD)
-
-\
+\*\*[At the forefront in the fight against hidden ownership: Early successes and unforeseen challenges](https://19thiacc.pathable.co/meetings/virtual/cmWcQ7J8eBsW99e4G) - \*\*8:00 AM-9:30 AM GMT on Wednesday, December 2\
