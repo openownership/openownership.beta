@@ -12,7 +12,7 @@ is_featured: true
 
 The International Anti-Corruption Conference (IACC) is the world’s premier global forum for bringing together heads of state, civil society, the private sector and more to tackle the increasingly sophisticated challenges posed by corruption.
 
-Open Ownership is hosting and participating in number of workshops at the IACC.
+Open Ownership is hosting and participating in a number of workshops at the IACC.
 
 ## Advancing Implementation Through Collective Action: Translating Political Commitment to Beneficial Ownership Transparency into High Quality, Usable Data
 
