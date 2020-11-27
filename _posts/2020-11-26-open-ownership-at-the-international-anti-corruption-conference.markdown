@@ -18,7 +18,7 @@ Open Ownership is hosting and participating in a number of workshops at the IACC
 
 1:00 PM - 2:00 PM GMT          Monday 30 November, 2020
 
-Our session at the IACC will provide an in-depth and interactive discussion into the key principles that allow for the successful implementation of beneficial ownership (BO) policies. We will also address challenges, and discuss how government, business, and civil society can work cooperatively to achieve the goal of international reform.
+Our session at the IACC will provide an in-depth and interactive discussion into the key principles that allow for the successful implementation of beneficial ownership (BO) policies. We will also address challenges and discuss how government, business, and civil society can work cooperatively to achieve the goal of international reform.
 
 The Open Ownership Principles (OO Principles) set the standard for good BO disclosure practices of company ownership. By implementing the OO Principles, countries can build a comprehensive picture of who owns companies in their jurisdictions, thereby unlocking the potential of BO data to reduce corruption, ensure fair market access for all companies, and encourage sustainable inward investment.
 
