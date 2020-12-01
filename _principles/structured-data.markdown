@@ -3,8 +3,8 @@ title: Data should be structured and interoperable
 component: Structured data
 order: 6
 summary_version: |-
-  1. Beneficial ownership data should be available as structured data, with each declaration conforming to a specified data model or template.
-  2. Data should be available digitally, including in a machine readable format.
+  1. BO data should be available as structured data, with each declaration conforming to a specified data model or template.
+  2. Data should be available digitally, including in a machine-readable format.
   3. Data should be available in bulk as well as on a per record basis.
 ---
 
