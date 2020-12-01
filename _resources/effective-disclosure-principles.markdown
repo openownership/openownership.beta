@@ -5,7 +5,7 @@ position: 25
 author: OpenOwnership
 thumbnail-image: "/uploads/principles-thumbnail.jpg"
 files:
-  en: "/framework/"
+  en: "/principles/"
   es: "/uploads/principios-divulgacion-efectiva-de-los-beneficiarios-finales.pdf"
 thumbnail-image-class: web-resource
 resource_type: Tools

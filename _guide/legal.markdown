@@ -136,7 +136,7 @@ questions:
     civil society to contribute, and will recognise that systemic evidence is likely
     to take several years to fully emerge.
 resource-text:
-- 'Principles: [12 Principles for Effective Beneficial Ownership Disclosure](/framework)'
+- 'Principles: [12 Principles for Effective Beneficial Ownership Disclosure](/principles/)'
 - 'Briefing: [Characteristics of Effective Beneficial Ownership Data](/uploads/oo-characteristics-effective-bo-data.pdf)'
 - "[Report: Improving beneficial ownership transparency in Ukraine: Review & Recommendations](https://www.openownership.org/uploads/opo-ukraine-report.pdf)"
 - "[Report: Kyrgyz Republic Country Report](https://www.openownership.org/uploads/opo-kyrgyz-republic-scoping-report.pdf)"

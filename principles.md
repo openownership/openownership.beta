@@ -1,6 +1,6 @@
 ---
 title: Principles for Effective Beneficial Ownership Disclosure
-layout: framework-index
+layout: principles-index
 ---
 
 The following outlines nine principles for effective beneficial ownership disclosure designed to make published data easy to use, accurate, and interoperable. Disclosure frameworks that implement these principles have a much greater chance of beneficial ownership data being used to deliver policy impact on key areas such as anti-money laundering, tackling corruption, and reducing tax avoidance at national and international levels.
