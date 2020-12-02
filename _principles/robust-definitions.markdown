@@ -4,11 +4,11 @@ title: Beneficial Ownership should be clearly and robustly defined in law, with 
 component: Robust definitions
 order: 1
 summary_version: |-
-  1. Robust and clear definitions of beneficial ownership (BO) should state that a beneficial owner should be a natural person. Definitions should cover all relevant forms of ownership and control, specifying that ownership and control can be held both directly and indirectly.
-  2. There should be a single, unified definition in law in primary legislation, with additional secondary legislation referring to this definition.
-  3. The definition should comprise a broad catch-all definition of what constitutes BO, and couple this with a non-exhaustive list of example ways in which BO can be held.
-  4. Thresholds should be set low so that all relevant people with BO and control interests are included in disclosures. A risk based approach should be considered to set lower thresholds for particular sectors, industries, or people. Particular consideration should be given to thresholds that apply to ownership by politically exposed persons (PEPs), with a clear definition used to determine what constitutes a PEP.
-  5. Absolute values, rather than ranges, should be used to define a beneficial owner’s ownership or control.
+  - Robust and clear definitions of beneficial ownership (BO) should state that a beneficial owner should be a natural person. Definitions should cover all relevant forms of ownership and control, specifying that ownership and control can be held both directly and indirectly.
+  - There should be a single, unified definition in law in primary legislation, with additional secondary legislation referring to this definition.
+  - The definition should comprise a broad catch-all definition of what constitutes BO, and couple this with a non-exhaustive list of example ways in which BO can be held.
+  - Thresholds should be set low so that all relevant people with BO and control interests are included in disclosures. A risk based approach should be considered to set lower thresholds for particular sectors, industries, or people. Particular consideration should be given to thresholds that apply to ownership by politically exposed persons (PEPs), with a clear definition used to determine what constitutes a PEP.
+  - Absolute values, rather than ranges, should be used to define a beneficial owner’s ownership or control.
 ---
 
 Clearly defining beneficial ownership and ensuring it covers all relevant forms of ownership and control makes the disclosure regime less vulnerable to exploitation by those seeking to abuse the system. A disclosure regime should have a single definition which, at a minimum, (1) specifies that a BO must be a natural person, (2) covers both ownership and control interests, and (3) encompasses both indirect and direct interests. A good definition is likely to combine a catch-all general description of beneficial ownership, complemented by a non-exhaustive list of examples in which these can be held, taking into account the local context.

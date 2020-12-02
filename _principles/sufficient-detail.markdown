@@ -4,10 +4,10 @@ title: Beneficial ownership disclosures should contain sufficient detail to allo
 component: Sufficient detail
 order: 3
 summary_version: |-
-  1. Key information should be included about the beneficial owner, the disclosing company, and the means through which ownership or control is held.
-  2. Clear identifiers should be used for people and companies.
-  3. PEPs should be clearly identifiable within the data.
-  4. Where BO is held indirectly through multiple legal entities, sufficient information should be published to understand full ownership chains.
+  - Key information should be included about the beneficial owner, the disclosing company, and the means through which ownership or control is held.
+  - Clear identifiers should be used for people and companies.
+  - PEPs should be clearly identifiable within the data.
+  - Where BO is held indirectly through multiple legal entities, sufficient information should be published to understand full ownership chains.
 ---
 
 Collecting and publishing key fields of data about the beneficial owner and the disclosing company enables users to accurately interpret the data and determine which individuals and companies the disclosure refers to. Collecting and publishing the means through which ownership or control is held further adds to the utility of the data by enabling users to understand how beneficial ownership is operating. This information can be important when investigating suspected cases of money laundering or corruption.

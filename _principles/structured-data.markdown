@@ -3,9 +3,9 @@ title: Data should be structured and interoperable
 component: Structured data
 order: 6
 summary_version: |-
-  1. BO data should be available as structured data, with each declaration conforming to a specified data model or template.
-  2. Data should be available digitally, including in a machine-readable format.
-  3. Data should be available in bulk as well as on a per record basis.
+  - BO data should be available as structured data, with each declaration conforming to a specified data model or template.
+  - Data should be available digitally, including in a machine-readable format.
+  - Data should be available in bulk as well as on a per record basis.
 ---
 
 The utility of beneficial ownership data is enhanced when the data is available in a structured format. This allows the data to be easily analysed and linked with other datasets, enhancing the data’s utility to expose transnational networks of illicit financial flows and support effective and timely due diligence. When beneficial ownership data is structured and interoperable it is also easier to verify, as a greater range of verification mechanisms can be used. The Beneficial Ownership Data Standard (BODS) is a template for publishing structured data about beneficial ownership in a format (JSON) that can be read and understood by computer systems around the world.

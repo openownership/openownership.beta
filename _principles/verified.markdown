@@ -3,7 +3,7 @@ title: Measures should be taken to verify the data
 component: Verified
 order: 7
 summary_version: |-
-  1. When data is submitted, measures should be taken to verify the:
+  - When data is submitted, measures should be taken to verify the:
     - beneficial owner;
     - entity;
     - ownership or control relationship between the beneficial owner and the entity;
