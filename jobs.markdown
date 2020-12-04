@@ -35,7 +35,7 @@ Open Ownership, together with The Extractive Industries Transparency Initiative 
 
 We are now recruiting a Programme Manager who will be at the heart of the Opening Extractives Programme Management Unit comprised of Directors from each organisation. This new position involves responsibility for developing and managing the ambitious programme that will support 8-10 resource-rich countries in developing systems to disclose high quality beneficial ownership data, build capacity of stakeholders to analyse the data, and mobilize global support for beneficial ownership transparency. The Programme Manager role will be responsible for day-to-day programme management, monitoring, reporting, and quality assurance, all of which are essential for ensuring the overall success of the programme.
 
-Deadline: Friday 10th December 2020
+Deadline: Thursday 10th December 2020
 
 [Job description](/uploads/2020%20Program%20Manager.pdf)
 
