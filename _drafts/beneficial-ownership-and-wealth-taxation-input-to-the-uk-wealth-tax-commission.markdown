@@ -1,6 +1,8 @@
 ---
 title: 'Beneficial ownership and wealth taxation: Input to the UK Wealth Tax Commission'
 date: 2020-12-04 17:23:00 Z
+categories:
+- blogs
 image: "/uploads/6979780327_2e9e86a762_k-c73e55.jpg"
 author: Louise Russell-Prywata
 is_featured: true
