@@ -1,6 +1,7 @@
 ---
 title: 'Beneficial ownership and wealth taxation: Input to the UK Wealth Tax Commission'
 date: 2020-12-04 17:23:00 Z
+image: "/uploads/6979780327_2e9e86a762_k-c73e55.jpg"
 ---
 
 As wealth inequality and public debt rises in many countries around the world, the issue of wealth taxation is gaining greater political prominence. A [recent UK survey of views on publicly funded services, wealth and inequality](https://www.taxjustice.uk/blog/new-poll-reveals-concern-about-the-state-of-public-services-and-support-for-higher-taxes-on-wealth) found that three-quarters of respondents “want to see the wealthy paying more tax”, and the financial pressures that have come in the wake of COVID-19 have intensified calls to explore more equitable policy options.
