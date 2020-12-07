@@ -1,4 +1,6 @@
 header:
+  - title: Principles
+    url: /principles/
   - title: What we do
     url: /what-we-do/
   - title: Map
@@ -13,6 +15,8 @@ header:
     url: /jobs/
 
 footer:
+  - title: Principles
+    url: /principles/
   - title: What we do
     url: /what-we-do/
   - title: Map

@@ -81,7 +81,7 @@ resource-text:
 - 'BODS Tools: [Functional Requirements for systems](http://standard.openownership.org/en/latest/schema/guidance/functional-requirements.html)'
 - 'BODS Tools: [Example BODS data](http://standard.openownership.org/en/latest/examples/index.html)'
 - 'BODS Tools: [Data Review Tool](https://datareview.openownership.org/)'
-- 'Principles: [12 Principles for Effective Beneficial Ownership Disclosure](/framework)'
+- 'Principles: [12 Principles for Effective Beneficial Ownership Disclosure](/principles/)'
 layout: guide-page
 ---
 

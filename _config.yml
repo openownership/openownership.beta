@@ -5,16 +5,16 @@ collections:
   authors:
     title: Authors
     output: false
-  framework:
-    title: Effective Disclosure Framework
-    output: true
-    sort_by: order
   guide:
     title: Guide
     output: true
   posts:
     title: Posts
     output: true
+  principles:
+    title: Principles for Effective Beneficial Ownership Disclosure
+    output: true
+    sort_by: order
   resources:
     title: Resources
     output: false
@@ -60,13 +60,13 @@ defaults:
     is_featured: false
 - scope:
     path: ''
-    type: framework
+    type: principles
   values:
     job-title: 
     image: 
     email: 
     social: 
-    layout: framework
+    layout: principles
 - scope:
     path: ''
     type: team

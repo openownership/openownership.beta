@@ -1,21 +1,20 @@
 ---
 title: What we do
 position: 1
-description: We are dedicated to increasing corporate transparency across the world
-  by making it easy to publish and access high-quality data about who owns companies.
+description: We are driving the global shift towards transparency over who owns and
+  controls companies.
 services:
-- title: The OpenOwnership Register
-  icon: one-on-one
-  text: The Register is an easy-to-use, cloud-based, platform that links beneficial
-    ownership information from multiple sources and makes it available for free to
-    all, allowing for powerful global searches with just a couple of clicks. Data
-    on the platform comes from regulatory sources such as national companies registers
-    and the Extractive Industries Transparency Initiative. It is also self-submitted
-    by companies through our sleek, intuitive reporting interface. Information from
-    more than 5 million companies is already available through the online portal.
-  button: View the Register
-  link: https://register.openownership.org/
-- title: Building a stable and trusted beneficial ownership data standard and user
+- title: Guide to implementing beneficial ownership transparency
+  icon: sharing
+  text: Our implementation guide is designed to support governments that are considering
+    or implementing beneficial ownership transparency. It provides practical resources,
+    and shares the knowledge and good practice that is being developed by a growing
+    number of countries around the world. We also hope it will be helpful for people
+    in international institutions, the private sector and civil society who are supporting
+    beneficial ownership transparency.
+  button: View guide
+  link: "/guide/"
+- title: Building a stable and trusted Beneficial Ownership Data Standard and user
     base
   icon: building
   text: The Beneficial Ownership Data Standard (the Standard, or BODS) is being developed
@@ -23,7 +22,7 @@ services:
     standard-setting. It will enable the resulting beneficial ownership data to be
     interoperable, more easily reused, and higher quality. We are engaging with public
     and private sector publishers of beneficial ownership data to encourage uptake
-    of the Standard.
+    of the standard.
   button: Find out more
   link: "/what-we-do/the-beneficial-ownership-data-standard/"
 - title: The Beneficial Ownership Leadership Group
@@ -36,6 +35,17 @@ services:
     Slovak Republic.
   button: Find out more
   link: "/what-we-do/the-beneficial-ownership-leadership-group/"
+- title: The OpenOwnership Register
+  icon: one-on-one
+  text: The Register is an easy-to-use, cloud-based, platform that links beneficial
+    ownership information from multiple sources and makes it available for free to
+    all, allowing for powerful global searches with just a couple of clicks. Data
+    on the platform comes from regulatory sources such as national companies registers
+    and the Extractive Industries Transparency Initiative. It is also self-submitted
+    by companies through our sleek, intuitive reporting interface. Information from
+    more than 5 million companies is already available through the online portal.
+  button: View the Register
+  link: https://register.openownership.org/
 - title: Partnering with us
   icon: one-on-one
   text: We specialise in providing integrated support across the whole range of policy,
@@ -53,14 +63,6 @@ services:
     adopters to work with so that we can build a strong use case to build momentum.
   button: Find out more
   link: "/what-we-do/private-sector-engagement/"
-- title: Sharing knowledge and best practice
-  icon: sharing
-  text: We will continue to champion beneficial ownership transparency amongst all
-    our key stakeholder groups. To do this, we regularly hold workshops and events
-    to engage users and gather feedback, and we collate and share case studies of
-    real world use cases and briefing papers through our resources page.
-  button: View resources
-  link: "/resources/"
 layout: what-we-do
 ---
 

@@ -4,7 +4,6 @@ title: |-
   Beneficial Ownership Data
 date: 2019-06-12 12:00:00 Z
 tags:
-- robust definitions
 - sufficient detail
 position: 26
 files:

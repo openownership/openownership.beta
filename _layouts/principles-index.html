@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="framework__page">
+<section class="principles__page">
   <!-- Page Title -->
   {% include blocks/title.html  %}
   <!-- End Page Title -->
@@ -12,11 +12,11 @@ layout: default
     <section class="grid-container">
       <div class="grid-x grid-padding-x grid-padding-y align-center">
         <div class="small-3 cell">
-          {% include blocks/edf-index.html  %}
+          {% include blocks/principles-index.html  %}
         </div>
         <div class="small-9 cell">
           {{page.content | markdownify}}
-          {% assign sorted_components = site.framework | sort:"order" %}
+          {% assign sorted_components = site.principles | sort:"order" %}
           {% for component in sorted_components %}
             <h3>{{ component.title }}</h3>
             <p>{{ component.summary_version | markdownify }}</p>
