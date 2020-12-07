@@ -15,4 +15,4 @@ The OO Principles are currently open for consultation with stakeholders. We will
 
 ## Draft principles
 
-Last updated: July 2020
+Last updated: November 2020
