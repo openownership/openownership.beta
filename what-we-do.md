@@ -1,11 +1,17 @@
 ---
 title: What we do
 position: 1
-description: We are driving the global shift towards transparency over who owns and controls companies.
+description: We are driving the global shift towards transparency over who owns and
+  controls companies.
 services:
 - title: Guide to implementing beneficial ownership transparency
   icon: sharing
-  text: Our implementation guide is designed to support governments that are considering or implementing beneficial ownership transparency. It provides practical resources, and shares the knowledge and good practice that is being developed by a growing number of countries around the world. We also hope it will be helpful for people in international institutions, the private sector and civil society who are supporting beneficial ownership transparency.
+  text: Our implementation guide is designed to support governments that are considering
+    or implementing beneficial ownership transparency. It provides practical resources,
+    and shares the knowledge and good practice that is being developed by a growing
+    number of countries around the world. We also hope it will be helpful for people
+    in international institutions, the private sector and civil society who are supporting
+    beneficial ownership transparency.
   button: View guide
   link: "/guide/"
 - title: Building a stable and trusted Beneficial Ownership Data Standard and user
@@ -59,3 +65,4 @@ services:
   link: "/what-we-do/private-sector-engagement/"
 layout: what-we-do
 ---
+

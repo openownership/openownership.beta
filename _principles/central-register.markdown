@@ -2,8 +2,7 @@
 title: Data should be collated in a central register
 component: A central register
 order: 4
-summary_version: |-
-  - BO disclosures should be collated and held within a central register.
+summary_version: "- BO disclosures should be collated and held within a central register."
 ---
 
 Having a centralised beneficial ownership register means that people and authorities can access information on the beneficial ownership of companies through one central location in a standardised format. This is a prerequisite for effective use of beneficial ownership data by all user groups, as it removes some of the practical and cost barriers to accessing and analysing beneficial ownership information.

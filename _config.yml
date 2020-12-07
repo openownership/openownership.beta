@@ -5,16 +5,16 @@ collections:
   authors:
     title: Authors
     output: false
-  principles:
-    title: Principles for Effective Beneficial Ownership Disclosure
-    output: true
-    sort_by: order
   guide:
     title: Guide
     output: true
   posts:
     title: Posts
     output: true
+  principles:
+    title: Principles for Effective Beneficial Ownership Disclosure
+    output: true
+    sort_by: order
   resources:
     title: Resources
     output: false
@@ -35,9 +35,9 @@ defaults:
     path: ''
     type: posts
   values:
-    image:
-    description:
-    author:
+    image: 
+    description: 
+    author: 
     is_featured: false
     layout: post
     permalink: "/:categories/:title/"
@@ -45,36 +45,36 @@ defaults:
     path: ''
     type: pages
   values:
-    description:
+    description: 
     layout: page
 - scope:
     path: ''
     type: resources
   values:
-    description:
+    description: 
     files:
-      en:
-    author:
-    thumbnail-image:
-    resource_type:
+      en: 
+    author: 
+    thumbnail-image: 
+    resource_type: 
     is_featured: false
 - scope:
     path: ''
     type: principles
   values:
-    job-title:
-    image:
-    email:
-    social:
+    job-title: 
+    image: 
+    email: 
+    social: 
     layout: principles
 - scope:
     path: ''
     type: team
   values:
-    job-title:
-    image:
-    email:
-    social:
+    job-title: 
+    image: 
+    email: 
+    social: 
     layout: team
 - scope:
     path: ''
