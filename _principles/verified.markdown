@@ -9,10 +9,11 @@ summary_version: |-
     - ownership or control relationship between the beneficial owner and the entity;
     - person making the disclosure.
 
-  This should be done by one or more of the following methods:
-  - ensuring values conform to known and expected patterns;
-  - cross-checking information against existing authoritative systems and other government registers;
-  - checking supporting evidence against original documents.
+    This should be done by one or more of the following methods:
+      - ensuring values conform to known and expected patterns;
+      - cross-checking information against existing authoritative systems and other government registers;
+      - checking supporting evidence against original documents.
+
   - After data has been submitted, it should be checked to identify potential errors, inconsistencies, and outdated entries, using a risk based approach where appropriate, requiring updates to the data where necessary.
   - Mechanisms should be in place to raise red flags, both by requiring entities dealing with BO data to report discrepancies and by setting up systems to detect suspicious patterns.
   - Ownership types that are difficult or impossible to verify (e.g. bearer shares) should be prohibited.

@@ -10,4 +10,6 @@ summary_version: |-
   - Particular attention should be given to the disclosure requirements relating to specific categories of companies, including state owned enterprises (SOEs) and PLCs listed on exchanges with insufficient disclosure requirements.
 ---
 
-Comprehensive coverage is important because if certain types of legal entities and arrangements are not covered, potential loopholes form that can be exploited for illegitimate purposes. Understanding where and how SOEs are involved in ownership or control of reporting companies can be an important element of understanding corruption risk. Due to their connections to PEPs, involvement of SOEs in an ownership chain can be an important piece of information to consider within due diligence and investigations.
+Comprehensive coverage of different entity types is important because if certain types of legal entities and arrangements are not covered, potential loopholes form that can be exploited for illegitimate purposes. Similarly, the disclosure requirements should cover all categories of natural persons (for example, domestic and foreign citizens who meet the definition of beneficial owner) to avoid creating a loophole that could be exploited in order to avoid disclosing ownership.
+
+Disclosure regimes should take the inclusion of all types of entities and categories of people as a starting point, and subsequently assess which entities and people can be excluded, for instance on the basis of risk, and make these assessments and justifications public.

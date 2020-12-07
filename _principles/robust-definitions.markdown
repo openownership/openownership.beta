@@ -11,7 +11,7 @@ summary_version: |-
   - Absolute values, rather than ranges, should be used to define a beneficial owner’s ownership or control.
 ---
 
-Clearly defining beneficial ownership and ensuring it covers all relevant forms of ownership and control makes the disclosure regime less vulnerable to exploitation by those seeking to abuse the system. A disclosure regime should have a single definition which, at a minimum, (1) specifies that a BO must be a natural person, (2) covers both ownership and control interests, and (3) encompasses both indirect and direct interests. A good definition is likely to combine a catch-all general description of beneficial ownership, complemented by a non-exhaustive list of examples in which these can be held, taking into account the local context.
+Clearly defining beneficial ownership and ensuring it covers all relevant forms of ownership and control makes the disclosure regime less vulnerable to exploitation by those seeking to abuse the system.
 
 Using low thresholds to determine ownership or control reduces the risk that someone with relevant ownership or control remains hidden. While extremely low thresholds may become too labour or cost intensive without providing useful insight into significant ownership or control, using thresholds that are too high can create a potential loophole that can be exploited.
 
