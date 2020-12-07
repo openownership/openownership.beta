@@ -1,6 +1,6 @@
 <ul>
-	<li><a href="/framework/">Overview</a></li>
-	{% assign sorted_pages = site.framework | sort:"order" %}
+	<li><a href="/principles/">Overview</a></li>
+	{% assign sorted_pages = site.principles | sort:"order" %}
 	{% for index in sorted_pages %}
 		<li><a href="{{ index.url }}">{{ index.component }}</a></li>
 	{% endfor %}

@@ -46,10 +46,9 @@ questions:
     [Helpdesk](mailto:support@openownership.org) will provide technical support with
     updates.
 resource-text:
-- 'Principles: [12 Principles for Effective Beneficial Ownership Disclosure](/framework)'
+- 'Principles: [12 Principles for Effective Beneficial Ownership Disclosure](/principles/)'
 - 'Website: [Open Data Charter](https://opendatacharter.net/principles/)'
 - Briefing:[The case for open data registers](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf)
 - 'Website: [OpenOwnership Register](https://register.openownership.org/)'
 layout: guide-page
 ---
-

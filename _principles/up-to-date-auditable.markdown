@@ -3,10 +3,10 @@ title: Data should be kept up to date and historical records maintained
 component: Up to date and auditable
 order: 8
 summary_version: |-
-  1. Initial registration and subsequent changes to beneficial ownership should be submitted in a timely manner, with information updated within a short, defined time period after changes occur.
-  2. Data should be confirmed as correct on at least on an annual basis.
-  3. All changes in beneficial ownership should be reported.
-  4. An auditable record of the beneficial ownership of companies should be created by dating declarations and storing historical records.
+  - Initial registration and subsequent changes to BO should be submitted in a timely manner, with information updated within a short, defined time period after changes occur.
+  - Data should be confirmed as correct on at least an annual basis.
+  - All changes in BO should be reported.
+  - An auditable record of the BO of companies should be created by dating declarations and storing historical records, including for dormant and dissolved companies.
 ---
 
 Keeping data up to date is crucial for increasing trust in the accuracy of beneficial ownership data and the effectiveness of disclosure regimes. Requiring the timely submission of changes to ownership data or details of natural or legal persons increases the confidence that the data is current. It also reduces the risk that a legal entity can be misrepresented during a lengthy submission window, thereby improving trust between businesses.

@@ -5,6 +5,8 @@ position: 0
 files:
   en: "/uploads/definitions-briefing.pdf"
   es: "/uploads/Beneficiarios finales - definiciones y umbrales.pdf"
+tags:
+  - robust definitions
 author: Peter Low & Tymon Kiepe
 thumbnail-image: "/uploads/definitions-briefing.png"
 resource_type: Briefings
