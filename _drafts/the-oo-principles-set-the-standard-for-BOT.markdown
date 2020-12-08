@@ -40,7 +40,7 @@ OO has conducted a rapid assessment applying the [OO Principles to the UK](https
 
 
 
-The OO Principles are currently open for consultation with stakeholders. We will publish a set of framing questions for consultation in January 2020, and welcome responses both in writing and in person for those attending our round table discussion. You can register interest in participating in the consultation here.
+The OO Principles are currently open for consultation with stakeholders. We will publish a set of framing questions for consultation in January 2021, and welcome responses both in writing and in person for those attending our round table discussion. You can register interest in participating in the consultation here.
 
 **The Open Ownership Principles:**
 
