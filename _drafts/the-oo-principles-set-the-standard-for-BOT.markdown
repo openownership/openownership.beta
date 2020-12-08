@@ -9,8 +9,6 @@ author: Open Ownership
 is_featured: true
 ---
 
-# The Open Ownership Principles: Setting the standard for beneficial ownership transparency 
-
 The Open Ownership Principles (OO Principles) are the gold standard for good governance through transparent company ownership. By implementing the OO Principles, countries will build a comprehensive picture of who owns companies in their jurisdiction, thereby unlocking the potential of BO data to reduce corruption, ensuring all businesses know who they are working with, and encouraging sustainable inward investment. 
 
 Without a holistic implementation, as set out in the OO Principles, countries leave their legislation and system vulnerable to loopholes that allow criminal and corrupt enterprises to hide behind anonymous companies. 
