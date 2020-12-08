@@ -7,7 +7,7 @@ categories:
 tags:
 - OpenOwnership Principles
 - United Kingdom
-image: "/uploads/OO%20Scorecard%20GB.png"
+image: "/uploads/20.png"
 author: Open Ownership
 is_featured: true
 ---
