@@ -1,6 +1,6 @@
 ---
 title: The UK’s performance against the Open Ownership Principles
-date: 2020-12-04 12:53:00 Z
+date: 2020-12-09 09:00:00 Z
 categories:
 - news
 tags:
