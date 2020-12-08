@@ -6,6 +6,7 @@ categories:
 tags:
 - OpenOwnership Principles
 - United Kingdom
+image: "/uploads/OO%20Scorecard%20GB.png"
 author: Open Ownership
 is_featured: true
 ---
@@ -27,7 +28,7 @@ The PSC register is the UK’s BO register of companies. It is managed by CH, wh
 
 # Rapid Assessment
 
-Summary of Results
+## Summary of Results
 
 ![OO Scorecard GB.png](/uploads/OO%20Scorecard%20GB.png)
 ![OO Scorecard Legend.png](/uploads/OO%20Scorecard%20Legend.png)
@@ -45,9 +46,14 @@ The rapid assessment has been conducted on a best efforts basis in order to cons
 ## Robust definitions 
 
 
-```
+<table>
+<tr>
+<td>
 Principle: Beneficial ownership should be clearly and robustly defined in law, with low thresholds used to determine when ownership and control is disclosed
-
+</td>
+</tr>
+<tr>
+<td>
 In accordance with the OO Principle:
 
 Robust and clear definitions of BO should state that a beneficial owner should be a natural person. Definitions should cover all relevant forms of ownership and control, specifying that ownership and control can be held both directly and indirectly.
@@ -55,7 +61,9 @@ There should be a single, unified definition in law in primary legislation, with
 The definition should comprise a broad catch-all definition of what constitutes BO, and couple this with a non-exhaustive list of example ways in which BO can be held. 
 Thresholds should be set low so that all relevant people with BO and control interests are included in disclosures. A risk based approach should be used to set lower thresholds for particular sectors, industries, or people. Particular consideration should be given to thresholds that apply to ownership by politically exposed persons (PEPs), with a clear definition used to determine what constitutes a PEP.
 Absolute values, rather than ranges, should be used to define the ownership or control that a beneficial owner has.
-```
+</td>
+</tr>
+</table>
 
 
 
@@ -86,19 +94,14 @@ According to the OO Principles and the policy briefing on definitions, the UK di
 
 ## Comprehensive coverage
 
-
-```
-Principle: Data should comprehensively cover all relevant types of legal entities and natural persons
-
-In accordance with the OO Principle:
-
-All relevant legal entities and arrangements, and all relevant natural persons (i.e. people), should be included in disclosures.
+> Principle: Data should comprehensively cover all relevant types of legal entities and natural persons
+>
+> In accordance with the OO Principle:
+>
+> All relevant legal entities and arrangements, and all relevant natural persons (i.e. people), should be included in disclosures.
 Any exemptions from the disclosure requirements should be clearly defined and justified, and reassessed on an ongoing basis. Information on the basis for exemption should be collected, or the ownership of such entities should be collected elsewhere with comparable levels of quality and access (e.g. for publicly listed companies (PLCs)).
-A shielding regime allowing certain natural persons at serious risk (e.g. domestic abuse or kidnapping) to restrict the disclosure of certain information should be in place, and should be proportionate and justified.
-Particular attention should be given to the disclosure requirements relating to specific categories of companies, including state owned enterprises (SOEs) and PLCs listed on exchanges with insufficient disclosure requirements.
-```
-
-
+> A shielding regime allowing certain natural persons at serious risk (e.g. domestic abuse or kidnapping) to restrict the disclosure of certain information should be in place, and should be proportionate and justified.
+> Particular attention should be given to the disclosure requirements relating to specific categories of companies, including state owned enterprises (SOEs) and PLCs listed on exchanges with insufficient disclosure requirements.
 
 ### Assessment: amber 
 
