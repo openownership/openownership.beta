@@ -1,7 +1,8 @@
 ---
 title: 'The Open Ownership Principles: Setting the standard for beneficial ownership
   transparency'
-date: 2020-12-04 12:44:00 Z
+date: 2020-12-09 09:00:00 Z
+published: false
 categories:
 - news
 author: Open Ownership
