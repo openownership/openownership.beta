@@ -46,9 +46,14 @@ The rapid assessment has been conducted on a best efforts basis in order to cons
 ## Robust definitions 
 
 
-```
+<table>
+<tr>
+<td>
 Principle: Beneficial ownership should be clearly and robustly defined in law, with low thresholds used to determine when ownership and control is disclosed
-
+</td>
+</tr>
+<tr>
+<td>
 In accordance with the OO Principle:
 
 Robust and clear definitions of BO should state that a beneficial owner should be a natural person. Definitions should cover all relevant forms of ownership and control, specifying that ownership and control can be held both directly and indirectly.
@@ -56,7 +61,9 @@ There should be a single, unified definition in law in primary legislation, with
 The definition should comprise a broad catch-all definition of what constitutes BO, and couple this with a non-exhaustive list of example ways in which BO can be held. 
 Thresholds should be set low so that all relevant people with BO and control interests are included in disclosures. A risk based approach should be used to set lower thresholds for particular sectors, industries, or people. Particular consideration should be given to thresholds that apply to ownership by politically exposed persons (PEPs), with a clear definition used to determine what constitutes a PEP.
 Absolute values, rather than ranges, should be used to define the ownership or control that a beneficial owner has.
-```
+</td>
+</tr>
+</table>
 
 
 
