@@ -5,6 +5,7 @@ date: 2020-12-09 09:00:00 Z
 published: false
 categories:
 - news
+image: "/uploads/OPO%20Principles%20A4%20Landscape.png"
 author: Open Ownership
 is_featured: true
 ---
