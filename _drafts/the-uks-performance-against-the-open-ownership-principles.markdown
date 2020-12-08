@@ -28,7 +28,7 @@ The PSC register is the UK’s BO register of companies. It is managed by CH, wh
 
 # Rapid Assessment
 
-Summary of Results
+## Summary of Results
 
 ![OO Scorecard GB.png](/uploads/OO%20Scorecard%20GB.png)
 ![OO Scorecard Legend.png](/uploads/OO%20Scorecard%20Legend.png)
