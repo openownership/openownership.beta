@@ -17,7 +17,7 @@ Thom Townsend, Executive Director of Open Ownership (OO) said: “The Open Owner
 
 Louise Russell-Prywata, Director of Policy and Programs explained the development and importance of the OO Principles for OO’s work: “The Open Ownership Principles draw together extensive technical and policy knowledge with evidence from early implementations into a set of principles that are needed for beneficial ownership disclosure to deliver policy impact. The team at Open Ownership is excited to share this work with the wider beneficial ownership community and consult with partners on how we can leverage the OO Principles to drive further and faster progress towards transparency over who owns companies.”
 
-The OO Principles are complementary to the Financial Action Task Force (FATF) recommendations 24 and 25. Implementing the OO Principles will allow a country to meet and exceed the aspects of the FATF recommendations that relate to the collection of beneficial ownership (BO) data by governments supporting both technical compliance and effectiveness. 
+The OO Principles are complementary to the Financial Action Task Force (FATF) recommendations 24 and 25. Implementing the OO Principles will allow a country to meet and exceed the aspects of the FATF recommendations that relate to the collection of beneficial ownership (BO) data by governments, supporting both technical compliance and effectiveness. 
 
 By using the OO Principles, countries can ensure they meet international commitments including the Extractive Industries Transparency Initiative (EITI) requirement 2.5 on BOT and the EU 5th Anti-Money Laundering Directive. 
 
@@ -38,7 +38,7 @@ OO has conducted a rapid assessment applying the [OO Principles to the UK](https
 
 
 
-The OO Principles are currently open for consultation with stakeholders. We will publish a set of framing questions for consultation in January 2021, and welcome responses both in writing and in person for those attending our round table discussion. You can register interest in participating in the consultation here.
+The OO Principles are currently open for consultation with stakeholders, both to further test and refine the content of the Principles and to explore how they can best be leveraged to support BO reform. We will publish a set of framing questions for consultation in January 2021, and welcome responses both in writing and in person for those attending our round table discussion. You can register interest in participating in the consultation here.
 
 **The Open Ownership Principles:**
 
