@@ -17,7 +17,7 @@ Thom Townsend, Executive Director of Open Ownership (OO) said: “The Open Owner
 
 Louise Russell-Prywata, Director of Policy and Programs explained the development and importance of the OO Principles for OO’s work: “The Open Ownership Principles draw together extensive technical and policy knowledge with evidence from early implementations into a set of principles that are needed for beneficial ownership disclosure to deliver policy impact. The team at Open Ownership is excited to share this work with the wider beneficial ownership community and consult with partners on how we can leverage the OO Principles to drive further and faster progress towards transparency over who owns companies.”
 
-The OO Principles are complementary to the Financial Action Task Force (FATF) recommendations 24 and 25. Implementing the OO Principles will allow a country to meet and exceed the aspects of the FATF recommendations that relate to the collection of beneficial ownership (BO) data by governments. 
+The OO Principles are complementary to the Financial Action Task Force (FATF) recommendations 24 and 25. Implementing the OO Principles will allow a country to meet and exceed the aspects of the FATF recommendations that relate to the collection of beneficial ownership (BO) data by governments supporting both technical compliance and effectiveness. 
 
 By using the OO Principles, countries can ensure they meet international commitments including the Extractive Industries Transparency Initiative (EITI) requirement 2.5 on BOT and the EU 5th Anti-Money Laundering Directive. 
 
