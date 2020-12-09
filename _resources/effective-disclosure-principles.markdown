@@ -12,7 +12,7 @@ is_featured: true
 thumbnail-image-class: web-resource
 ---
 
-Principles for effective beneficial ownership disclosure designed to make
+The Open Ownership Principles for effective beneficial ownership disclosure are designed to make
 published data more easy to use, accurate, and interoperable. These have been
 reached through OpenOwnership’s work developing the Beneficial Ownership Data
 Standard and supporting almost 40 countries to advance beneficial ownership
