@@ -11,8 +11,10 @@ The OO Principles are based on Open Ownership’s work with almost 40 countries 
 
 As the policy area of beneficial ownership transparency continues to evolve, Open Ownership will continue to refine and update the OO Principles to ensure they remain a high but achievable standard that delivers impact.
 
-The OO Principles are currently open for consultation with stakeholders. We will publish a set of framing questions for the consultation in January 2020, and welcome responses both in writing or by attending our roundtable discussion. You can [register interest for the event by emailing us](mailto:comms@openownership.org).
+The OO Principles are currently open for consultation with stakeholders. We will publish a set of framing questions for the consultation in January 2021, and welcome responses both in writing or by attending our roundtable discussion.
 
+[Register interest for the OO Principles consultation
+](https://share.hsforms.com/1x4uWadUaTo2Dl3wDkLOu7w3upv4)
 <a href="/uploads/Open%20Ownership%20Principles%20V1.0.pdf" class="button" target="_blank">Download the principles as a PDF</a>
 
 ## Draft principles
