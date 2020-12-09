@@ -54,4 +54,5 @@ The OO Principles are currently open for consultation with stakeholders. We will
 
 [View the OO Principles and accompanying guidance
 ](https://www.openownership.org/principles/)
+
 [Register interest for the OO Principles consultation](https://share.hsforms.com/1x4uWadUaTo2Dl3wDkLOu7w3upv4)
