@@ -13,6 +13,8 @@ As the policy area of beneficial ownership transparency continues to evolve, Ope
 
 The OO Principles are currently open for consultation with stakeholders. We will publish a set of framing questions for the consultation in January 2020, and welcome responses both in writing or by attending our roundtable discussion. You can [register interest for the event by emailing us](mailto:comms@openownership.org).
 
+<a href="/uploads/Open%20Ownership%20Principles%20V1.0.pdf" class="btn" target="_blank">Download the principles as a PDF</a>
+
 ## Draft principles
 
 Last updated: November 2020
