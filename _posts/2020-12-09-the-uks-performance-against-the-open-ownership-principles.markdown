@@ -1,12 +1,13 @@
 ---
 title: The UK’s performance against the Open Ownership Principles
 date: 2020-12-09 09:00:00 Z
+published: false
 categories:
 - news
 tags:
 - OpenOwnership Principles
 - United Kingdom
-image: "/uploads/20.png"
+image: "/uploads/OO%20Scorecard%20GB.png"
 author: Open Ownership
 is_featured: true
 ---
