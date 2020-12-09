@@ -52,7 +52,7 @@ The OO Principles are currently open for consultation with stakeholders, both to
 *   Data should be kept up to date and historical records maintained.
 *   Adequate sanctions and enforcement should exist for non-compliance.
 
-[View the OO Principles and accompanying guidance
+[View the OO Principles and guidance
 ](https://www.openownership.org/principles/)
 
 [Register interest for the OO Principles consultation](https://share.hsforms.com/1x4uWadUaTo2Dl3wDkLOu7w3upv4)
