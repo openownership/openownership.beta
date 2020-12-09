@@ -1,15 +1,15 @@
 ---
-title: Effective Disclosure Principles
+title: The Open Ownership Principles
 date: 2020-05-07 16:24:00 Z
 position: 1
-author: OpenOwnership
-thumbnail-image: "/uploads/principles-thumbnail.jpg"
 files:
   en: "/principles/"
   es: "/uploads/principios-divulgacion-efectiva-de-los-beneficiarios-finales.pdf"
-thumbnail-image-class: web-resource
+author: OpenOwnership
+thumbnail-image: "/uploads/principles-thumbnail.jpg"
 resource_type: Tools
 is_featured: true
+thumbnail-image-class: web-resource
 ---
 
 Principles for effective beneficial ownership disclosure designed to make
