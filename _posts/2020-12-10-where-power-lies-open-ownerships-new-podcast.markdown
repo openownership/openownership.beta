@@ -19,7 +19,11 @@ In our first episode, "Remember the Panama Papers", our hosts Thom Townsend and 
 
 The Panama Papers exposed the underbelly of the shady world of offshore finance and revealed the extent to which the elite use anonymous companies to move and hide wealth. In this first episode of Where Power Lies, we explore the story of the leak, hearing from Pulitzer Prize winning journalist Frederik Obermaier, one of the journalists behind the Panama Papers. We explain the core issue of beneficial ownership transparency (BOT). This episode also features an interview with director of Policy and Programmes at OpenOwnership, Louise Russell-Prywata, in which we ask how much wealth is really being hidden offshore, and explore what simple policy changes could hold the solution. 
 
-Join hosts Thom Townsend and Bridey Addison-Child as they explore where power really lies, and how we can hold it to account. You can listen to the trailer and the first episode of Where Power Lies [here](https://anchor.fm/open-ownership). 
+Join hosts Thom Townsend and Bridey Addison-Child as they explore where power really lies, and how we can hold it to account. 
+
+**Subscribe**
+
+You can listen to the trailer and the first episode of Where Power Lies [here](https://anchor.fm/open-ownership). 
 
 [Spotify](https://open.spotify.com/show/16qG5QqWvFgJhobC6QdKBO)
 
