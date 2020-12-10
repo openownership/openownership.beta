@@ -11,9 +11,9 @@ author: Open Ownership
 is_featured: true
 ---
 
-Open Ownership is launching a new podcast series dedicated to all things beneficial ownership. 
-
 # Episode One: Remember the Panama Papers 
+
+Open Ownership is launching a new podcast series dedicated to all things beneficial ownership. 
 
 In our first episode, "Remember the Panama Papers", our hosts Thom Townsend and Bridey Addison-Child look back on the biggest data leak in history.
 
