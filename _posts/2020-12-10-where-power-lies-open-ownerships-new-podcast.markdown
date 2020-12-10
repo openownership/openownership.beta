@@ -2,7 +2,7 @@
 title: 'Where Power Lies: Open Ownership''s new podcast'
 date: 2020-12-10 11:16:00 Z
 categories:
-- news
+- blogs
 tags:
 - Where Power Lies
 - Podcast
