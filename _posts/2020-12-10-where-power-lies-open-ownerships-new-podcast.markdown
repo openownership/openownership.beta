@@ -45,7 +45,7 @@ Subscribe to get email notifications for new podcasts [here](http://mailchi.mp/5
 
 *   Bastian Obermayer, Frederik Obermaier (2017) The Panama Papers: Breaking the Story of How The Rich and Powerful Hide Their Money 
 *   Nicholas Shaxson (2011), Treasure Islands: Tax Havens and the Men Who Stole the World: Palgrave
-*   Open Ownership (2015), Blog: [After the Panama Papers, Europe can’t go back to business as usual ](https://www.openownership.org/news/after-the-panama-papers-europe-cant-go-back-to-business-as-usual/)
+*   Open Ownership (2016), Blog: [After the Panama Papers, Europe can’t go back to business as usual ](https://www.openownership.org/news/after-the-panama-papers-europe-cant-go-back-to-business-as-usual/)
 *   Gabriel Zucman and Colleagues - Tax Evasion and Wealth Inequality[https://www.nber.org/system/files/working_papers/w23772/w23772.pdf](https://www.nber.org/system/files/working_papers/w23772/w23772.pdf)
 *   Open Ownership Resources: [https://www.openownership.org/resources/](https://www.openownership.org/resources/)
 *   The Organised Crime and Corruption Reporting Project: [https://www.occrp.org/en](https://www.occrp.org/en)
