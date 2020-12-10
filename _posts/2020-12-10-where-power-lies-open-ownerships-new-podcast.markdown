@@ -17,9 +17,9 @@ Open Ownership is launching a new podcast series dedicated to all things benefic
 
 In our first episode, "Remember the Panama Papers", our hosts Thom Townsend and Bridey Addison-Child look back on the biggest data leak in history.
 
-The Panama Papers exposed the underbelly of the shady world of offshore finance and revealed the extent to which the elite use anonymous companies to move and hide wealth. In this first episode of Where Power Lies, we explore the story of the leak, hearing from Pulitzer Prize winning journalist Frederik Obermaier, one of the journalists behind the Panama Papers. We explain the core issue of beneficial ownership transparency (BOT). This episode also features an interview with director of Policy and Programmes at OpenOwnership, Louise Russell-Prywata, in which we ask how much wealth is really being hidden offshore, and explore what simple policy changes could hold the solution. 
+The Panama Papers exposed the underbelly of the shady world of offshore finance and revealed the extent to which the elite use anonymous companies to move and hide wealth. In this first episode of Where Power Lies, we explore the story of the leak, hearing from Pulitzer Prize winning journalist Frederik Obermaier, one of the journalists behind the Panama Papers. We explain the core issue of beneficial ownership transparency (BOT). This episode also features an interview with director of Policy and Programmes at Open Ownership, Louise Russell-Prywata, in which we ask how much wealth is really being hidden offshore, and explore what simple policy changes could hold the solution. 
 
-Join hosts Thom Townsend and Bridey Addison-Child as they explore where power really lies, and how we can hold it to account. 
+Join hosts Bridey Addison-Child and Thom Townsend as they explore where power really lies, and how we can hold it to account. 
 
 **Subscribe**
 
@@ -35,8 +35,8 @@ Subscribe to get email notifications for new podcasts [here](http://mailchi.mp/5
 
 
 
-*   Professor Ronan Palen **about the history of tax havens and how a complex network of interconnecting loopholes allow businesses and wealthy individuals to avoid paying huge sums in tax.
-*   Leading scholar, **Professor Katharina Pistor **on the complex relationship between wealthy individuals and the lawyers and accountants they hire; with enough money, you can get away with pretty much anything.
+*   Professor Ronan Palen about the history of tax havens and how a complex network of interconnecting loopholes allow businesses and wealthy individuals to avoid paying huge sums in tax.
+*   Leading scholar, Professor Katharina Pistor **on the complex relationship between wealthy individuals and the lawyers and accountants they hire; with enough money, you can get away with pretty much anything.
 *   And many more…
 
 **Episode 1 Reading & Resources List**
