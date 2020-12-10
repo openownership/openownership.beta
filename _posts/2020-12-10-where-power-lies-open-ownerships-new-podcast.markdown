@@ -36,7 +36,7 @@ Subscribe to get email notifications for new podcasts [here](http://mailchi.mp/5
 
 
 *   Professor Ronan Palen about the history of tax havens and how a complex network of interconnecting loopholes allow businesses and wealthy individuals to avoid paying huge sums in tax.
-*   Leading scholar, Professor Katharina Pistor **on the complex relationship between wealthy individuals and the lawyers and accountants they hire; with enough money, you can get away with pretty much anything.
+*   Leading scholar, Professor Katharina Pistor on the complex relationship between wealthy individuals and the lawyers and accountants they hire; with enough money, you can get away with pretty much anything.
 *   And many more…
 
 **Episode 1 Reading & Resources List**
