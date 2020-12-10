@@ -3,7 +3,7 @@ title: Principles for Effective Beneficial Ownership Disclosure
 layout: principles-index
 ---
 
-The Open Ownership Principles set the gold standard for effective beneficial ownership disclosure. The OO Principles are intended to support governments implementing beneficial ownership reforms, and guide international institutions, civil society and private sector actors in understanding and advocating for effective reforms.
+The Open Ownership Principles sets the gold standard for effective beneficial ownership disclosure. The OO Principles are intended to support governments implementing beneficial ownership reforms, and guide international institutions, civil society and private sector actors in understanding and advocating for effective reforms.
 
 There are nine principles in total - together they provide a framework for implementing comprehensive transparent company ownership that generates actionable and usable data. Effective disclosure needs high quality, reliable data to maximise usability and minimise loopholes.
 
