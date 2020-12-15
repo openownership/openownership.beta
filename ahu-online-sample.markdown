@@ -1,7 +1,9 @@
 ---
 title: Sample AHU Online data
 date: 2020-12-14 16:41:00 Z
-description: The following JSON data was retrieved from the AHU Online documentation on 27/11/2020 and has been used for the sample BODS mapping in our technical report on Indonesia's beneficial ownership systems.
+description: The following JSON data was retrieved from the AHU Online documentation
+  on 27/11/2020 and has been used for the sample BODS mapping in our technical report
+  on Indonesia's beneficial ownership systems.
 ---
 
 ```json

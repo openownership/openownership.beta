@@ -1,7 +1,9 @@
 ---
 title: Sample Indonesian data BODS mapping
 date: 2020-12-14 16:41:00 Z
-description: The following JSON data is a complete BODS version of the sample AHU Online data, generated as part of our technical report on Indonesia's beneficial ownership systems.
+description: The following JSON data is a complete BODS version of the sample AHU
+  Online data, generated as part of our technical report on Indonesia's beneficial
+  ownership systems.
 ---
 
 ```json
