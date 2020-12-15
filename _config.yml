@@ -56,8 +56,10 @@ defaults:
       en: 
     author: 
     thumbnail-image: 
+    thumbnail-image-class: 
     resource_type: 
     is_featured: false
+    position: 
 - scope:
     path: ''
     type: principles
