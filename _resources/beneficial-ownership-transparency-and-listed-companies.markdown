@@ -1,5 +1,5 @@
 ---
-title: "Technical note: beneficial ownership transparency and listed companies"
+title: 'Technical note: beneficial ownership transparency and listed companies'
 date: 2020-09-17 00:00:00 Z
 position: 28
 files:

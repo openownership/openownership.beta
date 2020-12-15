@@ -35,9 +35,9 @@ defaults:
     path: ''
     type: posts
   values:
-    image:
-    description:
-    author:
+    image: 
+    description: 
+    author: 
     is_featured: false
     layout: post
     permalink: "/:categories/:title/"
@@ -45,38 +45,38 @@ defaults:
     path: ''
     type: pages
   values:
-    description:
+    description: 
     layout: page
 - scope:
     path: ''
     type: resources
   values:
-    description:
+    description: 
     files:
-      en: # Add another country code: file pair for multiple languages, make sure it's a lowercase ISO code and the native language name will be displayed automatically
-    author:
-    thumbnail-image: # Screenshot the full first page of the PDF with no borders
-    thumbnail-image-class: # Leave blank for PDFs, use web-resource for links to other pages
-    resource_type: # Reports, Presentations, Tools, Briefings, 'Summaries & Factsheets' or 'Charters, Principles & Mission Statements'
+      en: 
+    author: 
+    thumbnail-image: 
+    thumbnail-image-class: 
+    resource_type: 
     is_featured: false
-    position: # Leave blank for things that aren't featured, they'll go in date order anyway. Featured resources are shown in ascending order
+    position: 
 - scope:
     path: ''
     type: principles
   values:
-    job-title:
-    image:
-    email:
-    social:
+    job-title: 
+    image: 
+    email: 
+    social: 
     layout: principles
 - scope:
     path: ''
     type: team
   values:
-    job-title:
-    image:
-    email:
-    social:
+    job-title: 
+    image: 
+    email: 
+    social: 
     layout: team
 - scope:
     path: ''
