@@ -138,12 +138,6 @@ guides:
   systems: "/guide/systems"
   data: "/guide/data"
   publish: "/guide/publish"
-compress_html:
-  comments:
-  - "<!-- "
-  - " -->"
-  blanklines: true
-  profile: false
 pagination:
   enabled: true
   per_page: 6
