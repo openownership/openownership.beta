@@ -1,5 +1,5 @@
 ---
-title: 'Transforming procurement systems, one prototype at a time'
+title: Transforming procurement systems, one prototype at a time
 date: 2020-12-18 11:16:00 Z
 categories:
 - blogs
