@@ -16,11 +16,9 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ### Policy & Research Associate / Consultant
 
-Fixed term opportunity: January - April 2021 (with potential to extend)
-
-Remote working; open to candidates based +/-5hrs GMT
-
-UK-based band: £300 - £450 per day, dependent on relevant experience (day rates for candidates based internationally will be adjusted to reflect the local market)
+- Fixed term opportunity: January - April 2021 (with potential to extend)
+- Remote working; open to candidates based +/-5hrs GMT
+- UK-based band: £300 - £450 per day, dependent on relevant experience (day rates for candidates based internationally will be adjusted to reflect the local market)
 
 Open Ownership recently secured funding to deepen technical and policy support to governments implementing BO reforms and undertake quick turnaround pilot interventions to inform a longer term adaptive programme that will respond to evolving needs in-country.  The key focus of the project is to support use of BO data to mitigate corruption risks in procurement and to realise the potential for BO data to support economic recovery from the COVID-19 pandemic. 
 
@@ -43,11 +41,9 @@ The selection process will consist of a panel interview during the second week o
 
 ### Fundraising & Finance Associate 
 
-Fixed term role: January - April 2021 (with possibility of extension)
-
-Short-Term UK appointment; home-based
-
-Salary band (dependent on experience): £35,000 - £45,000 pro rata
+- Fixed term role: January - April 2021 (with possibility of extension)
+- Short-Term UK appointment; home-based
+- Salary band (dependent on experience): £35,000 - £45,000 pro rata
 
 Open Ownership recently secured additional funding to continue its country, technical and policy support to governments implementing beneficial ownership reforms. 
 
