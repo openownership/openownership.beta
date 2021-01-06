@@ -38,21 +38,7 @@ layout: default
 
           {% for resource in site.resources %}
             {% if resource.tags contains tag %}
-              <div class="grid-x grid-padding-x grid-padding-y align-center">
-                <div class="small-12 medium-6 large-2 cell">
-                  <a href="{{ resource.file }}">
-                    <img src="{{ resource.thumbnail-image }}" class="image--resource">
-                  </a>
-                </div>
-
-                <div class="small-12 medium-6 large-10 cell">
-                  <h5 class="sans-bold">{{resource .title}}</h5>
-                  {{resource.content | markdownify}}
-                  <a class="button margin-bottom-0" href="{{resource.file}}">
-                    View document
-                  </a>
-                </div>
-              </div>
+              {% include blocks/resource.html resource=resource %}
             {% endif %}
           {% endfor %}
         {% else %}
