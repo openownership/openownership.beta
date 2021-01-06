@@ -26,3 +26,4 @@ All episodes of Where Power Lies [here](https://anchor.fm/open-ownership).
 
 Subscribe to get email notifications for new podcasts [here](http://mailchi.mp/5afaf6c00a06/where-power-lies-landing-page)
 
+**Episode 2 Reading & Resources List**
