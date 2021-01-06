@@ -2,6 +2,8 @@
 title: 'Podcast: The Way That Business Is Run'
 date: 2021-01-06 09:59:00 Z
 published: false
+categories:
+- blogs
 tags:
 - Podcast
 - Where Power Lies
@@ -27,3 +29,8 @@ All episodes of Where Power Lies [here](https://anchor.fm/open-ownership).
 Subscribe to get email notifications for new podcasts [here](http://mailchi.mp/5afaf6c00a06/where-power-lies-landing-page)
 
 **Episode 2 Reading & Resources List**
+
+Ronen Palan, Sabotage (2021) & The Offshore World (2009)  
+Oliver Bullough, Moneyland (2018)
+Felicity Lawrence & Ian Griffiths (2007) The Guardian: ‘Revealed: how multinational companies avoid the tax man’ https://www.theguardian.com/business/2007/nov/06/19
+Khadija Sharife (9 June 2010) The London Review of Books: ‘Offshore Exploitation’ https://www.lrb.co.uk/blog/2010/june/offshore-exploitation 
