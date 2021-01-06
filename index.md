@@ -8,7 +8,7 @@ image: "/assets/img/og-image.png?version=2"
 header: Driving the global shift towards transparency over who owns and controls companies.
 key-fact-1-stat: 70%
 key-fact-1-text: of corruption cases involve the use of anonymous companies.
-key-fact-2-stat: 80+ countries
+key-fact-2-stat: This is live updated now, ignore it
 key-fact-2-text: committed to disclosing beneficial ownership.
 key-fact-3-stat: 7 million
 key-fact-3-text: beneficial owners from 170 jurisdictions in the global register.
@@ -47,4 +47,3 @@ support-text: 'OpenOwnership is driven by the leading transparency NGOs: Transpa
   Development (UK).'
 layout: home
 ---
-
