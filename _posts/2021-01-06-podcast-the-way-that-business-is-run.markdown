@@ -29,6 +29,7 @@ Subscribe to get email notifications for new podcasts [here](http://mailchi.mp/5
 
 **Episode 2 Reading & Resources List**
 
+
 * Ronen Palan, Sabotage (2021) & The Offshore World (2009)  
 * Oliver Bullough, Moneyland (2018)
 * Felicity Lawrence & Ian Griffiths (2007) The Guardian: [‘Revealed: how multinational companies avoid the tax man’](https://www.theguardian.com/business/2007/nov/06/19) 
