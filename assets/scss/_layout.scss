@@ -992,6 +992,9 @@ padding-top: 3rem;
 .map-legend-partial {
   color: $partial-commitment;
 }
+.map-legend-total {
+  color: $primary-color;
+}
 
 .map-filters, .resource-filters {
   label {

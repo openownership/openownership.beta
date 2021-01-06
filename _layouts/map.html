@@ -54,6 +54,15 @@ layout: default
           <span class="map-legend-highlight map-legend-partial">countries are partially committed</span><br>to Beneficial Ownership Transparency
         </div>
       </div>
+      <div class="map-legend">
+        <div class="map-legend-icon">
+          {{partially_committed.size | plus: fully_committed.size}}
+          <svg class="icon icon-hexagon map-legend-total"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        </div>
+        <div class="map-legend-text">
+          <span class="map-legend-highlight map-legend-total">countries committed in total</span><br>to Beneficial Ownership Transparency
+        </div>
+      </div>
     </div>
     <div class="small-12 medium-5 cell">
       <p><label for="commitment-filter">Show countries with:</label></p>
