@@ -18,7 +18,7 @@ Join hosts Thom Townsend and Bridey Addison-Child as they explore where power re
 
 **Subscribe**
 
-You can listen to the trailer and the first episode of Where Power Lies [here](https://anchor.fm/open-ownership). 
+All episodes of Where Power Lies [here](https://anchor.fm/open-ownership). 
 
 [Spotify](https://open.spotify.com/show/16qG5QqWvFgJhobC6QdKBO)
 
