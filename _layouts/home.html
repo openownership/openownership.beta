@@ -27,7 +27,9 @@ layout: default
     <div class="small-12 medium-6 large-4 cell text-center home__key_fact">
         <span class="home__key_fact__stat">
             <span class="home__key_fact__stat__inner">
-              {{page.key-fact-2-stat}}
+              {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
+              {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
+              {{partially_committed.size | plus: fully_committed.size}} countries
             </span>
           </span>
         <span class="home__key_fact__text">{{page.key-fact-2-text}}</span>
