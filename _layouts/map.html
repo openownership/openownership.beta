@@ -24,16 +24,12 @@ layout: default
     {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
     <div class="small-12 medium-7 cell">
       <div class="map-legend">
-        <div class="map-legend-icon ">
-          {% comment %}
-            We support 14 UK overseas territories, but we only have one entry
-            for them in our knowledgebase, so we bump up the numbers here
-          {% endcomment %}
-          {{engaged.size | plus: 13 }}
-          <svg class="icon icon-hexagon map-legend-engagement"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        <div class="map-legend-icon">
+          {{partially_committed.size | plus: fully_committed.size}}
+          <svg class="icon icon-hexagon map-legend-total"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
         </div>
         <div class="map-legend-text">
-          <span class="map-legend-highlight map-legend-engagement">countries where OpenOwnership is engaged</span><br>including 14 British Overseas Territories
+          <span class="map-legend-highlight map-legend-total">countries committed in total</span><br>to Beneficial Ownership Transparency
         </div>
       </div>
       <div class="map-legend">
@@ -55,12 +51,16 @@ layout: default
         </div>
       </div>
       <div class="map-legend">
-        <div class="map-legend-icon">
-          {{partially_committed.size | plus: fully_committed.size}}
-          <svg class="icon icon-hexagon map-legend-total"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
+        <div class="map-legend-icon ">
+          {% comment %}
+            We support 14 UK overseas territories, but we only have one entry
+            for them in our knowledgebase, so we bump up the numbers here
+          {% endcomment %}
+          {{engaged.size | plus: 13 }}
+          <svg class="icon icon-hexagon map-legend-engagement"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
         </div>
         <div class="map-legend-text">
-          <span class="map-legend-highlight map-legend-total">countries committed in total</span><br>to Beneficial Ownership Transparency
+          <span class="map-legend-highlight map-legend-engagement">countries where OpenOwnership is engaged</span><br>including 14 British Overseas Territories
         </div>
       </div>
     </div>
