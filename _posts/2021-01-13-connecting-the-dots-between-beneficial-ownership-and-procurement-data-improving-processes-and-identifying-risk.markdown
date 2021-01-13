@@ -23,14 +23,6 @@ This is the first in a series of blog posts exploring how beneficial ownership a
 1. _How the different requirements of procurement and beneficial ownership transparency result in very different systems and data structures_
 2. _How contracting processes can be strengthened by incorporating beneficial ownership data in the near future._
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
-
 How do we know who is behind the companies our governments work with?
 
 We can start by joining up two streams of transparency reform: procurement and beneficial ownership. There is a growing momentum to use company ownership data to strengthen procurement processes, and this work has been made more urgent by the speed and scale of the public response to the COVID-19 crisis. The [IMF’s pandemic relief program](https://www.imf.org/en/About/Factsheets/Sheets/2020/04/30/how-imf-covid19-financial-help-is-used), for example, has seen many countries, including Nigeria, South Africa and Afghanistan, commit to publishing the beneficial owners of firms that win public contracts.
