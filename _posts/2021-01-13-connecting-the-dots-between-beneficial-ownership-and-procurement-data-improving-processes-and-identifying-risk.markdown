@@ -15,7 +15,7 @@ is_featured: true
 
 _Dr Jack Lord is a Member and Director at Open Data Services Cooperative and a leading expert on integrating the data and policy aspects of open data. He is the current lead author of the Beneficial Ownership Standard and, with Open Ownership, has continued to develop policy recommendations to advance beneficial ownership transparency. Jack is the author of a chapter on [corporate transparency](https://stateofopendata.od4d.net/chapters/sectors/corporate-ownership.html) in the recent book, The State of Open Data._
 
-_ \
+ \
 This is the first in a series of blog posts exploring how beneficial ownership and procurement transparency can support each other. We explore:_
 
 
@@ -63,9 +63,7 @@ This blog concentrates on the simpler case of modifying existing procurement sys
 
 ## Making compliance and external risk assessment faster and more effective
 
-
-###  \
-Sanctions and debarred persons
+### Sanctions and debarred persons
 
 Many countries or institutions prohibit dealing with certain firms or individuals on the grounds of [corruption](https://www.worldbank.org/en/projects-operations/procurement/debarred-firms), involvement in terrorism or other offences. Beneficial ownership data allows easier detection of debarred persons or individuals on sanctions lists_ _in procurement processes. Without beneficial ownership disclosure, it would be too easy for a debarred firm to reincorporate and for a sanctioned individual to disguise ownership via an intermediary.
 
