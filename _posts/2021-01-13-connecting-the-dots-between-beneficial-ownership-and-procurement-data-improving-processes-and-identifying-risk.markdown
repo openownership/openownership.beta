@@ -8,6 +8,7 @@ categories:
 tags:
 - procurement
 - beneficial ownership
+image: "/uploads/image-571901.jpeg"
 author: Jack Lord
 is_featured: true
 ---
@@ -118,3 +119,5 @@ All of the benefits described above have the effect of reducing uncertainty abou
 Judicious use of beneficial ownership information should make procurement systems more secure, with a lower risk of internal fraud and collusion. Procurement processes should also be made much harder to access and exploit for those deemed a risk to the system, and sanctions and debarring regimes more effective and enforceable. And removing the uncertainty about who people are should also make procurement fairer, more efficient and more able to take the right kinds of risk.
 
 **In Part Two of this series we will talk about how some of the concepts from beneficial ownership systems of recording information about people and organisations as a network that evolves over time could be used to strengthen procurement on a systemic level and how the needs of procurement systems might inform broader beneficial ownership disclosure regimes and system design.**
+
+*[This blog was originally posted here](https://medium.com/opendatacoop/connecting-the-dots-between-beneficial-ownership-and-procurement-data-improving-processes-and-2fd0df9d9653)*
