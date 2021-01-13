@@ -2,7 +2,6 @@
 title: 'Connecting the dots between beneficial ownership and procurement data: improving
   processes and identifying risk'
 date: 2021-01-13 10:25:00 Z
-published: false
 categories:
 - blogs
 tags:
