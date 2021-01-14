@@ -72,8 +72,7 @@ Many countries or institutions prohibit dealing with certain firms or individual
 Procurement authorities may also need to conduct enhanced due diligence of certain individuals involved in a procurement process. For example, politically-exposed persons (PEPs) might need to declare their status or be detected by cross-checking against external lists. A PEP failing to declare their status in either the procurement process or a company register_ _could be seen as a red flag requiring further investigation.
 
 
-###  
-Risk-based assessment of corporate structures
+### Risk-based assessment of corporate structures
 
 The risks associated with corporate structures can also be assessed and reduced_ _by requiring disclosure of the chain through which a beneficial owner exercises control. This might mean applying higher standards of due diligence where an owner exercises control through entities incorporated in secrecy jurisdictions or where risk factors like nominee arrangements are visible.
 
