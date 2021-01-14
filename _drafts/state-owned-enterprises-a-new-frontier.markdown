@@ -6,6 +6,7 @@ categories:
 tags:
 - state owned enterprises
 - SOE
+image: "/uploads/parliamentBT.png"
 author: Jack Lord
 is_featured: true
 ---
