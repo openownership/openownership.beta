@@ -40,17 +40,17 @@ This is the first in a series of blog posts exploring how beneficial ownership a
 
 ## Describing contracts and ownership as data 
 
-Beneficial ownership and procurement transparency overlap in many ways but these complex policy areas are governed by distinct sets of laws and regulations. As a result, _data_ about beneficial ownership and procurement is normally stored on separate systems built by different institutions with very different priorities. Both types of systems need to describe people, organisations and the relationships between them, but have a different set of assumptions about capturing, updating and structuring that data. This, in turn, is reflected in the data standards for beneficial ownership (BODS) and for procurement transparency (OCDS).
+Beneficial ownership and procurement transparency overlap in many ways but these complex policy areas are governed by distinct sets of laws and regulations. As a result, *data* about beneficial ownership and procurement is normally stored on separate systems built by different institutions with very different priorities. Both types of systems need to describe people, organisations and the relationships between them, but have a different set of assumptions about capturing, updating and structuring that data. This, in turn, is reflected in the data standards for beneficial ownership (BODS) and for procurement transparency (OCDS).
 
 
 ### Procurement systems and data
 
-Procurement systems focus on _contracts_. Data about people, companies and relationships is bound to this context. In general, we know _if_ companies and people exist only when they are recorded as part of a contracting process. We know particular details _about_ those companies and people only for the duration of a contracting process (and perhaps only at key moments in that process, like the signing of a contract). In OCDS, modelling the [contracting process](https://standard.open-contracting.org/latest/en/getting_started/contracting_process/) also requires identifying and describing people and organisations - but their existence _outside_ the contracting process is of secondary importance.
+Procurement systems focus on contracts. Data about people, companies and relationships is bound to this context. In general, we know if companies and people exist only when they are recorded as part of a contracting process. We know particular details about those companies and people only for the duration of a contracting process (and perhaps only at key moments in that process, like the signing of a contract). In OCDS, modelling the [contracting process](https://standard.open-contracting.org/latest/en/getting_started/contracting_process/) also requires identifying and describing people and organisations - but their existence outside the contracting process is of secondary importance.
 
 
 ### Beneficial ownership systems and data
 
-Beneficial ownership systems prioritise _companies, people and the relationships between them_.  Implemented well, beneficial ownership systems should provide an auditable ledger of a company's ownership, in which changes are recorded as they happen and the information periodically confirmed as accurate. By combining individual company declarations, and identifying people and companies, a broader ownership _network_ will emerge and evolve over time. In BODS, organisations, people and relationships are modelled to allow this ownership network to emerge and in such a way that individual ‘statements’ can be pieced together to create a full audit trail of what was known about company ownership.  
+Beneficial ownership systems prioritise companies, people and the relationships between them.  Implemented well, beneficial ownership systems should provide an auditable ledger of a company's ownership, in which changes are recorded as they happen and the information periodically confirmed as accurate. By combining individual company declarations, and identifying people and companies, a broader ownership network will emerge and evolve over time. In BODS, organisations, people and relationships are modelled to allow this ownership network to emerge and in such a way that individual ‘statements’ can be pieced together to create a full audit trail of what was known about company ownership.  
 
 
 # Improving contracting processes using beneficial ownership data
@@ -64,17 +64,17 @@ This blog concentrates on the simpler case of modifying existing procurement sys
 
 ### Sanctions and debarred persons
 
-Many countries or institutions prohibit dealing with certain firms or individuals on the grounds of [corruption](https://www.worldbank.org/en/projects-operations/procurement/debarred-firms), involvement in terrorism or other offences. Beneficial ownership data allows easier detection of debarred persons or individuals on sanctions lists_ _in procurement processes. Without beneficial ownership disclosure, it would be too easy for a debarred firm to reincorporate and for a sanctioned individual to disguise ownership via an intermediary.
+Many countries or institutions prohibit dealing with certain firms or individuals on the grounds of [corruption](https://www.worldbank.org/en/projects-operations/procurement/debarred-firms), involvement in terrorism or other offences. Beneficial ownership data allows easier detection of debarred persons or individuals on sanctions lists in procurement processes. Without beneficial ownership disclosure, it would be too easy for a debarred firm to reincorporate and for a sanctioned individual to disguise ownership via an intermediary.
 
 
 ### Risk-based assessment of beneficial owners
 
-Procurement authorities may also need to conduct enhanced due diligence of certain individuals involved in a procurement process. For example, politically-exposed persons (PEPs) might need to declare their status or be detected by cross-checking against external lists. A PEP failing to declare their status in either the procurement process or a company register_ _could be seen as a red flag requiring further investigation.
+Procurement authorities may also need to conduct enhanced due diligence of certain individuals involved in a procurement process. For example, politically-exposed persons (PEPs) might need to declare their status or be detected by cross-checking against external lists. A PEP failing to declare their status in either the procurement process or a company register could be seen as a red flag requiring further investigation.
 
 
 ### Risk-based assessment of corporate structures
 
-The risks associated with corporate structures can also be assessed and reduced_ _by requiring disclosure of the chain through which a beneficial owner exercises control. This might mean applying higher standards of due diligence where an owner exercises control through entities incorporated in secrecy jurisdictions or where risk factors like nominee arrangements are visible.
+The risks associated with corporate structures can also be assessed and reduced by requiring disclosure of the chain through which a beneficial owner exercises control. This might mean applying higher standards of due diligence where an owner exercises control through entities incorporated in secrecy jurisdictions or where risk factors like nominee arrangements are visible.
 
 
 ## Detecting undeclared conflicts of interest
@@ -99,7 +99,7 @@ Procurement processes rely in part on fair competition to deliver legitimacy and
 
 ## Accurately describing risk 
 
-All of the benefits described above have the effect of reducing uncertainty about _who_ procuring agencies are doing business with and, in turn, making it easier to assess the risk of entering into a contract with a particular company. The reduction of uncertainty and the accurate presentation of risk should allow procurement processes to shift onto more important assessments of quality, value-for-money and social value and to take the right kinds of risk in procurement decisions. 
+All of the benefits described above have the effect of reducing uncertainty about who procuring agencies are doing business with and, in turn, making it easier to assess the risk of entering into a contract with a particular company. The reduction of uncertainty and the accurate presentation of risk should allow procurement processes to shift onto more important assessments of quality, value-for-money and social value and to take the right kinds of risk in procurement decisions. 
 
 
 ## In short, what does this all mean?
