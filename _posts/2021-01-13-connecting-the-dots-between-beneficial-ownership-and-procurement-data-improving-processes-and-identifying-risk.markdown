@@ -15,9 +15,8 @@ is_featured: true
 _Dr Jack Lord is a Member and Director at Open Data Services Cooperative and a leading expert on integrating the data and policy aspects of open data. He is the current lead author of the Beneficial Ownership Standard and, with Open Ownership, has continued to develop policy recommendations to advance beneficial ownership transparency. Jack is the author of a chapter on [corporate transparency](https://stateofopendata.od4d.net/chapters/sectors/corporate-ownership.html) in the recent book, The State of Open Data._
 
  \
-This is the first in a series of blog posts exploring how beneficial ownership and procurement transparency can support each other. We explore:_
-
-
+*This is the first in a series of blog posts exploring how beneficial ownership and procurement transparency can support each other. We explore:
+*
 
 1. _How the different requirements of procurement and beneficial ownership transparency result in very different systems and data structures_
 2. _How contracting processes can be strengthened by incorporating beneficial ownership data in the near future._
