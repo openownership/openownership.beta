@@ -14,9 +14,7 @@ is_featured: true
 
 It has been four years since the Extractive Industries Transparency Initiative (EITI) introduced the requirement that governments must collect and publish information on beneficial owners – people who significantly control the activities of mining and extractives companies and/or benefit from them financially. With the EITI’s experience supporting countries, and in partnership with data experts at Open Ownership (OO), the International Secretariat revisited the[ model declaration form](https://eiti.org/document/beneficial-ownership-model-declaration-form). The result is a [form for high quality data collection](https://eiti.org/files/documents/model_eiti_beneficial_ownership_declaration_form_-_high_quality_data.xlsx) and  [guidance](https://eiti.org/files/documents/guide_to_the_model_beneficial_ownership_declaration_form_for_high_quality_data_collection.pdf) for form designers and administrators. It is complementary to the existing form for basic data collection.
 
-The new form allows governments to collect robust, structured, and unambiguous information on the legal owners as well as the beneficial owners of companies. It is in Excel format and has some basic navigation within it.** The model declaration form can be used for:**
-
-
+The new form allows governments to collect robust, structured, and unambiguous information on the legal owners as well as the beneficial owners of companies. It is in Excel format and has some basic navigation within it. **The model declaration form can be used for:**
 
 *   building an online form;
 *   comparing an online, Excel, or Word-based data collection form against the model declaration form for improvement.
@@ -26,50 +24,45 @@ The new form allows governments to collect robust, structured, and unambiguous i
 
 **The higher quality the data is, the more you can do with it.**
 
+1. When collecting information through an online form, the information is stored in a table. The stored information can be cross-checked, and users can view, analyse, and visualise the information easily.
 
-1.When collecting information through an online form, the information is stored in a table. The stored information can be cross-checked, and users can view, analyse, and visualise the information easily.
+   For example,  to check if there are any persons who hold a political office in a country and if those persons are beneficial owners of an extractive company (deemed a conflict of interest in many countries), a table of beneficial owners will be needed . A list of beneficial owners of companies holding licenses will need to be compared with a  list of parliamentarians and ministers in the country  including Politically Exposed Persons (PEPs). The table of beneficial owners would need to include first and last names, personal ID numbers, and the company interests, which would be compared to a list of office holders and their family members (for example, from public official asset declarations). Collecting this information through an online form would allow the first list to be produced with just a click.
 
-For example,  to check if there are any persons who hold a political office in a country and if those persons are beneficial owners of an extractive company (deemed a conflict of interest in many countries), a table of beneficial owners will be needed . A list of beneficial owners of companies holding licenses will need to be compared with a  list of parliamentarians and ministers in the country  including Politically Exposed Persons (PEPs). The table of beneficial owners would need to include first and last names, personal ID numbers, and the company interests, which would be compared to a list of office holders and their family members (for example, from public official asset declarations). Collecting this information through an online form would allow the first list to be produced with just a click.
-
-_The EITI with Directorio Legislativo and support from Open Ownership developed a tool to [flag potential conflicts of interest in extractives companies in Colombia.](https://imf.directoriolegislativo.org/) The biggest challenge was getting the data, and then re-shaping it so that the datasets could be compared. Using the model declaration form would mean much less data cleaning.  _
-
+   _The EITI with Directorio Legislativo and support from Open Ownership developed a tool to [flag potential conflicts of interest in extractives companies in Colombia.](https://imf.directoriolegislativo.org/) The biggest challenge was getting the data, and then re-shaping it so that the datasets could be compared. Using the model declaration form would mean much less data cleaning._
 
 2. Forms can be “pre-populated” with information on the company that the government already has. This makes filling in the form much easier for companies and avoids producing duplicate information.
 
-Using pre-filled online forms with existing data such as company ID numbers, addresses, directors, and legal owners reduces the administrative burden on companies, and will make it more likely that information is submitted and updated regularly. 
+   Using pre-filled online forms with existing data such as company ID numbers, addresses, directors, and legal owners reduces the administrative burden on companies, and will make it more likely that information is submitted and updated regularly. 
 
 3. Detailed information can be shared across government agencies
 
-Information stored in a database  can be easily shared through interfaces to other agencies.  Personal identification numbers,social security numbers, as well as company identification numbers can be included in the beneficial ownership (BO) database, and this data can be accessed across governments.
+   Information stored in a database  can be easily shared through interfaces to other agencies.  Personal identification numbers,social security numbers, as well as company identification numbers can be included in the beneficial ownership (BO) database, and this data can be accessed across governments.
 
-_See: [Louise Crow’s talk at 07:24](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=444s) from mySociety on connecting the government’s procurement system with the Companies House in the UK._
+   _See: [Louise Crow’s talk at 07:24](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=444s) from mySociety on connecting the government’s procurement system with the Companies House in the UK._
 
 4. Information can be shared with other jurisdictions and the public to fight tax avoidance, money laundering, and conflicts of interest.
 
-As the[ Panama papers](https://www.icij.org/investigations/panama-papers/) and the more recent[ FinCEN files](https://www.icij.org/investigations/fincen-files/) have shown, being able to access information about beneficial owners is key to fighting tax avoidance and money laundering, a[ multi-billion dollar problem worldwide](https://www.fatf-gafi.org/faq/moneylaundering/). When building a BO form, referencing this model declaration form will help to share standardised data with other jurisdictions, publish through an open register and publish to the Beneficial Ownership Data Standard (BODS). That way, everyone, including companies that are performing due diligence, can check who the persons behind a company are.
+   As the[ Panama papers](https://www.icij.org/investigations/panama-papers/) and the more recent[ FinCEN files](https://www.icij.org/investigations/fincen-files/) have shown, being able to access information about beneficial owners is key to fighting tax avoidance and money laundering, a[ multi-billion dollar problem worldwide](https://www.fatf-gafi.org/faq/moneylaundering/). When building a BO form, referencing this model declaration form will help to share standardised data with other jurisdictions, publish through an open register and publish to the Beneficial Ownership Data Standard (BODS). That way, everyone, including companies that are performing due diligence, can check who the persons behind a company are.
 
-_How banks are using the BO information in Denmark, see:[ Peter’s talk at 19:50.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=1190s)_
+   _How banks are using the BO information in Denmark, see:[ Peter’s talk at 19:50.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=1190s)_
 
-_Sharing ownership information in open data format. See:[ 1:07:46](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=4066s) Friedrich Lindenberg,OCCRP._
+   _Sharing ownership information in open data format. See:[ 1:07:46](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=4066s) Friedrich Lindenberg,OCCRP._
 
 5. Existing tools can be used for visualising beneficial ownership data
 
-Software programmes can easily turn structured data into basic visualisations, automatically generating the relationships of even very complex ownership structures. Besides “connecting the dots” between the company and its legal and beneficial owners, such a visualisation could also show when one person holds interests in several companies.
+   Software programmes can easily turn structured data into basic visualisations, automatically generating the relationships of even very complex ownership structures. Besides “connecting the dots” between the company and its legal and beneficial owners, such a visualisation could also show when one person holds interests in several companies.
 
-_See OO’s resources on data visualisation for data based on the BODS.[ https://www.openownership.org/news/launching-our-visualisation-library-for-beneficial-ownership-data-standard-data/](https://www.openownership.org/news/launching-our-visualisation-library-for-beneficial-ownership-data-standard-data/)_
+   _See OO’s resources on data visualisation for data based on the BODS.[ https://www.openownership.org/news/launching-our-visualisation-library-for-beneficial-ownership-data-standard-data/](https://www.openownership.org/news/launching-our-visualisation-library-for-beneficial-ownership-data-standard-data/)_
 
-_See Dun & Bradstreet on visualising data on beneficial owners:[https://www.youtube.com/watch?v=CAHvIJeRbD4&t=2863s](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=2863s)_
-
+   _See Dun & Bradstreet on visualising data on beneficial owners:[https://www.youtube.com/watch?v=CAHvIJeRbD4&t=2863s](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=2863s)_
 
 6. The interest that government, or foreign governments, hold in extractives projects can be clearly shown.
 
-In many countries, governments hold an interest in extractive companies. This interest is sometimes held through intermediary companies, sometimes listed, and sometimes private. The model declaration form asks explicitly for state participation, regardless of the level of ownership_, as well as_ the jurisdiction of that government. 
-
+   In many countries, governments hold an interest in extractive companies. This interest is sometimes held through intermediary companies, sometimes listed, and sometimes private. The model declaration form asks explicitly for state participation, regardless of the level of ownership_, as well as_ the jurisdiction of that government. 
 
 ## Checking an existing form
 
 The model declaration form can be used to check for best practice for logic and field validation.
-
 
 1. Fields have been added to capture data that is useful when linking up to other databases or verifying information, such as company and person identification numbers and URLs to regulatory filings.
 
