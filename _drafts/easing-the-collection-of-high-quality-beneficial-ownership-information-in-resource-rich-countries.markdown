@@ -58,7 +58,7 @@ The new form allows governments to collect robust, structured, and unambiguous i
 
 6. The interest that government, or foreign governments, hold in extractives projects can be clearly shown.
 
-   In many countries, governments hold an interest in extractive companies. This interest is sometimes held through intermediary companies, sometimes listed, and sometimes private. The model declaration form asks explicitly for state participation, regardless of the level of ownership_, as well as_ the jurisdiction of that government. 
+   In many countries, governments hold an interest in extractive companies. This interest is sometimes held through intermediary companies, sometimes listed, and sometimes private. The model declaration form asks explicitly for state participation, regardless of the level of ownership, _as well as_ the jurisdiction of that government. 
 
 ## Checking an existing form
 
