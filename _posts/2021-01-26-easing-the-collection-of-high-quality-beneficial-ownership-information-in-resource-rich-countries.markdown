@@ -70,3 +70,5 @@ The model declaration form can be used to check for best practice for logic and 
 If you are interested in using this form, please do not hesitate to get in touch with EITI or the OO [helpdesk](https://share.hsforms.com/1hD_mecn0TwyW15zYkesF5g3upv4). 
 
 _This template is the result of a collaboration between the EITI and Open Ownership._
+
+Learn more on [why form is king: New tool to shed light on the real owners of extractive companies.](https://eiti.org/blog/why-form-is-king-new-tool-to-shed-light-on-real-owners-of-extractive-companies)
