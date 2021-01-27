@@ -2,6 +2,7 @@
 title: Easing the collection of high quality beneficial ownership information in resource
   rich countries
 date: 2021-01-26 15:36:00 Z
+published: false
 categories:
 - blogs
 tags:
@@ -41,9 +42,9 @@ Information stored in a database can be easily shared to other agencies through 
 
    As the[ Panama papers](https://www.icij.org/investigations/panama-papers/) and the more recent[ FinCEN files](https://www.icij.org/investigations/fincen-files/) have shown, being able to access information about beneficial owners is key to fighting tax avoidance and money laundering, a[ multi-billion dollar problem worldwide](https://www.fatf-gafi.org/faq/moneylaundering/). When building a BO form, referencing this model declaration form will help to share standardised data with other jurisdictions, publish through an open register and publish in accordance with the Beneficial Ownership Data Standard (BODS). That way, everyone, including companies that are performing due diligence, can check who the persons behind a company are.
 
-   _see:[ Peter’s talk at 19:50.] on how banks are using the BO information in Denmark.(https://www.youtube.com/watch?v=i1Py9tX6MRA&t=1190s)_
+   _See:[ Peter’s talk at 19:50.] on how banks are using the BO information in Denmark.(https://www.youtube.com/watch?v=i1Py9tX6MRA&t=1190s)_
 
-   _ See:[ 1:07:46](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=4066s)Friedrich Lindenberg's talk (OCCRP) on sharing ownership information in open data format._
+   _See:[ 1:07:46](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=4066s) Friedrich Lindenberg's talk (OCCRP) on sharing ownership information in open data format._
 
 5. Existing tools can be used for visualising BO data
 
