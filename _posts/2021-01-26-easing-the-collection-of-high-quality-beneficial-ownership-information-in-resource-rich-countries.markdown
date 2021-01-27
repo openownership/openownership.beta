@@ -30,11 +30,11 @@ The new form allows governments to collect robust, structured, and unambiguous i
 
 2. Forms can be “pre-populated” with information that a government already has on a company. This makes filling in the form much easier and avoids producing duplicate information.
 
-Using pre-filled online forms with existing data such as company ID numbers, addresses, directors, and legal owners reduces the administrative burden on companies, and will make it more likely that information is submitted and updated regularly. 
+   Using pre-filled online forms with existing data such as company ID numbers, addresses, directors, and legal owners reduces the administrative burden on companies, and will make it more likely that information is submitted and updated regularly. 
 
 3. Detailed information can be shared across government agencies
 
-Information stored in a database can be easily shared to other agencies through interfaces such as personal identification numbers, social security numbers, as well as company identification numbers. This data can be accessed across governments. 
+   Information stored in a database can be easily shared to other agencies through interfaces such as personal identification numbers, social security numbers, as well as company identification numbers. This data can be accessed across governments. 
 
    _See: [Louise Crow’s talk at 07:24](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=444s) from mySociety on connecting the government’s procurement system with the Companies House in the UK._
 
