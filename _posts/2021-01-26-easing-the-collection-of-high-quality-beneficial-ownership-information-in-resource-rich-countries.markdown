@@ -14,7 +14,7 @@ is_featured: true
 
 It has been four years since the Extractive Industries Transparency Initiative (EITI) introduced the requirement that governments must collect and publish information on beneficial owners (people who significantly control the activities of mining and extractives companies and/or benefit from them financially). With the EITI’s experience supporting countries, and in partnership with data experts at Open Ownership (OO), the International Secretariat revisited the[ model declaration form](https://eiti.org/document/beneficial-ownership-model-declaration-form). The result is a [form for high quality data collection](https://eiti.org/files/documents/model_eiti_beneficial_ownership_declaration_form_-_high_quality_data.xlsx) and  [guidance](https://eiti.org/files/documents/guide_to_the_model_beneficial_ownership_declaration_form_for_high_quality_data_collection.pdf) for form designers and administrators. It complements the existing form for basic data collection.
 
-The new form allows governments to collect robust, structured, and unambiguous information on the legal owners as well as the beneficial owners of companies. It is in Excel format and has some basic navigation within it. The model declaration form can be used to build an online form. An existing online, Excel, or Word-based data collection form can be compared with the model declaration form for improvement.
+The [new model declaration form for high quality data collection](https://eiti.org/document/beneficial-ownership-model-declaration-form) allows governments to collect robust, structured, and unambiguous information on the legal owners as well as the beneficial owners of companies. It is in Excel format and has some basic navigation within it. The model declaration form can be used to build an online form. An existing online, Excel, or Word-based data collection form can be compared with the model declaration form for improvement.
 
 
 ## Collecting structured information 
@@ -70,3 +70,5 @@ The model declaration form can be used to check for best practice for logic and 
 If you are interested in using this form, please do not hesitate to get in touch with EITI or the OO [helpdesk](https://share.hsforms.com/1hD_mecn0TwyW15zYkesF5g3upv4). 
 
 _This template is the result of a collaboration between the EITI and Open Ownership._
+
+Learn more on [why form is king: New tool to shed light on the real owners of extractive companies.](https://eiti.org/blog/why-form-is-king-new-tool-to-shed-light-on-real-owners-of-extractive-companies)
