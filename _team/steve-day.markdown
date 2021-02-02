@@ -1,5 +1,6 @@
 ---
 title: Steve Day
+published: false
 categories:
 - project-team
 position: 9
