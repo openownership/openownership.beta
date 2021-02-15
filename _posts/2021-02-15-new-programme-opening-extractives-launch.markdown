@@ -1,7 +1,6 @@
 ---
 title: 'New global programme: Opening Extractives launch'
 date: 2021-02-15 07:23:00 Z
-published: false
 categories:
 - news
 tags:
