@@ -6,6 +6,9 @@ categories:
 - news
 tags:
 - OpeningExtractives
+image: "/uploads/global%20programme.png"
+author: Open Ownership
+is_featured: true
 ---
 
 A new joint programme between Open Ownership (OO) and the Extractive Industries Transparency Initiative (EITI), supported by the BHP Foundation, aims to end the use of anonymous companies linked to corruption and mismanagement in natural resources. 
