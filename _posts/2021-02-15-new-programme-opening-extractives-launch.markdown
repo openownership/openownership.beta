@@ -10,7 +10,7 @@ author: Open Ownership
 is_featured: true
 ---
 
-A new joint programme between Open Ownership (OO) and the Extractive Industries Transparency Initiative (EITI), supported by the BHP Foundation, aims to end the use of anonymous companies linked to corruption and mismanagement in natural resources. 
+*A new joint programme between Open Ownership (OO) and the Extractive Industries Transparency Initiative (EITI), supported by the BHP Foundation, aims to end the use of anonymous companies linked to corruption and mismanagement in natural resources.* 
 
 OO and the EITI today launched **Opening Extractives**, a global programme to advance beneficial ownership transparency. It aims to make a transformational impact in the amount of publicly available information on the owners of extractive companies. 
 
@@ -33,7 +33,7 @@ choice for stolen public money, and beneficial ownership transparency is the mos
 to close this down. The Luanda Leaks were a powerful reminder of how some resource-rich
 countries have suffered and how public information can thwart corrupt activity.”
 
-Opening Extractives builds on the collaboration of oO and the EITI over the last three years in delivering workshops, training and technical assistance in a broad range of countries. 
+Opening Extractives builds on the collaboration of OO and the EITI over the last three years in delivering workshops, training and technical assistance in a broad range of countries. 
 
 “I am confident that this unique partnership is a recipe for delivering a step-change in natural
 resource governance,” said Mark Robinson, EITI Executive Director. “The project will seek to
