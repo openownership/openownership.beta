@@ -12,7 +12,7 @@ is_featured: true
 
 *A new joint programme between Open Ownership (OO) and the Extractive Industries Transparency Initiative (EITI), supported by the BHP Foundation, aims to end the use of anonymous companies linked to corruption and mismanagement in natural resources.* 
 
-OO and the EITI today launched **Opening Extractives**, a global programme to advance beneficial ownership transparency (BOT). Opening Extractives aims to make a transformational impact in the amount of publicly available information on the owners of extractive companies. 
+Today, OO and the EITI launched **Opening Extractives**, a global programme to advance beneficial ownership transparency (BOT). Opening Extractives aims to make a transformational impact in the amount of publicly available information on the owners of extractive companies. 
 
 The oil, gas, and mining sectors are at acute risk of corruption due to the significant revenues stemming from these public assets. Anonymous companies have too often facilitated corruption in the sector, as revealed in a series of scandals from the 2016 Panama Papers to the 2020 Luanda Leaks. 
 
