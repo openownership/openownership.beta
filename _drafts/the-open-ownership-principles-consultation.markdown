@@ -27,8 +27,7 @@ This open consultation will be supplemented by more detailed written and verbal 
 
 For a guide to the consultation, including a list of all the questions [click here.](https://docs.google.com/document/d/e/2PACX-1vSDvgQyIDM7MfRnEaNmdU9oz9ycxmgMNDvRUn4kGY31XfPJdxWoaCoPsP6HxwB12vGAsdoZLjboqGEn/pub)
 
-\*\*Background
-\*\*
+**Background**
 
 Governments are pursuing Beneficial Ownership Transparency (BOT) for a range of policy aims, including to tackle corruption, promote economic growth, and ensure effective taxation. To achieve these goals, governments must implement comprehensive transparent company ownership that generates actionable and usable data for a range of potential users, including law enforcement and journalists during investigations, civil society monitoring, and public and private sector due diligence.
 
