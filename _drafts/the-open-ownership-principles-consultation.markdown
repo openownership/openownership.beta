@@ -3,6 +3,8 @@ title: 'Consultation: Open Ownership Principles'
 date: 2021-02-15 05:50:00 Z
 categories:
 - events
+tags:
+- OpenOwnership Principles
 image: "/uploads/marvin-meyer-SYTO3xs06fU-unsplash-7403ee.jpg"
 description: 'Open Ownership is running a consultation on the Open Ownership Principles
   (OO Principles). Submissions will be open until 19 March 2021. '
