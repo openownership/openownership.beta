@@ -24,18 +24,18 @@ Confidence in the quality of BO data relies in part on knowing whether it is fre
 
 To make this task easier for publishers, OO will clarify and document how to record changes  using the BODS. New functionality will also be built to better reflect the legal and practical requirements to redact ownership data or mark it as stale. Deciding which data to archive and which can safely be removed is important for a well functioning register. Registers also need to remove secure or sensitive information from records, and provide an explanation for why that information is unavailable. 
 
-2. Defining interest 
+## 2. Defining interest 
 
 In the world of BO, “interest” covers all manner of ways in which a person or entity can exercise ownership and control over a company. Engaging with countries and  systems around the world has helped OO uncover a dizzying array of legal instruments that allow owners to exercise their interest. This is unsurprising  because the legal systems of countries differ greatly based on history and context, and BO laws and regulations are emerging at pace. OO will  spend time in 2021 documenting and modelling the ways in which people can exercise their ownership or control, and add these to the BODS and the GOOR.
 
-3. What about publicly listed companies? 
+## 3. What about publicly listed companies? 
 
 Until recently, the focus for BOT has been on private companies, with the presumption that information about companies publicly listed on stock exchanges is already freely available. Because of this, in many jurisdictions, PLCs are exempt from the type of BO declaration required of private companies. However, not all stock exchanges have the same disclosure regimes. When a company reports that it is exempt from BO disclosure on the basis that it is a PLC, the information collected about it is generally unstandardised and of poor quality. This makes it hard to reach market information that would help clarify the BO picture. In 2020, OO published a tech note on how the overlooked issue of PLCs could be handled. As a first step towards implementing some of the recommendations in the tech note, OO plans to start adding classifications and identifying information to stock market disclosures for PLCs into the BODS. 
 
-4. What about state-owned enterprises? 
+## 4. What about state-owned enterprises? 
 
 Another type of company – one that has only grown in importance and size during the COVID-19 pandemic – are SOEs. Around the world, many states have announced plans to protect strategic industries. They have initiated rescue packages that include the state taking an ownership stake directly or via debt that will convert to equity. In short, the number of SOEs and their associated mismanagement risks are growing. BO registers are an obvious solution for identifying and monitoring the state ownership of companies. OO will be testing this solution by adding SOE classifications and identifying information for states and state entities to the BODS. This will enable the GOOR to list this information, and allow direct declaration and determination of state ownership. This is particularly relevant for OO’s joint programme with the EITI, Opening Extractives (OE), as many projects in the oil, gas, and mining sectors are owned by joint ventures between government and companies. 
 
-5.  And finally: Cracking open black holes
+## 5.  And finally: Cracking open black holes
 
 One of the main motivations for moving BO data to a central register is to avoid a company being a “black hole” for information. The same principle applies once companies are submitting data to a register, and is particularly relevant when ownership data is missing. There are a number of reasons why BO data might be missing from a register, including: a failure to submit by a company; a company being unable to verify the identity of a beneficial owner; a legitimate exemption from disclosure; or a redaction on security grounds. All of these reasons provide valuable, but very different, information for users trying to understand risk or make business decisions. These scenarios can already be modelled in the BODS, but OO will be restructuring the standard to make this easier and clearer. OO’s aim is to give users a clear understanding of why, when, and how information is missing in order to assist with risk-based assessments. 
