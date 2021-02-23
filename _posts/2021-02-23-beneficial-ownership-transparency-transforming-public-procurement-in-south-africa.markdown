@@ -2,7 +2,14 @@
 title: 'Beneficial ownership transparency: transforming public procurement in South
   Africa'
 date: 2021-02-23 09:52:00 Z
+categories:
+- blogs
+tags:
+- South Africa
+- procurement
 image: "/uploads/SA%20blog%20hero.png"
+author: Karabo Rajuili
+is_featured: true
 ---
 
 Fairness, equity, transparency, competitiveness, and cost-effectiveness – these are the constitutional principles which guide public procurement in South Africa.  Yet, the public procurement  landscape has been marred with ongoing  cases of fraud and corruption. “Thieves were waiting at the door” is how South Africa’s Finance Minister, Tito Mboweni,  described the egregious forms of procurement corruption taking place during the first phase of the COVID-19 pandemic.  While traditional procurement safeguards were done away with due to the emergency,  at minimum governments should understand who owns and controls companies they are contracting to deliver goods and services - in crisis and during ordinary times. Incorporating this data into the procurement process has the potential to positively transform public procurement.  Open Ownership (OO) has identified some of the areas where data on who the real owners of companies are can proactively reduce corruption, improve service delivery, and support equity goals.  
