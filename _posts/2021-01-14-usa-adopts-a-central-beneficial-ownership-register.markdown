@@ -1,7 +1,6 @@
 ---
 title: USA adopts a central beneficial ownership register
 date: 2021-01-14 15:34:00 Z
-published: false
 categories:
 - News
 tags:
