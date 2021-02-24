@@ -1,6 +1,6 @@
 ---
 title: 'Consultation: Open Ownership Principles'
-date: 2021-02-15 05:50:00 Z
+date: 2021-02-22 05:50:00 Z
 categories:
 - events
 tags:
