@@ -25,7 +25,7 @@ BO disclosure to central government is critical for ensuring a holistic approach
 
 OO’s work on implementing central and public BO registers elsewhere in the world has informed discussions in the US. The recommendations in OO’s briefings have supported partner organisations advocacy efforts on defining BO and setting thresholds. Zoe Reiter, Director of Civic Engagement at the Project On Government Oversight, co-founder of the Anti-Corruption Data Collective, and executive committee member of the FACT Coalition, said “OO’s guidance material has been a critical input to our proposals for beneficial ownership transparency in US legislation.” 
 
-**What’s next?**
+**Next steps**
 
 Now that primary legislation has been passed, there is an important regulatory phase to come that will define the practical operation of the new law. In our view, the important areas to watch out for are:
 
