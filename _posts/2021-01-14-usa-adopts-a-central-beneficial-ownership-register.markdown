@@ -1,8 +1,15 @@
 ---
 title: USA adopts a central beneficial ownership register
-date: 2021-02-24 15:34:00 Z
+date: 2021-01-14 15:34:00 Z
 published: false
+categories:
+- News
+tags:
+- USA
+- central register
 image: "/uploads/USA.png"
+author: Open Ownership
+is_featured: true
 ---
 
 In late 2020, the US government passed the National Defence Authorisation Act which included important corporate transparency reforms. As a result of this Act, the majority of companies, about 87% in the US, will soon have to disclose their beneficial owners to the U.S Treasury’s Financial Crimes Enforcement Network (FinCEN), although this will not be made public. It also includes, in,[ Section 885 a stipulation that all federal contracts in excess of $500,000 to publicly disclose their beneficial ownership information as well.](https://www.pogo.org/analysis/2021/01/defense-bill-includes-two-landmark-transparency-provisions/) Treasury’s Financial Crimes Enforcement Network (FinCEN), although this will not be made public. Whilst it is encouraging that such a high percentage of companies will be disclosing their beneficial owners, there are many important types of businesses that are not required to. These include publicly listed companies, as well as companies that:
