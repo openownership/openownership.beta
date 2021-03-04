@@ -27,12 +27,12 @@ services:
   link: "/what-we-do/the-beneficial-ownership-data-standard/"
 - title: The Beneficial Ownership Leadership Group
   icon: pilot
-  text: The Beneficial Ownership Leadership Group came together in 2019 to drive the
-    global policy shift towards free, open beneficial ownership data. By joining the
-    Beneficial Ownership Leadership Group each country signs up to a   set of best
-    practice disclosure principles. Convened by Open Ownership and Open Government
-    Partnership, the group is comprised of Armenia, Kenya, Latvia, Mexico and the
-    Slovak Republic.
+  text: 'The Beneficial Ownership Leadership Group came together in 2019 to drive
+    the global policy shift towards free, open beneficial ownership data. By joining
+    the Beneficial Ownership Leadership Group each country signs up to a   set of
+    best practice disclosure principles. Convened by Open Ownership and Open Government
+    Partnership, the group is comprised of Armenia, Kenya, Latvia, Mexico, Nigeria,
+    Slovak Republic and the United Kingdom. '
   button: Find out more
   link: "/what-we-do/the-beneficial-ownership-leadership-group/"
 - title: The OpenOwnership Register
