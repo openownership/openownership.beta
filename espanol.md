@@ -1,7 +1,16 @@
 ---
 title: Qué hacemos
-layout: espanol
 resources:
+- title: Asistencia técnica y servicios de Open Ownership
+  attribution: OpenOwnership · diciembre 2020
+  content: OO brinda asistencia técnica en todos los aspectos de la implementación,
+    así como asesoramiento a los Gobiernos que están considerando aplicar reformas
+    sobre beneficiarios finales. OO responde a un enfoque colaborativo y adaptado,
+    y trabaja con los Gobiernos y sus socios de los países para desarrollar paquetes
+    de apoyo que se ajusten a sus necesidades. En este documento, se describen ejemplos
+    de los servicios que ofrecemos en cada etapa del proceso.
+  url: "/uploads/OPO%20Principles%20ES.pdf"
+  thumbnail-image: "/uploads/OPO%20Services%20Brochure%20Thumbnail.jpg"
 - title: 'Beneficiarios reales: umbrales y definiciones en la ley'
   author: Peter Low & Tymon Kiepe · octubre 2020
   content: Para aprovechar al máximo el efecto generado por los registros de beneficiarios
@@ -25,13 +34,11 @@ resources:
   thumbnail-image-class: web-resource
 - title: Principios para la divulgación efectiva de los beneficiarios finales
   attribution: OpenOwnership · mayo 2020
-  content: Presentamos doce principios clave para la divulgación efectiva de los beneficiarios
-    finales, pensados para que los datos publicados sean más fáciles de usar, precisos
-    e interoperables. Estos han ido cobrando forma a través de la labor de OpenOwnership
-    en el desarrollo del Estándar de Datos sobre Beneficiarios Finales y su apoyo
-    a casi cuarenta países para fomentar la transparencia sobre los beneficiarios
-    finales.
-  url: "/uploads/principios-divulgacion-efectiva-de-los-beneficiarios-finales.pdf"
+  content: Los Principios de Open Ownership establecen los criterios de referencia
+    para la divulgación eficaz de datos sobre los beneficiarios finales. En su conjunto,
+    estos nueve principios brindan un marco para la aplicación de la titularidad integral
+    y transparente de las empresas, lo que permite generar datos válidos y utilizables.
+  url: "/uploads/OPO%20Principles%20ES.pdf"
   thumbnail-image: "/uploads/principles-thumbnail.jpg"
   thumbnail-image-class: web-resource
 - title: Modelos de formularios en papel para la recolección de datos sobre beneficiarios
@@ -57,6 +64,7 @@ resources:
   url: "/uploads/asociese-con-nosotros.pdf"
   thumbnail-image: "/uploads/partner-with-us-thumbnail.jpg"
   thumbnail-image-class: web-resource
+layout: espanol
 ---
 
 OpenOwnership es una organización británica que se especializa en brindar asistencia técnica integrada a los gobiernos en toda la gama de desafíos de políticas, legales, de sistemas y tecnológicos involucrados en la creación de registros de beneficiarios finales.
