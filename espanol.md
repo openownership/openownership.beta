@@ -2,7 +2,7 @@
 title: Qué hacemos
 resources:
 - title: Asistencia técnica y servicios de Open Ownership
-  attribution: OpenOwnership · diciembre 2020
+  attribution: OpenOwnership · marzo 2020
   content: OO brinda asistencia técnica en todos los aspectos de la implementación,
     así como asesoramiento a los Gobiernos que están considerando aplicar reformas
     sobre beneficiarios finales. OO responde a un enfoque colaborativo y adaptado,
