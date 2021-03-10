@@ -1,6 +1,16 @@
 ---
 title: Qué hacemos
 resources:
+- title: Asistencia técnica y servicios de Open Ownership
+  attribution: OpenOwnership · diciembre 2020
+  content: OO brinda asistencia técnica en todos los aspectos de la implementación,
+    así como asesoramiento a los Gobiernos que están considerando aplicar reformas
+    sobre beneficiarios finales. OO responde a un enfoque colaborativo y adaptado,
+    y trabaja con los Gobiernos y sus socios de los países para desarrollar paquetes
+    de apoyo que se ajusten a sus necesidades. En este documento, se describen ejemplos
+    de los servicios que ofrecemos en cada etapa del proceso.
+  url: "/uploads/OPO%20Principles%20ES.pdf"
+  thumbnail-image: "/uploads/OPO%20Services%20Brochure%20Thumbnail.jpg"
 - title: 'Beneficiarios reales: umbrales y definiciones en la ley'
   author: Peter Low & Tymon Kiepe · octubre 2020
   content: Para aprovechar al máximo el efecto generado por los registros de beneficiarios
