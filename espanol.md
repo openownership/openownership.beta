@@ -9,7 +9,7 @@ resources:
     y trabaja con los Gobiernos y sus socios de los países para desarrollar paquetes
     de apoyo que se ajusten a sus necesidades. En este documento, se describen ejemplos
     de los servicios que ofrecemos en cada etapa del proceso.
-  url: "/uploads/OPO%20Principles%20ES.pdf"
+  url: "/uploads/OPO%20Services%20Brochure%20ES.pdf"
   thumbnail-image: "/uploads/OPO%20Services%20Brochure%20Thumbnail.jpg"
 - title: 'Beneficiarios reales: umbrales y definiciones en la ley'
   author: Peter Low & Tymon Kiepe · octubre 2020
