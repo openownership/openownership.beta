@@ -1,6 +1,8 @@
 ---
 title: Beneficial ownership data in procurement
 date: 2021-03-11 12:22:00 Z
+categories:
+- Policy Briefing
 files:
   en: "/uploads/OO%20BO%20Data%20in%20Procurement.pdf"
 author: Eva Okunbor and Tymon Kiepe
