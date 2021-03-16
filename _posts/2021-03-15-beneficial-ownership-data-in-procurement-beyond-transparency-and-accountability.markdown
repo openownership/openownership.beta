@@ -27,9 +27,7 @@ Detailed disclosures of BO can help reveal additional entities in complex owners
 
 #### Use case: Verifying supplier eligibility in strategic and preferential procurement
 
-Most governments try to pursue additional policy objectives through procurement, including redistributing opportunities and resources. This can involve reserving contracts for businesses owned by certain disadvantaged individuals and groups. For instance, in South
-
-Africa, the government’s Broad-Based Black Economic Empowerment Commission (B-BBEE Commission) policy aims to procure from companies with beneficial Black ownership. When governments are collecting and verifying BO data, this can be used as a valuable reference dataset to ensure the eligibility of certain businesses for bids.
+Most governments try to pursue additional policy objectives through procurement, including redistributing opportunities and resources. This can involve reserving contracts for businesses owned by certain disadvantaged individuals and groups. For instance, in South Africa, the government’s Broad-Based Black Economic Empowerment Commission (B-BBEE Commission) policy aims to procure from companies with beneficial Black ownership. When governments are collecting and verifying BO data, this can be used as a valuable reference dataset to ensure the eligibility of certain businesses for bids.
 
 
 #### Use case: Assessing policy effectiveness and improve policies
