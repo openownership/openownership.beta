@@ -5,6 +5,7 @@ files:
   en: https://docs.google.com/spreadsheets/d/1B2PRabpv6aukxxZjav-ryMWgSk8jKPbO5_Cnq_yVPmk/edit#gid=353511506
 author: Open Ownership
 thumbnail-image: "/uploads/bodstemplate-thumbnail.jpg"
+thumbnail-image-class: web-resource
 resource_type: Tools
 ---
 
