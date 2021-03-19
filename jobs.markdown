@@ -4,7 +4,7 @@ date: 2019-08-23 13:18:00 Z
 description: OpenOwnership's current job openings.
 ---
 
-Over 90 countries have committed to beneficial ownership transparency. More and more governments want to bring the real owners of companies into the open.
+Over 100 countries have committed to beneficial ownership transparency. More and more governments want to bring the real owners of companies into the open.
 
 This helps to build market confidence, enable effective taxation, save money on schools and hospitals, and tackle corruption.
 
