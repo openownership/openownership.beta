@@ -112,11 +112,10 @@ Please note that Open Ownership is a fiscally sponsored organisation and the con
 
 **Application Process**
 
-We also ask you to submit your CV, but this will not be reviewed unless we decide to invite you to interview. Our initial process will be solely based on your anonymised answers within the Applied platform. 
+We also ask you to submit your CV, but this will not be reviewed unless we decide to invite you to interview. Our initial process will be solely based on your anonymised answers within the [Applied platform](https://app.beapplied.com/apply/o4diobmlbd). 
 
 To apply, please complete the question-based process by midnight BST at the end of Tuesday 6th April 2021.
 
 Role posted - 4:15pm, 18th Feb 2021 GMT
 
-
-We don't have any vacancies at the moment, but they'll appear here when they do. [Follow us on Twitter](https://twitter.com/openownership) to keep up with any announcements.
+[Follow us on Twitter](https://twitter.com/openownership) to keep up with any announcements.
