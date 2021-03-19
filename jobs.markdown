@@ -49,6 +49,7 @@ Applicants must have the right to work in their country of residence.
 Due to the legal restrictions placed on the grant that funds this post, we cannot accept applications from anyone based in the US.
 
 **About Open Ownership**
+
 Open Ownership drives greater corporate transparency across the world by making it easy to publish and access-high quality, linked data about who owns companies.  Our multidisciplinary team works closely with technical and policy implementers, advising them on all aspects of BO implementation.  To support our donor-funded technical assistance programmes, we have developed a broad range of implementation tools and products, including the beneficial ownership data standard and the Open Ownership Principles.
 
 **Purpose of the post**
