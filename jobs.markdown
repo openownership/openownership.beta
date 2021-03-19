@@ -31,32 +31,34 @@ Flexible working will be considered, including 4 days a week.
 
 When travel restrictions due to COVID-19 permit, we anticipate international travel will be required for this role, particularly within the region where the post-holder is based.
 
-**Remuneration**
+Remuneration
 Based on a UK appointment £45,000 - £65,000, dependent on experience. Remuneration for staff based outside the UK will be adjusted to reflect local market rates.
 
 Location: remote working
 
-The post-holder must be based in an Opening Extractives focus country or the UK . We are particularly keen to hear from applicants based in South East Asia, sub-Saharan Africa or Latin America.
+The post-holder must be based in an Opening Extractives focus country or the UK. We are particularly keen to hear from applicants based in South East Asia, sub-Saharan Africa or Latin America.
 
 The Opening Extractives focus countries are:
 
-Latin America: Colombia, Mexico 
-Sub-Saharan Africa: Ghana, Liberia, Nigeria, Senegal, Zambia Eurasia: Armenia, Mongolia, Ukraine 
+Latin America: Colombia, Mexico
+Sub-Saharan Africa: Ghana, Liberia, Nigeria, Senegal, Zambia Eurasia: Armenia, Mongolia, Ukraine
 Asia-Pacific: Indonesia, Philippines
 
 Applicants must have the right to work in their country of residence.
 
 Due to the legal restrictions placed on the grant that funds this post, we cannot accept applications from anyone based in the US.
 
-**About Open Ownership**
+## About Open Ownership
+
 Open Ownership drives greater corporate transparency across the world by making it easy to publish and access-high quality, linked data about who owns companies.  Our multidisciplinary team works closely with technical and policy implementers, advising them on all aspects of BO implementation.  To support our donor-funded technical assistance programmes, we have developed a broad range of implementation tools and products, including the beneficial ownership data standard and the Open Ownership Principles.
 
-**Purpose of the post**
+## Purpose of the post
+
 We are about to start a new five year programme delivered in partnership with the Extractive Industries Transparency Initiative (EITI), called Opening Extractives.  You’ll work with about 10 resource-rich countries, and this role will lead one of the six core workstreams of the programme. You will support people in the project countries to use beneficial ownership data to bring about social and economic benefits, and manage development of technical tools and solutions to do so. You will report to Open Ownership’s Director of Policy & Programmes, and have close working relationships with Open Ownership and the EITI, as well as external stakeholders in each of the participating countries.
 
-**Application Process**
+## Application Process
 
-We also ask you to submit your CV, but this will not be reviewed unless we decide to invite you to interview. Our initial process will be solely based on your anonymised answers within the [BeApplied platform](https://app.beapplied.com/apply/o4diobmlbd). 
+We also ask you to submit your CV, but this will not be reviewed unless we decide to invite you to interview. Our initial process will be solely based on your anonymised answers within the [BeApplied platform](https://app.beapplied.com/apply/o4diobmlbd).
 
 To apply, please complete the question-based process by midnight BST at the end of Tuesday 6th April 2021.
 
