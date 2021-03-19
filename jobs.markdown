@@ -24,7 +24,7 @@ We are a distributed team and are actively looking to diversify our geographical
 *   Flexible working will be considered, including 4 days a week.
 *   When travel restrictions due to COVID-19 permit, we anticipate international travel will be required for this role, particularly within the region where the post-holder is based.
 
-**Remuneration: **based on a UK appointment £45,000 - £65,000, dependent on experience. Remuneration for staff based outside the UK will be adjusted to reflect local market rates.
+**Remuneration:** based on a UK appointment £45,000 - £65,000, dependent on experience. Remuneration for staff based outside the UK will be adjusted to reflect local market rates.
 
 **Location**: remote working
 
@@ -42,6 +42,8 @@ Asia-Pacific: Indonesia, Philippines
 ## Purpose of the post
 
 We are about to start a new five year programme delivered in partnership with the Extractive Industries Transparency Initiative (EITI), called Opening Extractives.  You’ll work with about 10 resource-rich countries, and this role will lead one of the six core workstreams of the programme. You will support people in the project countries to use beneficial ownership data to bring about social and economic benefits, and manage development of technical tools and solutions to do so. You will report to Open Ownership’s Director of Policy & Programmes, and have close working relationships with Open Ownership and the EITI, as well as external stakeholders in each of the participating countries.
+
+View full job description here. 
 
 ## Application Process
 
