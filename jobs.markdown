@@ -16,37 +16,28 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ## Engagement Manager - Data for Impact
 
-Open Ownership Team: Policy and Programmes
+**Terms:** 
 
-Grade: Manager
 
-Role closes - 11:59pm, 6th Apr 2021 BST (Europe/London)
-Based on a UK appointment £45,000 - £65,000. Remuneration for staff outside UK will be adjusted to reflect local market rates.
 
-Remote working (see full job descriptions for restrictions on your country of residence)
+*   Full time, 37.5 hours per week.
+*   Flexible working will be considered, including 4 days a week.
+*   When travel restrictions due to COVID-19 permit, we anticipate international travel will be required for this role, particularly within the region where the post-holder is based.
 
-Terms
-Full time, 37.5 hours per week.
-Flexible working will be considered, including 4 days a week.
+**Remuneration: **based on a UK appointment £45,000 - £65,000, dependent on experience. Remuneration for staff based outside the UK will be adjusted to reflect local market rates.
 
-When travel restrictions due to COVID-19 permit, we anticipate international travel will be required for this role, particularly within the region where the post-holder is based.
+**Location**: remote working
 
-Remuneration
-Based on a UK appointment £45,000 - £65,000, dependent on experience. Remuneration for staff based outside the UK will be adjusted to reflect local market rates.
 
-Location: remote working
 
-The post-holder must be based in an Opening Extractives focus country or the UK. We are particularly keen to hear from applicants based in South East Asia, sub-Saharan Africa or Latin America.
-
-The Opening Extractives focus countries are:
-
-Latin America: Colombia, Mexico
-Sub-Saharan Africa: Ghana, Liberia, Nigeria, Senegal, Zambia Eurasia: Armenia, Mongolia, Ukraine
+*   The post-holder must be based in an Opening Extractives focus country or the UK . We are particularly keen to hear from applicants based in South East Asia, sub-Saharan Africa or Latin America.
+*   The Opening Extractives focus countries are: \
+Latin America: Argentina, Colombia, Mexico \
+Sub-Saharan Africa: Ghana, Liberia, Nigeria, Senegal, Zambia \
+Eurasia: Armenia, Mongolia, Ukraine \
 Asia-Pacific: Indonesia, Philippines
-
-Applicants must have the right to work in their country of residence.
-
-Due to the legal restrictions placed on the grant that funds this post, we cannot accept applications from anyone based in the US.
+*   Applicants must have the right to work in their country of residence.
+*   Due to the legal restrictions placed on the grant that funds this post, we cannot accept applications from anyone based in the US.
 
 ## About Open Ownership
 
