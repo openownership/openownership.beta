@@ -30,7 +30,7 @@ We are a distributed team and are actively looking to diversify our geographical
 
 
 
-*   The post-holder must be based in an Opening Extractives focus country or the UK . We are particularly keen to hear from applicants based in South East Asia, sub-Saharan Africa or Latin America.
+*   The post-holder must be based in an Opening Extractives focus country or the UK . We are particularly keen to hear from applicants based in Asia Pacific, sub-Saharan Africa or Latin America.
 *   The Opening Extractives focus countries are: \
 Latin America: Argentina, Colombia, Mexico \
 Sub-Saharan Africa: Ghana, Liberia, Nigeria, Senegal, Zambia \
