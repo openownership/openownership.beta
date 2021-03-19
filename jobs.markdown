@@ -39,10 +39,6 @@ Asia-Pacific: Indonesia, Philippines
 *   Applicants must have the right to work in their country of residence.
 *   Due to the legal restrictions placed on the grant that funds this post, we cannot accept applications from anyone based in the US.
 
-## About Open Ownership
-
-Open Ownership drives greater corporate transparency across the world by making it easy to publish and access-high quality, linked data about who owns companies.  Our multidisciplinary team works closely with technical and policy implementers, advising them on all aspects of BO implementation.  To support our donor-funded technical assistance programmes, we have developed a broad range of implementation tools and products, including the beneficial ownership data standard and the Open Ownership Principles.
-
 ## Purpose of the post
 
 We are about to start a new five year programme delivered in partnership with the Extractive Industries Transparency Initiative (EITI), called Opening Extractives.  You’ll work with about 10 resource-rich countries, and this role will lead one of the six core workstreams of the programme. You will support people in the project countries to use beneficial ownership data to bring about social and economic benefits, and manage development of technical tools and solutions to do so. You will report to Open Ownership’s Director of Policy & Programmes, and have close working relationships with Open Ownership and the EITI, as well as external stakeholders in each of the participating countries.
