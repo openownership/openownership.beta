@@ -43,7 +43,7 @@ Asia-Pacific: Indonesia, Philippines
 
 We are about to start a new five year programme delivered in partnership with the Extractive Industries Transparency Initiative (EITI), called Opening Extractives.  You’ll work with about 10 resource-rich countries, and this role will lead one of the six core workstreams of the programme. You will support people in the project countries to use beneficial ownership data to bring about social and economic benefits, and manage development of technical tools and solutions to do so. You will report to Open Ownership’s Director of Policy & Programmes, and have close working relationships with Open Ownership and the EITI, as well as external stakeholders in each of the participating countries.
 
-View full job description here. 
+View full job description [here](https://www.openownership.org/uploads/OE%20Engagement%20Mgr%20Data%20for%20Impact%20-%20Job%20description.pdf). 
 
 ## Application Process
 
