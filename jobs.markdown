@@ -26,7 +26,7 @@ We are a distributed team and are actively looking to diversify our geographical
 
 **Remuneration:** based on a UK appointment £45,000 - £65,000, dependent on experience. Remuneration for staff based outside the UK will be adjusted to reflect local market rates.
 
-**Location**: remote working
+**Location**: remote working 
 
 *   We are particularly keen to hear from applicants based in South East Asia, sub-Saharan Africa, Latin America, or the UK.
 *   The post-holder must be based in the UK or in one of the following countries:
