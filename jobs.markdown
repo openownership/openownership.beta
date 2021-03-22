@@ -28,14 +28,14 @@ We are a distributed team and are actively looking to diversify our geographical
 
 **Location**: remote working
 
+*   We are particularly keen to hear from applicants based in South East Asia, sub-Saharan Africa, Latin America, or the UK.
+*   The post-holder must be based in the UK or in one of the following countries:
 
-
-*   The post-holder must be based in an Opening Extractives focus country or the UK . We are particularly keen to hear from applicants based in Asia Pacific, sub-Saharan Africa or Latin America.
-*   The Opening Extractives focus countries are: \
-Latin America: Argentina, Colombia, Mexico \
+    Latin America: Argentina, Colombia, Mexico \
 Sub-Saharan Africa: Ghana, Liberia, Nigeria, Senegal, Zambia \
 Eurasia: Armenia, Mongolia, Ukraine \
 Asia-Pacific: Indonesia, Philippines
+
 *   Applicants must have the right to work in their country of residence.
 *   Due to the legal restrictions placed on the grant that funds this post, we cannot accept applications from anyone based in the US.
 
