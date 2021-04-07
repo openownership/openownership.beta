@@ -1,7 +1,6 @@
 ---
 title: 'Integrity in IMF emergency lending: what worked?'
 date: 2021-04-07 15:03:00 Z
-published: false
 categories:
 - blogs
 tags:
@@ -31,7 +30,7 @@ To get the IMF’s feedback on our focus, we engaged the team in charge of follo
 
 Our work complements a Transparency International and Human Rights Watch [study](https://www.hrw.org/news/2021/03/30/imf-scant-transparency-covid-19-emergency-loans) looking at four countries’ IMF rapid credit facility commitments on transparency more generally.
 
-**How effective were the IMF commitments in encouraging good governance and transparency?**
+# How effective were the IMF commitments in encouraging good governance and transparency?
 
 It would be fair to say that the implementation of the commitments was hit and miss.
 
@@ -43,15 +42,13 @@ New policies were created and an ambition to collect beneficial ownership inform
 
 It is worth noting that we found a disconnect between government agencies in charge of collecting and disclosing beneficial ownership and procurement information and a disconnect between both of them and the government ministries negotiating a commitment with the IMF, which was usually the Ministry of Finance.
 
-**Lessons learnt & next steps for the IMF**
+# Lessons learnt & next steps for the IMF
 
 Everyone we interviewed noted that they welcomed the IMF emphasizing improved fiscal governance during the pandemic and that public procurement and beneficial ownership were important dimensions of the response. Public procurement was uniquely in the spotlight as governments scrambled to secure PPE and medicines resorting to emergency procedures and sole sourcing. Beneficial ownership of the companies receiving public money was especially important given the supply chain disruptions that took place during the pandemic - government buyers had to find a whole new set of suppliers. 
 
 We completely agree with this assessment. Our number one lesson is that a bit more follow up by the IMF would go a long way. Where the IMF did offer assistance - say on beneficial ownership in Ecuador - it was favorably received. And our number two lesson is that the IMF has the influence to encourage countries to set commitments that are clear, precise and ambitious improvements on the status quo.   
 
 The IMF should not shy away from the leadership role it took on with these commitments, but step up to improve the effectiveness of procurement and beneficial ownership transparency commitments in its lending. We recommend:
-
-
 
 *   Sustained follow-up on implementation to create meaningful, lasting reform. Convening multi-stakeholder groups with a clear role for civil society is a good way to create a feedback loop between government, citizens and businesses on how public procurement operates efficiently in the public interest and in line with market realities.
 *   Specific, consistent wording in the commitments that sets the bar above what each country is already achieving. This should include guidance on usability, publication format, regularity and location and take into account how people in the country access and use the information to improve the emergency response.
