@@ -22,7 +22,7 @@ Public procurement is government’s number one corruption risk, and the use of 
 
 So, one year on, how effective were the IMF commitments in encouraging good governance and transparency? And what are the lessons learned? 
 
-Together with our friends at [Open Ownership](https://www.openownership.org/), we worked with a consultancy called[ Oxford Insights](https://www.oxfordinsights.com/) to understand the impact of these commitments in 11 countries (Afghanistan, Bolivia, Ecuador, Honduras, Kyrgyz Republic, Malawi, Moldova, Nepal, Nigeria, South Africa, Uganda). Oxford Insights specifically sought feedback both from reformers in government and from civil society watchdogs. You can read the full summary report [here](https://www.open-contracting.org/resources/integrity-in-imf-covid-19-financing/).
+Together with our friends at [Open Contracting Partnership](https://www.open-contracting.org/), we worked with a consultancy called[ Oxford Insights](https://www.oxfordinsights.com/) to understand the impact of these commitments in 11 countries (Afghanistan, Bolivia, Ecuador, Honduras, Kyrgyz Republic, Malawi, Moldova, Nepal, Nigeria, South Africa, Uganda). Oxford Insights specifically sought feedback both from reformers in government and from civil society watchdogs. You can read the full summary report [here](https://www.open-contracting.org/resources/integrity-in-imf-covid-19-financing/).
 
 We wanted to explore what more the IMF could do in emergency situations and in its economic dialogue with finance ministries more generally to support impactful implementation of these and future commitments so they make a difference on the frontlines of an emergency. 
 
