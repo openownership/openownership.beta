@@ -7,7 +7,7 @@ tags:
 - contracting
 files:
   en: "/uploads/OCP-OO-2021-Integrity-IMF.pdf"
-author: Open Contracting Partnership and Open Ownership
+author: Open Ownership, Open Contracting Partnership and Oxford Insights
 thumbnail-image: "/uploads/OCP-OO-2021-Integrity-IMF-thumbnail.jpg"
 resource_type: Reports
 ---
