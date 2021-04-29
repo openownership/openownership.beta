@@ -14,4 +14,14 @@ During the Open Gov Week 2021, Open Ownership will be participating in an Open G
 
 These leaders will share best practice guidance on instituting beneficial ownership reform infrastructure to enhance its effectiveness and impact and ultimately mitigate corruption and mismanagement in the natural resource sector, as well as supporting governments in adapting to new challenges posed by the COVID-19 pandemic. 
 
+Date: 19 May 2021
+
+Time: 12:00 Abidjan | 14:00 Johannesburg | 14:00 Oslo | 15:00 Nairobi | 8:00 AM EDT
+
+Duration: 90 minutes
+
+Languages: English and French
+
+Registration: [Register to attend](http://opengovpartnership-org.zoom.us/webinar/register/WN_pYpdeHCPQFammpsSIM6hxA) (open to the public) 
+
 For more information, see the event [concept note](https://eiti.org/files/documents/external_ogp_eiti_africa_bot_event.pdf).
