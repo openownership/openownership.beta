@@ -1,6 +1,10 @@
 ---
 title: 'Webinar: High-level discussion on beneficial ownership transparency in Africa'
 date: 2021-04-29 08:43:00 Z
+categories:
+- events
+tags:
+- Africa
 image: "/uploads/Africa%20cities.png"
 author: Open Ownership
 is_featured: true
