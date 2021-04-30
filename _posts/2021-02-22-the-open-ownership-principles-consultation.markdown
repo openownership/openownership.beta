@@ -43,4 +43,4 @@ By using the OO Principles, countries can ensure they meet international commitm
 
 OO sees the OO Principles as an important tool with a number of potential uses. So far, the OO Principles have been used to support implementing comprehensive BO disclosure by describing the key technical features of a disclosure regime to generate actionable and usable data. The OO Principles have also been used as an evaluative tool to assess the current state of BOT in particular countries (see the UK Assessment in Resources). OO is also interested in exploring other possible use cases.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeQ_SDrceq6w9Uw5yfJT5M5G6yDNlHL2DC6kMP2W43Wy_Fq8g/viewform?embedded=true" width="640" height="1921" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+# This consultation has now finished. 
