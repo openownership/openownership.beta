@@ -38,11 +38,11 @@ Duration: 90 minutes
 
 Languages: English and French
 
-Registration: Register to attend (open to the public) 
+Registration: [Register to attend](http://opengovpartnership-org.zoom.us/webinar/register/WN_pYpdeHCPQFammpsSIM6hxA) (open to the public) 
 
 During the Open Gov Week 2021, Open Government Partnership (OGP) and the EITI will convene leaders from government, civil society, public and private sectors for a high-level engagement on advancing beneficial ownership transparency in Africa.
 
 These leaders will share best practice guidance on instituting beneficial ownership reform infrastructure to enhance its effectiveness and impact and ultimately mitigate corruption and mismanagement in the natural resource sector, as well as supporting governments in adapting to new challenges posed by the COVID-19 pandemic. 
 
-For more information, see the event concept note.
+For more information, see the [event concept note](https://eiti.org/files/documents/external_ogp_eiti_africa_bot_event.pdf).
  
