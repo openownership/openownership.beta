@@ -5,7 +5,7 @@ categories:
 - events
 tags:
 - Africa
-image: "/uploads/Africa%20cities.png"
+image: "/uploads/Africa%20OGW%20-%20Technical%20Roundtable%20Sample%20Slides_transparentlogos.jpg"
 author: Open Ownership
 is_featured: true
 ---
