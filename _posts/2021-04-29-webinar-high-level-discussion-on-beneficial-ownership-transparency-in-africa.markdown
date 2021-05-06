@@ -11,7 +11,7 @@ is_featured: true
 ---
 
 # Day 2
-Technical Roundtable: Advancing beneficial ownership disclosure in Africa
+## Technical Roundtable: Advancing beneficial ownership disclosure in Africa
 Date: 20 May 2021
 
 Time: 10:00 Abidjan |  12:00 Johannesburg |  12:00 Oslo |  13:00 Nairobi |  6:00 AM EDT
@@ -29,7 +29,7 @@ The technical roundtable aims to bring together technical officials from governm
 For more information, see the [draft programme](https://eiti.org/files/documents/draft_programme_-_technical_roundtable_20_may_2021.pdf) and [concept note](https://eiti.org/files/documents/external_ogp_eiti_africa_bot_event.pdf).
 
 # Day 1
-Webinar: High-level discussion on beneficial ownership transparency in Africa 
+## Webinar: High-level discussion on beneficial ownership transparency in Africa 
 Date: 19 May 2021
 
 Time: 12:00 Abidjan | 14:00 Johannesburg | 14:00 Oslo | 15:00 Nairobi | 8:00 AM EDT
