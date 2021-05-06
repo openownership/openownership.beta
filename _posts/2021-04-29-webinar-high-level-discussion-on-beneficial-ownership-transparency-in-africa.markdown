@@ -14,7 +14,7 @@ is_featured: true
 ## Technical Roundtable: Advancing beneficial ownership disclosure in Africa
 Date: 20 May 2021
 
-Time: 10:00 Abidjan |  12:00 Johannesburg |  12:00 Oslo |  13:00 Nairobi |  6:00 AM EDT
+Time: 10:00 Abidjan |  12:00 Johannesburg |  13:00 Nairobi |  6:00 AM EDT
 
 Duration: 3.5 hours (Including interval breaks)
 
@@ -32,7 +32,7 @@ For more information, see the [draft programme](https://eiti.org/files/documents
 ## Webinar: High-level discussion on beneficial ownership transparency in Africa 
 Date: 19 May 2021
 
-Time: 12:00 Abidjan | 14:00 Johannesburg | 14:00 Oslo | 15:00 Nairobi | 8:00 AM EDT
+Time: 12:00 Abidjan | 14:00 Johannesburg | 15:00 Nairobi | 8:00 AM EDT
 
 Duration: 90 minutes
 
@@ -45,4 +45,4 @@ During the Open Gov Week 2021, Open Government Partnership (OGP) and the EITI wi
 These leaders will share best practice guidance on instituting beneficial ownership reform infrastructure to enhance its effectiveness and impact and ultimately mitigate corruption and mismanagement in the natural resource sector, as well as supporting governments in adapting to new challenges posed by the COVID-19 pandemic. 
 
 For more information, see the [event concept note](https://eiti.org/files/documents/external_ogp_eiti_africa_bot_event.pdf).
- 
+  
