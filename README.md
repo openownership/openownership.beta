@@ -24,6 +24,26 @@ in this repository
 5. `bundle exec jekyll serve` to run a local jekyll server
 6. Open [http://localhost:4000](http://localhost:4000)
 
+The site code is housed in the `master` branch. New changes should be committed to a new branch, before being merged back into `master`.
+
+## How this all works
+
+* Siteleaf keeps a copy of the code from the `master` branch.
+   * Every time it is edited in either place, Siteleaf ensures a sync.
+* When selecting to publish in Sitelaf, commits on `master` are merged to the `gh-pages` branch.
+   * This branch is compiled using Jekyll by GitHub (but we don't do anything with this output).
+* Netlify notices a commit on the `gh-pages` branch.
+   * Netlify also compiles this branch using Jekyll and deploys the output to its CDN.
+   * openownership.org's DNS is managed by Netlify. The live domain points to the files on their CDN.
+* Imgix pulls live image files from openownership.org.
+
+### Images
+
+* Images are uploaded by Siteleaf to the `/uploads` folder, so end up at openownership.org/uploads/...
+* When adding image URLs to source code for a page, use the [jekyll/imgix](https://github.com/imgix/jekyll-imgix) plugin to convert these into URLs that point to Imgix rather than to the original domain:
+   * The plugin provides a filter that does this: `{{ variable_containing_original_image_url | imgix_url }}`
+   * Rendering options should be added, see the plugin's documentation.
+
 ## Automated page development
 1. Install Python 3.5 or greater
 2. Make a virtualenv: `python3 -m venv venv`
