@@ -169,3 +169,4 @@ autopages:
     permalink: "/tag/:tag"
 imgix:
   source: open-ownership-team.imgix.net
+disable_disk_cache: true
