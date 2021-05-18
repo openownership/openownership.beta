@@ -2,53 +2,41 @@
 layout: default
 ---
 
-<!-- Home Intro -->
-<div class="grid-x grid-padding-x grid-padding-y primary-background">
+<div class="home-background">
 
-  <div class="small-12 cell text-center home__intro">
-    <h1 class="padding-bottom-2">{{page.header}}</h1>
+<!-- Home Intro -->
+<div class="grid-x grid-padding-x grid-padding-y home-background-primary">
+
+  <div class="small-12 cell home__intro">
+    <h1 class="padding-bottom-2">
+      {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
+      {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
+      {{partially_committed.size | plus: fully_committed.size}} countries are committed to disclosing beneficial ownership
+    </h1>
   </div>
 
 </div>
 <!-- End Home Intro -->
 
-<!-- Key facts -->
-<section class="primary-background">
-  <div class="grid-x grid-padding-x grid-padding-y home__key_facts">
-    <div class="small-12 medium-6 large-4 cell text-center home__key_fact">
-      <span class="home__key_fact__stat">
-        <span class="home__key_fact__stat__inner serif-headline">
-          {{page.key-fact-1-stat}}
+<!-- What we do -->
+{% if page.what-we-do and page.what-we-do.size > 0 %}
+<section class="home-background-secondary">
+  <div class="grid-x grid-padding-x grid-padding-y home__whats">
+  {% for what in page.what-we-do %}
+    <div class="small-12 medium-6 large-4 cell text-center home__what">
+      <span class="home__what__title">
+        <span class="home__what__title__inner serif-headline">
+          {{ what.title }}
         </span>
       </span>
-      <span class="home__key_fact__text">{{page.key-fact-1-text}}</span>
+      <span class="home__what__text">{{ what.text | markdownify }}</span>
     </div>
-
-    <div class="small-12 medium-6 large-4 cell text-center home__key_fact">
-        <span class="home__key_fact__stat">
-            <span class="home__key_fact__stat__inner">
-              {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
-              {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
-              {{partially_committed.size | plus: fully_committed.size}} countries
-            </span>
-          </span>
-        <span class="home__key_fact__text">{{page.key-fact-2-text}}</span>
-    </div>
-
-    <div class="small-12 medium-12 large-4 cell text-center home__key_fact">
-      <span class="home__key_fact__stat">
-          <span class="home__key_fact__stat__inner">
-            {{page.key-fact-3-stat}}
-          </span>
-        </span>
-      <span class="home__key_fact__text">{{page.key-fact-3-text}}</span>
-    </div>
-
-    <div class="small-12 cell text-center home__key_fact">
-      {{page.key-fact-4}}
-    </div>
+    {% endfor %}
   </div>
 </section>
+{% endif %}
+
+</div>
 
 <!-- Home Featured Posts -->
 {% assign featured_posts = site.posts | where:"is_featured",true %}
@@ -78,23 +66,3 @@ layout: default
   </section>
 {% endunless %}
 <!-- End Home Featured Posts -->
-
-<!-- Home Why -->
-<section>
-
-  <div class="grid-container">
-    <div class="grid-x home__why align-center">
-
-      <div class="small-12 medium-10 cell">
-        <h3>{{page.why-title}}</h3>
-        <div class="h5 sans-regular">
-        {{page.why-text | markdownify}}
-        </div>
-        <a class="button hollow" href="/what-we-do/">Read more about what we do</a>
-      </div>
-
-    </div>
-  </div>
-
-</section>
-<!-- End Home Why -->
