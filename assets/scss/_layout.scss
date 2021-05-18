@@ -122,6 +122,19 @@ line-height: 1.4;
   background-color: #f4f7f8;
 }
 
+.home-background {
+  background: transparent url('/assets/img/world.svg') center center/cover no-repeat fixed;
+}
+
+.home-background-primary {
+  background-color: transparentize($primary-color, 0.05);
+  color: $white;
+}
+
+.home-background-secondary {
+  background-color: transparentize(#fff, 0.05);
+}
+
 // 5. Typography
 // -------------
 
@@ -316,7 +329,7 @@ p {
   @include padding(2, 2, 1, 2);
 }
 
-.home__key_facts {
+.home__whats {
   // Calculated to be the same as with other sections on the homepage, but
   // accounting for the existing top padding on the cells within
   @include padding(0.5, 1.5, 1.5, 1.5);
@@ -325,21 +338,20 @@ p {
   }
 }
 
-.home__key_fact {
+.home__what {
   @extend .h5;
   @extend .sans-regular;
   padding-top: 0;
 }
 
-.home__key_fact__stat {
+.home__what__title {
   display: block;
   margin-bottom: 1rem;
   width: auto;
 }
 
-.home__key_fact__stat__inner {
-  font-size: 2.5rem;
-  text-transform: uppercase;
+.home__what__title__inner {
+  font-size: 1.75rem;
   font-family: $serif-headline;
   padding-bottom: 0.5rem;
   border-bottom: 4px solid $primary-color;
