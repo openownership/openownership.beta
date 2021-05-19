@@ -83,10 +83,6 @@ Open Ownership uses the Applied platform for our recruitment which is designed t
 
 If you reach the final stage of interviews, we will retain your details for future posts at Open Ownership, unless you tell us otherwise.
 
-To apply, please [complete the question-based process](https://app.beapplied.com/apply/tpqusxfcts) by 23:59 BST at the end of 8 June 2021.
-
-[Apply](https://app.beapplied.com/apply/tpqusxfcts)
-{ .button }
+[To apply, please complete the question-based process](https://app.beapplied.com/apply/tpqusxfcts) by 23:59 BST at the end of 8 June 2021.
 
 [Download job description as PDF](/uploads/Regional%20Associate%20(Africa).pdf)
-{ .button }
