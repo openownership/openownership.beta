@@ -25,6 +25,8 @@ Your submissions will help us assess:
 
 This open consultation will be supplemented by more detailed written and verbal feedback from a smaller group of expert stakeholders.
 
+# This consultation is now closed.
+
 For a guide to the consultation, including a list of all the questions [click here.](https://docs.google.com/document/d/e/2PACX-1vSDvgQyIDM7MfRnEaNmdU9oz9ycxmgMNDvRUn4kGY31XfPJdxWoaCoPsP6HxwB12vGAsdoZLjboqGEn/pub)
 
 **Background**
@@ -43,4 +45,4 @@ By using the OO Principles, countries can ensure they meet international commitm
 
 OO sees the OO Principles as an important tool with a number of potential uses. So far, the OO Principles have been used to support implementing comprehensive BO disclosure by describing the key technical features of a disclosure regime to generate actionable and usable data. The OO Principles have also been used as an evaluative tool to assess the current state of BOT in particular countries (see the UK Assessment in Resources). OO is also interested in exploring other possible use cases.
 
-# This consultation has now finished. 
+# This consultation is now closed. 

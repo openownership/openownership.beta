@@ -1,17 +1,23 @@
 ---
 title: Jobs
 date: 2019-08-23 13:18:00 Z
-description: OpenOwnership's current job openings.
+description: Open Ownership's current job openings
 ---
 
-Over 100 countries have committed to beneficial ownership transparency. More and more governments want to bring the real owners of companies into the open.
+Over 110 countries have committed to beneficial ownership transparency. More and more governments want to bring the real owners of companies into the open.
 
-This helps to build market confidence, enable effective taxation, save money on schools and hospitals, and tackle corruption.
+Open Ownership drives greater corporate transparency across the world by making it easy to publish and access-high quality, linked data about who owns companies.  Our multidisciplinary team works closely with technical and policy implementers, advising them on all aspects of BO implementation.  To support our donor-funded technical assistance programmes, we have developed a broad range of implementation tools and products, including the [beneficial ownership data standard](http://standard.openownership.org/en/latest/) and the [Open Ownership Principles](https://www.openownership.org/principles/).
 
-Open Ownership is a global hub for this kind of information and support, from drafting laws to verifying data and making it work in practice. We’re already starting to see the benefits, as well as the potential for much more impact.
-
-We are a distributed team and are actively looking to diversify our geographical presence. We strongly encourage women and individuals from marginalized communities to apply.
+We are a distributed team and are actively looking to diversify our geographical presence.
 
 ## Current vacancies
 
-None 
+### [Regional Associate (Africa)](/news/new-role-regional-associate-africa)
+
+| Apply By | 8 June 2021 |
+
+You will join a small distributed team across the region and beyond, working on delivery of Open Ownership’s support to national governments.  We’re a fast-paced startup, so be ready to pitch in where needed. You’ll provide high quality administrative and logistical support to enable programme and project delivery, as well as taking an active role in maintaining stakeholder relationships.
+
+[Learn more and apply](/news/new-role-regional-associate-africa)
+
+[Download job description as PDF](/uploads/Regional%20Associate%20(Africa).pdf)
