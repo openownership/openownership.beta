@@ -18,4 +18,6 @@ We are a distributed team and are actively looking to diversify our geographical
 
 You will join a small distributed team across the region and beyond, working on delivery of Open Ownership’s support to national governments.  We’re a fast-paced startup, so be ready to pitch in where needed. You’ll provide high quality administrative and logistical support to enable programme and project delivery, as well as taking an active role in maintaining stakeholder relationships.
 
-[View and download job description](/uploads/Regional%20Associate%20(Africa).pdf)
+[Learn more and apply](/news/new-role-regional-associate-africa)
+
+[Download job description as PDF](/uploads/Regional%20Associate%20(Africa).pdf)
