@@ -1,6 +1,10 @@
 ---
 title: New role - Regional Associate (Africa)
 date: 2021-05-19 14:04:00 Z
+categories:
+- news
+tags:
+- Africa
 ---
 
 Join a small distributed team across the African region, working on delivery of Open Ownership’s support to national governments.
