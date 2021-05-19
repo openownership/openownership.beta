@@ -5,7 +5,7 @@ categories:
 - news
 tags:
 - Africa
-image: "/uploads/Regional%20Associate%20Africa.jpg"
+image: "/uploads/Africadatateam.png"
 author: Open Ownership
 is_featured: true
 ---
