@@ -5,6 +5,9 @@ categories:
 - news
 tags:
 - Africa
+image: "/uploads/Regional%20Associate%20Africa.jpg"
+author: Open Ownership
+is_featured: true
 ---
 
 Join a small distributed team across the African region, working on delivery of Open Ownership’s support to national governments.
