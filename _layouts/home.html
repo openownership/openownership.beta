@@ -7,13 +7,33 @@ layout: default
 <!-- Home Intro -->
 <div class="grid-x grid-padding-x grid-padding-y home-background-primary">
 
-  <div class="small-12 cell home__intro">
-    <h1 class="padding-bottom-2">
+  <div class="small-12 {% if page.intro %}medium-7 large-8{% endif %} cell home__intro">
+    <h1>
       {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
       {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
-      {{partially_committed.size | plus: fully_committed.size}} countries are committed to disclosing beneficial ownership
+      <a href="/map">{{partially_committed.size | plus: fully_committed.size}} countries</a> are committed to disclosing beneficial ownership
     </h1>
+    {% if page.header-buttons %}
+      {% for button in page.header-buttons %}
+        {% if button.title and button.url %}
+          <a class="button white" href="{{ button. url }}">{{ button.title }}</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </div>
+
+  {% if page.intro %}
+  <div class="small-12 medium-5 large-4 cell home__intro">
+    {{ page.intro | markdownify }}
+    {% if page.intro-buttons %}
+      {% for button in page.intro-buttons %}
+        {% if button.title and button.url %}
+          <a class="button white" href="{{ button. url }}">{{ button.title }}</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+  {% endif %}
 
 </div>
 <!-- End Home Intro -->
@@ -30,6 +50,13 @@ layout: default
         </span>
       </span>
       <span class="home__what__text">{{ what.text | markdownify }}</span>
+      {% if what.buttons %}
+        {% for button in what.buttons %}
+          {% if button.title and button.url %}
+            <a class="button white" href="{{ button. url }}">{{ button.title }}</a>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     </div>
     {% endfor %}
   </div>

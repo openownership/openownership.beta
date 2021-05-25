@@ -129,6 +129,11 @@ line-height: 1.4;
 .home-background-primary {
   background-color: transparentize($primary-color, 0.05);
   color: $white;
+
+  h1 a {
+    color: $white;
+    border-bottom: 1px solid $white     
+  }
 }
 
 .home-background-secondary {
@@ -326,7 +331,7 @@ p {
 .home__intro {
   // Calculated to line up with the other items in the header like the logo
   // and give a bit more vertical space from the header
-  @include padding(2, 2, 1, 2);
+  @include padding(0, 2, 2, 2);
 }
 
 .home__whats {
@@ -806,6 +811,10 @@ $publish: #1BB0A7;
   }
 }
 
+
+.button.white {
+  border-color: $primary-color
+}
 
 .button.white:hover, .button.white:focus {
 background-color:  $white;
