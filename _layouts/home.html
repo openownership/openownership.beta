@@ -42,12 +42,33 @@ layout: default
 {% assign featured_posts = site.posts | where:"is_featured",true %}
 
 {% unless featured_posts == empty %}
-  <section class="border-bottom home__featured__posts snow-background">
-    <div class="grid-x grid-padding-x">
-      <div class="cell small-12 text-center">
-        <h3>Latest news, events and blogs</h3>
-      </div>
+<section class="border-bottom home__featured__posts snow-background">
+  <div class="grid-x grid-padding-x margin-top-2">
+    <div class="cell small-12 large-6 large-offset-3 text-center">
+      <h3 class="margin-top-0">Latest news, events and resources</h3>
     </div>
+    <div class="cell small-12 large-3">
+      <ul class="horizontal menu align-right sans-bold">
+        <li>
+          <a href="https://anchor.fm/open-ownership" target="_blank" class="external">
+            <svg class="icon">
+              <use xlink:href="/assets/icons/symbol-defs.svg#icon-audio"></use>
+            </svg>
+            Podcast
+          </a>
+        </li>
+        <li>
+          <a href="https://mailchi.mp/440be76e70f3/the-record-landing-page" target="_blank" class="external">
+            <svg class="icon">
+              <use xlink:href="/assets/icons/symbol-defs.svg#icon-article"></use>
+            </svg>
+            Newsletter
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  
     <div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
       {% for post in featured_posts limit: 3 %}
         <div class="cell small-12 medium-6 large-4 home__featured__post">
