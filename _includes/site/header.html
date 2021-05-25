@@ -8,11 +8,9 @@
   {% elsif page.url contains "/news/" or page.url contains "/events/" or page.url contains "/blogs/" or page.url contains "/tag/" %}
     {% assign current_page = "/latest/" %}
     {% break %}
-  {% elsif page.url == "/" %}
-    {% assign current_page = site.baseurl %}
-    {% break %}
   {% endif %}
 {% endfor %}
+{% if page.url == "/" %}{% assign current_page = site.baseurl %}{% endif %}
 
 <div class="grid-x header {% if current_page == site.baseurl %}home{% else %}primary{% endif %}-background">
 <div class="small-12 cell">
@@ -65,9 +63,17 @@
 <!-- End Navigation -->
 
 <!-- Logo and Tagline -->
-<div class="grid-x grid-padding-x grid-padding-y align-justify header__bottom home-background-primary">
+<div class="grid-x grid-padding-x grid-padding-y align-justify header__bottom {% if current_page == site.baseurl %}home-{% endif %}background-primary">
   <div class="shrink cell header__logo">
-    <a href="/" aria-label="Logo"><svg class="icon icon-logo-main"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
+    <a href="/" aria-label="Logo">
+      <svg class="icon icon-logo-main">
+        {% if current_page == site.baseurl %}
+          <use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-white"></use>
+        {% else %}
+          <use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use>
+        {% endif %}
+      </svg>
+    </a>
   </div>
 
   <div class="shrink cell serif-regular show-for-small-only">
