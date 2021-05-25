@@ -384,6 +384,18 @@ h2 {
   @include links ($black, $primary-color);
 }
 
+.inmedia_logo {
+  text-align: center;
+  img {
+    height: auto;
+    width: auto;
+    max-height: 2.5em;
+    max-width: 100%;
+    margin: 0 auto 1em auto
+  }
+}
+
+
 // X. Sponsors
 // -----------
 
