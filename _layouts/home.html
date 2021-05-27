@@ -41,24 +41,26 @@ layout: default
 <!-- What we do -->
 {% if page.what-we-do and page.what-we-do.size > 0 %}
 <section class="home-background-secondary">
-  <div class="grid-x grid-padding-x grid-padding-y home__whats">
-  {% for what in page.what-we-do %}
-    <div class="small-12 medium-6 large-4 cell text-center home__what">
-      <span class="home__what__title">
-        <span class="home__what__title__inner serif-headline">
-          {{ what.title }}
+  <div class="whiteout">
+    <div class="grid-x grid-padding-x grid-padding-y home__whats">
+    {% for what in page.what-we-do %}
+      <div class="small-12 medium-6 large-4 cell text-center home__what">
+        <span class="home__what__title">
+          <span class="home__what__title__inner serif-headline">
+            {{ what.title }}
+          </span>
         </span>
-      </span>
-      <span class="home__what__text">{{ what.text | markdownify }}</span>
-      {% if what.buttons %}
-        {% for button in what.buttons %}
-          {% if button.title and button.url %}
-            <a class="button white" href="{{ button. url }}">{{ button.title }}</a>
-          {% endif %}
-        {% endfor %}
-      {% endif %}
+        <span class="home__what__text">{{ what.text | markdownify }}</span>
+        {% if what.buttons %}
+          {% for button in what.buttons %}
+            {% if button.title and button.url %}
+              <a class="button white" href="{{ button. url }}">{{ button.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
 </section>
 {% endif %}
