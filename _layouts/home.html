@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<div class="home-background">
-
 <!-- Home Intro -->
 <div class="grid-x grid-padding-x grid-padding-y padding-top-1 padding-bottom-1 home-background-primary">
 
@@ -64,8 +62,6 @@ layout: default
   </div>
 </section>
 {% endif %}
-
-</div>
 
 <!-- Home Latest Items -->
 {% assign featured_posts = site.posts | where: "is_featured", true | sort: "date" | reverse | slice: 0, 3 %}
