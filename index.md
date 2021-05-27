@@ -15,7 +15,7 @@ intro-buttons:
   url: https://register.openownership.org/
 what-we-do:
 - title: Implementation support
-  text: Open Ownership's [team](/about) of technical and policy experts provides support and guidance on beneficial ownership transparency reforms.
+  text: Open Ownership's [team](/about) of technical and policy experts provides support and guidance on all aspects of beneficial ownership transparency reforms.
   buttons:
   - title: Implementation guide
     url: /guide
