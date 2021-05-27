@@ -283,6 +283,8 @@ p {
 // X. Images
 // ---------
 
+$shadow-dimensions: 4px 4px 0px;
+
 .image--feature {
   background-size: cover;
   background-repeat: no-repeat;
@@ -291,7 +293,7 @@ p {
 }
 
 .image--resource {
-  box-shadow: 4px 4px 0px $primary-color;
+  box-shadow: $shadow-dimensions $primary-color;
   &.web-resource {
     box-shadow: none;
   }
@@ -492,17 +494,17 @@ width: 100%;
 
 .shadow {
   transition: box-shadow 0.25s;
-  box-shadow: 5px 5px 0px $primary-color;
+  box-shadow: $shadow-dimensions $primary-color;
   &:hover {
-  box-shadow: 5px 5px 0px $medium-gray;
+  box-shadow: $shadow-dimensions $medium-gray;
   }
 }
 
 .shadow--blogs {
-  box-shadow: 5px 5px 0px $grey-blue;
+  box-shadow: $shadow-dimensions $grey-blue;
 }
 .shadow--events {
-  box-shadow: 5px 5px 0px $green;
+  box-shadow: $shadow-dimensions $green;
 }
 
 .page__title {
@@ -545,7 +547,7 @@ $publish: #1BB0A7;
 .guide__page  {
   border-top: 1rem solid $primary-color;
   .shadow {
-  box-shadow: 5px 5px 0px $primary-color;
+  box-shadow: $shadow-dimensions $primary-color;
   }
   .question {
   color: $primary-color;
@@ -568,7 +570,7 @@ $publish: #1BB0A7;
 .guide__page--consider  {
   border-top: 1rem solid $consider;
   .shadow {
-  box-shadow: 5px 5px 0px $consider;
+  box-shadow: $shadow-dimensions $consider;
   }
   .question {
   color: $consider;
@@ -609,7 +611,7 @@ $publish: #1BB0A7;
 .guide__page--commit  {
   border-top: 1rem solid $commit;
   .shadow {
-  box-shadow: 5px 5px 0px $commit;
+  box-shadow: $shadow-dimensions $commit;
   }
   .question {
   color: $commit;
@@ -650,7 +652,7 @@ $publish: #1BB0A7;
 .guide__page--legal  {
   border-top: 1rem solid $legal;
   .shadow {
-  box-shadow: 5px 5px 0px $legal;
+  box-shadow: $shadow-dimensions $legal;
   }
   .question {
   color: $legal;
@@ -691,7 +693,7 @@ $publish: #1BB0A7;
 .guide__page--systems  {
   border-top: 1rem solid $systems;
   .shadow {
-  box-shadow: 5px 5px 0px $systems;
+  box-shadow: $shadow-dimensions $systems;
   }
   .question {
   color: $systems;
@@ -732,7 +734,7 @@ $publish: #1BB0A7;
 .guide__page--data  {
   border-top: 1rem solid $data;
   .shadow {
-  box-shadow: 5px 5px 0px $data;
+  box-shadow: $shadow-dimensions $data;
   }
   .question {
   color: $data;
@@ -773,7 +775,7 @@ $publish: #1BB0A7;
 .guide__page--publish  {
   border-top: 1rem solid $publish;
   .shadow {
-  box-shadow: 5px 5px 0px $publish;
+  box-shadow: $shadow-dimensions $publish;
   }
   .question {
   color: $publish;
