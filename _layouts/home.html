@@ -5,13 +5,13 @@ layout: default
 <div class="home-background">
 
 <!-- Home Intro -->
-<div class="grid-x grid-padding-x grid-padding-y home-background-primary">
+<div class="grid-x grid-padding-x grid-padding-y padding-top-1 padding-bottom-1 home-background-primary">
 
   <div class="small-12 {% if page.intro %}medium-7 large-8{% endif %} cell home__intro">
     <h1>
       {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
       {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
-      <a href="/map">{{partially_committed.size | plus: fully_committed.size}} countries</a> are committed to disclosing beneficial ownership
+      <a href="/map">{{partially_committed.size | plus: fully_committed.size}} countries</a> are committed to beneficial ownership transparency
     </h1>
     {% if page.header-buttons %}
       {% for button in page.header-buttons %}
