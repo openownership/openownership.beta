@@ -122,12 +122,12 @@ line-height: 1.4;
   background-color: #f4f7f8;
 }
 
-.home-background {
-  background: transparent url('/assets/img/world.svg') center center/cover no-repeat fixed;
+.whiteout {
+  background-color: transparentize($color: #fff, $amount: 0.03)
 }
 
 .home-background-primary {
-  background-color: transparentize($primary-color, 0.05);
+  background: $primary-color url('/assets/img/world.svg') center center/cover no-repeat fixed;
   color: $white;
 
   h1 a {
@@ -137,7 +137,7 @@ line-height: 1.4;
 }
 
 .home-background-secondary {
-  background-color: transparentize(#fff, 0.05);
+  background: #fff  url('/assets/img/world.svg') center center/cover no-repeat fixed;
 }
 
 // 5. Typography
