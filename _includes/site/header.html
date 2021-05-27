@@ -1,8 +1,8 @@
-{% assign current_page = null %}
+{% if page.name == 'index.md' %}{% assign home = true %}{% else %}{% assign home = false %}{% endif %}
 
+{% assign current_page = null %}
 {% for entry in site.data.navigation.header %}
-  {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
-  {% if page.url contains fullurl %}
+  {% if page.url contains entry.url %}
     {% assign current_page = entry.url %}
     {% break %}
   {% elsif page.url contains "/news/" or page.url contains "/events/" or page.url contains "/blogs/" or page.url contains "/tag/" %}
@@ -10,9 +10,8 @@
     {% break %}
   {% endif %}
 {% endfor %}
-{% if page.url == "/" %}{% assign current_page = site.baseurl %}{% endif %}
 
-<div class="grid-x header{% unless current_page == site.baseurl %} primary-background{% endunless %}">
+<div class="grid-x header{% unless home %} primary-background{% endunless %}">
 <div class="small-12 cell">
 
 <!-- Header Top -->
@@ -31,15 +30,15 @@
           {% assign sublinks = entry.sublinks %}
           {% if sublinks %}
             <li{{ current }}>
-              <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+              <a href="{{ entry.url }}">{{ entry.title }}</a>
               <ul class="menu align-middle">
                 {% for sublink in sublinks %}
-                  <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                  <li><a href="{{ sublink.url }}">{{ sublink.title }}</a></li>
                 {% endfor %}
               </ul>
             </li>
           {% else %}
-            <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+            <li{{ current }}><a href="{{ entry.url }}">{{ entry.title }}</a></li>
           {% endif %}
         {% endfor %}
         <li class="external"><a href="https://register.openownership.org" class="icon-hover" target="_blank">Register <span class="show-for-large"><svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg></span></a></li>
@@ -65,11 +64,11 @@
 <!-- End Navigation -->
 
 <!-- Logo and Tagline -->
-<div class="grid-x grid-padding-x grid-padding-y align-justify header__bottom {% if current_page == site.baseurl %}home-{% endif %}background-primary">
+<div class="grid-x grid-padding-x grid-padding-y align-justify header__bottom {% if home %}home-{% endif %}background-primary">
   <div class="shrink cell header__logo">
     <a href="/" aria-label="Logo">
       <svg class="icon icon-logo-main">
-        {% if current_page == site.baseurl %}
+        {% if home %}
           <use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-white"></use>
         {% else %}
           <use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use>
