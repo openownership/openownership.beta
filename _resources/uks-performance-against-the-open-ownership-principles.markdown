@@ -7,7 +7,7 @@ files:
 author: Open Ownership
 thumbnail-image: "/uploads/uk-principles-assessment.png"
 resource_type: Reports
-is_featured: true
+is_featured: false
 ---
 
 Open Ownership's rapid assessment of the UK's performance against the Open Ownership Principles analyses the laws, regulations, processes and data that comprise the UK's beneficial ownership disclosure regime.
