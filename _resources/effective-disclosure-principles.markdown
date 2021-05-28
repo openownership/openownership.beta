@@ -9,7 +9,7 @@ author: OpenOwnership
 thumbnail-image: "/uploads/principles-thumbnail.jpg"
 thumbnail-image-class: web-resource
 resource_type: Tools
-is_featured: true
+is_featured: false
 ---
 
 The Open Ownership Principles for effective beneficial ownership disclosure are designed to make
