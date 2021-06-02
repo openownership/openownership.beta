@@ -1,6 +1,6 @@
 ---
 title: New role - Communications Associate
-date: 2021-06-02 14:15:00 Z
+date: 2021-06-03 14:15:00 Z
 author: Open Ownership
 is_featured: true
 ---
