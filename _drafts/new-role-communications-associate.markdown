@@ -1,6 +1,8 @@
 ---
 title: New role - Communications Associate
 date: 2021-06-02 14:15:00 Z
+author: Open Ownership
+is_featured: true
 ---
 
 ## Terms
@@ -30,25 +32,29 @@ You’ll be a precise and engaging writer, who is able to handle multiple projec
 
 ## Key tasks and responsibilities
 
-1. Planning and delivery of online and offline content to deliver against the organisational communications plan
-   * Support the drafting and publication of a range of offline/online documents, such as briefings, funding reports, slide decks, videos and newsletters for diverse audiences. 
-   * Keep the website content up to date, including supporting the team to publish regular blog posts, and working with our web designer to deliver aesthetic and functional changes. Monitor web metrics and ensure that our website is aligned with current technologies and trends in digital and social media, design and applications. 
-   * Work with the Fundraising and Communications Manager to develop and deliver on our digital media strategy; including managing and posting to Open Ownership’s social media accounts.
-   * Regularly monitor the media for stories covering Open Ownership’s key concerns (beneficial ownership, corporate transparency, open government, corruption and money laundering), and proactively find ways to turn this into compelling and informed social media content.
-   * Update management systems with progress, and minute and action the regular communications team meetings.
-   * Maintain communications mailing lists, ensuring they can be segmented for maximum impact. Find proactive ways to grow our lists that are GDPR-compliant.
-2. Assist with donor and prospect fundraising tasks and communications 
-   * Support the development of the funding pipeline from identification, cultivation, solicitation to stewardship stages of funders.
-   * Ensure the fundraising database is updated, maintained and embedded in the organisation’s working practices. Minute and action the regular fundraising team meetings.
-   * Support the development of communications assets for fundraising, including taking ownership of profile-raising events and activities.
-   * Assist in the development of  funding applications in order to secure funds from a range of prospects.
-   * Support the Fundraising and Communications Manager with any other ad hoc tasks as requested.
-3. Assist the Open Ownership team to sustain and grow its external events 
-   * Maintain a comprehensive events calendar, and work with the Advocacy and Knowledge Management Associate and others to ensure a regular schedule of profile-raising events or colleagues’ attendance at others’ events.
-   * Assist colleagues with logistics for events where needed, such as assistance with slide decks, Zoom management and interpretation.
-   * Plan content and delivery of any prospect fundraising events.
-   * As part of communications strategy, maximise the impact of all attendance at all events.
-   * Help document Open Ownership events through photos, videos and interviews with participants, when COVID-19 restrictions allow.
+### 1. Planning and delivery of online and offline content to deliver against the organisational communications plan
+
+* Support the drafting and publication of a range of offline/online documents, such as briefings, funding reports, slide decks, videos and newsletters for diverse audiences. 
+* Keep the website content up to date, including supporting the team to publish regular blog posts, and working with our web designer to deliver aesthetic and functional changes. Monitor web metrics and ensure that our website is aligned with current technologies and trends in digital and social media, design and applications. 
+* Work with the Fundraising and Communications Manager to develop and deliver on our digital media strategy; including managing and posting to Open Ownership’s social media accounts.
+* Regularly monitor the media for stories covering Open Ownership’s key concerns (beneficial ownership, corporate transparency, open government, corruption and money laundering), and proactively find ways to turn this into compelling and informed social media content.
+* Update management systems with progress, and minute and action the regular communications team meetings.
+* Maintain communications mailing lists, ensuring they can be segmented for maximum impact. Find proactive ways to grow our lists that are GDPR-compliant.
+
+### 2. Assist with donor and prospect fundraising tasks and communications 
+* Support the development of the funding pipeline from identification, cultivation, solicitation to stewardship stages of funders.
+* Ensure the fundraising database is updated, maintained and embedded in the organisation’s working practices. Minute and action the regular fundraising team meetings.
+* Support the development of communications assets for fundraising, including taking ownership of profile-raising events and activities.
+* Assist in the development of  funding applications in order to secure funds from a range of prospects.
+* Support the Fundraising and Communications Manager with any other ad hoc tasks as requested.
+
+### 3. Assist the Open Ownership team to sustain and grow its external events 
+
+* Maintain a comprehensive events calendar, and work with the Advocacy and Knowledge Management Associate and others to ensure a regular schedule of profile-raising events or colleagues’ attendance at others’ events.
+* Assist colleagues with logistics for events where needed, such as assistance with slide decks, Zoom management and interpretation.
+* Plan content and delivery of any prospect fundraising events.
+* As part of communications strategy, maximise the impact of all attendance at all events.
+* Help document Open Ownership events through photos, videos and interviews with participants, when COVID-19 restrictions allow.
 
 ## Candidate Profile
 
@@ -74,4 +80,4 @@ Open Ownership uses the Applied platform for our recruitment which is designed t
 
 [To apply, please complete the question-based process](https://app.beapplied.com/apply/xaylwcx0xd) by 23:59 BST at the end 27 June 2021.
 
-[Download job description as PDF]()
+[Download job description as PDF](/uploads/Communications%20Associate%20May%202021.pdf)
