@@ -1,7 +1,7 @@
 ---
 title: New role - Communications Associate
 date: 2021-06-03 14:15:00 Z
-image: "/uploads/marvin-meyer-SYTO3xs06fU-unsplash-7403ee.jpg"
+image: "/uploads/andrew-neel-cckf4TsHAuw-unsplash-1440-810.jpg"
 author: Open Ownership
 is_featured: true
 ---
