@@ -6,6 +6,8 @@ author: Open Ownership
 is_featured: true
 ---
 
+We are looking for an enthusiastic and talented individual to support and champion our growing communications work.
+
 ## Terms
 
 * Full time, 37.5 hours per week.
