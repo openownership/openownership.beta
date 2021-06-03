@@ -2,7 +2,7 @@
 title: Kadie Armstrong
 categories:
 - bods
-position: 4
+position: 5
 job-title: Open Standards Adoption Lead
 image: "/uploads/kadie-armstrong-2.jpg"
 email: kadie.armstrong@opendataservices.coop
