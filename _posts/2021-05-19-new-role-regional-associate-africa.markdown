@@ -2,7 +2,7 @@
 title: New role - Regional Associate (Africa)
 date: 2021-05-19 14:04:00 Z
 categories:
-- news
+- jobs
 tags:
 - Africa
 image: "/uploads/Africadatateam.png"
