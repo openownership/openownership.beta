@@ -2,7 +2,7 @@
 title: Peter Low
 categories:
 - project-team
-position: 8
+position: 9
 job-title: Country Manager
 image: "/uploads/peter-low-2.jpg"
 email: peter@openownership.org

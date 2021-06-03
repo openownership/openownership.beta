@@ -2,7 +2,7 @@
 title: Eva Okunbor
 categories:
 - project-team
-position: 3
+position: 5
 job-title: Program Associate
 image: "/uploads/eva-okunbor-2.jpg"
 email: eva@openownership.org

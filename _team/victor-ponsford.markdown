@@ -2,7 +2,7 @@
 title: Victor Ponsford
 categories:
 - project-team
-position: 12
+position: 3
 job-title: Advocacy and Communications Manager
 image: "/uploads/victor-ponsford-2.jpg"
 email: victor@openownership.org
