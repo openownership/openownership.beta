@@ -2,7 +2,7 @@
 title: Karabo Rajuili
 categories:
 - project-team
-position: 6
+position: 4
 job-title: Country Manager
 image: "/uploads/karabo-rajuili.jpg"
 email: karabo@openownership.org
