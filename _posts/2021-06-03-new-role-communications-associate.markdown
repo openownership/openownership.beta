@@ -2,7 +2,7 @@
 title: New role - Communications Associate
 date: 2021-06-03 11:58:00 Z
 categories:
-- news
+- jobs
 image: "/uploads/andrew-neel-cckf4TsHAuw-unsplash-1440-810.jpg"
 author: Open Ownership
 is_featured: true
