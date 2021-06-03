@@ -22,12 +22,14 @@ You will join a small distributed team across the region and beyond, working on 
 
 [Download job description as PDF](/uploads/Regional%20Associate%20(Africa).pdf)
 
-### [Regional Associate (Africa)](/news/new-role-regional-associate-africa)
+### [Communications Associate](/news/new-role-communications-associate/)
 
-| Apply By | 8 June 2021 |
+| Apply By | 27 June 2021 |
 
-You will join a small distributed team across the region and beyond, working on delivery of Open Ownership’s support to national governments.  We’re a fast-paced startup, so be ready to pitch in where needed. You’ll provide high quality administrative and logistical support to enable programme and project delivery, as well as taking an active role in maintaining stakeholder relationships.
+We are looking for an enthusiastic and talented individual to support and champion our growing communications work. The successful postholder will be responsible for planning and delivering a range of online and offline content, including our social media channels, website, events, newsletters and publications.
 
-[Learn more and apply](/news/new-role-regional-associate-africa)
+You’ll be a precise and engaging writer, who is able to handle multiple projects and deadlines simultaneously. Your work will support the overall strategic direction of Open Ownership, and you will also have a chance to engage with our growing fundraising activities.
 
-[Download job description as PDF](/uploads/Regional%20Associate%20(Africa).pdf)
+[Learn more and apply](/news/new-role-communications-associate/)
+
+[Download job description as PDF](/uploads/Communications%20Associate%20May%202021.pdf)
