@@ -12,16 +12,6 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ## Current vacancies
 
-### [Regional Associate (Africa)](/jobs/new-role-regional-associate-africa)
-
-| Apply By | 8 June 2021 |
-
-You will join a small distributed team across the region and beyond, working on delivery of Open Ownership’s support to national governments.  We’re a fast-paced startup, so be ready to pitch in where needed. You’ll provide high quality administrative and logistical support to enable programme and project delivery, as well as taking an active role in maintaining stakeholder relationships.
-
-[Learn more and apply](/jobs/new-role-regional-associate-africa)
-
-[Download job description as PDF](/uploads/Regional%20Associate%20(Africa).pdf)
-
 ### [Communications Associate](/jobs/new-role-communications-associate/)
 
 | Apply By | 27 June 2021 |
