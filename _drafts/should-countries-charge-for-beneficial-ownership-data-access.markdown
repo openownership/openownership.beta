@@ -3,11 +3,14 @@ title: Should countries charge for beneficial ownership data access?
 date: 2021-06-14 10:19:00 Z
 categories:
 - blogs
+tags:
+- beneficial ownership
+- public good
 image: "/uploads/joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
 description: The costs associated with the creation and maintenance of beneficial
   ownership registers vary depending on the size of the jurisdiction. In this blog
-  post, Tymon Kiepe and Peter Low discuss the merits of government's charging for
-  their use.
+  post, Tymon Kiepe and Peter Low discuss the merits of governments charging for their
+  use.
 author: Peter Low and Tymon Kiepe
 is_featured: true
 ---
