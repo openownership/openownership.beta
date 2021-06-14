@@ -15,7 +15,7 @@ author: Peter Low and Tymon Kiepe
 is_featured: true
 ---
 
-Open Ownership (OO) has [recently published a policy briefing](https://www.openownership.org/uploads/OO%20Public%20Access%20Briefing.pdf) on the potential benefits of making beneficial ownership registers public. A key consideration for governments is whether to charge users for access to the data. Some countries have opted to levy a small fee as a means to recoup some of the set-up and running costs of their register, or, in some cases, to generate considerable revenue streams. However, in many contexts, a fee-paying model can be a false economy, as it restricts data use and limits the potential economic value of data reuse.
+**Open Ownership (OO) has [recently published a policy briefing](https://www.openownership.org/uploads/OO%20Public%20Access%20Briefing.pdf) on the potential benefits of making beneficial ownership registers public. **A key consideration for governments is whether to charge users for access to the data. Some countries have opted to levy a small fee as a means to recoup some of the set-up and running costs of their register, or, in some cases, to generate considerable revenue streams. However, in many contexts, a fee-paying model can be a false economy, as it restricts data use and limits the potential economic value of data reuse.
 
 **Costs and economic value**
 
@@ -40,5 +40,3 @@ Third party providers of beneficial ownership data rely primarily on data provid
 When conducting budgetary assessments of implementation costs related to the creation of public beneficial ownership registers, implementing governments are advised to bear in mind these various benefits of making data available for free. A recent study of company and beneficial ownership data in the EU concluded that “when comparing the costs and benefits of making these datasets available, it emerges clearly that the benefits to society and reusers greatly exceed the costs borne by the data holders”.
 
 Implementing a fee-free access model can present challenges because the economic benefits often accrue in different departments from where costs are born, and government budgeting is often not set up to reconcile these. Because of this, the agencies which bear the costs often impose charges at the point of service. Governments should reconcile the costs of data products against the revenues through internal budget processes and clear interdepartmental agreements. Without this holistic view, myopic registrars may opt for charging fees, forgoing the economic benefits that freely accessible data may provide. These and other benefits are highlighted in this [OO policy briefing](https://www.openownership.org/uploads/OO%20Public%20Access%20Briefing.pdf).
-
-\
