@@ -372,6 +372,15 @@ h2 {
   @include links ($black, $primary-color);
 }
 
+.news_summary {
+  padding: 1em;
+  height: 100%;
+  font-size: 1.25em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 // X. Sponsors
 // -----------
 
