@@ -8,7 +8,7 @@ description: Our mission is to make knowledge about who owns & controls companie
 image: "/assets/img/og-image.png?version=2"
 header-buttons:
 - title: Beneficial ownership explained
-  url: /about
+  url: /what-is-bot
 intro: We strengthen accountability and governance by advancing transparency in the ownership and control of companies.
 intro-buttons:
 - title: Global Register
