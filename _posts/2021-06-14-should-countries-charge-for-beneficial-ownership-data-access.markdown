@@ -40,7 +40,7 @@ Third party providers of beneficial ownership data rely primarily on data provid
 
 
 
-##Supporting open government registers
+## Supporting open government registers
 
 When conducting budgetary assessments of implementation costs related to the creation of public beneficial ownership registers, implementing governments are advised to bear in mind these various benefits of making data available for free. A recent study of company and beneficial ownership data in the EU concluded that “when comparing the costs and benefits of making these datasets available, it emerges clearly that the benefits to society and reusers greatly exceed the costs borne by the data holders”.
 
