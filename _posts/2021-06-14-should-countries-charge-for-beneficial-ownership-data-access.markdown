@@ -7,10 +7,9 @@ tags:
 - beneficial ownership
 - public good
 image: "/uploads/joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
-description: The costs associated with the creation and maintenance of beneficial
-  ownership registers vary depending on the size of the jurisdiction. In this blog
-  post, Tymon Kiepe and Peter Low discuss the merits of governments charging for their
-  use.
+description: The economic value of the reuse of beneficial ownership data can be considerable.
+  In this blog post, Tymon Kiepe and Peter Low discuss the merits of governments making
+  data available for free.
 author: Peter Low and Tymon Kiepe
 is_featured: true
 ---
@@ -19,7 +18,7 @@ Open Ownership (OO) has [recently published a policy briefing](https://www.openo
 
 
 
-**Costs and economic value**
+## Costs and economic value
 
 The costs associated with the creation and maintenance of beneficial ownership registers vary depending on the size of the jurisdiction; the number of companies it hosts; the services it plans to offer; and how it makes data available. For example, Slovakia’s Register of Public Sector Partners (a beneficial ownership register which covers government contractors and recipients of public funds) [reportedly cost](http://transparency.sk/wp-content/uploads/2017/06/Register-of-beneficial-ownership_study2017.pdf) EUR 330,000 to build and has a yearly operating cost of around EUR 33,000. The Netherlands [budgeted](https://www.privacyfirst.nl/images/stories/UBO/2021-01-05_KG_dagvaarding_UBO_register_PrivacyFirst_def.pdf) EUR 9 million for set-up costs, and EUR 600,000 for annual running costs.
 
@@ -27,7 +26,7 @@ However, even the highest documented costs are less than the economic value gene
 
 
 
-**Forgoing fees to encourage reuse**
+## Forgoing fees to encourage reuse
 
 According to the [Open Ownership Principles](https://www.openownership.org/principles/public-access/) (OO Principles), data within beneficial ownership registers “should be accessible and usable without barriers such as payment, identification, registration requirements, collection of data about users of the register, or restrictive licensing, as bulk data and searchable by both company and beneficial owner”. The removal of these various barriers means increasing data use and [potential benefits](https://www.openownership.org/uploads/OO%20Public%20Access%20Briefing.pdf).
 
@@ -41,7 +40,7 @@ Third party providers of beneficial ownership data rely primarily on data provid
 
 
 
-**Supporting open government registers**
+##Supporting open government registers
 
 When conducting budgetary assessments of implementation costs related to the creation of public beneficial ownership registers, implementing governments are advised to bear in mind these various benefits of making data available for free. A recent study of company and beneficial ownership data in the EU concluded that “when comparing the costs and benefits of making these datasets available, it emerges clearly that the benefits to society and reusers greatly exceed the costs borne by the data holders”.
 
