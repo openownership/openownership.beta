@@ -137,7 +137,7 @@ future: true
 social:
   twitter: https://twitter.com/openownership
   medium: https://medium.com/beneficial-ownership
-  github: https://github.com/openownership/data-standard
+  github: https://github.com/openownership
 guides:
   consider: "/guide/consider"
   commit: "/guide/commit"
