@@ -15,7 +15,7 @@ author: Peter Low and Tymon Kiepe
 is_featured: true
 ---
 
-**Open Ownership (OO) has [recently published a policy briefing](https://www.openownership.org/uploads/OO%20Public%20Access%20Briefing.pdf) on the potential benefits of making beneficial ownership registers public.** A key consideration for governments is whether to charge users for access to the data. Some countries have opted to levy a small fee as a means to recoup some of the set-up and running costs of their register, or, in some cases, to generate considerable revenue streams. However, in many contexts, a fee-paying model can be a false economy, as it restricts data use and limits the potential economic value of data reuse.
+Open Ownership (OO) has [recently published a policy briefing](https://www.openownership.org/uploads/OO%20Public%20Access%20Briefing.pdf) on the potential benefits of making beneficial ownership registers public. A key consideration for governments is whether to charge users for access to the data. Some countries have opted to levy a small fee as a means to recoup some of the set-up and running costs of their register, or, in some cases, to generate considerable revenue streams. However, in many contexts, a fee-paying model can be a false economy, as it restricts data use and limits the potential economic value of data reuse.
 
 
 
