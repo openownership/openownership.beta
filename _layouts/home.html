@@ -79,7 +79,7 @@ layout: default
 <section class="border-bottom home__featured__posts snow-background">
   <div class="grid-x grid-padding-x margin-top-1">
     <div class="cell small-12 large-6 large-offset-3 text-center">
-      <h3 class="margin-top-0">Latest news, events and resources</h3>
+      <h2 class="margin-top-0">Latest news, events and resources</h2>
     </div>
     <div class="cell small-12 large-3">
       <ul class="horizontal menu align-right sans-bold">
@@ -113,7 +113,7 @@ layout: default
                 {% assign image = post.image %}
                 <div class="light-gray-background image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
               {% endif %}
-              <h4><a href="{{post.url}}">{{post.title}}</a></h4>
+              <h3><a href="{{post.url}}">{{post.title}}</a></h3>
               <p><span class="label text-capitalize label--{{post.categories[0] | slugify}}">{{ post.categories[0] }}</span></p>
               <!--<p class="h5 sans-regular medium-gray">{% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}</p>-->
             </div>
@@ -128,7 +128,8 @@ layout: default
               {% if item.logo %}
                 <div class="inmedia_logo"><img src="{{ item.logo }}" /></div>
               {% endif %}
-              <h4><a href="{{item.link}}" target="_blank">{{item.title}}</a></h4>
+              <h3>
+              </h3>
             </div>
           </div>
         {% endfor %}
@@ -145,7 +146,7 @@ layout: default
                     </div>
                   {% endif %}
                   <div class="small-12{% if resource.thumbnail-image %} xxlarge-8{% endif %} cell">
-                    <h4 class="margin-top-0">{{resource.title}}</h4>
+                    <h3 class="margin-top-0">{{resource.title}}</h3>
                     <p><span class="label text-capitalize">{{ resource.resource_type }}</span></p>
                     <p>Download in
                       {% for file in resource.files %}
