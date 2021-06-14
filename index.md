@@ -9,7 +9,7 @@ image: "/assets/img/og-image.png?version=2"
 header-buttons:
 - title: Beneficial ownership explained
   url: /what-is-bot
-intro: We strengthen accountability and governance by advancing transparency in the ownership and control of companies.
+intro: We strengthen accountability and advance transparency in company ownership.
 intro-buttons:
 - title: Global Register
   url: https://register.openownership.org/
