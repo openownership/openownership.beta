@@ -395,7 +395,8 @@ h2 {
   img {
     height: 2em;
     max-width: 100%;
-    margin-bottom: 1em
+    margin-bottom: 1em;
+    filter: brightness(0) saturate(100%) invert(60%) sepia(19%) saturate(368%) hue-rotate(176deg) brightness(88%) contrast(92%);
   }
 }
 
