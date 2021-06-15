@@ -22,7 +22,7 @@ what-we-do:
 - title: Technology and tools
   text: Together with governments, companies and civil society, we create tools and
     support people to use beneficial ownership data to deliver economic and social
-    benefits
+    benefits.
   buttons:
   - title: BODS
     url: http://standard.openownership.org/
