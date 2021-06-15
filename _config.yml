@@ -33,9 +33,6 @@ collections:
   what-we-do:
     title: What We Do
     output: true
-  inmedia:
-    title: In the Media
-    output: false
 defaults:
 - scope:
     path: ''

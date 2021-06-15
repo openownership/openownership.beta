@@ -1,7 +1,7 @@
 ---
 title: OpenOwnership
-layout: home
 position: 0
+layout: home
 description: We strengthen accountability and advance transparency in company ownership.
 image: "/assets/img/og-image.png?version=2"
 header-buttons:
@@ -37,6 +37,5 @@ what-we-do:
     url: "/principles"
   - title: Reports
     url: "/resources/?resource-type=reports"
-layout: home
 ---
 
