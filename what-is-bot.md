@@ -1,6 +1,6 @@
 ---
 title: What is Beneficial Ownership Transparency (BOT)?
-date: 2021-06-14
+date: 2021-06-14 00:00:00 Z
 ---
 
 ## Beneficial owners are the real owners of companies.
