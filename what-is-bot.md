@@ -10,7 +10,6 @@ A beneficial owner is defined as the natural person that can be found at the end
 A beneficial owner is a person that ultimately has the right to some share of a legal entity's income or assets, or the ability to control its activities.
 
 Beneficial ownership transparency (BOT) reveals how companies and other legal entities or arrangements, such as trusts, are owned and controlled by their beneficial owners.
-{: .lead }
 
 ### Company ownership: Rights and responsibilities
 
