@@ -8,6 +8,9 @@ collections:
   guide:
     title: Guide
     output: true
+  inmedia:
+    title: In the Media
+    output: false
   posts:
     title: Posts
     output: true
@@ -137,7 +140,7 @@ future: true
 social:
   twitter: https://twitter.com/openownership
   medium: https://medium.com/beneficial-ownership
-  github: https://github.com/openownership/data-standard
+  github: https://github.com/openownership
 guides:
   consider: "/guide/consider"
   commit: "/guide/commit"
@@ -169,3 +172,4 @@ autopages:
     permalink: "/tag/:tag"
 imgix:
   source: open-ownership-team.imgix.net
+disable_disk_cache: true

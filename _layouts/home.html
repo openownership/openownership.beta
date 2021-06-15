@@ -3,98 +3,175 @@ layout: default
 ---
 
 <!-- Home Intro -->
-<div class="grid-x grid-padding-x grid-padding-y primary-background">
+<div class="grid-x grid-padding-x grid-padding-y padding-top-1 padding-bottom-1 home-background-primary">
 
-  <div class="small-12 cell text-center home__intro">
-    <h1 class="padding-bottom-2">{{page.header}}</h1>
+  <div class="small-12 {% if page.intro %}medium-7 large-8{% endif %} cell home__intro">
+    <h1>
+      {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
+      {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
+      <a href="/map">{{partially_committed.size | plus: fully_committed.size}} countries</a> are committed to beneficial ownership transparency
+    </h1>
+    {% if page.header-buttons %}
+      {% for button in page.header-buttons %}
+        {% if button.title and button.url %}
+          <a class="button white" href="{{ button. url }}">{{ button.title }}</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </div>
+
+  {% if page.intro %}
+  <div class="small-12 medium-5 large-4 cell home__intro">
+    {{ page.intro | markdownify }}
+    {% if page.intro-buttons %}
+      {% for button in page.intro-buttons %}
+        {% if button.title and button.url %}
+          <a class="button white" href="{{ button. url }}">{{ button.title }}</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+  {% endif %}
 
 </div>
 <!-- End Home Intro -->
 
-<!-- Key facts -->
-<section class="primary-background">
-  <div class="grid-x grid-padding-x grid-padding-y home__key_facts">
-    <div class="small-12 medium-6 large-4 cell text-center home__key_fact">
-      <span class="home__key_fact__stat">
-        <span class="home__key_fact__stat__inner serif-headline">
-          {{page.key-fact-1-stat}}
-        </span>
-      </span>
-      <span class="home__key_fact__text">{{page.key-fact-1-text}}</span>
-    </div>
-
-    <div class="small-12 medium-6 large-4 cell text-center home__key_fact">
-        <span class="home__key_fact__stat">
-            <span class="home__key_fact__stat__inner">
-              {% assign fully_committed = site.data.countries | where: 'commitment_level', '2' %}
-              {% assign partially_committed = site.data.countries | where: 'commitment_level', '1' %}
-              {{partially_committed.size | plus: fully_committed.size}} countries
-            </span>
-          </span>
-        <span class="home__key_fact__text">{{page.key-fact-2-text}}</span>
-    </div>
-
-    <div class="small-12 medium-12 large-4 cell text-center home__key_fact">
-      <span class="home__key_fact__stat">
-          <span class="home__key_fact__stat__inner">
-            {{page.key-fact-3-stat}}
+<!-- What we do -->
+{% if page.what-we-do and page.what-we-do.size > 0 %}
+<section class="home-background-secondary">
+  <div class="whiteout">
+    <div class="grid-x grid-padding-x grid-padding-y home__whats">
+    {% for what in page.what-we-do %}
+      <div class="small-12 medium-6 large-4 cell text-center home__what">
+        <span class="home__what__title">
+          <span class="home__what__title__inner serif-headline">
+            {{ what.title }}
           </span>
         </span>
-      <span class="home__key_fact__text">{{page.key-fact-3-text}}</span>
-    </div>
-
-    <div class="small-12 cell text-center home__key_fact">
-      {{page.key-fact-4}}
-    </div>
-  </div>
-</section>
-
-<!-- Home Featured Posts -->
-{% assign featured_posts = site.posts | where:"is_featured",true %}
-
-{% unless featured_posts == empty %}
-  <section class="border-bottom home__featured__posts snow-background">
-    <div class="grid-x grid-padding-x">
-      <div class="cell small-12 text-center">
-        <h3>Latest news, events and blogs</h3>
-      </div>
-    </div>
-    <div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
-      {% for post in featured_posts limit: 3 %}
-        <div class="cell small-12 medium-6 large-4 home__featured__post">
-          <div class="callout shadow large shadow--{{post.categories[0] | slugify}}" data-equalizer-watch>
-            {% if post.image %}
-              {% assign image = post.image %}
-              <div class="light-gray-background image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+        <span class="home__what__text">{{ what.text | markdownify }}</span>
+        {% if what.buttons %}
+          {% for button in what.buttons %}
+            {% if button.title and button.url %}
+              <a class="button white" href="{{ button. url }}">{{ button.title }}</a>
             {% endif %}
-            <h4><a href="{{post.url}}">{{post.title}}</a></h4>
-            <p><span class="label text-capitalize label--{{post.categories[0] | slugify}}">{{ post.categories[0] }}</span></p>
-            <p class="h5 sans-regular medium-gray">{% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}</p>
-          </div>
-        </div>
+          {% endfor %}
+        {% endif %}
+      </div>
       {% endfor %}
     </div>
-  </section>
-{% endunless %}
-<!-- End Home Featured Posts -->
+  </div>
+</section>
+{% endif %}
 
-<!-- Home Why -->
-<section>
+<!-- Home Latest Items -->
+{% assign featured_posts = site.posts | where: "is_featured", true | sort: "date" | reverse | slice: 0, 3 %}
+{% assign other_posts = site.posts | where: "is_featured", false | sort: "date" | reverse | slice: 0, 3 %}
+{% assign featured_resources = site.resources | where: "is_featured", true | sort: "date" | reverse | slice: 0, 2 %}
+{% assign other_resources = site.resources | where: "is_featured", false | sort: "date" | reverse | slice: 0, 2 %}
+{% assign featured_media = site.inmedia | where: "is_featured", true | sort: "date" | reverse | slice: 0, 3 %}
+{% assign other_media = site.inmedia | where: "is_featured", false | sort: "date" | reverse | slice: 0, 3 %}
 
-  <div class="grid-container">
-    <div class="grid-x home__why align-center">
+{% assign latest_posts = featured_posts | concat: other_posts %}
+{% assign latest_resources = featured_resources | concat: other_resources %}
+{% assign latest_media = featured_media | concat: other_media %}
 
-      <div class="small-12 medium-10 cell">
-        <h3>{{page.why-title}}</h3>
-        <div class="h5 sans-regular">
-        {{page.why-text | markdownify}}
-        </div>
-        <a class="button hollow" href="/what-we-do/">Read more about what we do</a>
-      </div>
-
+{% if latest_posts.size > 0 or latest_resouces.size > 0 or latest_media.size > 0 %}
+<section class="border-bottom home__featured__posts snow-background">
+  <div class="grid-x grid-padding-x margin-top-1">
+    <div class="cell small-12 large-6 large-offset-3 text-center">
+      <h2 class="margin-top-0">Latest news, events and resources</h2>
+    </div>
+    <div class="cell small-12 large-3">
+      <ul class="horizontal menu align-right sans-bold">
+        <li>
+          <a href="https://anchor.fm/open-ownership" target="_blank" class="external">
+            <svg class="icon">
+              <use xlink:href="/assets/icons/symbol-defs.svg#icon-audio"></use>
+            </svg>
+            Podcast
+          </a>
+        </li>
+        <li>
+          <a href="https://mailchi.mp/440be76e70f3/the-record-landing-page" target="_blank" class="external">
+            <svg class="icon">
+              <use xlink:href="/assets/icons/symbol-defs.svg#icon-article"></use>
+            </svg>
+            Newsletter
+          </a>
+        </li>
+      </ul>
     </div>
   </div>
+  
+    <div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
+      
+      {% if latest_posts.size > 0 %}
+        {% for post in latest_posts limit: 3 %}
+          <div class="cell small-12 medium-6 large-4 home__featured__post">
+            <div class="callout shadow large" data-equalizer-watch>
+              {% if post.image %}
+                {% assign image = post.image %}
+                <div class="light-gray-background image" data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}"></div>
+              {% endif %}
+              <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+              <p><span class="label text-capitalize label--{{post.categories[0] | slugify}}">{{ post.categories[0] }}</span></p>
+              <!--<p class="h5 sans-regular medium-gray">{% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}</p>-->
+            </div>
+          </div>
+        {% endfor %}
+      {% endif %}
 
-</section>
-<!-- End Home Why -->
+      {% if latest_media.size > 0 %}
+        {% for item in latest_media limit: 3 %}
+          <div class="cell small-12 medium-6 large-4 home__featured__post">
+            <div class="callout shadow large" data-equalizer-watch>
+              {% if item.logo %}
+                <div class="inmedia_logo"><img src="{{ item.logo }}" /></div>
+              {% endif %}
+              <h3>
+                <a href="{{item.link}}" class="icon-hover" target="_blank">{{item.title}}
+                  <svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg>
+                </a>
+              </h3>
+            </div>
+          </div>
+        {% endfor %}
+      {% endif %}
+      
+      {% if latest_resources.size > 0 %}
+        {% for resource in latest_resources limit: 3 %}
+          <div class="cell small-12 medium-6 large-4 home__featured__post">
+            <div class="callout shadow large" data-equalizer-watch>
+              <div class="grid-x">
+                  {% if resource.thumbnail-image %}
+                    <div class="small-6 xxlarge-4 cell padding-right-1 padding-bottom-1">
+                      <img src="{{ resource.thumbnail-image }}" />
+                    </div>
+                  {% endif %}
+                  <div class="small-12{% if resource.thumbnail-image %} xxlarge-8{% endif %} cell">
+                    <h3 class="margin-top-0">{{resource.title}}</h3>
+                    <p><span class="label text-capitalize">{{ resource.resource_type }}</span></p>
+                    <p>Download in
+                      {% for file in resource.files %}
+                        {% assign lang_code = file[0] %}
+                        <a href="{{ file[1] }}">{{ site.data.language_names[lang_code]['name'] | capitalize }}</a>{% unless forloop.last %},{% endunless %}
+                      {% endfor %}
+                    </p>
+                    <!--<p class="h5 sans-regular medium-gray">{% if resource.author %}{{ resource.author }} · {% endif %}{{ resource.date | date: site.date_format }}</p>-->
+                  </div>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      {% endif %}
+
+    </div>
+
+    <p class="text-center">
+      <a class="button" href="/latest">All news</a>
+      <a class="button" href="/resources">All resources</a>
+    </p>
+    
+  </section>
+{% endif %}
+<!-- End Home Featured Posts -->
