@@ -1,5 +1,6 @@
 ---
 title: OpenOwnership
+layout: home
 position: 0
 description: We strengthen accountability and advance transparency in company ownership.
 image: "/assets/img/og-image.png?version=2"
