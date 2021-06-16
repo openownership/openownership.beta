@@ -8,6 +8,29 @@ from dotenv import load_dotenv
 from notion.client import NotionClient
 import requests
 
+from notion.store import RecordStore
+
+#### MONKEYPATCH client libary needs patching.
+def call_load_page_chunk(self, page_id):
+
+    if self._client.in_transaction():
+        self._pages_to_refresh.append(page_id)
+        return
+
+    data = {
+        "pageId": page_id,
+        "limit": 100,  ## Monkey patch changes this number to 100
+        "cursor": {"stack": []},
+        "chunkNumber": 0,
+        "verticalColumns": False,
+    }
+
+    recordmap = self._client.post("loadPageChunk", data).json()["recordMap"]
+
+    self.store_recordmap(recordmap)
+
+RecordStore.call_load_page_chunk = call_load_page_chunk
+#### END MONKEYPATCH
 
 load_dotenv()
 
@@ -50,20 +73,20 @@ def involvementText(text):
 def defaultCommitmentSummary(commitment_type, country):
     if commitment_type == 'EU':
         return (
-            f"As a European Union member, {country.country} is obliged to "
+            f"As a European Union member, {country.Country} is obliged to "
             f"create a central, public register of beneficial ownership, "
             f"covering the whole economy."
         )
     elif commitment_type == 'EITI':
         return (
             f"As an <a href='https://eiti.org/'>Extractives Industry "
-            f"Transparency Initiative (EITI)</a> member, {country.country} has "
+            f"Transparency Initiative (EITI)</a> member, {country.Country} has "
             f"committed to beneficial ownership transparency for the "
             f"extractives sector."
         )
     elif commitment_type == 'BOLG':
         return (
-            f"{country.country} has made a commitment to beneficial ownership "
+            f"{country.Country} has made a commitment to beneficial ownership "
             f"transparency as part of the "
             f"<a href='https://www.openownership.org/what-we-do/the-beneficial-ownership-leadership-group/'>"
             f"Beneficial Ownership Leadership Group</a>."
@@ -72,18 +95,18 @@ def defaultCommitmentSummary(commitment_type, country):
         return (
             f"At the "
             f"<a href='https://www.gov.uk/government/topical-events/anti-corruption-summit-london-2016'>"
-            f"2016 UK Anti-Corruption Summit</a> {country.country} made a "
+            f"2016 UK Anti-Corruption Summit</a> {country.Country} made a "
             f"commitment to beneficial ownership disclosure."
         )
     elif commitment_type == 'OGP':
         return (
-            f"{country.country} has included a commitment in an Open "
+            f"{country.Country} has included a commitment in an Open "
             f"Government Partnership National Action Plan to beneficial "
             f"ownership transparency"
         )
     elif commitment_type == 'Other':
         return (
-            f"{country.country} has made a commitment to beneficial "
+            f"{country.Country} has made a commitment to beneficial "
             f"beneficial ownership transparency through some other means"
         )
 
@@ -142,17 +165,18 @@ def regimesByCountryId(client):
     regimes = defaultdict(list)
 
     for row in regime_tracker.collection.get_rows():
-        if len(row.country) == 0:
+        if len(row.Country) == 0:
             print(f'{row} is missing a country to match it to')
             continue
-        register_url = extractUrl(row.get_property('6_1_register_url_r_online_url'))
-        oo_register_url = extractUrl(row.get_property('3_1_oo_register_page_url'))
+        register_url = extractUrl(row.get_property('6_1_Register_URL_R_ONLINE_URL'))
+        oo_register_url = extractUrl(row.get_property('3_1_OO_Register_Page_URL'))
         if register_url or oo_register_url:
-            regimes[row.country[0].id].append({
+            regimes[row.Country[0].id].append({
                 'name': row.get_property('title'),
-                'scope': row.get_property('1_regime_scope_c_scope'),
+                'scope': row.get_property('1_Regime_scope_C_SCOPE'),
                 'register_url': register_url,
-                'oo_register_url': oo_register_url
+                'oo_register_url': oo_register_url,
+                'last_edited': row.get_property('Last_edited'),
             })
 
     return regimes
@@ -163,20 +187,21 @@ def commitmentsByCountryId(client):
     commitments = defaultdict(list)
 
     for row in commitments_tracker.collection.get_rows():
-        if len(row.country) == 0:
+        if len(row.Country) == 0:
             print(f'{row} is missing a country to match it to')
             continue
-        commitment_type = row.get_property('commitment_type')
-        summary = row.get_property('summary_text')
+        commitment_type = row.get_property('Commitment_type')
+        summary = row.get_property('Summary_Text')
         if summary == '':
-            summary = defaultCommitmentSummary(commitment_type, row.get_property('country')[0])
-        commitments[row.country[0].id].append({
+            summary = defaultCommitmentSummary(commitment_type, row.get_property('Country')[0])
+        commitments[row.Country[0].id].append({
             'type': commitment_type,
-            'all_sectors': row.get_property('all_sectors'),
-            'central_register': row.get_property('central_register'),
-            'public_register': row.get_property('public_register'),
-            'link': extractUrl(row.get_property('link')),
-            'summary': summary
+            'all_sectors': row.get_property('All_sectors'),
+            'central_register': row.get_property('Central_register'),
+            'public_register': row.get_property('Public_register'),
+            'link': extractUrl(row.get_property('Link')),
+            'summary': summary,
+            'last_edited': row.get_property('Last_edited'),
         })
 
     return commitments
@@ -202,24 +227,30 @@ def writeCountriesCSV(client, data_dir, capitals, regimes, commitments):
         'any_data_in_oo_register',
         'last_updated'
     ]
+
     output = os.path.join(data_dir, 'countries.csv')
     with open(output, "w") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, dialect='unix')
         writer.writeheader()
         for country in country_tracker.collection.get_rows():
             committed = len(commitments.get(country.id, [])) > 0
-            involved = validInvolvement(country.oo_support)
+            involved = validInvolvement(country.OO_Support)
             if(committed or involved):
                 involvement = 'None'
                 if involved:
-                    involvement = involvementText(country.oo_support)
-                capital = capitals.get(country.iso2, {})
+                    involvement = involvementText(country.OO_Support)
+                capital = capitals.get(country.ISO2, {})
+                all_last_edited = [country.Last_edited]
                 country_regimes = regimes.get(country.id, [])
+                all_last_edited.extend([item['last_edited'] for item in country_regimes])
                 country_commitments = combinedCommitments(commitments.get(country.id, []))
+
+                all_last_edited.extend([item['last_edited'] for item in commitments.get(country.id, [])])
+
                 row = {
                     'notion_id': country.id,
-                    'name': country.country,
-                    'iso2': country.iso2,
+                    'name': country.Country,
+                    'iso2': country.ISO2,
                     'committed': committed,
                     'involved': involved,
                     'involvement': involvement,
@@ -232,7 +263,7 @@ def writeCountriesCSV(client, data_dir, capitals, regimes, commitments):
                     'capital_lon': capital.get('lon'),
                     'any_online_register': any((regime.get('register_url') is not None) for regime in country_regimes),
                     'any_data_in_oo_register': any((regime.get('oo_register_url') is not None) for regime in country_regimes),
-                    'last_updated': country.last_changed_automatic.isoformat()
+                    'last_updated': max(all_last_edited)
                 }
                 writer.writerow(row)
 
