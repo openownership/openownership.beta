@@ -5,6 +5,7 @@ categories:
 - Policy Briefing
 files:
   en: "/uploads/OO%20BO%20Data%20in%20Procurement.pdf"
+  es: "/uploads/OPO%20Procurement%20Paper%20ES.pdf"
 author: Eva Okunbor and Tymon Kiepe
 thumbnail-image: "/uploads/OO%20BO%20Data%20in%20Procurement%20Thumbnail.jpg"
 resource_type: Briefings
