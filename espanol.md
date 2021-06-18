@@ -64,6 +64,14 @@ resources:
   url: "/uploads/asociese-con-nosotros.pdf"
   thumbnail-image: "/uploads/partner-with-us-thumbnail.jpg"
   thumbnail-image-class: web-resource
+- title: Los datos sobre los beneficiarios finales en el contexto de las adquisiciones
+  attribution: 
+  content: Este informe de políticas describe distintos modos en que los datos sobre
+    los beneficiarios finales mejoran los procesos de adquisición pública y sus objetivos.
+    El informe describe una serie  de decisiones que deben tomarse con respecto a
+    cuándo, dónde y cómo recolectar los datos, y cuál es la mejor forma de verificarlos.
+  url: "/uploads/OPO%20Procurement%20Paper%20ES.pdf"
+  thumbnail-image: "/uploads/OO%20BO%20Data%20in%20Procurement%20Thumbnail.jpg"
 layout: espanol
 ---
 
