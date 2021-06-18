@@ -65,7 +65,7 @@ resources:
   thumbnail-image: "/uploads/partner-with-us-thumbnail.jpg"
   thumbnail-image-class: web-resource
 - title: Los datos sobre los beneficiarios finales en el contexto de las adquisiciones
-  attribution: 
+  attribution: Eva Okunbor y Tymon Kiepe · marzo 2021
   content: Este informe de políticas describe distintos modos en que los datos sobre
     los beneficiarios finales mejoran los procesos de adquisición pública y sus objetivos.
     El informe describe una serie  de decisiones que deben tomarse con respecto a
