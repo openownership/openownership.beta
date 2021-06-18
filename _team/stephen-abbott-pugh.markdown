@@ -5,7 +5,8 @@ position: 7
 job-title: Data and Technology Manager
 image: "/uploads/stephen-abbott-pugh-team.jpg"
 email: stephen@openownership.org
-social: https://www.linkedin.com/in/stephendabbott/
+social:
+  linkedin: https://www.linkedin.com/in/stephendabbott/
 ---
 
 Stephen Abbott Pugh is Open Ownership's Data and Technology Manager. He looks after the overall technical roadmap for the organisation, providing technical assistance to governments with implementing technology reforms to advance beneficial ownership transparency. He is the product owner of the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/0.2.0/) and the [Open Ownership Register](https://register.openownership.org/), along with a range of other technical products.
