@@ -1,5 +1,5 @@
 ---
-title: 'Beneficial ownership transparency implementation: lessons from five countries'
+title: 'Beneficial ownership transparency implementation: Lessons from five countries'
 date: 2021-06-18 10:49:00 Z
 categories:
 - blogs
