@@ -7,86 +7,20 @@ pagination:
 
 <section class="guide__page--{{page.title | slugify}}">
 
-
-
 <!-- Pagination Desktop -->
   <div class="grid-x grid-padding-y align-justify padding-top-2" data-equalizer>
-  
-    <div class="small-6 medium-3 large-2 cell show-for-large">
-      {% if page.previous.url %}
-        <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
-        
-        <div class="grid-y height-100 align-center">
-        <div class="shrink cell">
-          <div class="grid-x align-middle">
-            <div class="shrink cell">
-            <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
-            </div>
-            <div class="auto cell text-right">
-            <div>{{page.previous.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.previous.title}}</h3>
-            </div>
-          </div>
-        </div>
-        </div>
-        </a>
-{% else %}
 
-        <a href="/guide" class="guide-pagination--guide button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
-        
-        <div class="grid-y height-100 align-center">
-        <div class="shrink cell">
-          <div class="grid-x align-middle">
-            <div class="shrink cell">
-            <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
-            </div>
-            <div class="auto cell text-right">
-            <div class="white">00</div>
-            <h3 class="margin-bottom-0">Guide</h3>
-            </div>
-          </div>
-        </div>
-        </div>
-        </a>
-      {% endif %}
-    </div>
-
-<!-- Page Title -->
-    <div class="small-6 medium-4 cell padding-3">
-      <h5 class="sans-bold medium-gray">{{page.position | plus: 1 | prepend: '0'}}</h5>
+    <!-- Page Title -->
+    <div class="small-6 large-4 large-order-2 cell padding-3">
+      <h5 class="sans-bold medium-gray">{{ page.position | prepend: '0' }}</h5>
       <h1>{{page.title}}</h1>
     </div>
-    <div class="small-6 medium-4 cell padding-3 text-right">
+    <div class="small-6 large-4 large-order-3 cell padding-3 text-right">
       <svg class="icon icon-guide icon-{{page.title | slugify}}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{page.title | slugify}}"></use></svg>
     </div>
-<!-- End Page Title -->
-    
-    <div class="small-6 medium-3 large-2 cell text-right show-for-large">
-      {% if page.next.url %}
-      <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
-        <div class="grid-y height-100 align-center">
-        <div class="shrink cell">
-          <div class="grid-x align-middle">
-            <div class="auto cell text-left">
-            <div>{{page.next.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.next.title}}</h3>
-            </div>
-            <div class="shrink cell">
-            <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
-            </div>
-          </div>
-        </div>
-        </div>
-      </a>
-      {% endif %}
-    </div>
+    <!-- End Page Title -->
   
-  </div>
-<!-- End Pagination -->
-
-  <div class="grid-x grid-padding-y align-justify padding-top-2 hide-for-large" data-equalizer>
-  
-    <div class="small-6 padding-right-1 cell">
+    <div class="small-6 medium-3 small-order-3 large-order-1 padding-right-1 large-2 cell">
       {% if page.previous.url %}
         <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
         
@@ -97,17 +31,15 @@ pagination:
             <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
             </div>
             <div class="auto cell text-right">
-            <div>{{page.previous.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.previous.title}}</h3>
+            <div>{{ page.previous.position | prepend: '0' }}</div>
+            <h3 class="margin-bottom-0">{{ page.previous.title }}</h3>
             </div>
           </div>
         </div>
         </div>
         </a>
-{% else %}
-
+      {% else %}
         <a href="/guide" class="guide-pagination--guide button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
-        
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
@@ -125,15 +57,15 @@ pagination:
       {% endif %}
     </div>
     
-    <div class="small-6 padding-left-1 text-right cell">
+    <div class="small-6 medium-3 small-order-4 padding-left-1 large-2 cell text-right">
       {% if page.next.url %}
       <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
             <div class="auto cell text-left">
-            <div>{{page.next.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.next.title}}</h3>
+            <div>{{ page.next.position | prepend: '0' }}</div>
+            <h3 class="margin-bottom-0">{{ page.next.title }}</h3>
             </div>
             <div class="shrink cell">
             <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
