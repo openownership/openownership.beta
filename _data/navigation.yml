@@ -1,19 +1,74 @@
 header:
-  - title: Principles
-    url: /principles/
-  - title: What we do
-    url: /what-we-do/
-  - title: Map
-    url: /map/
-  - title: Latest
-    url: /latest/
-  - title: Resources
-    url: /resources/
   - title: About
-    url: /about/
-  - title: Jobs
-    url: /jobs/
-
+    url: /about
+    sublinks:
+    - title: Beneficial ownership explained
+      url: /what-is-bot
+    - title: What we do
+      url: /what-we-do
+    - title: Team
+      url: /team
+    - title: Supporters
+      url: /supporters
+    - title: Jobs
+      url: /jobs
+  - title: Latest
+    url: /latest
+    sublinks:
+    - title: Updates
+      url: /latest
+    - title: Podcast
+      url: 
+    - title: Subscribe
+      url: 
+  - title: Implement
+    sublinks:
+    - title: Principles
+      url: /principles
+    - title: Guide
+      url: /guide
+    - title: Data Standard (BODS)
+      url: /what-we-do/the-beneficial-ownership-data-standard
+    - title: Visualisation System (BOVS)
+      url: /visualisation
+    - title: Forms
+      url: /resources/?resource-type=forms
+    - title: Technical notes
+      url: /resources/?resource-type=technical
+  - title: Resources
+    url: /resources
+    sublinks:
+    - title: Reports
+      url: /resources/?resource-type=reports
+    - title: Tools
+      url: /resources/?resource-type=tools
+  - title: Countries
+    url: /map
+    sublinks:
+    - title: Priority countries
+      url: /priority-countries
+    - title: GloBo
+      url: /what-we-do/the-beneficial-ownership-leadership-group/
+  - title: Impact
+    sublinks:
+    - title: Procurement
+      url: 
+    - title: Extractives
+      url: 
+    - title: Full Economy
+      url: 
+    - title: Case Studies
+      url: /resources/?resource-type=case-studies
+    - title: Register
+      url: //register.openownership.org/
+    - title: Map
+      url: /map
+  - title: Data
+    sublinks:
+    - title: Register
+      url: //register.openownership.org/
+    - title: Data Standard (BODS)
+      url: //standard.openownership.org/
 footer:
   - title: Principles
     url: /principles/
