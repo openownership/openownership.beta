@@ -80,64 +80,23 @@ pagination:
   </div>
 <!-- End Pagination -->
 
-<!-- Page Title -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-10 large-8 cell">
-      <h5 class="sans-regular">{{page.description}}</h5>
-    </div>
-  </div>
-</section>
-<!-- End Page Title -->     
-
-<!-- Tip -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
      <div class="small-12 medium-8 cell">
         <div class="callout shadow large">
-        <h5>{{page.tip-text}}</h5>
+          {{ page.description | markdownify }}
        </div>
     </div>
   </div>
 </section>
-<!-- End Tip -->
-
-<div class="grid-container">
-  <div class="grid-x grid-padding-y align-center">
-    <div class="small-12 medium-8 large-9 cell things-to-consider">
-        <h3>Things to consider</h3>
-        <ul class="menu vertical">
-        {% for question in page.questions %}
-        <li><a href="#{{question.title | slugify}}" class="sans-regular question h5">{{question.title}} <svg class="icon icon-arrow icon-arrow-down"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-down"></use></svg></a></li>
-        {% endfor %}
-        </ul>
-    </div>
-  </div>
-</div>
 
 <div class="grid-container">
   <div class="grid-x grid-padding-y align-center">
     <div class="small-12 medium-8 large-9 cell">
-      {% for question in page.questions %}
-        <h3 id="{{question.title | slugify}}">{{question.title}}</h3>
-        <div class="padding-bottom-3">{{ question.text | markdownify }}</div>
-      {% endfor %}
+      {{ content }}
     </div>
   </div>
 </div>
-
-<!-- Resources -->
-<div class="grid-container">
-  <div class="grid-x align-center">
-    <div class="small-12 medium-8 large-9 cell">
-      <h3>Resources</h3>
-      {% for resource in page.resource-text %}
-        <div>{{resource | markdownify}}</div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-<!-- End Resources -->
 
 <!-- Pagination -->  
 {% include pagination/guide.html %}
