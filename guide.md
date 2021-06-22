@@ -31,8 +31,9 @@ The gold standard for effective beneficial ownership (BO) disclosure is set out 
 
 ## Using this guide to support implementation
 
-The content in this guide is structured around the five main stages of BOT implementation. As illustrated in the five hexagons above, this implementation journey follows a pattern similar to other information disclosure initiatives. For each of these stages, Open Ownership (OO) has distilled the emerging good practices from its experience supporting implementation of BO registers in nearly 40 jurisdictions, as well as extensive desk research and conversations with a broad range of international stakeholders involved in BOT reform.
+The content in this guide is structured around the five main stages of BOT implementation. As illustrated in the five hexagons above, this implementation journey follows a pattern similar to other information disclosure initiatives.[^2] For each of these stages, Open Ownership (OO) has distilled the emerging good practices from its experience supporting implementation of BO registers in nearly 40 jurisdictions, as well as extensive desk research and conversations with a broad range of international stakeholders involved in BOT reform.
 
 Throughout the guide, there are links to policy documents, reports, research, and tools that provide greater detail on how to adapt and apply these good practices in different implementation contexts. For additional support on any aspect, implementers are also invited to contact OO via the [helpdesk](https://share.hsforms.com/1hD_mecn0TwyW15zYkesF5g3upv4) facility or by email at support@openownership.org.
 
 [^1]: "Worldwide commitments and action", OO, n.d., https://www.openownership.org/map/.
+[^2]: To facilitate ease of navigation round the guide, these stages are presented as distinct areas for reform. In reality, as will be highlighted throughout, there will be significant crossover between these various categories, and reform areas need not necessarily be carried out sequentially.
