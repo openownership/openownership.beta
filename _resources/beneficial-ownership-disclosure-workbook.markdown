@@ -1,12 +1,7 @@
 ---
 title: Beneficial ownership disclosure workbook
 date: 2021-06-23 08:32:00 Z
-description: "This short, accessible resource is a workbook to help you explore beneficial
-  ownership. The scenarios in the workbook illustrate fictional company ownership
-  structures, and it is designed to help you explore the extent of information disclosed
-  when a company is required to make a beneficial ownership declaration. There are
-  scenarios and illustrations to help you throughout. \n\nThis workbook will be useful
-  for"
+published: false
 files:
   en: "/uploads/Beneficial%20Ownership%20Disclosure%20Workbook%20version1.pdf"
 author: Kadie Armstrong
@@ -15,3 +10,6 @@ resource_type: Workbook
 is_featured: false
 ---
 
+This short, accessible resource is a workbook to help you explore beneficial ownership. The scenarios in the workbook illustrate fictional company ownership structures, and it is designed to help you explore the extent of information disclosed when a company is required to make a beneficial ownership declaration. There are scenarios and illustrations to help you throughout. 
+
+This workbook will be useful for
