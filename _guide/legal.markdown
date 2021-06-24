@@ -26,11 +26,12 @@ Some of the most notable tasks for legislative attention will include, among oth
 
 ## Creating a definition of beneficial ownership in law
 
-For those countries without an existing BO register, the first legislative tasks will likely comprise defining in law what constitutes BO; how this interacts with the concept of legal ownership (see Figure 1 below); and under what circumstances companies and individuals should have to make BO declarations. As the definition will constitute the foundation of the disclosure regime, it is important to ensure that no significant loopholes exist within it. For countries where a legal definition of BO already exists, meanwhile, the need to revisit legislation offers an ideal opportunity to ensure BO definitions remain in line with current best practice.
+For those countries without an existing BO register, the first legislative tasks will likely comprise defining in law what constitutes BO; how this interacts with the concept of legal ownership (see [Figure 1](#figure-1) below); and under what circumstances companies and individuals should have to make BO declarations. As the definition will constitute the foundation of the disclosure regime, it is important to ensure that no significant loopholes exist within it. For countries where a legal definition of BO already exists, meanwhile, the need to revisit legislation offers an ideal opportunity to ensure BO definitions remain in line with current best practice.
 
 > ##### Resources
 >
 > An example definition, and detailed analysis of the strengths and shortcomings of BO definitions implemented across the globe, is available in OO’s policy briefing: [Beneficial ownership in law: Definitions and thresholds](/uploads/definitions-briefing.pdf). 
+{: .resources-box }
 
 BO should be clearly and [robustly defined](/principles/robust-definitions) in law, with specific thresholds used to determine when ownership and control is disclosed. Specifically:
 
@@ -67,14 +68,16 @@ For SOEs, some jurisdictions have considered exemptions as these firms do not ha
 > ##### Resources
 >
 > Best practice for assessing how to grant disclosure exemptions to PLCs without creating loopholes has yet to be consolidated. OO has provided its [contribution to the debate](/uploads/technical-note-beneficial-ownership-and-listed-companies.pdf) by outlining current thinking on when an exemption should be granted and what information should be provided in any exemption declaration.
+{: .resources-box }
 
 ### Reporting of intermediary entities
 
-Another issue to consider at the legislative stage is how much information will be required to be disclosed about the intermediary companies and entities through which BO may be exerted. According to the OO Principle, [sufficient detail](/principles/sufficient-detail) should be collected about the beneficial owner, the disclosing company, and the means through which ownership or control is held. For information on ownership chains, it is common for countries to adopt requirements for declaring part of the chain, as illustrated in Figure 2. An alternative option for those committed to comprehensive disclosure would be a full chain approach, in which companies are required to disclose information on each intermediate company between the reporting entity and (a) each beneficial owner, and (b) each PLC with a stake (of above the threshold level) in the reporting entity. 
+Another issue to consider at the legislative stage is how much information will be required to be disclosed about the intermediary companies and entities through which BO may be exerted. According to the OO Principle, [sufficient detail](/principles/sufficient-detail) should be collected about the beneficial owner, the disclosing company, and the means through which ownership or control is held. For information on ownership chains, it is common for countries to adopt requirements for declaring part of the chain, as illustrated in [Figure 1](#figure-1). An alternative option for those committed to comprehensive disclosure would be a full chain approach, in which companies are required to disclose information on each intermediate company between the reporting entity and (a) each beneficial owner, and (b) each PLC with a stake (of above the threshold level) in the reporting entity. 
 
-##### Figure 1: Full versus partial ownership chain reporting
+<figure markdown="1">
+<figcaption id="figure-1">Figure 1: Full versus partial ownership chain reporting</figcaption>
 
-
+</figure>
 
 The full chain approach provides valuable detail on intermediary entities. Complete pictures of ownership structures can be highly valuable in some applications of BO data, such as in [procurement](/uploads/OO%20BO%20Data%20in%20Procurement.pdf). However, it is suited only to jurisdictions with reasonably advanced technology systems. This is because intermediate companies may be disclosed in multiple declarations, which brings the risk that information submitted by different entities, about the same intermediary, may not precisely tally. Whilst such discrepancies could eventually serve as a means to cross check and verify data submissions, this would require a sophisticated data verification system that would take some time to develop. For the initial iteration of registers in most countries, it is recommended to concentrate on gathering the higher quality data that would likely emerge from a more limited partial chain reporting requirement. Once the first set of data has been gathered, the declarations can then be evaluated with a view to understanding whether a more comprehensive approach would be useful.
 
@@ -91,6 +94,7 @@ In order to ensure BO data can be made public in keeping with data protection an
 > For further discussion on managing potential privacy and security concerns related to BO data publication, see the OO briefings: [Data protection and privacy in beneficial ownership disclosure](/uploads/oo-data-protection-and-privacy-188205.pdf) and [Making central beneficial ownership registers public](/uploads/OO%20Public%20Access%20Briefing.pdf).
 >
 > For information on the types of specific fields that may be excluded from publication on security/privacy grounds, please refer to OO’s [example declaration form](https://docs.google.com/spreadsheets/d/1H6nRsKLxqiIQrT9HhckZefaWCUm2otVEHljVjx-vsTU/edit#gid=1810219496).
+{: .resources-box }
 
 ## Sanctions and enforcement
 
@@ -106,12 +110,14 @@ Introducing sanctions against the beneficial owner, registered officers of the c
 > * beneficial owners can be sanctioned for failure to respond to requests for information from companies, or for knowingly or recklessly making a false statement, as well as for failure to notify a company that they are a beneficial owner; 
 > * for all of these offences, both the company and every officer of the company that has failed to comply are considered to have committed the offence, and the penalties are imprisonment for up to 12 months, a fine, or both; and
 > * CH has the ability to strike off any companies that default on their obligations to report to the register.
+{: .aside }
 
 Selecting the appropriate agency to issue sanctions will depend largely on the political structures and preferences within the implementing country. Some jurisdictions select their state company registry, whilst others refer the matter to the ministry of justice or linked bodies that have an established investigative function. Enforcement remains a challenge for many jurisdictions, but there are numerous successful cases of sanctions being applied against non-compliant firms. Latvia’s Enterprise Register, for example, terminated 400 non-resident companies that failed to submit BO information in 2019.[^11] Dozens of court rulings in Slovakia have also dealt with cases of noncompliance with BO disclosure legislation, leading in some cases to the removal of companies from the state register, making them ineligible to bid for state contracts.[^12]
 
 > ##### Resources
 >
 > For more on setting and applying sanctions for those failing to provide timely and accurate BO data, see OO’s briefings on [BO data in procurement](/uploads/OO%20BO%20Data%20in%20Procurement.pdf) and the [verification of BO data](/uploads/OpenOwnership%20Verification%20Briefing.pdf).
+{: .resources-box }
 
 [^8]: The level of share ownership, voting rights, and/or rights to earnings which an individual may ultimately hold in an entity before triggering obligations to report this interest to authorities.
 [^9]: “[Transparency and Beneficial Ownership](http://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-transparency-beneficial-ownership.pdf)”, FATF, October 2014.
