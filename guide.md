@@ -39,6 +39,8 @@ The content in this guide is structured around the five main stages of BOT imple
 
 Throughout the guide, there are links to policy documents, reports, research, and tools that provide greater detail on how to adapt and apply these good practices in different implementation contexts.
 
+----
+
 ## Future steps for beneficial ownership registers
 
 The content outlined in this guide has been intended to offer an understanding of all the issues and areas that will need to be tackled to deliver an effective public register of beneficial owners for a wide range of policy aims. Making the first BO data available to the public will be a major milestone, but publication is, of course, not an end in itself. For the data to have impact in the real world, it must be well used by stakeholders within and outside government. To design effective systems, it is important to understand the different ways in which government departments, businesses, and civil society will want to access and use the BO register to drive policy impact (see, for instance, [Early impacts of public registers of beneficial ownership: Slovakia](/uploads/slovakia-impact-story.pdf) and [United Kingdom](/uploads/OO%20Impact%20Story%20UK.pdf)). Some people will want to search for a particular record, whilst others will want to analyse many records at once. This means publishing the data in ways that both people and computers can read, understand, and use. Facilitating users to interact with the data and the register is crucial for increasing its impact and sustainability.
