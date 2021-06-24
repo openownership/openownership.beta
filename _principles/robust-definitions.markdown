@@ -1,7 +1,6 @@
 ---
-title: Beneficial Ownership should be clearly and robustly defined in law, with low
-  thresholds used to determine when ownership and control is disclosed
-component: Robust definitions
+title: Robust definitions
+full-title: Beneficial Ownership should be clearly and robustly defined in law, with low thresholds used to determine when ownership and control is disclosed
 order: 1
 summary_version: |-
   - Robust and clear definitions of beneficial ownership (BO) should state that a beneficial owner should be a natural person. Definitions should cover all relevant forms of ownership and control, specifying that ownership and control can be held both directly and indirectly.

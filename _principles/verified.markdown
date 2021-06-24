@@ -1,6 +1,6 @@
 ---
-title: Measures should be taken to verify the data
-component: Verified
+title: Verified
+full-title: Measures should be taken to verify the data
 order: 7
 summary_version: |-
   - When data is submitted, measures should be taken to verify the:
