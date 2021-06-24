@@ -282,6 +282,37 @@ figcaption {
   margin-bottom: 0.5rem
 }
 
+blockquote p:last-child { margin-bottom: 0 }
+
+// Blockquotes with classes are a good way to create boxes in Markdown
+blockquote.resources-box {
+  padding: 1rem;
+  background-color: $white;
+  border-left: 4px solid $primary-color;
+  margin: 2rem 0;
+
+  // Use to give the box a heading
+  h5, h6 {
+    margin-top: 0;
+    font-family: $sans-bold;
+    line-height: $line-height--tighter;
+    font-size: 1rem;
+  }
+}
+
+blockquote.aside {
+  padding: 1rem;
+  border: 1px solid $primary-color;
+  margin: 2rem 0;
+
+  // Use to give the box a heading
+  h5, h6 {
+    margin-top: 0;
+    font-size: 1.1rem;
+  }
+}
+
+
 // X. Header
 // ---------
 
