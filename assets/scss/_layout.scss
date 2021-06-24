@@ -648,47 +648,6 @@ $publish: #1BB0A7;
   }
 }
 
-.guide__page--consider  {
-  border-top: 1rem solid $consider;
-  .shadow {
-  box-shadow: $shadow-dimensions $consider;
-  }
-  .question {
-  color: $consider;
-  }
-  @include links ($consider, $medium-gray);
-  p {
-    a {
-    border-bottom: 1px solid $consider;
-    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
-    &:hover {
-      border-bottom: 1px solid transparent;
-    }
-    }
-  }
-  .black {
-  @include links ($black, $medium-gray);
-  }
-  .consider {
-  opacity: 1
-  }
-  .commit {
-  opacity: 0.25
-  }
-  .legal {
-  opacity: 0.25
-  }
-  .systems {
-  opacity: 0.25
-  }
-  .data {
-  opacity: 0.25
-  }
-  .publish {
-  opacity: 0.25
-  }
-}
-
 .guide__page--commit  {
   border-top: 1rem solid $commit;
   .shadow {
