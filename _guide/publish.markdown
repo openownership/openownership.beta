@@ -41,7 +41,7 @@ Implementers can also mitigate potential negative effects arising from the publi
 
 <figure markdown="1">
 <figcaption id="figure-1">Figure 1: Mitigating potential negative effects in a BO disclosure regime</figcaption>
-
+![Mitigating potential negative effects in a BO disclosure regime](/guide/diagrams/guide-data-flow.png)
 </figure>
 
 > ##### Resources

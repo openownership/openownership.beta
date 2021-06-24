@@ -76,7 +76,7 @@ Another issue to consider at the legislative stage is how much information will 
 
 <figure markdown="1">
 <figcaption id="figure-1">Figure 1: Full versus partial ownership chain reporting</figcaption>
-
+![Full versus partial ownership chain reporting](/guide/diagrams/guide-chain-reporting.png)
 </figure>
 
 The full chain approach provides valuable detail on intermediary entities. Complete pictures of ownership structures can be highly valuable in some applications of BO data, such as in [procurement](/uploads/OO%20BO%20Data%20in%20Procurement.pdf). However, it is suited only to jurisdictions with reasonably advanced technology systems. This is because intermediate companies may be disclosed in multiple declarations, which brings the risk that information submitted by different entities, about the same intermediary, may not precisely tally. Whilst such discrepancies could eventually serve as a means to cross check and verify data submissions, this would require a sophisticated data verification system that would take some time to develop. For the initial iteration of registers in most countries, it is recommended to concentrate on gathering the higher quality data that would likely emerge from a more limited partial chain reporting requirement. Once the first set of data has been gathered, the declarations can then be evaluated with a view to understanding whether a more comprehensive approach would be useful.
