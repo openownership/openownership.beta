@@ -39,19 +39,19 @@ In Ukraine, early publications of BO data contained all the information relating
 <figure>
 <figcaption id="table-1">Table 1: Unstructured versus structured BO data</figcaption>
 
-<table>
+<table class="unstriped scroll">
 <tr>
 <th>Unstructured</th><th>Structured</th>
 </tr>
 <tr>
-<td width="50%" markdown="1">
+<td width="50%" valign="top" markdown="1">
 
 | Nature of ownership or control |
 | ------------------------------ |
 | This beneficial owner indirectly herself, or through her children, owns 27% of the declaring legal entity’s shares through the following shareholders of the legal entity (1) “Angerujjheit B.V.”, registration number in the Netherlands 64739564, registered office: Byterslaan 105, NL-4722GF Amsterdam, Netherlands; (2) “RigaTech Systems Ltd.”, registration number in the United Kingdom: 396654, registered office: P.O. Box 124, Company Services Ltd. Main Road, London, United Kingdom. | 
 
 </td>
-<td markdown="1">
+<td width="50%" valign="top" markdown="1">
 
 | Nature of ownership or control ||
 | ------------------------------ | -- |
