@@ -1,6 +1,6 @@
 ---
-title: Data should be collated in a central register
-component: A central register
+title: A central register
+full-title: Data should be collated in a central register
 order: 4
 summary_version: "- BO disclosures should be collated and held within a central register."
 ---

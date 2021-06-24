@@ -1,6 +1,6 @@
 ---
-title: Adequate sanctions and enforcement should exist for non compliance
-component: Sanctions and enforcement
+title: Sanctions and enforcement
+full-title: Adequate sanctions and enforcement should exist for non compliance
 order: 9
 summary_version: |-
   - Effective, proportionate, dissuasive, and enforceable sanctions should exist for noncompliance with disclosure requirements, including for non-submission, late submission, incomplete submission, or false submission.

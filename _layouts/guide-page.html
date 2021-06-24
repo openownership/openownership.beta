@@ -110,9 +110,9 @@ pagination:
       {% assign p = site.principles | find: "title", principle %}
       {% if p %}
 
-        <li class="margin-right-1">
+        <li class="margin-right-1 margin-bottom-1">
           <a class="button white" href="{{ p.url }}">
-            {{ p.component }}
+            {{ p.title }}
             <svg class="icon icon-arrow icon-arrow-right">
               <use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use>
             </svg>

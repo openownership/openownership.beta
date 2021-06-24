@@ -8,7 +8,7 @@ layout: default
   <section class="grid-container">
     <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
       <div class="small-12 medium-10 large-8 cell">
-        <h1>{{page.component | captialize}}</h1>
+        <h1>{{ page.title }}</h1>
       </div>
     </div>
   </section>
@@ -23,7 +23,7 @@ layout: default
       </div>
 
       <div class="small-9 cell">
-        <h2>{{ page.title }}</h2>
+        <h2>{{ page.full-title }}</h2>
 
         {{page.summary_version | markdownify}}
 
@@ -34,13 +34,13 @@ layout: default
           <h2>Implementation steps</h2>
           <p>The following are key steps when implementing this Principle. These correspond to steps in our <a href="/guide">Implementation Guide</a>.</p>
 
-          <ul class="menu margin-bottom-3">
+          <ul class="menu margin-bottom-2">
             {% for guide in page.guides %}
 
               {% assign g = site.guide | find: "title", guide %}
               {% if g %}
 
-                <li class="margin-right-1">
+                <li class="margin-right-1 margin-bottom-1">
                   <a class="button white" href="{{ g.url }}">
                     {{ g.position | prepend: '0' }}
                     {{ g.title }}
@@ -57,7 +57,7 @@ layout: default
         {% endif %}
 
 
-        {% assign tag = page.component | downcase %}
+        {% assign tag = page.title | downcase %}
         {% assign resource_tags =  site.resources | map: 'tags' | join: ','  | split: ',' | uniq %}
 
         <hr/>
