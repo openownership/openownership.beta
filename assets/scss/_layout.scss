@@ -229,6 +229,42 @@ p {
 
 }
 
+// Override Foundation's core styles for definition lists
+dl dt {
+  margin-top: 0.75rem;
+  font-family: $sans-bold
+}
+dl dd {
+  margin-left: 1rem
+}
+
+// Add rule to Foundation table styling to bold header rows
+thead tr:first-child th {
+  font-weight: bold;
+}
+
+// Add override for button appearing in a table cell
+td .button { margin-bottom: 0 }
+
+// Prettier TOC
+#markdown-toc {
+  @include underline-links-invert();
+
+  font-size: 90%;
+  list-style: none;
+  margin-left: 0;
+  border-left: 1px solid lighten(get-color(secondary), 25%);
+  padding-left: 1rem;
+  margin: 1rem 0;
+
+  &:before {
+    content: 'On This Page';
+    display: block;
+    font-size: 110%;
+    font-family: $sans-bold;
+  }
+}
+
 
 // X. Header
 // ---------
@@ -1057,23 +1093,6 @@ padding-top: 3rem;
 // X. Visualisation
 // ----------------
 
-// Override Foundation's core styles for definition lists
-dl dt {
-  margin-top: 0.75rem;
-  font-family: $sans-bold
-}
-dl dd {
-  margin-left: 1rem
-}
-
-// Add rule to Foundation table styling to bold header rows
-thead tr:first-child th {
-  font-weight: bold;
-}
-
-// Add override for button appearing in a table cell
-td .button { margin-bottom: 0 }
-
 // Active item in nav menu
 .sidemenu {
 
@@ -1114,25 +1133,6 @@ td .button { margin-bottom: 0 }
     .text-body img {
       width: 100%;
       min-width: 100%;
-    }
-  }
-
-  // Prettier TOC
-  #markdown-toc {
-    @include underline-links-invert();
-
-    font-size: 90%;
-    list-style: none;
-    margin-left: 0;
-    border-left: 1px solid lighten(get-color(secondary), 25%);
-    padding-left: 1rem;
-    margin: 1rem 0;
-
-    &:before {
-      content: 'On This Page';
-      display: block;
-      font-size: 110%;
-      font-family: $sans-bold;
     }
   }
 
