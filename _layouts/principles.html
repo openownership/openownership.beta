@@ -29,30 +29,28 @@ layout: default
 
         {{page.content | markdownify}}
 
-        {% if page.guides.size > 0 %}
+        {% capture guides -%}
+          {%- for guide in site.guide -%}
+            {%- if guide.principles contains page.title -%}
+              <li class="margin-right-1 margin-bottom-1">
+                <a class="button white" href="{{ guide.url }}">
+                  {{ guide.position | prepend: '0' }}
+                  {{ guide.title }}
+                  <svg class="icon icon-arrow icon-arrow-right">
+                    <use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use>
+                  </svg>
+                </a>
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endcapture -%}
+
+        {% if guides.size > 0 %}
           <hr />
           <h2>Implementation steps</h2>
-          <p>The following are key steps when implementing this Principle. These correspond to steps in our <a href="/guide">Implementation Guide</a>.</p>
-
+          <p>This Principle is most important during the following stages of implementation. These correspond to steps in our <a href="/guide">Implementation Guide</a>.</p>
           <ul class="menu margin-bottom-2">
-            {% for guide in page.guides %}
-
-              {% assign g = site.guide | find: "title", guide %}
-              {% if g %}
-
-                <li class="margin-right-1 margin-bottom-1">
-                  <a class="button white" href="{{ g.url }}">
-                    {{ g.position | prepend: '0' }}
-                    {{ g.title }}
-                    <svg class="icon icon-arrow icon-arrow-right">
-                      <use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use>
-                    </svg>
-                  </a>
-                </li>
-
-              {% endif %}
-
-            {% endfor %}
+            {{ guides }}
           </ul>
         {% endif %}
 

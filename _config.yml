@@ -72,7 +72,6 @@ defaults:
     email: 
     social: 
     layout: principles
-    guides: []
 - scope:
     path: ''
     type: guide
