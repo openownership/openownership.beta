@@ -72,6 +72,12 @@ defaults:
     email: 
     social: 
     layout: principles
+    guides: []
+- scope:
+    path: ''
+    type: guide
+  values:
+    principles: []
 - scope:
     path: ''
     type: team
