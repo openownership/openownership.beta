@@ -30,6 +30,7 @@ The gold standard for effective beneficial ownership (BO) disclosure is set out 
 > * improving public procurement and the efficiency of service delivery by reducing possibilities for conflicts of interest or corruption and fostering competition;
 > * fighting and preventing financial crimes using best practice identified by the Financial Action Task Force (FATF), the European Commission, and other international bodies that advocate for BOT; and
 > * helping law enforcement investigations identify and recover assets that have been gained through theft or with the proceeds of other crimes.
+{: .aside }
 
 ## Using this guide to support implementation
 
