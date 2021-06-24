@@ -687,6 +687,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 0.25
   }
+  blockquote { border-color: $commit }
 }
 
 .guide__page--legal  {
@@ -728,6 +729,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 0.25
   }
+  blockquote { border-color: $legal }
 }
 
 .guide__page--systems  {
@@ -769,6 +771,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 0.25
   }
+  blockquote { border-color: $systems }
 }
 
 .guide__page--data  {
@@ -810,6 +813,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 0.25
   }
+  blockquote { border-color: $data }
 }
 
 .guide__page--publish  {
@@ -851,6 +855,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 1
   }
+  blockquote { border-color: $publish }
 }
 
 
