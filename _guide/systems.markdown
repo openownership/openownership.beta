@@ -25,7 +25,7 @@ Digital systems and administrative processes need to fit together smoothly to en
 
 <figure markdown="1">
 <figcaption id="figure-1">Figure 1: BO information collection, storage and sharing pipeline</figcaption>
-
+![BO information collection, storage and sharing pipeline](/guide/diagrams/guide-systems.png)
 </figure>
 
 ## Information flow
@@ -38,7 +38,7 @@ Most countries have digital central registers of companies that include, for exa
 
 <figure markdown="1">
 <figcaption id="figure-2">Figure 2: Example of information flow in a well-resourced implementation, using the standard BPMN format</figcaption>
-
+![Example of information flow in a well-resourced implementation, using the standard BPMN format](/guide/diagrams/guide-bpmn-hitech.png)
 </figure>
 
 [Figure 2](#figure-2) shows how a company register has been extended to capture and store BO information using a new *BO web filing services* module. In this example, the designers of the new system have incorporated the ability for companies to file their BO information online (like company B) or via paper forms (like company A). Some work on mapping out the manual systems necessary for handling paper forms has also been done. The company datastore and related components already serve company information to the company registry portal via an application programming interface (API)[^14] and bulk download services, but those would need to be updated to handle the extra BO data.
@@ -49,7 +49,7 @@ Where there are limited resources and a limited number of companies needing to d
 
 <figure markdown="1">
 <figcaption id="figure-3">Figure 3: Example of information flow in an implementation with limited resources, using the standard BPMN format</figcaption>
-
+![Example of information flow in an implementation with limited resources, using the standard BPMN format](/guide/diagrams/guide-bpmn-lowtech.png)
 </figure>
 
 Whatever the scale and complexity of a given country’s particular implementation, OO recommends that BO information is ultimately converted into a digital format. OO has developed the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/0.2.0/) (BODS) for this purpose. The BODS is a free-to-use, off-the-shelf template that provides a structured data format, along with guidance for collecting, sharing, and using data on BO. Publishing according to the OO Principle of [structured data](/principles/structured-data/) in BODS makes it easier to collate BO information from multiple jurisdictions (see the [Data](/guide/data) section for more on the BODS).
@@ -67,7 +67,7 @@ It is useful to adopt an agile approach to development. Whilst it is appealing t
 
 <figure markdown="1">
 <figcaption id="figure-4">Figure 4: Putting people at the centre of systems development</figcaption>
-
+![Putting people at the centre of systems development](/guide/diagrams/guide-people.png){: .small }
 </figure>
 
 > ##### Resources

@@ -120,7 +120,7 @@ Another consideration around BO data is how to verify the information submitted.
 
 <figure markdown="1">
 <figcaption id="figure-2">Figure 2: Designing verification systems</figcaption>
-
+![Designing verification systems](/guide/diagrams/guide-verification.png)
 </figure>
 
 Data verification can take place at the point BO data is submitted and after its publication, and may range from the relatively straightforward (e.g. whether a birthdate field contains a date in a valid format) to the more technically complex (e.g. cross-checking information with other government systems).[^15] BO verification systems should, as a minimum, cross check the details of domestically registered firms, such as the company number, with the other government registries. For non-national BOs, it may be more challenging to verify information (e.g. verifying a passport scan as supporting evidence) due to the legal and technical challenges associated with automatic data sharing between countries and the lack of digitally available information in some registers. Similar challenges may arise for foreign companies (e.g. for procurement-focused disclosure regimes). Whilst not always easy to verify, foreign company numbers should still be collected and published as they enable a wide range of users, from law enforcement to civil society, to conduct their own additional checks when they suspect wrongdoing.
