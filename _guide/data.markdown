@@ -25,7 +25,7 @@ Once there is clarity on each of these points, the information disclosed should 
 
 <figure markdown="1">
 <figcaption id="figure-1">Figure 1: Example activity sheet for checking shared understanding of what is disclosed in a declaration</figcaption>
-
+![Example activity sheet for checking shared understanding of what is disclosed in a declaration](/guide/diagrams/guide-activity-sheet.png)
 </figure>
 
 It is important to check that enough information is collected about how a company is owned and controlled, even where its declaration is looked at in isolation. [Sufficient detail](/principles/sufficient-detail/) about intermediate entities (those that sit between beneficial owners and declaring companies when ownership or control is exercised indirectly) should be collected. This means that a declaring company might also feature as an intermediary in other declarations. OO recommends using company identifiers to ensure information disclosed in different companies’ declarations can be brought together to aid understanding and analysis. That way, it will be apparent when the same company appears in two different declarations, even if the names do not match (due to misspellings or the use of acronyms).
