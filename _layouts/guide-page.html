@@ -98,6 +98,36 @@ pagination:
   </div>
 </div>
 
+{% if page.principles.size > 0 %}
+<div class="grid-container">
+  <div class="grid-x grid-padding-y align-center">
+    <div class="small-12 medium-8 large-9 cell">
+      <h2>Relevant Principles</h2>
+      <p>The following are key principles for consideration when implementing BOT at this step. These correspond to the <a href="/principles">Open Ownership Principles</a>.</p>
+      <ul class="menu">
+      {% for principle in page.principles %}
+
+      {% assign p = site.principles | find: "title", principle %}
+      {% if p %}
+
+        <li class="margin-right-1">
+          <a class="button white" href="{{ p.url }}">
+            {{ p.component }}
+            <svg class="icon icon-arrow icon-arrow-right">
+              <use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use>
+            </svg>
+          </a>
+        </li>
+
+      {% endif %}
+
+      {% endfor %}
+      </ul>
+      </div>
+  </div>
+</div>
+{% endif %}
+
 <!-- Pagination -->  
 {% include pagination/guide.html %}
 <!-- End Pagination -->
