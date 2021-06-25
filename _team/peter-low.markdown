@@ -6,9 +6,12 @@ position: 4
 job-title: Country Manager
 image: "/uploads/peter-low-2.jpg"
 email: peter@openownership.org
+social:
+  linkedin: https://www.linkedin.com/in/peter-low-31682628/
+Field name: 
 ---
 
-As Country Manager, Peter Low oversees OpenOwnership’s support to national governments as they seek to disclose beneficial ownership data.
+As Country Manager, Peter Low oversees Open Ownership’s support to national governments as they seek to disclose beneficial ownership data.
 
 Peter’s first contact with the world of beneficial ownership came at the start of his career, when he spent two years conducting due diligence investigations into business figures and public officials across the globe. In this role, he was frequently exposed to the myriad ways in which organised crime groups and corrupt officials utilise opaque corporate structures for illicit ends.
 
