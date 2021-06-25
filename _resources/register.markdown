@@ -8,7 +8,7 @@ author: OpenOwnership
 thumbnail-image: "/uploads/register-thumbnail.jpg"
 thumbnail-image-class: web-resource
 resource_type: Tools
-is_featured: true
+is_featured: false
 ---
 
 OpenOwnership's demonstration global register of beneficial ownership, combining free open data into a single source.

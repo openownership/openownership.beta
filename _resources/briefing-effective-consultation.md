@@ -4,10 +4,10 @@ date: 2020-06-20 00:00:00 Z
 position: 28
 files:
   en: "/uploads/open-ownership-effective-consultation-processes-for-bot.pdf"
-thumbnail-image: "/uploads/open-ownership-effective-consultation-processes-for-bot-thumbnail.png"
 author: OpenOwnership
+thumbnail-image: "/uploads/open-ownership-effective-consultation-processes-for-bot-thumbnail.png"
 resource_type: Briefings
-is_featured: true
+is_featured: false
 ---
 
 Delivering improved beneficial ownership transparency is a process that should

@@ -9,7 +9,7 @@ author: OpenOwnership
 thumbnail-image: "/uploads/partner-with-us-thumbnail.jpg"
 thumbnail-image-class: web-resource
 resource_type: Summaries & Factsheets
-is_featured: true
+is_featured: false
 ---
 
 A summary of the services, expertise and support available to countries partnering with OpenOwnership.
