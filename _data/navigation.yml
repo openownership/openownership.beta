@@ -45,6 +45,8 @@ header:
   - title: Countries
     url: /map
     sublinks:
+    - title: Map
+      url: /map
     - title: Priority countries
       url: https://docs.google.com/document/d/1dPkSHq-HucQNn6hIUIdgSMGNESNo4ZoO8PLCsHo9pXg/edit?usp=sharing
     - title: GloBo
