@@ -1,7 +1,7 @@
 ---
 title: Getting started with implementing beneficial ownership transparency
 date: 2020-02-14 11:26:00 Z
-position: 22
+position: 2
 files:
   en: "/uploads/openownership-factsheet.pdf"
 author: OpenOwnership
