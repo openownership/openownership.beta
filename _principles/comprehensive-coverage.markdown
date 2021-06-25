@@ -1,6 +1,7 @@
 ---
 title: Comprehensive coverage
-full-title: Disclosure should comprehensively cover all relevant types of legal entities and natural persons
+full-title: Disclosure should comprehensively cover all relevant types of legal entities
+  and natural persons
 order: 2
 summary_version: |-
   - All relevant legal entities and arrangements, and all relevant natural persons (i.e. people), should be included in disclosures.

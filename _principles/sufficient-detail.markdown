@@ -1,6 +1,7 @@
 ---
 title: Sufficient detail
-full-title: Beneficial ownership disclosures should contain sufficient detail to allow users to understand and use the data
+full-title: Beneficial ownership disclosures should contain sufficient detail to allow
+  users to understand and use the data
 order: 3
 summary_version: |-
   - Key information should be included about the beneficial owner, the disclosing company, and the means through which ownership or control is held.

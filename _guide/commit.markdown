@@ -1,10 +1,14 @@
 ---
 title: Commit
 date: 2019-02-16 00:02:00 Z
-layout: guide-page
 position: 1
-description: |-
-  Implementation begins with making a specific, public commitment to creating a BO register and beginning to draw up initial plans as to how this may be achieved. At this stage, it is important to consider how to: identify which agencies will be involved in and leading implementation; outline programmes for involving stakeholders and data users in policy design; and decide how to sequence reforms and introduce future improvements.
+layout: guide-page
+description: 'Implementation begins with making a specific, public commitment to creating
+  a BO register and beginning to draw up initial plans as to how this may be achieved.
+  At this stage, it is important to consider how to: identify which agencies will
+  be involved in and leading implementation; outline programmes for involving stakeholders
+  and data users in policy design; and decide how to sequence reforms and introduce
+  future improvements.'
 principles:
 - Comprehensive coverage
 - A central register
