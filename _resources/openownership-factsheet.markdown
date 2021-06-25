@@ -4,7 +4,7 @@ date: 2020-02-14 11:26:00 Z
 position: 2
 files:
   en: "/uploads/openownership-factsheet.pdf"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/factsheet-thumbnail.jpg"
 resource_type: Summaries & Factsheets
 is_featured: true
