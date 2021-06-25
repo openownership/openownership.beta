@@ -8,9 +8,10 @@ tags:
 - verification
 position: 17
 description: A guide to data quality and verification
-thumbnail-image: "/uploads/oo-verification-image.JPG"
 files:
   en: "/uploads/oo-verification-presentation.pdf"
+author: Open Ownership
+thumbnail-image: "/uploads/oo-verification-image.JPG"
 resource_type: Presentations
 is_featured: false
 ---
