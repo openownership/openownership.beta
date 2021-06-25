@@ -4,7 +4,7 @@ date: 2020-05-07 16:24:00 Z
 position: 33
 files:
   en: "/visualisation"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/bovs-thumbnail.jpg"
 thumbnail-image-class: web-resource
 resource_type: Tools
