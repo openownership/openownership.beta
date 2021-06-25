@@ -6,7 +6,8 @@ position: 4
 job-title: Country Manager
 image: "/uploads/peter-low-2.jpg"
 email: peter@openownership.org
-social: https://www.linkedin.com/in/peter-low-31682628/
+social:
+  linkedin: https://www.linkedin.com/in/peter-low-31682628/
 Field name: 
 ---
 
