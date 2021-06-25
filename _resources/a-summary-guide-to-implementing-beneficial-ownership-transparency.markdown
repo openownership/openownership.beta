@@ -6,7 +6,7 @@ tags:
 position: 3
 files:
   en: "/uploads/oo-implementation-guide-booklet-68508a.pdf"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/oo-implementation-guide-image.JPG"
 resource_type: Summaries & Factsheets
 is_featured: true
