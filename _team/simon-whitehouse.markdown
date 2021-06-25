@@ -11,7 +11,7 @@ social:
   linkedin: https://www.linkedin.com/in/siwhitehouse
 ---
 
-Simon Whitehouse works for OpenOwnership’s technical partner, Open Data Services Co-operative. He provides OpenOwnership with technical support, leads on the translation work of the Beneficial Ownership Data Standard and supports the development of our data collection tools.
+Simon Whitehouse works for Open Ownership’s technical partner, Open Data Services Co-operative. He provides Open Ownership with technical support, leads on the translation work of the Beneficial Ownership Data Standard and supports the development of our data collection tools.
 
 In local government Simon worked on community projects, such as being the technical lead on a community wireless network covering Aston, Birmingham. He also led the city’s early work on open data publication, a role that covered both technical and policy work.
 
