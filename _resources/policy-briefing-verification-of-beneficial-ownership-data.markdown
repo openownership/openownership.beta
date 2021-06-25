@@ -8,11 +8,11 @@ tags:
 - verified
 - sanctions and enforcement
 position: 29
-author: OpenOwnership
-thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
 files:
   en: "/uploads/OpenOwnership%20Verification%20Briefing.pdf"
   es: "/uploads/verification-briefing-spanish.pdf"
+author: Open Ownership
+thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
 resource_type: Briefings
 is_featured: true
 ---

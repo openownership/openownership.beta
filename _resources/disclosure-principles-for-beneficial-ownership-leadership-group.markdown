@@ -19,6 +19,6 @@ resource_type: Charters, Principles & Mission Statements
 is_featured: false
 ---
 
-**Declaration of national commitment to meet the Beneficial Ownership Transparency Disclosure Principles**
+**Declaration of national commitmentment to meet the Beneficial Ownership Transparency Disclosure Principles**
 
 A new global norm of beneficial ownership transparency

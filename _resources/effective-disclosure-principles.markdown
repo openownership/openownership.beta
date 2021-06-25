@@ -5,7 +5,7 @@ position: 1
 files:
   en: "/principles/"
   es: "/uploads/OPO%20Principles%20ES.pdf"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/principles-thumbnail.jpg"
 thumbnail-image-class: web-resource
 resource_type: Tools

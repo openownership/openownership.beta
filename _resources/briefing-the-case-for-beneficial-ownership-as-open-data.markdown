@@ -4,7 +4,7 @@ date: 2017-07-06 18:33:00 Z
 position: 6
 files:
   en: "/uploads/briefing-on-beneficial-ownership-as-open-data.pdf"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/open-data-doc.jpg"
 resource_type: Briefings
 is_featured: false

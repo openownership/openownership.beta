@@ -7,7 +7,7 @@ tags:
 position: 31
 files:
   en: "/uploads/oo-bo-policy-reviewer-interactive.pdf"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/oo-beneficial-ownership-policy-reviewer-image.JPG"
 resource_type: Tools
 is_featured: false

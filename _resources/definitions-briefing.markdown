@@ -7,7 +7,7 @@ position: 27
 files:
   en: "/uploads/definitions-briefing.pdf"
   es: "/uploads/Beneficiarios finales - definiciones y umbrales.pdf"
-author: Peter Low & Tymon Kiepe
+author: Peter Low and Tymon Kiepe
 thumbnail-image: "/uploads/definitions-briefing.png"
 resource_type: Briefings
 is_featured: true

@@ -14,7 +14,7 @@ description: This is a summary of a research report from OpenOwnership, The B Te
 files:
   en: "/uploads/privacy-report-summary.pdf"
   de: "/uploads/OpenOwnership%20Privacy%20Report%20Summary%20German.pdf"
-author: OpenOwnership, The B Team and The Engine Room
+author: Open Ownership
 thumbnail-image: "/uploads/privacy-summary.JPG"
 resource_type: Reports
 is_featured: false

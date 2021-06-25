@@ -9,7 +9,7 @@ position: 26
 files:
   en: "/uploads/oo-example-paper-forms-329df2.pdf"
   es: "/uploads/paper-form-spanish.pdf"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/oo-example-paper-forms-image.JPG"
 resource_type: Tools
 is_featured: false
