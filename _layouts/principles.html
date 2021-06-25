@@ -8,7 +8,7 @@ layout: default
   <section class="grid-container">
     <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
       <div class="small-12 medium-10 large-8 cell">
-        <h1>{{page.component | captialize}}</h1>
+        <h1>{{ page.title }}</h1>
       </div>
     </div>
   </section>
@@ -23,17 +23,43 @@ layout: default
       </div>
 
       <div class="small-9 cell">
-        <h2>{{ page.title }}</h2>
+        <h2>{{ page.full-title }}</h2>
 
         {{page.summary_version | markdownify}}
 
         {{page.content | markdownify}}
 
-        {% assign tag = page.component | downcase %}
+        {% capture guides -%}
+          {%- for guide in site.guide -%}
+            {%- if guide.principles contains page.title -%}
+              <li class="margin-right-1 margin-bottom-1">
+                <a class="button white" href="{{ guide.url }}">
+                  {{ guide.position | prepend: '0' }}
+                  {{ guide.title }}
+                  <svg class="icon icon-arrow icon-arrow-right">
+                    <use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use>
+                  </svg>
+                </a>
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endcapture -%}
+
+        {% if guides.size > 0 %}
+          <hr />
+          <h2>Implementation Guide</h2>
+          <p>This OO Principle is particularly relevant in the following aspects of implementation. These correspond to steps in our <a href="/guide">Implementation Guide</a>.</p>
+          <ul class="menu margin-bottom-2">
+            {{ guides }}
+          </ul>
+        {% endif %}
+
+
+        {% assign tag = page.title | downcase %}
         {% assign resource_tags =  site.resources | map: 'tags' | join: ','  | split: ',' | uniq %}
 
+        <hr/>
         {% if resource_tags contains tag %}
-          <hr/>
           <h2>Resources</h2>
 
           {% for resource in site.resources %}
@@ -42,7 +68,6 @@ layout: default
             {% endif %}
           {% endfor %}
         {% else %}
-          <hr/>
           <h2>Learn more</h2>
           <p>
             We will shortly be publishing new resources that provide detail on putting this principle into practice. In the meantime, please <a href="mailto:support@openownership.org">get in touch with our technical assistance team</a> for support and advice.

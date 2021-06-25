@@ -1,6 +1,6 @@
 ---
-title: Data should be structured and interoperable
-component: Structured data
+title: Structured data
+full-title: Data should be structured and interoperable
 order: 6
 summary_version: |-
   - BO data should be available as structured data, with each declaration conforming to a specified data model or template.

@@ -1,6 +1,6 @@
 ---
-title: Data should be accessible to the public
-component: Public access
+title: Public access
+full-title: Data should be accessible to the public
 order: 5
 summary_version: |-
   - The public should have access to BO data.

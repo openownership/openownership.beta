@@ -1,6 +1,6 @@
 ---
-title: Data should be kept up to date and historical records maintained
-component: Up to date and auditable
+title: Up to date and auditable
+full-title: Data should be kept up to date and historical records maintained
 order: 8
 summary_version: |-
   - Initial registration and subsequent changes to BO should be submitted in a timely manner, with information updated within a short, defined time period after changes occur.

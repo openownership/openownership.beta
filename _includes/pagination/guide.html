@@ -1,15 +1,24 @@
 <!-- Pagination -->
 <div class="grid-container padding-vertical-3">
   <div class="grid-x small-up-2 medium-up-3 large-up-6 align-center align-middle">
-    {% for item in site.guides %}  
-    <div class="cell text-center padding-3 black {{ item[0] }}">
-      <a href="{{ item[1] }}" class="sans-bold"><span class="show-for-sr">{{ item[0] }}</span>
-<svg class="icon icon-guide icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg>
-<div><sup>{{ forloop.index0 | plus: 1 | prepend: '0' }}</sup> {{ item[0] | capitalize }}</div>
-
-</a>
-    </div>
-    {% endfor %} 
+    {% if include.guides.size > 0 and include.guides %}
+      {% assign list = true %}
+    {% else %}
+       {% assign list = false %}
+    {% endif %}
+    {% for item in site.guide %}
+      {% if list == false or list == true and include.guides contains item.title %}
+      <div class="cell text-center padding-3 black {{ item.slug }}">
+        <a href="/guide/{{ item.slug }}" class="sans-bold">
+          <span class="show-for-sr">{{ item.title }}</span>
+          <svg class="icon icon-guide icon-{{ item.slug }}">
+            <use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item.slug }}"></use>
+          </svg>
+          <div><sup>{{ forloop.index0 | plus: 1 | prepend: '0' }}</sup> {{ item.title }}</div>
+        </a>
+      </div>
+      {% endif %}
+    {% endfor %}
   </div>
 </div>
 <!-- End Pagination -->

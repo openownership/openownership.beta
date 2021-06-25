@@ -16,11 +16,11 @@ layout: default
         </div>
         <div class="small-9 cell">
           {{page.content | markdownify}}
-          {% assign sorted_components = site.principles | sort:"order" %}
-          {% for component in sorted_components %}
-            <h3>{{ component.title }}</h3>
-            <p>{{ component.summary_version | markdownify }}</p>
-            <p><a href="{{component.url}}">Read more</a></p>
+          {% assign sorted_principles = site.principles | sort:"order" %}
+          {% for principle in sorted_principles %}
+            <h3>{{ principle.full-title }}</h3>
+            <p>{{ principle.summary_version | markdownify }}</p>
+            <p><a href="{{principle.url}}">Read more</a></p>
           {% endfor %}
 
        </div>

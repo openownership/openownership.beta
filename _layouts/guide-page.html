@@ -7,86 +7,20 @@ pagination:
 
 <section class="guide__page--{{page.title | slugify}}">
 
-
-
 <!-- Pagination Desktop -->
   <div class="grid-x grid-padding-y align-justify padding-top-2" data-equalizer>
-  
-    <div class="small-6 medium-3 large-2 cell show-for-large">
-      {% if page.previous.url %}
-        <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
-        
-        <div class="grid-y height-100 align-center">
-        <div class="shrink cell">
-          <div class="grid-x align-middle">
-            <div class="shrink cell">
-            <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
-            </div>
-            <div class="auto cell text-right">
-            <div>{{page.previous.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.previous.title}}</h3>
-            </div>
-          </div>
-        </div>
-        </div>
-        </a>
-{% else %}
 
-        <a href="/guide" class="guide-pagination--guide button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
-        
-        <div class="grid-y height-100 align-center">
-        <div class="shrink cell">
-          <div class="grid-x align-middle">
-            <div class="shrink cell">
-            <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
-            </div>
-            <div class="auto cell text-right">
-            <div class="white">00</div>
-            <h3 class="margin-bottom-0">Guide</h3>
-            </div>
-          </div>
-        </div>
-        </div>
-        </a>
-      {% endif %}
-    </div>
-
-<!-- Page Title -->
-    <div class="small-6 medium-4 cell padding-3">
-      <h5 class="sans-bold medium-gray">{{page.position | plus: 1 | prepend: '0'}}</h5>
+    <!-- Page Title -->
+    <div class="small-6 large-4 large-order-2 cell padding-3">
+      <h5 class="sans-bold medium-gray">{{ page.position | prepend: '0' }}</h5>
       <h1>{{page.title}}</h1>
     </div>
-    <div class="small-6 medium-4 cell padding-3 text-right">
+    <div class="small-6 large-4 large-order-3 cell padding-3 text-right">
       <svg class="icon icon-guide icon-{{page.title | slugify}}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{page.title | slugify}}"></use></svg>
     </div>
-<!-- End Page Title -->
-    
-    <div class="small-6 medium-3 large-2 cell text-right show-for-large">
-      {% if page.next.url %}
-      <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
-        <div class="grid-y height-100 align-center">
-        <div class="shrink cell">
-          <div class="grid-x align-middle">
-            <div class="auto cell text-left">
-            <div>{{page.next.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.next.title}}</h3>
-            </div>
-            <div class="shrink cell">
-            <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
-            </div>
-          </div>
-        </div>
-        </div>
-      </a>
-      {% endif %}
-    </div>
+    <!-- End Page Title -->
   
-  </div>
-<!-- End Pagination -->
-
-  <div class="grid-x grid-padding-y align-justify padding-top-2 hide-for-large" data-equalizer>
-  
-    <div class="small-6 padding-right-1 cell">
+    <div class="small-6 medium-3 small-order-3 large-order-1 padding-right-1 large-2 cell">
       {% if page.previous.url %}
         <a href="{{page.previous.url}}" class="guide-pagination--{{page.previous.title|slugify}} button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
         
@@ -97,17 +31,15 @@ pagination:
             <svg class="icon icon-arrow icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg>
             </div>
             <div class="auto cell text-right">
-            <div>{{page.previous.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.previous.title}}</h3>
+            <div>{{ page.previous.position | prepend: '0' }}</div>
+            <h3 class="margin-bottom-0">{{ page.previous.title }}</h3>
             </div>
           </div>
         </div>
         </div>
         </a>
-{% else %}
-
+      {% else %}
         <a href="/guide" class="guide-pagination--guide button white guide-pagination-previous expanded align-middle" data-equalizer-watch>
-        
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
@@ -125,15 +57,15 @@ pagination:
       {% endif %}
     </div>
     
-    <div class="small-6 padding-left-1 text-right cell">
+    <div class="small-6 medium-3 small-order-4 padding-left-1 large-2 cell text-right">
       {% if page.next.url %}
       <a href="{{page.next.url}}" class="guide-pagination--{{page.next.title|slugify}} button white guide-pagination-next expanded align-middle" data-equalizer-watch>
         <div class="grid-y height-100 align-center">
         <div class="shrink cell">
           <div class="grid-x align-middle">
             <div class="auto cell text-left">
-            <div>{{page.next.position | plus: 1 | prepend: '0'}}</div>
-            <h3 class="margin-bottom-0">{{page.next.title}}</h3>
+            <div>{{ page.next.position | prepend: '0' }}</div>
+            <h3 class="margin-bottom-0">{{ page.next.title }}</h3>
             </div>
             <div class="shrink cell">
             <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
@@ -148,64 +80,52 @@ pagination:
   </div>
 <!-- End Pagination -->
 
-<!-- Page Title -->
-<section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-10 large-8 cell">
-      <h5 class="sans-regular">{{page.description}}</h5>
-    </div>
-  </div>
-</section>
-<!-- End Page Title -->     
-
-<!-- Tip -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
      <div class="small-12 medium-8 cell">
         <div class="callout shadow large">
-        <h5>{{page.tip-text}}</h5>
+          {{ page.description | markdownify }}
        </div>
     </div>
   </div>
 </section>
-<!-- End Tip -->
-
-<div class="grid-container">
-  <div class="grid-x grid-padding-y align-center">
-    <div class="small-12 medium-8 large-9 cell things-to-consider">
-        <h3>Things to consider</h3>
-        <ul class="menu vertical">
-        {% for question in page.questions %}
-        <li><a href="#{{question.title | slugify}}" class="sans-regular question h5">{{question.title}} <svg class="icon icon-arrow icon-arrow-down"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-down"></use></svg></a></li>
-        {% endfor %}
-        </ul>
-    </div>
-  </div>
-</div>
 
 <div class="grid-container">
   <div class="grid-x grid-padding-y align-center">
     <div class="small-12 medium-8 large-9 cell">
-      {% for question in page.questions %}
-        <h3 id="{{question.title | slugify}}">{{question.title}}</h3>
-        <div class="padding-bottom-3">{{ question.text | markdownify }}</div>
-      {% endfor %}
+      {{ content }}
     </div>
   </div>
 </div>
 
-<!-- Resources -->
+{% capture principles -%}
+  {%- for principle in site.principles -%}
+    {%- if page.principles contains principle.title -%}
+      <li class="margin-right-1 margin-bottom-1">
+        <a class="button white" href="{{ principle.url }}">
+          {{ principle.title }}
+          <svg class="icon icon-arrow icon-arrow-right">
+            <use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use>
+          </svg>
+        </a>
+      </li>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endcapture -%}
+
+{% if principles.size > 0 %}
 <div class="grid-container">
-  <div class="grid-x align-center">
+  <div class="grid-x grid-padding-y align-center">
     <div class="small-12 medium-8 large-9 cell">
-      <h3>Resources</h3>
-      {% for resource in page.resource-text %}
-        <div>{{resource | markdownify}}</div>
-      {% endfor %}
-    </div>
+      <h2>Relevant Open Ownership Principles</h2>
+      <p>The following <a href="/principles">OO Principles</a> are relevant when implementing BOT at this stage.</p>
+      <ul class="menu">
+        {{ principles }}
+      </ul>
+      </div>
   </div>
 </div>
-<!-- End Resources -->
+{% endif %}
 
 <!-- Pagination -->  
 {% include pagination/guide.html %}

@@ -2,86 +2,78 @@
 title: Systems
 date: 2019-02-16 00:04:00 Z
 position: 3
-description: Beneficial ownership transparency involves the collection, storage and
-  publication of data. This section offers guidance on how to develop systems and
-  software that collect, store and publish structured beneficial ownership information
-  that is useful and effective at driving policy impact.
-tip-text: Put in place systems that can store and publish structured data so that
-  it can be easily used and understood. Using the Beneficial Ownership Data Standard
-  is the easiest way to achieve this.
-questions:
-- title: What kind of systems are needed?
-  text: |-
-    The diagram below shows a typical flow of information, and the key components of a system to collect, store and publish beneficial ownership information. Establishing effective systems does require investment, but creates sustained economic and social benefits.
-
-    ![data-process.png](/uploads/data-process.png)
-
-    The specification of software and hardware systems required to implement beneficial ownership transparency will depend on the requirements in your legal framework, any relevant existing registers and how you want people to access and use the data. This diagram shows the typical components of a beneficial ownership transparency system.
-
-    All systems need to have some basic [functional requirements](http://standard.openownership.org/en/latest/schema/guidance/functional-requirements.html) to enable them to publish structured beneficial ownership data that complies with the [Beneficial Ownership Data Standard](http://standard.openownership.org/).
-- title: Six tools & tips for implementing software and systems for beneficial ownership
-    transparency
-  text: |-
-    The following tips will help your technical team and/or contractors to design, build and test systems and software to implement beneficial ownership transparency. For each tip, we provide practical tools that OpenOwnership has developed and tested with countries participating in our Pilot Program. Whilst systems design and development may be led by the technical team responsible for building the beneficial ownership register, OpenOwnership recommends that it is done with close participation of policy staff and other stakeholders involved in implementing beneficial ownership transparency.
-
-    1. Review existing systems and identify what is needed for beneficial ownership transparency. The diagram above illustrates the components of a typical beneficial ownership transparency system, and how they are connected.  You can use this to identify how your current systems relate to beneficial ownership, and what new or amended systems are required.
-
-    2. Map current systems to the [functional requirements](http://standard.openownership.org/en/latest/schema/guidance/functional-requirements.html) for BODS. This will help you think through what changes are required to design a system for capturing beneficial ownership data.
-
-    3. Map any current data to the [BODS schema](http://standard.openownership.org/en/latest/schema/index.html). If you currently collect some beneficial ownership data (which may or may not be public), map this to the fields in the BODS schema using our [Field Mapper](https://docs.google.com/spreadsheets/d/1Ps7CpO-bOQO3c0ytTqvnp8B2u2oxbk7-DchOgqpP_kQ/copy) (when opening this link, click ‘make a copy’ to open the file). The [Field Mapper](https://docs.google.com/spreadsheets/d/1Ps7CpO-bOQO3c0ytTqvnp8B2u2oxbk7-DchOgqpP_kQ/copy) flags where your data is different from the BODS schema, highlights fields that you are not currently collecting, and fields where additional measures such as in-line validation could be used to make the data more structured.
-
-    4. Design your system to export BODS data. You can view [example data](http://standard.openownership.org/en/latest/examples/index.html) in JSON format to understand what is required: At this stage, draw up a clear technical specification for your systems before commencing your technical build or amending existing systems. Use the [example data](http://standard.openownership.org/en/latest/examples/index.html) to help you think through what beneficial ownership data might look like for different company types and what system specifications you will need in order to collect this information.
-
-    5. Use the results from previous steps to create specifications for developing new or amended systems, and commission the necessary work.
-
-    6. Test & validate your data. When your system is in place, you can test the data it outputs against the BODS schema using our [Data Review Tool](https://datareview.openownership.org/).
-- title: What is the Beneficial Ownership Data Standard and how does it help?
-  text: |-
-    The [Beneficial Ownership Data Standard](http://standard.openownership.org/) (BODS) is a template for publishing structured data about beneficial ownership in a format (JSON) that can be read and understood by computer systems around the world. It makes it easier for users of beneficial ownership information, from government departments to civil society and businesses, to utilise the information published in your register and link it with other datasets. This is essential to drive policy impact.
-
-    The Beneficial Ownership Data Standard is an open source (free for anyone to use) product that OpenOwnership is developing in partnership with Open Data Services Cooperative. If you are new to BODS, you can read Open Data Services’ [primer](http://standard.openownership.org/en/latest/primer/index.html) that introduces BODS. If you are a developer or data analyst, you can jump straight to the BODS [data schema](http://standard.openownership.org/en/latest/schema/index.html).
-
-    All information relating to the Beneficial Ownership Data Standard is available at a dedicated website: standard.openownership.org. If you can’t find what you need, you can ask our technical team by contacting our [Helpdesk](mailto:support@openownership.org).
-- title: Can my country add beneficial ownership to our existing company register?
-  text: "Most countries have central registers of companies that include, for example,
-    information about the directors/founders, registered address etc. If a country
-    is looking to establish a new beneficial ownership register, they may therefore
-    consider ‘adding’ beneficial ownership into this existing company register. Our
-    technical team at Open Data Services have put together this [primer](http://standard.openownership.org/en/latest/primer/index.html)
-    explaining what beneficial ownership is and how it differs from legal ownership
-    (which is normally recorded in company registers).\n\nTo understand the technical
-    considerations of adding beneficial ownership to an existing company register,
-    OpenOwnership recommends that existing systems (both digital and paper) that are
-    involved in collecting, storing and publishing company information should be mapped.
-    There may be technical differences in the system requirements for a company register
-    and a beneficial ownership register that require architectural changes. For example,
-    a company register database may use a company-centric model (i.e. each record
-    is a different company), whereas a beneficial ownership database should be capable
-    of recording “statements” about how a person is related to a company (i.e. each
-    record is a different statement about a person owning a particular company). \n"
-- title: What are other beneficial ownership registers like?
-  text: We are compiling case studies of how open beneficial ownership registers operate
-    around the world, and they will be added to the guide soon.
-- title: What is good practice for evaluating and improving systems?
-  text: Beneficial ownership transparency is a relatively new policy area, and the
-    initial systems developed will require ongoing maintenance, and are likely to
-    require more substantive periodic improvements. Such improvements may be required
-    from a purely technical perspective, or may become necessary as a result of changes
-    to the legal framework for beneficial ownership transparency, or changing needs
-    of stakeholders. OpenOwnership recommends that an agile, user-centered approach
-    is taken to identify where improvements can be made on an ongoing basis. This
-    approach should include end-users of beneficial ownership data, as well as staff
-    and companies who use the systems.
-resource-text:
-- 'Website: [BODS information & documentation](http://standard.openownership.org/)'
-- "[Primer](http://standard.openownership.org/en/latest/primer/index.html) outlining
-  what beneficial ownership transparency is"
-- 'BODS Tools: [BODS data schema](http://standard.openownership.org/en/latest/schema/index.html)'
-- 'BODS Tools: [Field Mapper ](https://docs.google.com/spreadsheets/d/1Ps7CpO-bOQO3c0ytTqvnp8B2u2oxbk7-DchOgqpP_kQ/copy)'
-- 'BODS Tools: [Functional Requirements for systems](http://standard.openownership.org/en/latest/schema/guidance/functional-requirements.html)'
-- 'BODS Tools: [Example BODS data](http://standard.openownership.org/en/latest/examples/index.html)'
-- 'BODS Tools: [Data Review Tool](https://datareview.openownership.org/)'
-- 'Principles: [12 Principles for Effective Beneficial Ownership Disclosure](/principles/)'
 layout: guide-page
+description: Creating a legal framework for a BO disclosure regime is only one element
+  of a broader reform process. Facilitating BOT also requires the collection, storage,
+  and sharing of data. This section offers guidance on how to review existing company
+  information systems and develop them to enable the publication of BO registers.
+principles:
+- Structured data
 ---
 
+## Processes, systems, and platforms
+
+Digital systems and administrative processes need to fit together smoothly to enable BO information to be collected, stored, maintained, exchanged, and published. Some components of systems design will need to be considered as part of legal reforms, but it will also be important to carefully consider how information flows from companies, via the jurisdiction’s systems and processes, to the people and agencies that need it. Consideration of the following questions should help to identify the starting point for work in this area, and to prompt thinking on the systems and processes that may eventually be required:
+
+* How is the information about the companies registered in the jurisdiction currently collected and managed?
+* Is information about legal ownership currently kept in the companies register? If so, how will legal ownership information be linked with BO information?
+* Are there other government systems that currently collect and store company details (for example, a government procurement system)?
+* How many companies will be required to submit BO declarations?
+* How will companies submit their information (for example, via an online form, with a paper form, or via an authorised notary)?
+* What department, or official body, will be responsible for the collection, management, and publishing of BO data?
+* What manual administrative checks and operations will assist the collection and management of BO information?
+* Does the jurisdiction currently publish company registration information? How will BO information be updated and made publicly available?
+* How will government officials be able to access and make use of BO information (for example, by checking whether there are red flags arising from data on the BO of companies bidding for government contracts)?
+* What will trigger companies to submit their first BO declaration? What will trigger them to update it?
+
+<figure markdown="1">
+<figcaption id="figure-1">Figure 1: BO information collection, storage and sharing pipeline</figcaption>
+![BO information collection, storage and sharing pipeline](/guide/diagrams/guide-systems.png)
+</figure>
+
+## Information flow
+
+It is useful to bring colleagues, departments, and agencies together to build a collective picture of how BO information will be handled. Among other things, this will highlight: where systems and processes need to be developed; gaps in knowledge; questions about responsibilities; and resourcing issues. Generating a diagram can be a focal point for collaboration and aid communication as work progresses. The diagrams in this section use Business Process Model and Notation ([BPMN](http://www.bpmn.org/)).
+
+Most countries have digital central registers of companies that include, for example, information about companies’ legal ownership,[^13] directors, founders, and registered addresses. In this case, adding BO information to the existing company register may be the best choice.
+
+[^13]: This [primer](http://standard.openownership.org/en/0.2.0/primer/whatisbo.html) explains how BO differs from legal ownership, which is normally recorded in company registers.
+
+<figure markdown="1">
+<figcaption id="figure-2">Figure 2: Example of information flow in a well-resourced implementation, using the standard BPMN format</figcaption>
+![Example of information flow in a well-resourced implementation, using the standard BPMN format](/guide/diagrams/guide-bpmn-hitech.png)
+</figure>
+
+[Figure 2](#figure-2) shows how a company register has been extended to capture and store BO information using a new *BO web filing services* module. In this example, the designers of the new system have incorporated the ability for companies to file their BO information online (like company B) or via paper forms (like company A). Some work on mapping out the manual systems necessary for handling paper forms has also been done. The company datastore and related components already serve company information to the company registry portal via an application programming interface (API)[^14] and bulk download services, but those would need to be updated to handle the extra BO data.
+
+[^14]: An API is a mechanism that allows for interaction between separate software components.
+
+Where there are limited resources and a limited number of companies needing to declare their beneficial owners, an online declaration system may not be possible or necessary. Here, the company register itself may be paper based. Much of the administration of the gathering and publication of BO data may be managed on paper or with simple computer files and spreadsheets, as illustrated in [Figure 3](#figure-3).
+
+<figure markdown="1">
+<figcaption id="figure-3">Figure 3: Example of information flow in an implementation with limited resources, using the standard BPMN format</figcaption>
+![Example of information flow in an implementation with limited resources, using the standard BPMN format](/guide/diagrams/guide-bpmn-lowtech.png)
+</figure>
+
+Whatever the scale and complexity of a given country’s particular implementation, OO recommends that BO information is ultimately converted into a digital format. OO has developed the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/0.2.0/) (BODS) for this purpose. The BODS is a free-to-use, off-the-shelf template that provides a structured data format, along with guidance for collecting, sharing, and using data on BO. Publishing according to the OO Principle of [structured data](/principles/structured-data/) in BODS makes it easier to collate BO information from multiple jurisdictions (see the [Data](/guide/data) section for more on the BODS).
+
+> ##### Resources
+> 
+> The [BODS template spreadsheet](https://docs.google.com/spreadsheets/d/1gH_75OJbpsrmcw_zqgrNcDEY1jcC6Aj3cFGAvw3Jx-E/copy) can assist conversion of BO information in paper forms to a digital format. Used alongside the [data review tool](https://datareview.openownership.org/), it might be a key tool where resources are limited. Where information is published in BODS format, the [BODS visualiser](/visualisation/visualisation-tool/) can be embedded in websites to display company ownership and control structures.
+{: .resources-box }
+
+## Developing systems
+
+As mentioned in the [Commit](/guide/commit) section, consultations with key groups, staff, and audiences is crucial when developing a system for BOT. Stakeholders from both inside and outside of government,  inputting, managing, or using BO information, will have valuable insights and perspectives. They should be involved early and often during the systems’ development.
+
+It is useful to adopt an agile approach to development. Whilst it is appealing to imagine a linear, inception-to-completion process of development where there is a clear end point, this is rarely the reality. It is better to acknowledge that systems will need ongoing improvement and adjustment. Putting people at the centre of this cycle, as illustrated in [Figure 4](#figure-4), and securing resources for developing future versions of the systems, will prove advantageous over time. For example, focus groups or user-testing might reveal that people think beneficial owners are simply legal owners. That misunderstanding would lead to the collection of poor quality data. Revealing the problem early on allows definitions and guidance to be provided on BO forms to help people’s understanding. Not all problems can be caught the first time around, though, so securing resources for future development is crucial.
+
+<figure markdown="1">
+<figcaption id="figure-4">Figure 4: Putting people at the centre of systems development</figcaption>
+![Putting people at the centre of systems development](/guide/diagrams/guide-people.png){: .small }
+</figure>
+
+> ##### Resources
+> 
+> See the working paper [Effective consultation processes for beneficial ownership transparency reform](/uploads/open-ownership-effective-consultation-processes-for-bot.pdf) for techniques that can be used at this stage of implementation. OO’s [Beneficial ownership declaration forms: A guide for regulators and designers](https://docs.google.com/document/d/1VnuRYluq1NBKLJtnqTCtaaBk8kNQ8K6Xypvke08_PNY/edit#heading=h.tyjcwt) offers advice on data collection and building usable forms.
+{: .resources-box }
