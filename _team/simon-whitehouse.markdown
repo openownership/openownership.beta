@@ -3,7 +3,7 @@ title: Simon Whitehouse
 categories:
 - bods
 position: 9
-job-title: Data Standards Adoption Consultant
+job-title: Technical Consultant
 image: "/uploads/simon-whitehouse-2.jpg"
 email: simon.whitehouse@opendataservices.coop
 social:
