@@ -3,8 +3,7 @@ title: Tymon Kiepe
 categories:
 - project-team
 position: 5
-job-title: https://manage.siteleaf.com/sites/5bc605d567a1fe473577e112/uploadsPolicy
-  and Research Manager
+job-title: Policy and Research Manager
 email: tymon@openownership.org
 ---
 
