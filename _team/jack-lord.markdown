@@ -3,7 +3,7 @@ title: Jack Lord
 categories:
 - bods
 position: 11
-job-title: Beneficial Ownership Lead
+job-title: Technical Consultant
 image: "/uploads/jack-lord-2.jpg"
 email: jack.lord@opendataservices.coop
 social:
