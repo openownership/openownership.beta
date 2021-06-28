@@ -8,7 +8,7 @@ image: "/uploads/eva-okunbor-2.jpg"
 email: eva@openownership.org
 ---
 
-Eva Okunbor is Open Ownership’s Advocacy and Knowledge Management Associate. 
+As Open Ownership's Advocacy and Knowledge Management Associate, Eva works with colleagues across our distributed team to enable the smooth running of our delivery and operations. She coordinates the documenting of knowledge across the organisation and supports the sharing of knowledge with key advocacy audiences. Eva also leads our work with the Beneficial Ownership Leadership Group.
 
 As a former Transparency International staffer, her broad experience in transparency issues has given her skills in project management, research, and training that are regularly deployed across Open Ownership’s work streams.
 
