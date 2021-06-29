@@ -6,7 +6,7 @@ tags:
 files:
   en: "/uploads/OPO%20Services%20Brochure.pdf"
   es: "/uploads/OPO%20Services%20Brochure%20ES.pdf"
-  id: 
+  id: "/uploads/Pendampingan%20teknis%20dengan%20implementasi.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/OPO%20Services%20Brochure%20Thumbnail.jpg"
 resource_type: Summaries & Factsheets
