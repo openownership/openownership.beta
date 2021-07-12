@@ -12,4 +12,4 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ## Current vacancies
 
-There are no current vacancies, but please check back soon.
+[Policy and Research Associate](https://www.openownership.org/jobs/new-role-policy-and-research-associate/)
