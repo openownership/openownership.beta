@@ -6,14 +6,10 @@ categories:
 tags:
 - Jobs
 image: "/uploads/andrew-neel-cckf4TsHAuw-unsplash-1440-810.jpg"
-description: This new role will expand our policy and research capacity. You will
-  join a small distributed team at a time of organisational growth, taking on a defined
-  but varied range of responsibilities to support delivery of Open Ownership’s research
-  and policy influencing agenda. We’re a fast-paced team that is recognised internationally
-  for delivering high quality research, so be ready to contribute ideas, deliver well
-  and share in our culture of excellence. People who enjoy learning and variety in
-  their work will be particularly well-suited for our team. You will report to Open
-  Ownership’s Policy and Research Manager.
+description: |-
+  This new role will expand our policy and research capacity. You will join a small distributed team at a time of organisational growth, taking on a defined but varied range of responsibilities to support delivery of Open Ownership’s research and policy influencing agenda. We’re a fast-paced team that is recognised internationally for delivering high quality research, so be ready to contribute ideas, deliver well and share in our culture of excellence. People who enjoy learning and variety in their work will be particularly well-suited for our team.
+
+  Read on for the full job description and information on how to apply.
 author: Open Ownership
 is_featured: true
 ---
