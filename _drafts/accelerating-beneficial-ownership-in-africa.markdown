@@ -1,7 +1,6 @@
 ---
 title: Accelerating beneficial ownership in Africa
 date: 2021-07-12 08:19:00 Z
-published: false
 image: "/uploads/40518-African-Anti-Corruption-Day-Facebook-Cover1.png"
 description: |-
   Corporate anonymity poses significant risks to domestic resource mobilisation in Africa. Research by the UN Conference on Trade and Development (UNCTAD) [suggests that African countries can retain an estimated USD 89 billion](https://unctad.org/news/africa-could-gain-89-billion-annually-curbing-illicit-financial-flows) per year if illicit capital flight can be addressed. Accelerating beneficial ownership transparency (BOT) implementation remains fundamental to tackling illicit financial flows and meeting global and[ continental development goals](https://au.int/sites/default/files/decisions/9665-assembly_au_dec_546_-_568_xxiv_e.pdf) – a priority of the [African Union Convention on Preventing and Combating Corruption](https://au.int/treaties/african-union-convention-preventing-and-combating-corruption) (AUCPCC).
