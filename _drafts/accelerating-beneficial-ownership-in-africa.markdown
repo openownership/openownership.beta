@@ -6,7 +6,6 @@ categories:
 tags:
 - Africa
 - BOT
-image: "/uploads/40518-African-Anti-Corruption-Day-Facebook-Cover1.png"
 description: As the African Union marks the fifth edition of the African Anti-Corruption
   Day, sustaining momentum and accelerating the implementation of beneficial ownership
   disclosure will remain key in regional efforts to tackle corporate secrecy in Africa.
