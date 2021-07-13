@@ -9,6 +9,7 @@ tags:
 - privacy
 files:
   en: "/uploads/OO%20Public%20Access%20Briefing.pdf"
+  es: "/uploads/OO%20Public%20Access%20Briefing%20ES.pdf"
 author: Tymon Kiepe
 thumbnail-image: "/uploads/oo-public-access-briefing-thumbnail.jpg"
 resource_type: Policy briefing
