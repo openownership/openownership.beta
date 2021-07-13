@@ -72,6 +72,16 @@ resources:
     cuándo, dónde y cómo recolectar los datos, y cuál es la mejor forma de verificarlos.
   url: "/uploads/OPO%20Procurement%20Paper%20ES.pdf"
   thumbnail-image: "/uploads/OO%20BO%20Data%20in%20Procurement%20Thumbnail.jpg"
+- title: Publicación de los registros centrales de beneficiarios finales
+  attribution: Tymon Kiepe · julio 2021
+  content: Este informe describe los beneficios resultantes de la publicación de datos
+    sobre los beneficiarios finales, analizando cómo los diferentes grupos de usuarios
+    pueden utilizar los datos e identificando los beneficios que ello acarrea. El
+    informe plantea que existe evidencia suficiente como para que sea razonable y
+    racional que los responsables de formular políticas actúen con la certeza de que
+    un registro público servirá a los intereses de la ciudadanía.
+  url: "/uploads/OO%20Public%20Access%20Briefing%20ES.pdf"
+  thumbnail-image: "/uploads/oo-public-access-briefing-thumbnail.jpg"
 layout: espanol
 ---
 
