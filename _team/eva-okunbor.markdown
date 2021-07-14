@@ -2,7 +2,7 @@
 title: Eva Okunbor
 categories:
 - project-team
-position: 8
+position: 9
 job-title: Advocacy and Knowledge Management Associate
 image: "/uploads/eva-okunbor-2.jpg"
 email: eva@openownership.org

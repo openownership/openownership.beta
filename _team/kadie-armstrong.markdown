@@ -2,7 +2,7 @@
 title: Kadie Armstrong
 categories:
 - bods
-position: 10
+position: 11
 job-title: Lead Technical Consultant
 image: "/uploads/kadie-armstrong-2.jpg"
 email: kadie.armstrong@opendataservices.coop
