@@ -1,6 +1,7 @@
 ---
 title: Hani Rosidaini
 date: 2021-07-15 23:39:00 Z
+position: 5
 job-title: Regional Associate, Asia
 email: hani@openownership.org
 ---
