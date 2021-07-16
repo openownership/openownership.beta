@@ -23,8 +23,3 @@ Having clear identifiers – e.g. registration numbers for companies and taxpaye
 Where ownership or control is held indirectly through multiple entities or through legal arrangements such as trusts, full visibility of ownership chains is important for understanding how ownership and control are exercised. Rather than ranges, collecting absolute values when disclosing the percentage of ownership or control will assist users in understanding how ownership or control is held. This is particularly important when ownership or control is held indirectly.
 
 Although state ownership may not meet the definition of BO, it represents a substantial amount of investment in large firms in strategic sectors. Therefore, governments should extend BO disclosure requirements to explicitly require the disclosure of stakes held by the state, directly or indirectly, and distinguish state ownership from private ownership by collecting information in a consistent and defined format.
-Read more:
-
-Beneficial ownership declaration forms: Guide for regulators and designers
-Example digital beneficial ownership declaration form
-Example paper forms for collecting beneficial ownership data

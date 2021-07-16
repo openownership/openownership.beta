@@ -14,5 +14,3 @@ summary_version: |-
 Clearly defining BO and ensuring it covers all relevant forms of ownership and control makes the disclosure regime less vulnerable to exploitation by those seeking to abuse the system.
 
 Using low thresholds to determine ownership or control reduces the risk that someone with relevant ownership or control remains hidden. Whilst extremely low thresholds may become too labour or cost intensive without providing useful insight into significant ownership or control, using thresholds that are too high can create a potential loophole that can be exploited. A risk based approach can help determine appropriate thresholds that balance these factors, bearing in mind the country’s policy aims. Lower thresholds may be warranted for high-risk sectors, industries, and people. Where possible, definitions should be harmonised regionally and internationally, or similar minimum standards should be adopted.
-
-Read more: Beneficial ownership in law: Definitions and thresholds
