@@ -19,5 +19,3 @@ summary_version: |-
 ---
 
 To maximise the impact of BO registers, it is important that users and authorities can trust that the representation of ownership in a register reflects the true reality of who owns or controls a particular company. Verification is a combination of checks and processes that help ensure that BO data is accurate and complete at a given point in time. Checks can be deployed at different stages in a declaration system with the aim of making data high quality and reliable in order to create confidence in a register and to maximise its utility and impact.
-
-Read more: Verification of beneficial ownership data

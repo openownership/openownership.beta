@@ -14,5 +14,3 @@ summary_version: |-
 Comprehensive coverage of different entity types is important because if certain types of legal entities are not covered, potential loopholes form that can be exploited for illegitimate purposes. Similarly, the disclosure requirements should cover all categories of natural persons (for example, domestic and foreign citizens who meet the definition of beneficial owner) to avoid creating a loophole that could be exploited in order to avoid disclosing ownership.
 
 Disclosure regimes should take the inclusion of all types of entities and categories of people as a starting point, and subsequently assess which entities and people can be excluded (for instance, where an entity is already disclosing BO through a mechanism with equivalent requirements); these assessments and justifications should be made public. In all cases, exemptions should be narrowly interpreted.
-
-Read more: Implementation Guide: Legal

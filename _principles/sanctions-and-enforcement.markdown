@@ -16,5 +16,3 @@ Having adequate sanctions in place, and enforcing these effectively, helps to dr
 Sanctions can only act as an effective deterrent if they are fairly and proportionately enforced in practice. To do this, relevant agencies require both the legal mandate and adequate resources to identify suspected noncompliance, investigate appropriately, and issue sanctions. Sanctions should include both monetary and non-monetary penalties, which can cover certain business-related rights, such as not being able to incorporate a company or not being paid out dividends from shares.
 
 Data on noncompliance should be made available to improve data utility and reliability. Implementers can take a number of approaches to this, for instance, by clearly indicating where information has not been updated within the legally required period, or, when BO data is used in procurement, by having a blacklist of noncompliant companies.
-
-Read more: Verification of beneficial ownership data

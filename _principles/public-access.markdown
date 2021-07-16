@@ -20,11 +20,3 @@ Having a public BO register means that law enforcement, businesses, journalists,
 Disclosure and publication of BO information has legitimate public interest purposes, and can be compliant with data protection and privacy legislation, as has been done in many different jurisdictions where BO systems have been implemented. In practice, this means that the fields of data that are collected and published (including identifiers) should be developed in the context of local legislation, whilst maximising availability of information that supports effective data use. Potential negative effects should be understood and mitigated for (for example, through implementing layered access and a protection regime), in compliance with the above principles of data usability.
 
 In instances where a person is granted anonymity within BO data (e.g. under a protection regime), this should not automatically constitute an exemption to disclosure. Their BO will still need to be disclosed ownership and this information should still be available to authorities.
-
-Read more:
-Making central beneficial ownership registers public
-Early impacts of public registers of beneficial ownership: United Kingdom
-Early impacts of public registers of beneficial ownership: Slovakia
-The case for public beneficial ownership registers
-Data protection and privacy in beneficial ownership disclosure 
-Beneficial ownership data in procurement
