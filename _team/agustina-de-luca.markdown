@@ -1,7 +1,7 @@
 ---
 title: Agustina De Luca
 date: 2021-07-14 21:09:00 Z
-position: 5
+position: 6
 job-title: Data Engagement Manager
 image: "/uploads/agustina-de-luca-team.jpg"
 email: agustina@openownership.org
