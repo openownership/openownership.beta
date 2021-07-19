@@ -1,8 +1,8 @@
 ---
 title: Structured data
+date: 2021-07-01 00:00:00 Z
 full-title: Data should be structured and interoperable
 order: 6
-date: 2021-07-01
 summary_version: |-
   - BO data should be available as structured data, with declarations conforming to a specified data model or template.
   - Data should be available digitally, including in a machine-readable format.

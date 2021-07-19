@@ -1,14 +1,23 @@
 ---
 title: Robust definitions
-full-title: Beneficial ownership should be clearly and robustly defined in law, with sufficiently low thresholds set to ensure all relevant ownership and control interests are disclosed
+date: 2021-07-01 00:00:00 Z
+full-title: Beneficial ownership should be clearly and robustly defined in law, with
+  sufficiently low thresholds set to ensure all relevant ownership and control interests
+  are disclosed
 order: 1
-date: 2021-07-01
-summary_version: |-
-  - Robust and clear definitions of BO should state that a beneficial owner should be a natural person. Definitions should cover all relevant forms of ownership and control, specifying that ownership and control can be held both directly and indirectly.
-  - There should be a single, unified definition in law in primary legislation, with additional secondary legislation referring to this definition.
-  - The definition should comprise a broad catch-all definition of what constitutes BO, and this should be coupled with a non-exhaustive list of example ways in which BO can be held. 
-  - Thresholds should be set sufficiently low so that all relevant people with BO and control interests are included in declarations. A risk based approach should be considered to set lower thresholds for particular sectors, industries, or people, depending on the policy objectives set.
-  - Definitions should include a clear prohibition of agents, custodians, employees, intermediaries, or nominees acting on behalf of another person qualifying as a beneficial owner.
+summary_version: "- Robust and clear definitions of BO should state that a beneficial
+  owner should be a natural person. Definitions should cover all relevant forms of
+  ownership and control, specifying that ownership and control can be held both directly
+  and indirectly.\n- There should be a single, unified definition in law in primary
+  legislation, with additional secondary legislation referring to this definition.\n-
+  The definition should comprise a broad catch-all definition of what constitutes
+  BO, and this should be coupled with a non-exhaustive list of example ways in which
+  BO can be held. \n- Thresholds should be set sufficiently low so that all relevant
+  people with BO and control interests are included in declarations. A risk based
+  approach should be considered to set lower thresholds for particular sectors, industries,
+  or people, depending on the policy objectives set.\n- Definitions should include
+  a clear prohibition of agents, custodians, employees, intermediaries, or nominees
+  acting on behalf of another person qualifying as a beneficial owner."
 ---
 
 Clearly defining BO and ensuring it covers all relevant forms of ownership and control makes the disclosure regime less vulnerable to exploitation by those seeking to abuse the system.

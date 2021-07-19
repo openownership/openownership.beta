@@ -1,8 +1,9 @@
 ---
 title: Comprehensive coverage
-full-title: Data should comprehensively cover all relevant types of legal entities and natural persons
+date: 2021-07-01 00:00:00 Z
+full-title: Data should comprehensively cover all relevant types of legal entities
+  and natural persons
 order: 2
-date: 2021-07-01
 summary_version: |-
   - All types of entities and arrangements through which ownership and control can be exercised (including, for example, state-owned enterprises (SOEs) and publicly listed companies (PLCs)) and all types of beneficial owners (including non-residents) should be included in declarations, unless reasonably exempt. (see below).
   - Any exemptions from full declaration requirements should be clearly defined and justified, and reassessed on an ongoing basis.

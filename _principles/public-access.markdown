@@ -1,8 +1,8 @@
 ---
 title: Public access
+date: 2021-07-01 00:00:00 Z
 full-title: Sufficient data should be freely accessible to the public
 order: 5
-date: 2021-07-01
 summary_version: |-
   - The public should have access to BO data, at a minimum to a subset that is sufficient for users to understand and use the data.
   - This data should be available free of charge.

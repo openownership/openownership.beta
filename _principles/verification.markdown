@@ -1,8 +1,8 @@
 ---
 title: Verification
+date: 2021-07-01 00:00:00 Z
 full-title: Measures should be taken to verify the data
 order: 7
-date: 2021-07-01
 summary_version: |-
   - When data is submitted, measures should be taken to verify the:
      - beneficial owner;

@@ -1,7 +1,7 @@
 ---
 title: Principles for Effective Beneficial Ownership Disclosure
+date: 2021-07-01 00:00:00 Z
 layout: principles-index
-date: 2021-07-01
 ---
 
 The Open Ownership Principles (OO Principles) set the gold standard for effective beneficial ownership (BO) disclosure. The OO Principles are intended to support governments implementing BO reforms and guide international institutions, civil society, and private sector actors in understanding and advocating for effective reforms.

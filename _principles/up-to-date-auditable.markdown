@@ -1,8 +1,8 @@
 ---
 title: Up to date and auditable
+date: 2021-07-01 00:00:00 Z
 full-title: Data should be kept up to date and historical records maintained
 order: 8
-date: 2021-07-01
 summary_version: |-
   - Initial registration and subsequent changes to BO should be legally required to be submitted in a timely manner, with information updated within a short, defined time period after changes occur.
   - Data should be confirmed as correct on at least an annual basis.

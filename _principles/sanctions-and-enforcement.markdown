@@ -1,8 +1,8 @@
 ---
 title: Sanctions and enforcement
+date: 2021-07-01 00:00:00 Z
 full-title: Adequate sanctions and enforcement should exist for noncompliance
 order: 9
-date: 2021-07-01
 summary_version: |-
   - Effective, proportionate, dissuasive, and enforceable sanctions should exist for noncompliance with disclosure requirements, including for non-submission, late submission, incomplete submission, or false submission.
   - Sanctions that cover the person making the declaration, the beneficial owner, registered officers of the company, and the declaring company should be considered.

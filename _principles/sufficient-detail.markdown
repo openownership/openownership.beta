@@ -1,8 +1,9 @@
 ---
 title: Sufficient detail
-full-title: Beneficial ownership declarations should collect sufficient detail to allow users to understand and use the data
+date: 2021-07-01 00:00:00 Z
+full-title: Beneficial ownership declarations should collect sufficient detail to
+  allow users to understand and use the data
 order: 3
-date: 2021-07-01
 summary_version: |-
   - Information should be collected about:
      - the beneficial owner;
