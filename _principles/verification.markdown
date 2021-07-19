@@ -1,5 +1,5 @@
 ---
-title: Verified
+title: Verification
 full-title: Measures should be taken to verify the data
 order: 7
 date: 2021-07-01
