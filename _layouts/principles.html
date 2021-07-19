@@ -9,6 +9,7 @@ layout: default
     <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
       <div class="small-12 medium-10 large-8 cell">
         <h1 class="h3 margin-top-0"><a href="/principles">The Open Ownership Principles</a> &mdash; {{ page.title }}</h1>
+        <aside class="medium-gray small">Last updated: {{ page.date | date: "%B %Y" }}</aside>
       </div>
     </div>
   </section>
@@ -32,7 +33,6 @@ layout: default
 
           {{ content }}
 
-          <p class="medium-gray">Last updated: {{ page.date | date: "%B %Y" }}</p>
         </div>
 
         {% capture guides -%}
