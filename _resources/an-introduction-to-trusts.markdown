@@ -9,7 +9,7 @@ files:
   en: "/uploads/OO%20Introduction%20to%20trusts%20briefing%20July%202021.pdf"
 author: Ramandeep Kaur Chhina
 thumbnail-image: "/uploads/oo-introduction-to-trusts-july-2021-thumbnail.jpg"
-resource_type: Briefing
+resource_type: Briefings
 is_featured: false
 ---
 
