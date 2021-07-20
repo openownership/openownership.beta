@@ -6,7 +6,7 @@ categories:
 tags:
 - Trusts
 files:
-  en: "/uploads/OO%20BOT%20of%20trusts%20July%202021.pdf"
+  en: "/uploads/OO%20BOT%20of%20trusts%20briefing%20July%202021.pdf"
 author: Ramandeep Kaur Chhina
 thumbnail-image: "/uploads/oo-bot-of-trusts-july-2021-thumbnail.jpg"
 resource_type: Briefing
