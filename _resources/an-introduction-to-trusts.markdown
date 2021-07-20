@@ -13,4 +13,4 @@ resource_type: Briefing
 is_featured: false
 ---
 
-This briefing aims to provide background information to the concept of trusts, and serves as a resource reference to develop an understanding of various types of trusts, their functions, and the roles of various parties of a trust. It highlights some of the legitimate and illegitimate uses of trusts, as well as the current practice in a variety of countries on the regulatory treatment of trusts. It is a background to the paper <cite>Beneficial ownership transparency of trusts</cite> for those who are new to the concept.
+This briefing aims to provide background information to the concept of trusts, and serves as a resource reference to develop an understanding of various types of trusts, their functions, and the roles of various parties of a trust. It highlights some of the legitimate and illegitimate uses of trusts, as well as the current practice in a variety of countries on the regulatory treatment of trusts. It is a background to the paper <i>Beneficial ownership transparency of trusts</i> for those who are new to the concept.
