@@ -19,7 +19,6 @@ Open Ownership is always an extremely busy organisation and this year is no diff
 We know that early engagement with potential suppliers really helps make a contract work, so please get in touch with us to talk more about this opportunity if you would like to. We’ll update this page with any questions asked, and the answers we give. The deadline for the submission of tenders is midnight BST on Sunday 15 August 2021.
 
 [View Terms of Reference and How to Apply](/uploads/website-redesign-tor-july-2021.pdf)
-{: .button }
 
 Thom Townsend<br/>
 Executive Director<br/>
