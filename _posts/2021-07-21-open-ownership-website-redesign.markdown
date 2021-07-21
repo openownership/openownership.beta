@@ -3,6 +3,7 @@ title: Open Ownership website redesign
 date: 2021-07-21 15:35:00 Z
 categories:
 - jobs
+image: "/uploads/oo-website.jpg"
 description: Open Ownership wants to relaunch its website. We want to ensure that
   all the information and resources we produce are easily discoverable, accessible
   and navigable to users worldwide.
