@@ -3,6 +3,7 @@ title: 'Consultancy opportunity: Develop OO''s MEL framework'
 date: 2021-07-21 15:39:00 Z
 categories:
 - jobs
+image: "/uploads/Form%20guidance.png"
 description: We seek an experienced MEL agent (an organisation or independent consultant)
   to support us as we finalise our strategy and develop an MEL framework.
 author: Open Ownership
