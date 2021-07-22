@@ -11,10 +11,10 @@ layout: default
 	{% unless page.content == '' %}
 		<section class="grid-container">
 			<div class="grid-x grid-padding-x grid-padding-y align-center">
-				<div class="small-3 cell">
+				<div class="large-3 cell">
 					{% include blocks/principles-index.html  %}
 				</div>
-				<div class="small-9 cell">
+				<div class="large-9 cell">
 					{{ content }}
 
 					<p class="medium-gray">Last updated: {{ page.date | date: "%B %Y" }}</p>
