@@ -12,4 +12,6 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ## Current vacancies
 
-[Policy and Research Associate](https://www.openownership.org/jobs/new-role-policy-and-research-associate/)
+* [Policy and Research Associate](/jobs/new-role-policy-and-research-associate/)
+* [Open Ownership Website Redesign](/jobs/open-ownership-website-redesign/)
+* [MEL Consultant](/jobs/consultancy-opportunity-develop-oos-mel-framework/)
