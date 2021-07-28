@@ -35,4 +35,4 @@ In light of South Africa’s work on open contracting, we shared the [latest gui
 
 ## Follow up
 
-Open Ownership is committed to providing technical expertise to support those implementing beneficial ownership reforms across Africa. If you would like to discuss technical assistance for your country, please contact: Karabo Rajuili via email on [karabo@openownership.org].
+Open Ownership is committed to providing technical expertise to support those implementing beneficial ownership reforms across Africa. If you would like to discuss technical assistance for your country, please contact: Karabo Rajuili via email on <karabo@openownership.org>.
