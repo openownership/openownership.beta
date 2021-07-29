@@ -10,7 +10,7 @@ Open Ownership drives greater corporate transparency across the world by making 
 
 We are a distributed team and are actively looking to diversify our geographical presence.
 
-## Current vacancies
+## Current opportunities
 
 * [Open Ownership Website Redesign](/jobs/open-ownership-website-redesign/)
 * [MEL Consultant](/jobs/consultancy-opportunity-develop-oos-mel-framework/)
