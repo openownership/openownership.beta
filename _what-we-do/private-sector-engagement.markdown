@@ -1,10 +1,10 @@
 ---
 title: Private sector engagement
 date: 2018-08-17 07:39:00 Z
-layout: page-what-we-do
 pagination:
   enabled: true
   collection: posts
+layout: page-what-we-do
 ---
 
 **How does beneficial ownership affect business?**
@@ -17,7 +17,7 @@ Beneficial ownership transparency aims to eliminate anonymous companies by makin
 
 Beneficial ownership data is increasingly recognised as a fundamental foundation of business integrity and compliance. Unfortunately, data on who owns and controls companies is only being published by a small number of governments globally, making due diligence and compliance increasingly challenging for companies. OpenOwnership is working closely with the private sector to be an agent and advocate of change. Many companies are joining OpenOwnership in advocating for more governments to implement open data public registers of beneficial ownership.
 
-Companies can also be agents in driving new norms within their own organisations and supply chains. The OpenOwnership Register is being used as a platform for asking suppliers and third parties to disclose ownership information publicly as part of onboarding.
+Companies can also be agents in driving new norms within their own organisations and supply chains. The Open Ownership Register is being used as a platform for asking suppliers and third parties to disclose ownership information publicly as part of onboarding.
 
 **Why should companies use the OpenOwnership Register?**
 
@@ -29,6 +29,6 @@ The Register has been designed to serve the needs of a wide range of users inclu
 
 2. **Investments** — Assessing key risks or applying ethical investment screens.
 
-3. **Demonstrating commitment to transparency** — Companies can demonstrate their commitment to transparency to investors and stakeholders by providing data about their own beneficial ownership to the OpenOwnership platform and encouraging organisations they work with or purchase from to do the same.
+3. **Demonstrating commitment to transparency** — Companies can demonstrate their commitment to transparency to investors and stakeholders by providing data about their own beneficial ownership to the Open Ownership platform and encouraging organisations they work with or purchase from to do the same.
 
-We invite all businesses to consider using the Register. We want to shape OpenOwnership into a valuable due diligence platform and welcome all feedback and insights on how we can make OpenOwnership better suit your needs. Please contact [support@openownership.org](support@openownership.org) for more information.
+We invite all businesses to consider using the Register. We want to shape OpenOwnership into a valuable due diligence platform and welcome all feedback and insights on how we can make Open Ownership better suit your needs. Please contact [support@openownership.org](support@openownership.org) for more information.
