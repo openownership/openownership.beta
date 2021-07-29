@@ -1,9 +1,13 @@
 ---
 title: 'Tax transparency, corruption and beneficial ownership: Global Tax Policy Center
   conference report'
-date: 2021-07-28 15:51:00 Z
+date: 2021-07-29 12:00:00 Z
 categories:
 - blogs
+image: "/uploads/2021-07-29-tax-transparency-thumbnail.jpg"
+description: In their roles as Data and Technology Manager and Country Manager for
+  Open Ownership, Stephen Abbott Pugh and Karabo Rajuili recently took part in a conference
+  to share our latest beneficial ownership research.
 author: Stephen Abbott Pugh and Karabo Rajuili
 ---
 
