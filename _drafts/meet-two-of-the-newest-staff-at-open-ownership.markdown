@@ -3,6 +3,7 @@ title: Meet two of the newest staff at Open Ownership
 date: 2021-07-30 10:08:00 Z
 categories:
 - blogs
+image: "/uploads/2021-08-02-two-newest-staff.jpg"
 description: 'This week’s blog post gives an informal insight into two of OO’s most
   recent members of staff: Agustina De Luca, the new Data Engagement Manager, and
   Stephen Abbott Pugh, the new Data and Technology Manager. Learn where they came
