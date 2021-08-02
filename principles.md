@@ -14,3 +14,5 @@ The nine principles are all interrelated and interdependent, but can be broadly 
 The OO Principles -- first published in December 2020 -- are based on Open Ownership (OO)’s work with over 40 countries establishing good practices for open data, and they are based on the findings from practitioners and academic researchers, as well as consultations with government, private sector, and civil society actors conducted in early 2021. The OO Principles focus on the technical characteristics of effective disclosure regimes rather than the external political, social, economic, and cultural factors that are known to influence implementation and impact.
 
 As the policy area of BOT continues to evolve, OO will continue to refine and update the OO Principles to ensure they remain a high but achievable standard that delivers impact.
+
+[Download the Principles as a PDF](/uploads/OO_Principles_EN.pdf){: .button }
