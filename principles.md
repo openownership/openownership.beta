@@ -15,4 +15,4 @@ The OO Principles -- first published in December 2020 -- are based on Open Owner
 
 As the policy area of BOT continues to evolve, OO will continue to refine and update the OO Principles to ensure they remain a high but achievable standard that delivers impact.
 
-[Download the Principles as a PDF](/uploads/OO_Principles_EN.pdf) {: .button }
+[Download the Principles as a PDF](/uploads/OO_Principles_EN.pdf){: .button }
