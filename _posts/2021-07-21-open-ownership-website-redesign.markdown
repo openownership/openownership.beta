@@ -56,15 +56,15 @@ Agencies can pitch any technical approach within the criteria of the call for te
 
 ### Are there any websites you think emulate well what you're hoping to achieve? Please share up to 3.
 
-* https://www.common-wealth.co.uk/
-* https://www.adalovelaceinstitute.org/
-* https://iatistandard.org/en/
+* <https://www.common-wealth.co.uk/>
+* <https://www.adalovelaceinstitute.org/>
+* <https://iatistandard.org/en/>
 
 ### Who are your top three competitors?
 
-* Open Corporates https://opencorporates.com/
-* Open Contracting Partnership https://www.open-contracting.org/
-* Arachnys https://www.arachnys.com
+* Open Corporates <https://opencorporates.com/>
+* Open Contracting Partnership <https://www.open-contracting.org/>
+* Arachnys <https://www.arachnys.com>
 
 ### For the website development, do you wish for it to be redeveloped as a static website, or can we suggest another workaround, like a server site render website for example?
 
