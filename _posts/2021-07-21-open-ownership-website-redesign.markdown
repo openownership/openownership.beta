@@ -10,7 +10,7 @@ author: Open Ownership
 is_featured: true
 ---
 
-Open Ownership wants to relaunch its website - https://www.openownership.org. We want to ensure that all the information and resources we produce are easily discoverable, accessible and navigable to users worldwide. 
+Open Ownership wants to relaunch its website - https://www.openownership.org. We want to ensure that all the information and resources we produce are easily discoverable, accessible and navigable to users worldwide.
 
 We are looking for a thoughtful and user-focussed contractor or agency to support our site’s redevelopment. The final result should, above all else, ensure that the work we do is highly accessible and easy to navigate. For us that means ensuring that all users, and particularly those from parts of the world where internet connectivity is slower or more expensive, can access the information we produce easily. Like many organisations, our work has often ended up a little locked away in PDFs as research reports and the like - this makes it hard to access and share, and in particular, hard to translate using browser-based translation tools. Solving this challenge is really important for us.
 
@@ -56,15 +56,19 @@ Agencies can pitch any technical approach within the criteria of the call for te
 
 ### Are there any websites you think emulate well what you're hoping to achieve? Please share up to 3.
 
-* <https://www.common-wealth.co.uk/>
-* <https://www.adalovelaceinstitute.org/>
-* <https://iatistandard.org/en/>
+* [https://www.common-wealth.co.uk/](https://www.common-wealth.co.uk/)
+
+* [https://www.adalovelaceinstitute.org/](https://www.adalovelaceinstitute.org/)
+
+* [https://iatistandard.org/en/](https://iatistandard.org/en/)
 
 ### Who are your top three competitors?
 
-* Open Corporates <https://opencorporates.com/>
-* Open Contracting Partnership <https://www.open-contracting.org/>
-* Arachnys <https://www.arachnys.com>
+* Open Corporates [https://opencorporates.com/](https://opencorporates.com/)
+
+* Open Contracting Partnership [https://www.open-contracting.org/](https://www.open-contracting.org/)
+
+* Arachnys [https://www.arachnys.com](https://www.arachnys.com)
 
 ### For the website development, do you wish for it to be redeveloped as a static website, or can we suggest another workaround, like a server site render website for example?
 
@@ -101,3 +105,11 @@ At present, we have [resources](https://www.openownership.org/resources/) transl
 ### Please can your team create Markdown versions of your reports and resources on Github for us to review?
 
 As part of the website redevelopment work, we will be happy to create Markdown versions of our reports and resources for use by the successful agency. But we will not be able to do this for all resources before the end of the call for tenders. Some of our resources are already available as Markdown via our website Github repo include the [Open Ownership Principles](https://github.com/openownership/openownership.beta/tree/master/_principles) and our [Guide to implementing beneficial ownership transparency](https://github.com/openownership/openownership.beta/tree/master/_guide).
+
+### What is meant by the evaluation criterion "Product and service development cost"?
+
+As part of the website redevelopment work, we will be happy to create Markdown versions of our reports and resources for use by the successful agency. But we will not be able to do this for all resources before the end of the call for tenders. Some of our resources are already available as Markdown via our website Github repo include the [Open Ownership Principles](https://github.com/openownership/openownership.beta/tree/master/_principles) and our [Guide to implementing beneficial ownership transparency](https://github.com/openownership/openownership.beta/tree/master/_guide).
+
+### Is there any preference for a fixed-fee quote vs estimate range?
+
+Either approach is OK with our team but we would appreciate a rough cost breakdown across different project tasks to help us understand how you would plan to assign and spend the funds if successful.
