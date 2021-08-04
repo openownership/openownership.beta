@@ -48,3 +48,5 @@ header:
       url: /map/
     - title: Impact stories
       url: /resources/?type=case-studies
+  - title: Español
+    url: /espanol
