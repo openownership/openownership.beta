@@ -2,11 +2,13 @@
 title: Publish
 date: 2019-02-16 00:06:00 Z
 position: 5
-layout: guide-page
-description: This section examines how countries can publish BO data in accordance with local privacy and data protection legislation or, in its absence, international standards on data and privacy. 
 principles:
 - Public access
 - Up to date and auditable
+description: This section examines how countries can publish BO data in accordance
+  with local privacy and data protection legislation or, in its absence, international
+  standards on data and privacy.
+layout: guide-page
 ---
 
 ## Best practices for data publication
@@ -49,3 +51,4 @@ Implementers can also mitigate potential negative effects arising from the publi
 > For further discussion on the benefits of publishing BO data, and strategies for mitigating any potential negative effects, please see the OO briefings on [Making central beneficial ownership registers public](/uploads/OO%20Public%20Access%20Briefing.pdf) and [Data protection and privacy in beneficial ownership disclosure](/uploads/oo-data-protection-and-privacy-188205.pdf).
 >
 > For case studies of the emerging impact of public registers, see the OO impact stories [Early impacts of public registers of beneficial ownership: Slovakia](/uploads/slovakia-impact-story.pdf) and [United Kingdom](/uploads/OO%20Impact%20Story%20UK.pdf).
+{: .resources-box }

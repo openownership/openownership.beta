@@ -9,7 +9,7 @@ tags:
 position: 23
 files:
   en: "/guide/"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/implementation-guide-thumbnail.jpg"
 thumbnail-image-class: web-resource
 resource_type: Tools

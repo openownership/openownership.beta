@@ -3,7 +3,9 @@ title: Legal
 date: 2019-02-16 00:03:00 Z
 position: 2
 layout: guide-page
-description: Creating a public BO register requires a range of legal reforms to define which entities and people will be subject to reporting requirements, as well as to mandate a range of data- and systems-related considerations.
+description: Creating a public BO register requires a range of legal reforms to define
+  which entities and people will be subject to reporting requirements, as well as
+  to mandate a range of data- and systems-related considerations.
 principles:
 - Comprehensive coverage
 - Up to date and auditable
@@ -11,7 +13,7 @@ principles:
 - Public access
 - Sufficient detail
 - Robust definitions
-- Verified
+- Verification
 ---
 
 Some of the most notable tasks for legislative attention will include, among others:

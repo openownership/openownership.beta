@@ -9,10 +9,10 @@ position: 26
 files:
   en: "/uploads/oo-example-paper-forms-329df2.pdf"
   es: "/uploads/paper-form-spanish.pdf"
+author: Open Ownership
 thumbnail-image: "/uploads/oo-example-paper-forms-image.JPG"
-author: OpenOwnership
 resource_type: Tools
-is_featured: true
+is_featured: false
 ---
 
 This document provides example forms to guide officials tasked with developing paper forms to collect beneficial ownership information.

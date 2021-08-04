@@ -10,16 +10,7 @@ Open Ownership drives greater corporate transparency across the world by making 
 
 We are a distributed team and are actively looking to diversify our geographical presence.
 
-## Current vacancies
+## Current opportunities
 
-### [Communications Associate](/jobs/new-role-communications-associate/)
-
-| Apply By | 27 June 2021 |
-
-We are looking for an enthusiastic and talented individual to support and champion our growing communications work. The successful postholder will be responsible for planning and delivering a range of online and offline content, including our social media channels, website, events, newsletters and publications.
-
-You’ll be a precise and engaging writer, who is able to handle multiple projects and deadlines simultaneously. Your work will support the overall strategic direction of Open Ownership, and you will also have a chance to engage with our growing fundraising activities.
-
-[Learn more and apply](/jobs/new-role-communications-associate/)
-
-[Download job description as PDF](/uploads/Communications%20Associate%20May%202021.pdf)
+* [Open Ownership Website Redesign](/jobs/open-ownership-website-redesign/)
+* [MEL Consultant](/jobs/consultancy-opportunity-develop-oos-mel-framework/)
