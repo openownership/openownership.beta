@@ -48,21 +48,3 @@ header:
       url: /map/
     - title: Impact stories
       url: /resources/?type=case-studies
-
-footer:
-  - title: Principles
-    url: /principles/
-  - title: What we do
-    url: /what-we-do/
-  - title: Map
-    url: /map/
-  - title: Latest
-    url: /latest/
-  - title: Resources
-    url: /resources/
-  - title: About
-    url: /about/
-  - title: Jobs
-    url: /jobs/
-  - title: Español
-    url: /espanol/
