@@ -12,7 +12,7 @@ layout: default
     <div class="small-12 cell resource-filters padding-bottom-0 margin-bottom-0">
       <p class="margin-bottom-0"><label for="resource-type-filter">Show resources:</label></p>
     </div>
-    <div class="medium-6 large-3 cell resource-filters">
+    <div class="medium-4 cell resource-filters">
       <select id="types-filter" name="type">
         {% assign resource_types =  site.resources | map: 'resource_type' | uniq | sort %}
         <option value="">Any type</option>
@@ -21,7 +21,7 @@ layout: default
         {% endfor %}
       </select>
     </div>
-    <div class="medium-6 large-3 cell resource-filters">
+    <div class="medium-4 cell resource-filters">
       <select id="categories-filter" name="category">
         {% assign resource_cats =  site.resources | map: 'categories' | join: ',' | split: ',' | uniq | sort %}
         <option value="">Any category</option>
@@ -30,16 +30,7 @@ layout: default
         {% endfor %}
       </select>
     </div>
-    <div class="medium-6 large-3 cell resource-filters">
-      <select id="topics-filter" name="topic">
-        {% assign resource_tags =  site.resources | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
-        <option value="">Any topic</option>
-        {% for tag in resource_tags %}
-          <option value="{{tag | slugify}}">{{tag | capitalize}}</option>
-        {% endfor %}
-      </select>
-    </div>
-    <div class="medium-6 large-3 cell resource-filters">
+    <div class="medium-4 cell resource-filters">
       <select id="languages-filter" name="language">
         {% assign languages = "" | split: "," %}
         {% for resource in site.resources %}
@@ -51,6 +42,15 @@ layout: default
         <option value="">Any language</option>
         {% for language in unique_languages %}
           <option value="{{language}}">{{ site.data.language_names[language]['name'] | capitalize }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="resource-filters hide">
+      <select id="topics-filter" name="topic">
+        {% assign resource_tags =  site.resources | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
+        <option value="">Any topic</option>
+        {% for tag in resource_tags %}
+          <option value="{{tag | slugify}}">{{tag | capitalize}}</option>
         {% endfor %}
       </select>
     </div>
