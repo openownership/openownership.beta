@@ -1,12 +1,10 @@
 ---
 title: Guide to implementing beneficial ownership transparency
 position: 5
-description: This guide is designed to support governments that are considering or
-  implementing beneficial ownership transparency. It provides practical resources,
-  and shares the knowledge and good practice that is being developed by a growing
-  number of countries around the world. We also hope it will be helpful for people
-  in international institutions, the private sector and civil society who are supporting
-  beneficial ownership transparency.
+description: |-
+  This guide is designed to support governments that are considering or implementing beneficial ownership transparency. It provides practical resources, and shares the knowledge and good practice that is being developed by a growing number of countries around the world. We also hope it will be helpful for people in international institutions, the private sector and civil society who are supporting beneficial ownership transparency.
+
+  [Download as Single PDF](/uploads/OO_Implementation_Guide.pdf){: .button }
 image: "/assets/img/og-image.png?version=2"
 layout: guide
 ---
