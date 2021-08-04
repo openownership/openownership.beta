@@ -1,11 +1,13 @@
 ---
 title: Beneficial ownership disclosure workbook
 date: 2021-06-23 08:32:00 Z
+resource_type: Guidance
+categories:
+- Country assistance
 files:
   en: "/uploads/Beneficial%20Ownership%20Disclosure%20Workbook%20version1.pdf"
 author: Kadie Armstrong
 thumbnail-image: "/uploads/Disclosure%20workbook%20screenshot-162d77.PNG"
-resource_type: Workbook
 is_featured: false
 ---
 
