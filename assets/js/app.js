@@ -430,6 +430,14 @@ $(function(){
         .prop('selected', true)
         .trigger('change');
     });
+
+    // If a topic has been selected, display notice
+    var selectedTopic = $('#topics-filter');
+    if (selectedTopic.val() != "") {
+      $('#topics-filter-selected').text(selectedTopic.find('option[value="' + selectedTopic.val() + '"]').text());
+      $('#topics-filter-selected-notice').removeClass('hide').show();
+    }
+    
   }
 
   function saveFiltersToURL() {

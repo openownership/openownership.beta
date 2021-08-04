@@ -10,7 +10,14 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 cell resource-filters padding-bottom-0 margin-bottom-0">
-      <p class="margin-bottom-0"><label for="resource-type-filter">Show resources:</label></p>
+      <p id="topics-filter-selected-notice" class="medium-4 cell hide">
+        Showing only: <strong id="topics-filter-selected"></strong> (<a href="/resources/">clear</a>)
+      </p>
+      <p class="margin-bottom-0">
+        <label for="types-filter">
+          Filter by:
+        </label>
+      </p>
     </div>
     <div class="medium-4 cell resource-filters">
       <select id="types-filter" name="type">
