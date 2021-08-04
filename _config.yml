@@ -33,10 +33,6 @@ collections:
   what-we-do:
     title: What We Do
     output: true
-  pages:
-    title: Pages
-    output: true
-    permalink: /:path
 defaults:
 - scope:
     path: ''
