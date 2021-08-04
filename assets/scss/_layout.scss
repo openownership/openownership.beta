@@ -71,6 +71,10 @@ svg {
 line-height: 1.4;
 }
 
+img.small {
+  width: 30em
+}
+
 // 4. Color
 // --------
 
@@ -207,6 +211,12 @@ p {
   font-family: $serif-headline;
 }
 
+.text-body {
+  li {
+    margin-top: 0.4em
+  }
+}
+
 .text-with-sections {
 
   h1, h2 {
@@ -227,6 +237,93 @@ p {
     color: $grey-blue
   }
 
+}
+
+// Override Foundation's core styles for lists
+dl dt {
+  margin-top: 0.75rem;
+  font-family: $sans-bold
+}
+dl dd {
+  margin-left: 1rem
+}
+
+// Add rule to Foundation table styling to bold header rows
+thead tr:first-child th {
+  font-weight: bold;
+}
+
+// Add override for button appearing in a table cell
+td .button { margin-bottom: 0 }
+
+// Prettier TOC
+#markdown-toc {
+  @include underline-links-invert();
+
+  font-size: 90%;
+  list-style: none;
+  margin-left: 0;
+  border-left: 1px solid lighten(get-color(secondary), 25%);
+  padding-left: 1rem;
+  margin: 1rem 0;
+
+  &:before {
+    content: 'On This Page';
+    display: block;
+    font-size: 110%;
+    font-family: $sans-bold;
+  }
+}
+
+// Prettier footnotes
+.footnotes {
+  font-size: 85%;
+  margin-top: 3rem;
+  padding: 1rem;
+  background-color: #E9ECED
+}
+
+figure {
+  margin: 3rem 0;
+}
+
+figcaption {
+  font-family: $sans-bold;
+  margin-bottom: 1rem
+}
+
+blockquote p:last-child { margin-bottom: 0 }
+
+// Blockquotes with classes are a good way to create boxes in Markdown
+blockquote.resources-box {
+  padding: 1rem;
+  background-color: $white;
+  border-left: 4px solid $primary-color;
+  margin: 2rem 0;
+
+  // Use to give the box a heading
+  h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    font-family: $sans-bold;
+    line-height: $line-height--tighter;
+    font-size: 1rem;
+  }
+}
+
+blockquote.aside {
+  padding: 1rem;
+  border: 1px solid $primary-color;
+  margin: 2rem 0;
+
+  // Use to give the box a heading
+  h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    font-size: 1.1rem;
+  }
+}
+
+hr {
+  margin: 3rem 0
 }
 
 
@@ -552,7 +649,6 @@ $publish: #1BB0A7;
   .question {
   color: $primary-color;
   }
-  @include links ($primary-color, $medium-gray);
   p {
     a {
     border-bottom: 1px solid $primary-color;
@@ -564,47 +660,6 @@ $publish: #1BB0A7;
   }
   .black {
   @include links ($black, $medium-gray);
-  }
-}
-
-.guide__page--consider  {
-  border-top: 1rem solid $consider;
-  .shadow {
-  box-shadow: $shadow-dimensions $consider;
-  }
-  .question {
-  color: $consider;
-  }
-  @include links ($consider, $medium-gray);
-  p {
-    a {
-    border-bottom: 1px solid $consider;
-    transition: border-bottom .35s cubic-bezier(.39, .575, .565, 1);
-    &:hover {
-      border-bottom: 1px solid transparent;
-    }
-    }
-  }
-  .black {
-  @include links ($black, $medium-gray);
-  }
-  .consider {
-  opacity: 1
-  }
-  .commit {
-  opacity: 0.25
-  }
-  .legal {
-  opacity: 0.25
-  }
-  .systems {
-  opacity: 0.25
-  }
-  .data {
-  opacity: 0.25
-  }
-  .publish {
-  opacity: 0.25
   }
 }
 
@@ -647,6 +702,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 0.25
   }
+  blockquote { border-color: $commit }
 }
 
 .guide__page--legal  {
@@ -688,6 +744,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 0.25
   }
+  blockquote { border-color: $legal }
 }
 
 .guide__page--systems  {
@@ -729,6 +786,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 0.25
   }
+  blockquote { border-color: $systems }
 }
 
 .guide__page--data  {
@@ -770,6 +828,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 0.25
   }
+  blockquote { border-color: $data }
 }
 
 .guide__page--publish  {
@@ -811,6 +870,7 @@ $publish: #1BB0A7;
   .publish {
   opacity: 1
   }
+  blockquote { border-color: $publish }
 }
 
 
@@ -883,10 +943,6 @@ padding-top: 3rem;
 .hexagon:hover {
   fill: #f4f7f8;
   fill-opacity:0.6;
-}
-
-.guide-page img {
-  padding: 2rem 0rem;
 }
 
 // X. Posts
@@ -1059,23 +1115,6 @@ padding-top: 3rem;
 // X. Visualisation
 // ----------------
 
-// Override Foundation's core styles for definition lists
-dl dt {
-  margin-top: 0.75rem;
-  font-family: $sans-bold
-}
-dl dd {
-  margin-left: 1rem
-}
-
-// Add rule to Foundation table styling to bold header rows
-thead tr:first-child th {
-  font-weight: bold;
-}
-
-// Add override for button appearing in a table cell
-td .button { margin-bottom: 0 }
-
 // Active item in nav menu
 .sidemenu {
 
@@ -1116,25 +1155,6 @@ td .button { margin-bottom: 0 }
     .text-body img {
       width: 100%;
       min-width: 100%;
-    }
-  }
-
-  // Prettier TOC
-  #markdown-toc {
-    @include underline-links-invert();
-
-    font-size: 90%;
-    list-style: none;
-    margin-left: 0;
-    border-left: 1px solid lighten(get-color(secondary), 25%);
-    padding-left: 1rem;
-    margin: 1rem 0;
-
-    &:before {
-      content: 'On This Page';
-      display: block;
-      font-size: 110%;
-      font-family: $sans-bold;
     }
   }
 

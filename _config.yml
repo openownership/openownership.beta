@@ -74,6 +74,11 @@ defaults:
     layout: principles
 - scope:
     path: ''
+    type: guide
+  values:
+    principles: []
+- scope:
+    path: ''
     type: team
   values:
     job-title: 
@@ -139,15 +144,7 @@ date_format: "%b %Y"
 future: true
 social:
   twitter: https://twitter.com/openownership
-  medium: https://medium.com/beneficial-ownership
   github: https://github.com/openownership
-guides:
-  consider: "/guide/consider"
-  commit: "/guide/commit"
-  legal: "/guide/legal"
-  systems: "/guide/systems"
-  data: "/guide/data"
-  publish: "/guide/publish"
 pagination:
   enabled: true
   per_page: 6

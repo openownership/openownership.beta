@@ -1,6 +1,8 @@
 ---
 title: 'Beneficial ownership declaration forms: Guide for regulators and designers'
 date: 2021-03-17 10:19:00 Z
+tags:
+- sufficient detail
 files:
   en: "/uploads/boform-notes.pdf"
 author: Open Ownership

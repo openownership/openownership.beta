@@ -1,5 +1,5 @@
 ---
-title: OpenOwnership Mission Statement 2018
+title: Open Ownership Mission Statement 2018
 date: 2018-08-01 11:32:00 Z
 position: 7
 files:

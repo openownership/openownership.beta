@@ -17,3 +17,7 @@
 /framework/verified/ /principles/verified/
 /framework/up-to-date-auditable/ /principles/up-to-date-auditable/
 /framework/sanctions-and-enforcement/ /principles/sanctions-and-enforcement/
+
+# Moved pages
+/guide/consider /guide # Consider stage was removed
+/principles/verified/ /principles/verification/ # Principle renamed

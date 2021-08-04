@@ -7,7 +7,7 @@ tags:
 position: 4
 files:
   en: "/uploads/BOT-network-support-tools-for-implementation.pdf"
-author: OpenOwnership
+author: Open Ownership
 thumbnail-image: "/uploads/BOT-network-support-tools-for-implementation.jpg"
 resource_type: Presentations
 is_featured: false

@@ -1,5 +1,5 @@
 ---
-title: Making central beneficial ownership registers public
+title: 'Policy briefing: Making central beneficial ownership registers public'
 date: 2021-05-25 10:29:00 Z
 categories:
 - Policy Briefing
@@ -9,10 +9,13 @@ tags:
 - privacy
 files:
   en: "/uploads/OO%20Public%20Access%20Briefing.pdf"
+  es: "/uploads/OO%20Public%20Access%20Briefing%20ES.pdf"
 author: Tymon Kiepe
 thumbnail-image: "/uploads/oo-public-access-briefing-thumbnail.jpg"
-resource_type: Briefings
+resource_type: Policy briefing
 is_featured: true
 ---
 
-This briefing outlines the benefits that arise from making a BO register public by looking at how different user groups are able to use the data when it is made public, and identifying the benefits this has. It argues that there is sufficient evidence for policymakers to act on the understanding that a public register will serve the public interest. It outlines key considerations for implementers and helps devise effective and safe BOT regimes appropriate for their contexts.
+This policy briefing outlines the benefits that arise from making a beneficial ownership register public. It looks at how different user groups are able to use the data when it is made public, and identifies the benefits this gives. 
+
+It argues that there is sufficient evidence for policymakers to act on the understanding that a public register will serve the public interest. It outlines key considerations for implementers and helps devise effective and safe BOT regimes appropriate for their contexts.

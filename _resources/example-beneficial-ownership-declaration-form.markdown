@@ -1,6 +1,8 @@
 ---
 title: Example Beneficial ownership declaration form
 date: 2021-03-16 09:39:00 Z
+tags:
+- sufficient detail
 files:
   en: https://docs.google.com/spreadsheets/d/1oPJpRserD8AQAii1pRmrfpKekVqgwpM6Dl-kfybpD3o/edit#gid=1777743984
 author: Open Ownership

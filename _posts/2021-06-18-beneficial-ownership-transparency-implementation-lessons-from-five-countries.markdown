@@ -12,7 +12,7 @@ tags:
 - UK
 image: "/uploads/IMF.png"
 description: 'Chinwe Ekene Ezeigbo reviews the implementation of beneficial ownership
-  disclosure regimes in five different countries: Armenia, Kenya, Nigeria, the Ukraine
+  disclosure regimes in five different countries: Armenia, Kenya, Nigeria, Ukraine
   and the UK.'
 author: Chinwe Ekene Ezeigbo
 is_featured: true
