@@ -647,7 +647,6 @@ $publish: #1BB0A7;
   .question {
   color: $primary-color;
   }
-  @include links ($primary-color, $medium-gray);
   p {
     a {
     border-bottom: 1px solid $primary-color;
