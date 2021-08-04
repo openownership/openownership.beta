@@ -12,28 +12,34 @@ layout: default
     <div class="small-12 cell resource-filters padding-bottom-0 margin-bottom-0">
       <p class="margin-bottom-0"><label for="resource-type-filter">Show resources:</label></p>
     </div>
-    <div class="small-12 medium-4 cell resource-filters">
-      <select id="resource-type-filter" name="resource-type">
-        <option value="">In any category</option>
-        <option value="tools">Tools</option>
-        <option value="briefings">Briefings</option>
-        <option value="presentations">Presentations</option>
-        <option value="reports">Reports</option>
-        <option value="summaries-factsheets">Summaries & Factsheets</option>
-        <option value="consultations">Consultations</option>
-        <option value="charters-principles-mission-statements">Charters, Principles & Mission Statements</option>
+    <div class="medium-6 large-3 cell resource-filters">
+      <select id="types-filter" name="type">
+        {% assign resource_types =  site.resources | map: 'resource_type' | uniq | sort %}
+        <option value="">Any type</option>
+        {% for type in resource_types %}
+          <option value="{{type | slugify}}">{{type | capitalize}}</option>
+        {% endfor %}
       </select>
     </div>
-    <div class="small-12 medium-4 cell resource-filters">
+    <div class="medium-6 large-3 cell resource-filters">
+      <select id="categories-filter" name="category">
+        {% assign resource_cats =  site.resources | map: 'categories' | join: ',' | split: ',' | uniq | sort %}
+        <option value="">Any category</option>
+        {% for cat in resource_cats %}
+          <option value="{{cat | slugify}}">{{cat | capitalize}}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="medium-6 large-3 cell resource-filters">
       <select id="topics-filter" name="topic">
         {% assign resource_tags =  site.resources | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
-        <option value="">On any topic</option>
+        <option value="">Any topic</option>
         {% for tag in resource_tags %}
           <option value="{{tag | slugify}}">{{tag | capitalize}}</option>
         {% endfor %}
       </select>
     </div>
-    <div class="small-12 medium-4 cell resource-filters">
+    <div class="medium-6 large-3 cell resource-filters">
       <select id="languages-filter" name="language">
         {% assign languages = "" | split: "," %}
         {% for resource in site.resources %}
@@ -42,7 +48,7 @@ layout: default
           {% endfor %}
         {% endfor %}
         {% assign unique_languages = languages | uniq %}
-        <option value="">In any language</option>
+        <option value="">Any language</option>
         {% for language in unique_languages %}
           <option value="{{language}}">{{ site.data.language_names[language]['name'] | capitalize }}</option>
         {% endfor %}

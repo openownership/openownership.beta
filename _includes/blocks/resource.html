@@ -1,8 +1,9 @@
 <div
   class="grid-x grid-padding-x grid-padding-y align-center resource
-         {{resource.resource_type | slugify}}
-         {% for tag in resource.tags %} {{tag | slugify}}{%endfor%}
-         {% for file in resource.files %} {{file[0]}}{%endfor%}
+         resource-type-{{resource.resource_type | slugify}}
+         {% for cat in resource.categories %} resource-category-{{cat | slugify}}{%endfor%}
+         {% for tag in resource.tags %} resource-topic-{{tag | slugify}}{%endfor%}
+         {% for file in resource.files %} resource-language-{{file[0] | slugify}}{%endfor%}
          ">
 
   <div class="small-12 medium-6 large-2 cell">
@@ -11,7 +12,11 @@
 
   <div class="small-12 medium-6 large-10 cell">
     <h5 class="sans-bold"><a href="{{ resource.url }}">{{ resource.title}}</a></h5>
-    <div class="medium-gray margin-bottom-1">{{ resource.author }} · {{ resource.date | date: site.date_format }}</div>
+    <div class="medium-gray margin-bottom-1">
+      {{ resource.resource_type }} &middot;
+      {{ resource.author }} &middot;
+      {{ resource.date | date: site.date_format }}
+    </div>
     {{resource.content | markdownify}}
   </div>
 </div>

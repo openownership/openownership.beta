@@ -21,7 +21,6 @@ collections:
   resources:
     title: Resources
     output: true
-
   team:
     title: Team
     output: true

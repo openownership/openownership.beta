@@ -383,28 +383,24 @@ $(function(){
 
   var $filters = $('.resource-filters select');
 
-  function filterValues() {
+  function selectedFilters() {
     var values = {};
     $filters.each(function(index, select) {
       var value = $(select).val();
       if(value !== '') {
-        values[$(select).attr('name')] = value;
+        fType = $(select).attr('name');
+        values[fType] = value;
       }
     });
     return values;
   }
 
   function filterBySelections() {
-    var values = Object.values(filterValues());
-    if(values.length === 0) {
+    var selected = selectedFilters();
+    if(Object.values(selected).length === 0) {
       filterResources();
     } else {
-      // We AND together multiple filters so join them into one string:
-      // https://api.jquery.com/multiple-attribute-selector/
-      var filters = values.map(function(value) {
-        return '.' + value;
-      }).join('');
-      filterResources(filters);
+      filterResources(selected);
     }
   }
 
@@ -412,7 +408,14 @@ $(function(){
     // Work out what we're showing
     var $filteredResources = $resources;
     if(filter) {
-      $filteredResources = $filteredResources.filter(filter);
+      // We AND together multiple filters so join them into one string:
+      // https://api.jquery.com/multiple-attribute-selector/
+      var filters = '';
+      for (var filterType in filter) {
+        filters = filters + '.resource-' + filterType + '-' + filter[filterType];
+      }
+      console.log('Filtering resources: ' + filters);
+      $filteredResources = $filteredResources.filter(filters);
     }
     $resources.hide();
     $filteredResources.show();
@@ -430,7 +433,7 @@ $(function(){
   }
 
   function saveFiltersToURL() {
-    var values = filterValues();
+    var values = selectedFilters();
     var queryString = new URLSearchParams(values);
     var url = location.pathname;
     if(Object.keys(values).length > 0) {
