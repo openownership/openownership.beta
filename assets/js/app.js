@@ -453,13 +453,8 @@ $(function(){
 
   function toggleNoDataMessages() {
     $('.no-resources-message').hide();
-    if($('.featured-resources .resource:visible').length === 0) {
-      $('.featured-resources .no-resources-message').show();
-    } else {
-
-    }
-    if($('.additional-resources .resource:visible').length === 0) {
-      $('.additional-resources .no-resources-message').show();
+    if($('.resources .resource:visible').length === 0) {
+      $('.resources .no-resources-message').show();
     }
   }
 
