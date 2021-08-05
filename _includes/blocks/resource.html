@@ -1,22 +1,24 @@
 <div
-  class="grid-x grid-padding-x grid-padding-y align-center resource
+  class="cell {{include.grid}} resource
          resource-type-{{resource.resource_type | slugify}}
          {% for cat in resource.categories %} resource-category-{{cat | slugify}}{%endfor%}
          {% for tag in resource.tags %} resource-topic-{{tag | slugify}}{%endfor%}
          {% for file in resource.files %} resource-language-{{file[0] | slugify}}{%endfor%}
          ">
 
-  <div class="small-12 medium-6 large-2 cell">
-    <a href="{{ resource.url }}"><img src="{{ resource.thumbnail-image }}" class="image--resource {{resource.thumbnail-image-class}}"></a>
-  </div>
-
-  <div class="small-12 medium-6 large-10 cell">
-    <h5 class="sans-bold"><a href="{{ resource.url }}">{{ resource.title}}</a></h5>
-    <div class="medium-gray margin-bottom-1">
-      {{ resource.resource_type }} &middot;
-      {{ resource.author }} &middot;
-      {{ resource.date | date: site.date_format }}
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="cell resource-image">
+      <a href="{{ resource.url }}"><img src="{{ resource.thumbnail-image }}" class="image--resource {{resource.thumbnail-image-class}}"></a>
     </div>
-    {{resource.content | markdownify}}
+
+    <div class="cell medium-auto">
+      <h5 class="sans-bold"><a href="{{ resource.url }}">{{ resource.title}}</a></h5>
+      <div class="medium-gray margin-bottom-1">
+        {{ resource.resource_type }} &middot;
+        {{ resource.author }} &middot;
+        {{ resource.date | date: site.date_format }}
+      </div>
+      {{resource.content | markdownify}}
+    </div>
   </div>
 </div>
