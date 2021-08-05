@@ -32,7 +32,7 @@ header:
     - title: Workbook
       url: /resources/beneficial-ownership-disclosure-workbook/
     - title: Data standard (BODS)
-      url: /what-we-do/the-beneficial-ownership-data-standard
+      url: https://standard.openownership.org/
     - title: Visualisation system (BOVS)
       url: /visualisation
     - title: Forms
