@@ -1,69 +1,32 @@
 ---
 title: What we do
-position: 1
-description: We are driving the global shift towards transparency over who owns and
-  controls companies.
-services:
-- title: Guide to implementing beneficial ownership transparency
-  icon: sharing
-  text: Our implementation guide is designed to support governments that are considering
-    or implementing beneficial ownership transparency. It provides practical resources,
-    and shares the knowledge and good practice that is being developed by a growing
-    number of countries around the world. We also hope it will be helpful for people
-    in international institutions, the private sector and civil society who are supporting
-    beneficial ownership transparency.
-  button: View guide
-  link: "/guide/"
-- title: Building a stable and trusted Beneficial Ownership Data Standard and user
-    base
-  icon: building
-  text: The Beneficial Ownership Data Standard (the Standard, or BODS) is being developed
-    in collaboration with dozens of international experts in company data and in technical
-    standard-setting. It will enable the resulting beneficial ownership data to be
-    interoperable, more easily reused, and higher quality. We are engaging with public
-    and private sector publishers of beneficial ownership data to encourage uptake
-    of the standard.
-  button: Find out more
-  link: "/what-we-do/the-beneficial-ownership-data-standard/"
-- title: The Beneficial Ownership Leadership Group
-  icon: pilot
-  text: 'The Beneficial Ownership Leadership Group came together in 2019 to drive
-    the global policy shift towards free, open beneficial ownership data. By joining
-    the Beneficial Ownership Leadership Group each country signs up to a   set of
-    best practice disclosure principles. Convened by Open Ownership and Open Government
-    Partnership, the group is comprised of Armenia, Kenya, Latvia, Mexico, Nigeria,
-    Slovak Republic and the United Kingdom. '
-  button: Find out more
-  link: "/what-we-do/the-beneficial-ownership-leadership-group/"
-- title: The OpenOwnership Register
-  icon: one-on-one
-  text: The Register is an easy-to-use, cloud-based, platform that links beneficial
-    ownership information from multiple sources and makes it available for free to
-    all, allowing for powerful global searches with just a couple of clicks. Data
-    on the platform comes from regulatory sources such as national companies registers
-    and the Extractive Industries Transparency Initiative. It is also self-submitted
-    by companies through our sleek, intuitive reporting interface. Information from
-    more than 5 million companies is already available through the online portal.
-  button: View the Register
-  link: https://register.openownership.org/
-- title: Partnering with us
-  icon: one-on-one
-  text: We specialise in providing integrated support across the whole range of policy,
-    legal, systems and technology issues involved in establishing beneficial ownership
-    registers. We offer bespoke guidance that fits the specific needs of each individual
-    country’s context. We recognise that there is no one-size-fits-all solution and
-    work closely with our partner agencies to help them deliver impact in-country.
-  button: Find out more
-  link: "/what-we-do/partnering-with-us/"
-- title: Private sector engagement
-  icon: private-sector
-  text: We are encouraging corporations and financial institutions to use the OpenOwnership
-    Register (and eventually our API) as part of their due diligence processes and
-    to submit their ownership data to the Register. We are currently seeking early
-    adopters to work with so that we can build a strong use case to build momentum.
-  button: Find out more
-  link: "/what-we-do/private-sector-engagement/"
 layout: what-we-do
+position: 1
+services:
+- title: Technical assistance to implement beneficial ownership transparency
+  icon: one-on-one
+  text: |-
+    OO provides [targeted support](/resources/technical-assistance-with-implementation/) and quality assurance throughout [each stage](/guide) of the BOT implementation process. Working directly with national government agencies that are responsible for implementation, OO engages holistically with local and international stakeholders across and outside of government to ensure that reforms are well understood and supported, and that they respond to the needs of data users.
+    
+    The OO team provides a range of support for implementers, including: developing and reviewing legislation and regulations; developing forms and business processes to collect data; designing and building technical systems to store and publish data; and analysing and using the resulting data. OO also works with implementers to support the creation of full economy central beneficial ownership registers as well as those for specific sectors such as [extractives](/extractives) and [procurement](/resources/beneficial-ownership-data-in-procurement/). 
+- title: Technology and capacity to use beneficial ownership data
+  icon: building
+  text: |-
+    OO works with governments, civil society, and companies to develop technology that uses beneficial ownership data to actively reduce corruption risks and improve governance. OO has developed the [Beneficial Ownership Data Standard (BODS)](http://standard.openownership.org/en/0.2.0/), which enables the publication of structured, linkable beneficial ownership data, as well as the [Global Open Ownership Register](https://register.openownership.org/), which uses real world beneficial ownership data for nearly 8 million companies and allows for public analysis and interrogation of the data. OO also provides direct support and training to people and organisations (including governments) wanting to understand and use beneficial ownership data. By providing technologies such as the BODS as public goods, OO aims to transform the availability of structured beneficial ownership data around the globe, going well beyond the implementation support provided directly to countries.
+- title: Research to inform policy
+  icon: sharing
+  text: |-
+    OO’s third workstream aims to further build the evidence base and produce the [guidance](/resources) and resources that help local stakeholders to implement effective BOT reforms. To do so, OO continues to collect evidence of implementation and impact from the team’s country work, guided by and informing the [Open Ownership Principles](/principles) (OO Principles), and sharing this knowledge and evidence with other national level stakeholders. It is important to research how to implement BOT effectively as well as why implementing BOT is necessary, as these questions underpin OO’s work at a national level and inform the development of data tools and technologies. This research is also a key mechanism through which OO can influence change across the world, by informing international standards and practices on BOT, and influencing the practice of intermediary organisations and consultants that support BOT implementations around the world. 
+conclusion: |-
+  If you are interested in partnering with Open Ownership to advance beneficial ownership transparency in your country, please contact <support@openownership.org> to discuss your country’s needs and the assistance we could provide.
 ---
 
+Open Ownership (OO) believes that information on the true owners of companies is an essential part of a well-functioning economy and society. Public registers of beneficial owners give access to high quality data about who owns, controls, and benefits from companies and their profits. This information, known as beneficial ownership transparency (BOT), helps tackle corruption, reduce investment risk, and improve national and global governance.
+
+OO helps countries generate high quality data on company ownership that complies with international standards and meets the needs of data users across government, civil society, and the private sector. OO supports people and organisations to use this data to build trust as well as reducing corruption and tax evasion.
+
+Since 2017, OO has worked with almost [40 countries](/map/) to advance implementation of beneficial ownership reforms, as well as supporting the creation of over 15 new central and sectoral registers. OO has developed the world’s leading [data standard](http://standard.openownership.org/en/0.2.0/) for beneficial ownership information, co-founded the international [Beneficial Ownership Leadership Group](/what-we-do/the-beneficial-ownership-leadership-group/), and built the world’s first [transnational public beneficial ownership register](https://register.openownership.org/).
+
 [Download 1-Page Summary](/uploads/openownership-factsheet.pdf){: .button }
+
+Based across five continents, OO’s [team of policy and technical experts](/team) works on three key areas:
