@@ -1,11 +1,11 @@
 ---
 title: UK's performance against the Open Ownership Principles
 date: 2020-12-09 10:44:00 Z
-position: 0
 published: false
-resource_type: Reports
 tags:
 - United Kingdom
+position: 0
+resource_type: Reports
 files:
   en: "/uploads/Rapid%20assessment%20of%20UK%20performance%20against%20the%20OO%20Principles%20.pdf"
 author: Open Ownership

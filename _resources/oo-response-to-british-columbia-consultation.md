@@ -2,12 +2,12 @@
 title: Open Ownership response to British Columbia consultation on a Public Beneficial
   Ownership Registry
 date: 2020-03-13 00:00:00 Z
-position: 20
-resource_type: Consultations
-tags:
-- Canada
 categories:
 - Country assistance
+tags:
+- Canada
+position: 20
+resource_type: Consultations
 files:
   en: "/uploads/oo-response-to-british-columbia-consultation.pdf"
 author: Open Ownership

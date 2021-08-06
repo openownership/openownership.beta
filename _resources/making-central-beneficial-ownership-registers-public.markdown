@@ -1,13 +1,13 @@
 ---
-title: 'Making central beneficial ownership registers public'
+title: Making central beneficial ownership registers public
 date: 2021-05-25 10:29:00 Z
-resource_type: Briefings
 categories:
 - Research and policy
 tags:
 - A central register
 - Public access
 - Privacy
+resource_type: Briefings
 files:
   en: "/uploads/OO%20Public%20Access%20Briefing.pdf"
   es: "/uploads/OO%20Public%20Access%20Briefing%20ES.pdf"

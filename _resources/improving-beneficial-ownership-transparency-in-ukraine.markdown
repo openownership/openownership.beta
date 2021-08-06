@@ -1,12 +1,12 @@
 ---
 title: 'Improving beneficial ownership transparency in Ukraine: Review and recommendations'
 date: 2018-03-29 13:51:00 Z
-resource_type: Reports
 categories:
 - Country assistance
 tags:
 - Ukraine
 position: 2
+resource_type: Reports
 files:
   en: "/uploads/opo-ukraine-report.pdf"
 author: Zosia Sztykowski and Tom Mayne

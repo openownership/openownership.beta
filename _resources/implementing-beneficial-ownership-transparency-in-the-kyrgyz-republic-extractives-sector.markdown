@@ -1,12 +1,13 @@
 ---
-title: Implementing beneficial ownership transparency in the Kyrgyz Republic extractives sector — findings and recommendations
+title: Implementing beneficial ownership transparency in the Kyrgyz Republic extractives
+  sector — findings and recommendations
 date: 2019-03-01 13:23:00 Z
-resource_type: Reports
 categories:
 - Country assistance
 tags:
 - Kyrgyz Republic
 position: 12
+resource_type: Reports
 description: This report summarizes findings from Open Ownership’s scoping visit to
   the Kyrgyz Republic in September 2018, and the research surrounding the visit. It
   makes recommendations for improvements to the legal and regulatory environment,

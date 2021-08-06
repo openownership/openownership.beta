@@ -1,12 +1,12 @@
 ---
 title: 'Early impacts of public registers of beneficial ownership: Slovakia'
 date: 2020-10-13 13:51:00 Z
-resource_type: Case studies
 categories:
 - Impact
 tags:
 - Public access
 - Slovakia
+resource_type: Case studies
 files:
   en: "/uploads/slovakia-impact-story.pdf"
 author: Open Ownership

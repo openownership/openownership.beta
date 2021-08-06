@@ -1,12 +1,12 @@
 ---
 title: 'Beneficial Ownership in Law: Definitions and Thresholds'
 date: 2020-10-27 00:00:00 Z
-resource_type: Briefings
 categories:
 - Research and policy
 tags:
 - Robust definitions
 position: 27
+resource_type: Briefings
 files:
   en: "/uploads/definitions-briefing.pdf"
   es: "/uploads/Beneficiarios finales - definiciones y umbrales.pdf"

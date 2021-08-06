@@ -1,11 +1,11 @@
 ---
 title: Beneficial Ownership Data Standard template
 date: 2021-03-16 09:41:00 Z
-resource_type: Guidance
 categories:
 - Technology
 tags:
 - Structured data
+resource_type: Guidance
 files:
   en: https://docs.google.com/spreadsheets/d/1B2PRabpv6aukxxZjav-ryMWgSk8jKPbO5_Cnq_yVPmk/edit#gid=353511506
 author: Open Ownership

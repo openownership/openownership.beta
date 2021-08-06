@@ -1,11 +1,11 @@
 ---
 title: Integrity in IMF COVID-19 financing
 date: 2021-04-15 14:18:00 Z
-resource_type: Reports
 categories:
 - Research and policy
 tags:
 - Procurement
+resource_type: Reports
 files:
   en: "/uploads/OCP-OO-2021-Integrity-IMF.pdf"
 author: Open Ownership, Open Contracting Partnership and Oxford Insights

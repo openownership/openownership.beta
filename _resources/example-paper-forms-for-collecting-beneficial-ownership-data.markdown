@@ -3,7 +3,6 @@ title: |-
   Example Paper Forms for Collecting
   Beneficial Ownership Data
 date: 2019-06-12 12:00:00 Z
-resource_type: Guidance
 categories:
 - Technology
 tags:
@@ -11,6 +10,7 @@ tags:
 - Structured data
 - Sufficient detail
 position: 26
+resource_type: Guidance
 files:
   en: "/uploads/oo-example-paper-forms-329df2.pdf"
   es: "/uploads/paper-form-spanish.pdf"

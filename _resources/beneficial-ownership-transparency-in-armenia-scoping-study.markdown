@@ -1,12 +1,12 @@
 ---
 title: 'Beneficial Ownership Transparency In Armenia: Scoping Study'
 date: 2020-08-24 00:00:00 Z
-resource_type: Reports
 categories:
 - Country assistance
 tags:
 - Armenia
 position: 21
+resource_type: Reports
 files:
   en: "/uploads/armenia-scoping-report.pdf"
 thumbnail-image: "/uploads/armenia-scoping-report.jpg"

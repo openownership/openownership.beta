@@ -1,10 +1,10 @@
 ---
 title: Effective consultation processes for beneficial ownership transparency reform
 date: 2020-06-20 00:00:00 Z
-position: 28
-resource_type: Guidance
 categories:
 - Country assistance
+position: 28
+resource_type: Guidance
 files:
   en: "/uploads/open-ownership-effective-consultation-processes-for-bot.pdf"
 author: Open Ownership

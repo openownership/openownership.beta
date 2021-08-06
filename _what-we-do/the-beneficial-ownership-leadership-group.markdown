@@ -79,3 +79,4 @@ pagination:
   collection: posts
 layout: leadership-group
 ---
+

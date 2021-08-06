@@ -1,11 +1,11 @@
 ---
 title: An introduction to trusts
 date: 2021-07-20 11:32:00 Z
-resource_type: Briefings
 categories:
 - Research and policy
 tags:
 - Trusts
+resource_type: Briefings
 files:
   en: "/uploads/OO%20Introduction%20to%20trusts%20briefing%20July%202021.pdf"
 author: Ramandeep Kaur Chhina
