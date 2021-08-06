@@ -298,6 +298,7 @@ blockquote p:last-child { margin-bottom: 0 }
 blockquote.resources-box {
   padding: 1rem;
   background-color: $white;
+  outline: 1px solid #e6ecef;
   border-left: 4px solid $primary-color;
   margin: 2rem 0;
 
@@ -331,10 +332,12 @@ hr {
 // ---------
 
 .header {
-  .active a {
+  .active > a {
     border-bottom: 3px solid #3C31D4;
   }
 }
+
+.menu a:not([href]) { cursor: default }
 
 .header__top {
   border-bottom: 2px solid $dark-gray;
@@ -353,7 +356,7 @@ hr {
     border-bottom: 2px solid transparent;
     color: $light-gray;
     &:hover {
-      color: $white;
+      color: $primary-color;
     }
   }
 }
@@ -412,7 +415,7 @@ $shadow-dimensions: 4px 4px 0px;
   color: $white;
 }
 
-.offcanvas .menu .active a {
+.offcanvas .menu .active > a {
   color: $primary-color;
 }
 
@@ -526,7 +529,7 @@ footer {
   @include links ($white, $primary-color);
 }
 
-footer .menu .active a {
+footer .menu .active > a {
   color: $primary-color;
 }
 
@@ -534,7 +537,7 @@ footer .menu a, footer .menu .menu-text {
   padding: 0.5rem 1rem 0.5rem 0rem;
 }
 
-footer .icon {
+footer .icon-logo-main {
   font-size: 4rem;
 }
 
@@ -542,11 +545,11 @@ footer .icon {
   @include links ($black, $primary-color);
 }
 
-.external a svg {
+a.external svg {
   transition: transform 0.25s;
 }
 
-.external a:hover svg {
+a.external:hover svg {
   transform: translate(5px, 0);
 }
 

@@ -12,25 +12,30 @@ layout: default
 
 <!-- What We Do Grid -->
 <section class="grid-container">
-  <div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
   {% for service in page.services %}
-    <div class="small-12 medium-6 cell">
-      <div class="callout shadow large" data-equalizer-watch>
-
-        <div class="grid-y align-justify height-100">
-          <div class="shrink cell text-center">
-            <svg class="icon icon-services icon-{{service.icon}} margin-bottom-2"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{service.icon}}"></use></svg>
-            <h3 class="serif-bold text-center">{{service.title}}</h3>
-            {{service.text | markdownify}}
-          </div>
-          <div class="shrink cell">
-            <a class="button expanded" href="{{service.link}}">{{service.button}}</a>
-          </div>
+    <div class="callout shadow">
+      <div class="grid-x grid-padding-x grid-padding-y">
+        <div class="cell shrink">
+          <svg class="icon icon-services icon-{{service.icon}}">
+            <use xlink:href="/assets/icons/symbol-defs.svg#icon-{{service.icon}}"></use>
+          </svg>
         </div>
-
+        <div class="cell medium-auto">
+          <h3 class="serif-bold margin-top-0">{{service.title}}</h3>
+          {{service.text | markdownify}}
+        </div>
       </div>
     </div>
   {% endfor %}
-  </div>
 </section>
 <!-- End What We Do Grid -->
+
+{% unless page.conclusion == '' %}
+  <section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y align-center">
+      <div class="small-12 cell">
+        {{page.conclusion | markdownify}}
+      </div>
+    </div>
+  </section>
+{% endunless %}
