@@ -298,6 +298,7 @@ blockquote p:last-child { margin-bottom: 0 }
 blockquote.resources-box {
   padding: 1rem;
   background-color: $white;
+  outline: 1px solid #e6ecef;
   border-left: 4px solid $primary-color;
   margin: 2rem 0;
 
