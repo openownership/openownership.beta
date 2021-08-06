@@ -57,7 +57,9 @@ layout: default
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y align-center">
     <div class="small-12 medium-8 cell">
-    <p class="lead">{{page.description}}</p>
+    <div class="lead">
+      {{page.description | markdownify}}
+    </div>
     </div>
   </div>
 </section>
