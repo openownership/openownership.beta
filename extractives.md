@@ -1,6 +1,6 @@
 ---
 title: Beneficial ownership transparency in the extractive industries
-date: 2021-06-25
+date: 2021-06-25 00:00:00 Z
 ---
 
 [3.5 billion people from 81 countries across the globe live in resource-rich countries](https://www.worldbank.org/en/topic/extractiveindustries/overview), and the rest of the world relies on these states for their energy and natural resources.

@@ -1,6 +1,6 @@
 ---
 title: Helpdesk
-date: 2021-08-05
+date: 2021-08-05 00:00:00 Z
 ---
 
 Open Ownership (OO) is the leading global hub for support with and advice on implementing beneficial ownership transparency. We offer technical assistance to countries seeking to collect, compile and publish data on who ultimately controls companies operating in their jurisdiction. 
