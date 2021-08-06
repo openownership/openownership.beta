@@ -16,7 +16,10 @@ intro: |-
   effective taxation, helps save money on schools and hospitals, and tackles
   corruption.
 
-  Find out more: [Leadership group terms of reference](https://www.opengovpartnership.org/documents/beneficial-ownership-leadership-group-terms-of-reference-declaration-glossary/)
+  Find out more:
+
+  * [Leadership group terms of reference](https://www.opengovpartnership.org/documents/beneficial-ownership-leadership-group-terms-of-reference-declaration-glossary/)
+  * [Disclosure Principles](/uploads/oo-disclosure-principles.pdf)
 principles: |-
   - Publishing company beneficial ownership data that is freely downloadable,
     searchable, and reusable by the public, without a fee, proprietary software,
@@ -76,4 +79,3 @@ pagination:
   collection: posts
 layout: leadership-group
 ---
-

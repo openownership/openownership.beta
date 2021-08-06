@@ -1,17 +1,17 @@
 ---
 title: 'Early impacts of public registers of beneficial ownership: United Kingdom'
 date: 2021-04-27 14:31:00 Z
+resource_type: Case studies
 categories:
-- Summaries & Factsheets
+- Impact
 tags:
-- public access
-- a central register
-- impact
+- Public access
+- A central register
+- United Kingdom
 files:
   en: "/uploads/OO%20Impact%20Story%20UK.pdf"
 author: Chinwe Ekene Ezeigbo, Louise Russell-Prywata and Tymon Kiepe
 thumbnail-image: "/uploads/oo-impact-story-uk-thumbnail.jpg"
-resource_type: Summaries & Factsheets
 is_featured: false
 ---
 

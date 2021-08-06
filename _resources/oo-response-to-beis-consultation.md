@@ -3,11 +3,13 @@ title: Open Ownership response to BEIS consultation on Corporate Transparency an
   Register Reform
 date: 2019-08-05 00:00:00 Z
 position: 19
+resource_type: Consultations
+categories:
+- Country assistance
 files:
   en: "/uploads/oo-response-to-corporate-transparency-and-register-reform-consultation.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-response-to-corporate-transparency-and-register-reform-consultation.jpg"
-resource_type: Consultations
 is_featured: false
 ---
 

@@ -1,11 +1,12 @@
 ---
-title: 'Policy briefing: Verification of beneficial ownership data'
+title: 'Verification of beneficial ownership data'
 date: 2020-05-07 16:24:00 Z
+resource_type: Briefings
 categories:
-- Policy Briefing
+- Research and policy
 tags:
-- verification
-- sanctions and enforcement
+- Verification
+- Sanctions and enforcement
 position: 29
 files:
   en: "/uploads/OpenOwnership%20Verification%20Briefing.pdf"
@@ -13,7 +14,6 @@ files:
   id: "/uploads/Risalah%20kebijakan_%20Verifikasi%20data%20kepemilikan%20manfaat.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
-resource_type: Briefings
 is_featured: true
 ---
 
