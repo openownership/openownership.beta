@@ -28,9 +28,9 @@ The programme targets three key outcomes:
 
 Opening Extractives builds on the collaboration of  the EITI and OO over the last three years in delivering workshops, training, and technical assistance in a broad range of countries.
 
-> Resources
+> #### Resources
 >
 > * [Catalysing transformative change in beneficial ownership transparency](/uploads/Opening%20Extractives%20Research%20Report.pdf)
 > * [Implementing beneficial ownership transparency in the Kyrgyz Republic extractives sector — findings and recommendations ](/uploads/opo-kyrgyz-republic-scoping-report.pdf)
 > * [New project to investigate who benefits from corruption in extractive industries](https://www.devex.com/news/new-project-to-investigate-who-benefits-from-corruption-in-extractive-industries-99164)
-> {: .resources-box }
+{: .resources-box }
