@@ -1,12 +1,16 @@
 ---
-title: 'Technical note: beneficial ownership transparency and listed companies'
+title: 'Beneficial ownership transparency and listed companies'
 date: 2020-09-17 00:00:00 Z
 position: 28
+resource_type: Guidance
+categories:
+- Country assistance
+tags:
+- Sufficient detail
 files:
   en: "/uploads/technical-note-beneficial-ownership-and-listed-companies.pdf"
 thumbnail-image: "/uploads/technical-note-beneficial-ownership-and-listed-companies.png"
 author: Jack Lord and Kadie Armstrong
-resource_type: Briefings
 is_featured: false
 ---
 

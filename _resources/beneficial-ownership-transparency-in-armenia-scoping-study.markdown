@@ -1,15 +1,16 @@
 ---
 title: 'Beneficial Ownership Transparency In Armenia: Scoping Study'
 date: 2020-08-24 00:00:00 Z
+resource_type: Reports
+categories:
+- Country assistance
 tags:
-- armenia
-- eiti
+- Armenia
 position: 21
 files:
   en: "/uploads/armenia-scoping-report.pdf"
 thumbnail-image: "/uploads/armenia-scoping-report.jpg"
 author: Peter Low, Kadie Armstrong, Louise Russell-Prywata
-resource_type: Reports
 is_featured: false
 ---
 

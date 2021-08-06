@@ -1,10 +1,11 @@
 ---
-title: Implementing beneficial ownership transparency in the Kyrgyz Republic extractives
-  sector — findings and recommendations
+title: Implementing beneficial ownership transparency in the Kyrgyz Republic extractives sector — findings and recommendations
 date: 2019-03-01 13:23:00 Z
+resource_type: Reports
+categories:
+- Country assistance
 tags:
-- kyrgyz republic
-- eiti
+- Kyrgyz Republic
 position: 12
 description: This report summarizes findings from Open Ownership’s scoping visit to
   the Kyrgyz Republic in September 2018, and the research surrounding the visit. It
@@ -18,7 +19,6 @@ files:
   ru: "/uploads/opo-kyrgyz-republic-scoping-report-russian.pdf"
 author: 'Louise Russell-Prywata, Jack Lord '
 thumbnail-image: "/uploads/opo-kyrgyz-republic-scoping-report.jpg"
-resource_type: Reports
 is_featured: false
 ---
 
