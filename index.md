@@ -28,7 +28,7 @@ what-we-do:
   - title: BODS
     url: http://standard.openownership.org/
   - title: More tools
-    url: "/resources/?resource-type=tools"
+    url: "/resources/?type=guidance"
 - title: Research and policy
   text: By addressing knowledge gaps, and identifying and defining best practice,
     our research raises the global standard of beneficial ownership transparency.
@@ -36,6 +36,6 @@ what-we-do:
   - title: The OO Principles
     url: "/principles"
   - title: Reports
-    url: "/resources/?resource-type=reports"
+    url: "/resources/?type=reports"
 ---
 
