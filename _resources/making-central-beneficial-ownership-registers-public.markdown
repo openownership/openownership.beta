@@ -1,18 +1,18 @@
 ---
-title: 'Policy briefing: Making central beneficial ownership registers public'
+title: Making central beneficial ownership registers public
 date: 2021-05-25 10:29:00 Z
 categories:
-- Policy Briefing
+- Research and policy
 tags:
-- a central register
-- public access
-- privacy
+- A central register
+- Public access
+- Privacy
+resource_type: Briefings
 files:
   en: "/uploads/OO%20Public%20Access%20Briefing.pdf"
   es: "/uploads/OO%20Public%20Access%20Briefing%20ES.pdf"
 author: Tymon Kiepe
 thumbnail-image: "/uploads/oo-public-access-briefing-thumbnail.jpg"
-resource_type: Policy briefing
 is_featured: true
 ---
 

@@ -1,14 +1,16 @@
 ---
 title: 'Early impacts of public registers of beneficial ownership: Slovakia'
 date: 2020-10-13 13:51:00 Z
+categories:
+- Impact
 tags:
-- public access
-- slovakia
+- Public access
+- Slovakia
+resource_type: Case studies
 files:
   en: "/uploads/slovakia-impact-story.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/slovakia-impact-story.jpg"
-resource_type: Reports
 ---
 
 Slovakia was among the first countries in the world to implement a public

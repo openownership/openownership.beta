@@ -2,14 +2,15 @@
 title: Beneficial ownership transparency of trusts
 date: 2021-07-20 11:34:00 Z
 categories:
-- Briefings
+- Research and policy
 tags:
 - Trusts
+- Sufficient detail
+resource_type: Briefings
 files:
   en: "/uploads/OO%20BOT%20of%20trusts%20briefing%20July%202021.pdf"
 author: Ramandeep Kaur Chhina
 thumbnail-image: "/uploads/oo-bot-of-trusts-july-2021-thumbnail.jpg"
-resource_type: Briefings
 is_featured: true
 ---
 

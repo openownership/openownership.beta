@@ -1,12 +1,16 @@
 ---
 title: Learning the lessons from the UK’s public beneficial ownership register
 date: 2017-11-02 11:38:00 Z
+categories:
+- Country assistance
+tags:
+- United Kingdom
 position: 9
+resource_type: Case studies
 files:
   en: "/uploads/learning-the-lessons.pdf"
 author: OpenOwnership and Global Witness
 thumbnail-image: "/uploads/learning-lessons-doc.jpg"
-resource_type: Reports
 is_featured: false
 ---
 

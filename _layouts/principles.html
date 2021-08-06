@@ -62,17 +62,18 @@ layout: default
 
 
         {% assign tag = page.title | downcase %}
-        {% assign resource_tags =  site.resources | map: 'tags' | join: ','  | split: ',' | uniq %}
-
+        {% assign resource_tags =  site.resources | map: 'tags' | join: ','  | downcase | split: ',' | uniq %}
         <hr/>
         {% if resource_tags contains tag %}
           <h2>Resources</h2>
-
-          {% for resource in site.resources %}
-            {% if resource.tags contains tag %}
-              {% include blocks/resource.html resource=resource %}
-            {% endif %}
-          {% endfor %}
+          <div class="grid-x grid-padding-x grid-padding-y">
+            {% for resource in site.resources %}
+              {% assign tags = resource.tags | join: ',' | downcase | split: ',' | uniq %}
+              {% if tags contains tag %}
+                {% include blocks/resource.html resource=resource %}
+              {% endif %}
+            {% endfor %}
+          </div>
         {% else %}
           <h2>Learn more</h2>
           <p>

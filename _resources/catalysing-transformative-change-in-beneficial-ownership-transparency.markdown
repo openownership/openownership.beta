@@ -1,14 +1,16 @@
 ---
-title: |-
-  Catalysing transformative
-  change in beneficial ownership transparency
+title: Catalysing transformative change in beneficial ownership transparency
 date: 2020-09-02 12:58:00 Z
+categories:
+- Research and policy
+tags:
+- Extractives
 position: 0
+resource_type: Reports
 files:
   en: "/uploads/Opening%20Extractives%20Research%20Report.pdf"
 author: EITI and Open Ownership
 thumbnail-image: "/uploads/Screenshot%202020-08-18%20at%2012.40.00.png"
-resource_type: Reports
 is_featured: false
 ---
 

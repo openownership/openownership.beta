@@ -1,33 +1,52 @@
 header:
-  - title: Principles
-    url: /principles/
-  - title: What we do
-    url: /what-we-do/
-  - title: Map
-    url: /map/
-  - title: Latest
-    url: /latest/
-  - title: Resources
-    url: /resources/
   - title: About
-    url: /about/
-  - title: Jobs
-    url: /jobs/
-
-footer:
-  - title: Principles
-    url: /principles/
-  - title: What we do
-    url: /what-we-do/
-  - title: Map
-    url: /map/
+    url: /what-we-do
+    sublinks:
+    - title: Beneficial ownership explained
+      url: /what-is-bot
+    - title: What we do
+      url: /what-we-do
+    - title: Team and governance
+      url: /team
+    - title: Opening Extractives
+      url: /extractives
+    - title: Jobs
+      url: /jobs
   - title: Latest
-    url: /latest/
-  - title: Resources
-    url: /resources/
-  - title: About
-    url: /about/
-  - title: Jobs
-    url: /jobs/
+    url: /latest
+  - title: Implement
+    url: /guide
+    sublinks:
+    - title: Guide
+      url: /guide
+    - title: Principles
+      url: /principles
+    - title: Helpdesk
+      url: /helpdesk
+    - title: Partnering with us
+      url: /what-we-do/partnering-with-us/
+    - title: GloBo
+      url: /what-we-do/the-beneficial-ownership-leadership-group/
+  - title: Tools
+    sublinks:
+    - title: Workbook
+      url: /resources/beneficial-ownership-disclosure-workbook/
+    - title: Data standard (BODS)
+      url: https://standard.openownership.org/
+    - title: Visualisation system (BOVS)
+      url: /visualisation
+    - title: Forms
+      url: /resources/?topic=forms
+    - title: Register
+      url: https://register.openownership.org/
+  - title: Publications
+    url: /resources
+  - title: Impact
+    url: /map/
+    sublinks:
+    - title: Map
+      url: /map/
+    - title: Impact stories
+      url: /resources/?type=case-studies
   - title: Español
-    url: /espanol/
+    url: /espanol
