@@ -94,8 +94,8 @@ defaults:
   values:
     layout: visualisation
 url: https://www.openownership.org
-description: Driving the global shift towards transparency over who owns and controls
-  companies.
+description: Open Ownership strengthens accountability and advances transparency in
+  company ownership
 permalink: pretty
 include:
 - _redirects
