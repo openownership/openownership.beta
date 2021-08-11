@@ -2,7 +2,7 @@
 title: Jack Lord
 categories:
 - bods
-position: 13
+position: 14
 job-title: Technical Consultant
 image: "/uploads/jack-lord-2.jpg"
 email: jack.lord@opendataservices.coop
