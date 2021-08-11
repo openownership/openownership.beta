@@ -1,7 +1,7 @@
 ---
 title: Kathryn Davies
 date: 2021-06-03 11:05:00 Z
-position: 8
+position: 9
 job-title: Fundraising and Communications Manager
 image: "/uploads/kathryn-davies-team.jpg"
 email: kathryn@openownership.org
