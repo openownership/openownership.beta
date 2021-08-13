@@ -22,10 +22,10 @@
 
 # Resource filters were reconfigured
 # resource-type renamed to type, types stripped back
-/resources/?resource-type=tools /resources/
-/resources/?resource-type=briefings /resources/?type=briefings
-/resources/?resource-type=presentations /resources/
-/resources/?resource-type=reports /resources/?type=reports
-/resources/?resource-type=summaries-factsheets /resources/?type=briefings
-/resources/?resource-type=consultations /resources/?type=consultations
-/resources/?resource-type=charters-principles-mission-statements /resources/?type=guidance
+/resources/?resource-type=tools /resources/ 301!
+/resources/?resource-type=briefings /resources/?type=briefings 301!
+/resources/?resource-type=presentations /resources/ 301!
+/resources/?resource-type=reports /resources/?type=reports 301!
+/resources/?resource-type=summaries-factsheets /resources/?type=briefings 301!
+/resources/?resource-type=consultations /resources/?type=consultations 301!
+/resources/?resource-type=charters-principles-mission-statements /resources/?type=guidance 301!
