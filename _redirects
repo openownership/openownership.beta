@@ -22,6 +22,12 @@
 /guide/consider /guide # Consider stage was removed
 /principles/verified/ /principles/verification/ # Principle renamed
 
+# Deleted pages
+/what-we-do/1-1-technical-assistance /what-we-do/partnering-with-us
+/what-we-do/the-openownership-pilot-program/ /what-we-do/
+/what-we-do/private-sector-engagement/ /what-we-do/
+/what-we-do/the-beneficial-ownership-data-standard/ https://standard.openownership.org/en/0.2.0/
+
 # Resource filters were reconfigured
 # resource-type renamed to type, types stripped back
 /resources/?resource-type=tools /resources/
