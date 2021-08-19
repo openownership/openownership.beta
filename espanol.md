@@ -82,6 +82,16 @@ resources:
     un registro público servirá a los intereses de la ciudadanía.
   url: "/uploads/OO%20Public%20Access%20Briefing%20ES.pdf"
   thumbnail-image: "/uploads/oo-public-access-briefing-thumbnail.jpg"
+- title: Guía de implementación de la transparencia sobre los beneficiarios finales
+  attribution: Peter Low y Kadie Armstrong · agosto 2021
+  content: Esta guía de implementación busca ayudar a los funcionarios públicos a
+    identificar y resolver los diversos problemas legales, políticos y técnicos que
+    puedan surgir cuando durante el proceso de crear un registro público de beneficiarios
+    finales eficaz y de gran impacto. Incorpora las buenas prácticas emergentes que
+    Open Ownership ha adquirido colaborando con la implementación de registros de
+    beneficiarios finales en casi 40 jurisdicciones.
+  url: "/uploads/OO_Implementation_Guide_ES.pdf"
+  thumbnail-image: "/uploads/implementation-guide-thumbnail-b74fc8.jpg"
 layout: espanol
 ---
 
