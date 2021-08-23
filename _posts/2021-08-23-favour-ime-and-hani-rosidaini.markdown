@@ -19,11 +19,11 @@ is_featured: true
 
 I was born in Port Harcourt in Nigeria and I definitely had an interesting childhood. I’ve always been a very active child. I know I was very bold: I would ask the questions people wouldn’t ask, say the things they were thinking about but couldn't say. People would usually say that I should become a preacher, as I was so convincing in the way I spoke about things. I was firm in my requests for things as well! That followed through from primary school to secondary school to university.
 
-I wasn’t necessarily the smartest of my sisters - my older sister was/is very ‘book smart’ -  but I studied a bit of everything. I also loved playing basketball, football and table tennis, and I play the drums and the keyboard.  I used to write, and became the chief editor of my secondary school magazine.
+I wasn’t necessarily the smartest of my sisters - my older sister was and is very ‘book smart’ -  but I studied a bit of everything. I also loved playing basketball, football and table tennis, and I play the drums and the keyboard.  I used to write, and became the chief editor of my secondary school magazine.
 
 My parents hadn’t had the opportunity of education past secondary school, so they made it a point of duty that we get the best education possible. So after going to a University open day in Nigeria and learning about the possibilities, it was my Mum’s idea that I go abroad to study. I totally agreed with the plan and when I was 16 I travelled to the UK on my own, which was the first time I’d left Nigeria!
 
-I went to London to school, then did a one year diploma in Cambridge, and then I did a law degree at the University of York. I was the only Nigerian in my set out of about 120 people. I’m very open to learning about different cultures, and so my first friends were from Greece and other varied countries. I had so much fun. I immersed myself in it and took advantage of the whole process.
+I went to London to school, then did a one year diploma in Cambridge, and then I did a law degree at the University of York. I was the only Nigerian in my set out of about 120 people. I’m very open to learning about different cultures, and so my first friends were from Greece and other countries. I had so much fun. I immersed myself in it and took advantage of the whole process.
 
 ### OO: At what point did you realise your calling to work in the public sector?
 
