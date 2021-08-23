@@ -12,6 +12,8 @@ description: 'This weekâ€™s blog post gives an informal insight into two of OOâ€
 author: Open Ownership
 ---
 
+10 minutes with Agustina De Luca and Stephen Abbott Pugh.
+
 ## 10 minutes with Agustina De Luca
 
 ### OO: Tell us about your early life
