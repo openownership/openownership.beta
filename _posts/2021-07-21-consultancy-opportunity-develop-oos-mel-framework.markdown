@@ -1,6 +1,7 @@
 ---
 title: 'Consultancy opportunity: Develop OO''s MEL framework'
 date: 2021-07-21 15:39:00 Z
+published: false
 categories:
 - jobs
 description: We seek an experienced MEL agent (an organisation or independent consultant)
