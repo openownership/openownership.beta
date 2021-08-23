@@ -1,6 +1,8 @@
 ---
 title: Meet two of the newest staff at Open Ownership (OO)
 date: 2021-08-23 09:13:00 Z
+categories:
+- blogs
 image: "/uploads/2021-08-23-two-newest-staff.jpg"
 description: 'This week’s blog post gives an informal insight into two of OO’s most
   recent members of staff: **Favour Ime**, the new **Regional Associate, Africa**,
@@ -12,7 +14,6 @@ is_featured: true
 ---
 
 ## 10 minutes with Favour Ime
-
 
 ### OO: Tell us about your early life
 
