@@ -5,10 +5,10 @@ categories:
 - blogs
 image: "/uploads/2021-08-23-two-newest-staff.jpg"
 description: 'This week’s blog post gives an informal insight into two of OO’s most
-  recent members of staff: **Favour Ime**, the new **Regional Associate, Africa**,
-  and **Hani Rosidiani**, the new **Regional Associate, Asia**. Learn where they came
-  from, why they are passionate about what they do, and what challenges they are looking
-  forward to in the rest of 2021.'
+  recent members of staff: Favour Ime, the new Regional Associate, Africa, and Hani
+  Rosidiani, the new Regional Associate, Asia. Learn where they came from, why they
+  are passionate about what they do, and what challenges they are looking forward
+  to in the rest of 2021.'
 author: Open Ownership
 is_featured: true
 ---
