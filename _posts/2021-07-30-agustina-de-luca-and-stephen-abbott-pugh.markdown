@@ -1,5 +1,5 @@
 ---
-title: Meet two of the newest staff at Open Ownership
+title: Meet two of the newest staff at Open Ownership (OO)
 date: 2021-07-30 10:08:00 Z
 categories:
 - blogs

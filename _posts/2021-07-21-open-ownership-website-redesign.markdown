@@ -1,6 +1,7 @@
 ---
 title: Open Ownership website redesign
 date: 2021-07-21 15:35:00 Z
+published: false
 categories:
 - jobs
 description: Open Ownership wants to relaunch its website. We want to ensure that
