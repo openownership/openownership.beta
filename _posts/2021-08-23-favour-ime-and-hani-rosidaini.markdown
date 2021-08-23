@@ -13,6 +13,8 @@ author: Open Ownership
 is_featured: true
 ---
 
+10 minutes with Favour Ime and Hani Rosidaini.
+
 ## 10 minutes with Favour Ime
 
 ### OO: Tell us about your early life
