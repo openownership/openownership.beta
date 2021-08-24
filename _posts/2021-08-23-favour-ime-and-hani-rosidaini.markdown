@@ -13,6 +13,8 @@ author: Open Ownership
 is_featured: true
 ---
 
+10 minutes with Favour Ime and Hani Rosidaini.
+
 ## 10 minutes with Favour Ime
 
 ### OO: Tell us about your early life
@@ -51,7 +53,7 @@ I  shifted my career from the private to public sector within the last five year
 
 ### OO: And why is that important to you now, particularly?
 
-After I started working in the public sector, I found that there were not that many people from technology backgrounds, most came from social science backgrounds. If thought: if I keep working in the private sector, I will only have a marginal impact. I think quantitatively, and in the public sector I can have a greater impact. I can optimise so many things.
+After I started working in the public sector, I found that there were not that many people from technology backgrounds, most came from social science backgrounds. I thought: if I keep working in the private sector, I will only have a marginal impact. I think quantitatively, and in the public sector I can have a greater impact. I can optimise so many things.
 
 Indonesia has a lot of corruption, and one of the biggest problems is inequality, not just economic inequality, but inequality of information. If we democratise information, we can improve so many things, including wealth distribution. Access to open data can really change this.
 
