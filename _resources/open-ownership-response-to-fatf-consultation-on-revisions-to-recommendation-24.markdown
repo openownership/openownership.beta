@@ -2,7 +2,6 @@
 title: Open Ownership response to FATF consultation on revisions to Recommendation
   24
 date: 2021-08-23 09:42:00 Z
-published: false
 categories:
 - Research and policy
 files:
