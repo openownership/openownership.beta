@@ -18,7 +18,11 @@
         {{ resource.author }} &middot;
         {{ resource.date | date: site.date_format }}
       </div>
-      {{resource.content | markdownify}}
+      {% if resource.description %}
+        {{resource.description | markdownify }}
+      {% else %}
+        {{resource.content | markdownify}}
+      {% endif %}
     </div>
   </div>
 </div>
