@@ -8,6 +8,7 @@ files:
   en: "/uploads/OO_Principles_EN.pdf"
   es: "/uploads/OPO%20Principles%20ES.pdf"
 author: Open Ownership
+thumbnail-image: "/uploads/oo-principles-thumbnail.jpg"
 resource_type: Guidance
 is_featured: true
 ---
