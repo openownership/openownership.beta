@@ -1,6 +1,6 @@
 ---
 title: The Open Ownership Principles
-date: 2021-08-26 10:06:00 Z
+date: 2021-07-01 10:06:00 Z
 published: false
 categories:
 - Research and policy
