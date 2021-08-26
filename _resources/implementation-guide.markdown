@@ -17,4 +17,6 @@ resource_type: Guidance
 is_featured: true
 ---
 
-A step-by-step guide to implementing beneficial ownership transparency. A [web version](/guide) is available here on our website, or you can download the guide as a single PDF document below.
+A step-by-step guide to implementing beneficial ownership transparency.
+
+A [web version](/guide) is available here on our website, or you can download the guide as a single PDF document below.
