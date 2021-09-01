@@ -12,5 +12,4 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ## Current opportunities
 
-* [Open Ownership Website Redesign](/jobs/open-ownership-website-redesign/)
-* [MEL Consultant](/jobs/consultancy-opportunity-develop-oos-mel-framework/)
+* [Governance Consultant](/jobs/new-opportunity-governance-consultant/)
