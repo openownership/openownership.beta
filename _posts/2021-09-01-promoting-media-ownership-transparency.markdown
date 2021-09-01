@@ -1,7 +1,6 @@
 ---
 title: Promoting media ownership transparency
 date: 2021-09-01 13:26:00 Z
-published: false
 categories:
 - blogs
 image: "/uploads/2021-09-01-promoting-media-ownership-transparency.jpg"
