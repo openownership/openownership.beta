@@ -4,6 +4,7 @@ date: 2021-09-01 13:26:00 Z
 published: false
 categories:
 - blogs
+image: "/uploads/2021-09-01-promoting-media-ownership-transparency.jpg"
 description: Knowing who really exercises control over, and benefits from, commercial
   entities has implications which reach far beyond the realm of financial crime prevention.
 author: Peter Low
