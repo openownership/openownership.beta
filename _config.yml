@@ -67,6 +67,14 @@ defaults:
     more_text: 
 - scope:
     path: ''
+    type: inmedia
+  values:
+    publication:
+    logo:
+    link:
+    is_featured: false
+- scope:
+    path: ''
     type: principles
   values:
     job-title: 
