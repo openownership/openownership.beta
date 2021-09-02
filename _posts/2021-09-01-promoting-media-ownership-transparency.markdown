@@ -1,12 +1,13 @@
 ---
 title: Promoting media ownership transparency
 date: 2021-09-01 13:26:00 Z
-published: false
 categories:
 - blogs
+image: "/uploads/2021-09-01-promoting-media-ownership-transparency.jpg"
 description: Knowing who really exercises control over, and benefits from, commercial
   entities has implications which reach far beyond the realm of financial crime prevention.
 author: Peter Low
+is_featured: true
 ---
 
 Beneficial ownership transparency (BOT) is most frequently talked about in the context of anti-corruption and anti-money laundering efforts. But knowing who really exercises control over, and benefits from, commercial entities has implications which reach far beyond the realm of financial crime prevention.
