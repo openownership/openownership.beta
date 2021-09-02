@@ -8,5 +8,4 @@ link: https://www.gov.uk/government/publications/beneficial-ownership-disclosure
 is_featured: true
 ---
 
-The UK became a signatory to the Beneficial Ownership Transparency Disclosure Principles
-United Kingdom on Tuesday 31st August 2021.
+On 1 September 2021, the United Kingdom formally joined the Beneficial Ownership Leadership Group and signed up to the best practice beneficial ownership disclosure principles.
