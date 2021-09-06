@@ -18,7 +18,7 @@ Armenia and Latvia have become the first countries to publish beneficial ownersh
 
 BODS provides a framework for collecting and publishing beneficial ownership data, resulting in data that is interoperable, more easily reused and of higher quality.
 
-With an initial focus on extractive industry companies, Armenia has begun publishing beneficial ownership data in line with BODS via its company register (see this [example](https://www.e-register.am/en/companies/1340197/declaration/c51e08a7-6fdb-4ab7-a55c-c74a68a8f54c)). From early next year, it will expand these beneficial ownership transparency measures to companies operating in the media and other sectors.
+With an initial focus on extractive industry companies, Armenia has begun publishing beneficial ownership data in line with BODS via its company register (see this [example](https://www.e-register.am/en/companies/1340197/declaration/c51e08a7-6fdb-4ab7-a55c-c74a68a8f54c) and [EITI Armenia's list of mining companies with declarations](https://www.eiti.am/hy/%D4%BB%D5%8D-%D5%B0%D5%A1%D5%B5%D5%BF%D5%A1%D6%80%D5%A1%D6%80%D5%A1%D5%A3%D5%A5%D6%80/?tab=88)). From early next year, it will expand these beneficial ownership transparency measures to companies operating in the media and other sectors.
 
 The Armenian register also makes use of our open-source [Beneficial Ownership Visualisation System](https://www.openownership.org/visualisation/) to generate easy-to-understand [visual representations](https://www.e-register.am/en/companies/1340197/declaration/c51e08a7-6fdb-4ab7-a55c-c74a68a8f54c?diagram=1) of beneficial ownership structures for companies declaring in line with BODS.
 
