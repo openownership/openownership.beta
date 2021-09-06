@@ -2,10 +2,16 @@
 title: Armenia and Latvia become first countries to publish data in line with the
   Beneficial Ownership Data Standard
 date: 2021-09-06 08:09:00 Z
-description: Armenia and Latvia have become the first countries to publish beneficial
-  ownership data in line with Open Ownership’s Beneficial Ownership Data Standard
+categories:
+- blogs
+tags:
+- BODS
+- the beneficial ownership data standard
+- beneficial ownership
+- the beneficial ownership leadership group
 author: Open Ownership
 is_featured: true
+layout: post
 ---
 
 Armenia and Latvia have become the first countries to publish beneficial ownership data in line with Open Ownership’s [Beneficial Ownership Data Standard](http://standard.openownership.org/en/0.2.0/) (BODS).
