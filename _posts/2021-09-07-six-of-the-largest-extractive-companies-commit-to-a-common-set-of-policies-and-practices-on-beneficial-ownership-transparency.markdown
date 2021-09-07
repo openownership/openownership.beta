@@ -3,6 +3,10 @@ title: Six of the largest extractive companies commit to a common set of policie
   and practices on beneficial ownership transparency
 date: 2021-09-07 15:43:00 Z
 published: false
+image: "/uploads/2021-09-07-opening-extractives.jpg"
+description: Companies in the extractive industries are leading on BOT.
+author: Open Ownership
+is_featured: true
 ---
 
 Beneficial ownership transparency (BOT) - knowing who ultimately controls and benefits from a company - is a powerful solution to end the abuse of anonymous companies. As a practical reform measure, 110 countries including the EU, UK and US, have adopted laws to require beneficial ownership data from companies. Companies are key actors in establishing BOT as a global norm through their support of these reforms and as both publishers and users of beneficial ownership data.
