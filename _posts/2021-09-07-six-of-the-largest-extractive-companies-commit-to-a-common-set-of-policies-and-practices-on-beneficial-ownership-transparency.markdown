@@ -1,5 +1,6 @@
 ---
-title: Six of the largest extractive companies commit to a common set of policies and practices on beneficial ownership transparency
+title: Six of the largest extractive companies commit to a common set of policies
+  and practices on beneficial ownership transparency
 date: 2021-09-07 15:43:00 Z
 published: false
 ---
