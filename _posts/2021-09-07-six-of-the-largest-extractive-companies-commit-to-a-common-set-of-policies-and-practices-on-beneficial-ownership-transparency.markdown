@@ -27,7 +27,7 @@ Companies in the extractive industries are leading on BOT. Through the Extractiv
 >    * Participate actively in key public policy discussion fora, such as OECD, FATF, G20/B20, G7 and UN/UNGC, with public positions in favour of BOT and reforms.
 >    * Encourage other companies, including joint venture partners, contractors and suppliers, to publicly disclose their beneficial owners.
 > 2. **Disclose beneficial ownership data and company ownership information.**
->    * Publicly disclose the company’s beneficial owners on an annual basis or more frequently as required by applicable regulations and listing requirements.¹
+>    * Publicly disclose the company’s beneficial owners on an annual basis or more frequently as required by applicable regulations and listing requirements.[^1]
 >    * Publicly disclose on an annual basis the entities which the company wholly or partially owns, including subsidiaries and joint ventures.
 >    * Where feasible, for any partially owned entities, also publicly disclose the other legal owners of the entities. Where not feasible, disclose the reasons why.
 >    * Ensure beneficial ownership disclosures are of high quality, progressing towards disclosure in line with international open data standards.
