@@ -4,7 +4,7 @@ title: Six of the largest extractive companies commit to a common set of policie
 date: 2021-09-07 15:43:00 Z
 published: false
 image: "/uploads/2021-09-07-opening-extractives.jpg"
-description: Companies in the extractive industries are leading on BOT.
+description: Companies in the extractive industries are leading on BOT
 author: Open Ownership
 is_featured: true
 ---
