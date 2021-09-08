@@ -10,7 +10,11 @@
   <div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
     {% for post in paginator.posts %}
       <div class="small-12 medium-6 cell post">
-        {% include blocks/post.html %}
+        {% if post.collection == "inmedia" %}
+          {% include blocks/inmedia.html %}
+        {% else %}
+          {% include blocks/post.html %}
+        {% endif %}
       </div>
     {% endfor %}
   </div>

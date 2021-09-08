@@ -1,12 +1,11 @@
 ---
-title: Latest Press
+title: In the Media
 date: 2020-01-23 13:18:00 Z
 permalink: "/latest/press"
-description: This is where you can keep up to date with all of OpenOwnership's responses
-  to recent press. <a href="/latest/">Go back to all our posts</a>
+description: View coverage of Open Ownership and our work in other news and media.
 layout: latest
 pagination:
   enabled: true
-  category: press
+  collection: inmedia
 ---
 
