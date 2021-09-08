@@ -8,7 +8,7 @@ intro: |-
   Beneficial Ownership Leadership Group each country signs up to a set of best
   practice disclosure principles. Convened by OpenOwnership and [Open Government
   Partnership](https://www.opengovpartnership.org/), the group is comprised of
-  Armenia, Kenya, Latvia, Mexico, Nigeria, Slovak Republic and the United Kingdom.
+  Armenia, Kenya, Latvia, Mexico, Norway, Nigeria, Slovak Republic and the United Kingdom.
 
   Governments increasingly recognise the value of beneficial ownership
   transparency for promoting effective governance and efficient markets. It
@@ -45,31 +45,42 @@ members:
   description: |-
     [Declaration of support](https://www.openownership.org/uploads/Declaration_Armenia.pdf)
 
-    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/armenia/commitments/AM0037/)
+    [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/armenia/commitments/AM0037/)
 - name: Kenya
   description: |-
     Announcement: N/A
 
-    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/kenya/commitments/KE0018/)
+    [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/kenya/commitments/KE0018/)
 - name: Latvia
   description: |-
     [Declaration of support](https://twitter.com/Tieslietas/status/1200052790069989376?s=20)
 
-    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/latvia/commitments/LV0038/)
+    [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/latvia/commitments/LV0038/)
 - name: Mexico
   description: |-
     [Declaration of support](https://www.gob.mx/sfp/articulos/anuncia-irma-sandoval-adhesion-de-mexico-a-los-principios-de-divulgacion-de-transparencia-de-los-beneficiarios-finales-de-la-corrupcion?idiom=es)
 
-    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/mexico-action-plan-2019-2021/)
+    [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/mexico-action-plan-2019-2021/)
+- name: 'Nigeria '
+  description: |-
+    Announcement: N/A
+
+    [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/nigeria/commitments/NG0020/)
+- name: Norway
+  description: |-
+    [Declaration of support](https://www.opengovpartnership.org/wp-content/uploads/2021/08/Norway-Beneficial-Ownership-Letter.pdf)
+
+    [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/norway/commitments/NO0061/)
 - name: Slovak Republic
   description: |-
     [Declaration of support](https://www.justice.gov.sk/Stranky/aktualitadetail.aspx?announcementID=2611)
 
-    [OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/slovakia-action-plan-2019-2021/)
+    [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/documents/slovakia-action-plan-2019-2021/)
 - name: 'United Kingdom '
-  description: "[OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/united-kingdom/commitments/UK0048/)"
-- name: 'Nigeria '
-  description: "[OGP commitment and and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/nigeria/commitments/NG0020/)"
+  description: |-
+    [Declaration of support](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1014635/Beneficial_Ownership_Transparency_Disclosure_Principles.pdf)
+
+    [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/united-kingdom/commitments/UK0048/)
 footer: The leadership group remains open to all governments that are making determined
   efforts to improve the transparency and/or quality of their beneficial ownership
   data. If you would like further information about the group and how to join please
