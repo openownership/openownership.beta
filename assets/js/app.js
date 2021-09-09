@@ -443,22 +443,42 @@ $(function(){
 // -------------------------
 
 $(function(){
+  var mc_modal_delay = 30; // seconds
+  var mc_modal_expiry = 30; // days
+
   var mc_modal_enabled = true;
   var mc_modal = $('#mc_embed_signup');
 
   // Check to see if there is an #mc_embed_signup element
   if (mc_modal.length) {
-    // Enable scroll trigger after a delay
-    setTimeout(
-      function() {
-        if (mc_modal_enabled == true) {
-          // Enable popup triggers only if it hasn't been explicitly disabled by this point
-          mc_modal_enable();
-        }
-      },
-      // Set the delay here
-      1000 * 0.5
-    );
+    // Expire stored settings
+    store.removeExpiredKeys();
+
+    // Check to see if active settings are stored
+    store.defaults({ mc_modal_asked: false, mc_modal_subscribed: false });
+    var mc_modal_asked = store.get('mc_modal_asked');
+    console.log('Has user been asked to subscribe? ' + mc_modal_asked);
+    var mc_modal_subscribed = store.get('mc_modal_subscribed');
+    console.log('Has user subscribed? ' + mc_modal_subscribed);
+    
+    // If the user hasn't been asked to subscribe, and isn't in fact subscribed
+    // Then popup may be shown
+    if (mc_modal_asked != true && mc_modal_subscribed != true) {
+      console.log('Popup triggers will be enabled after delay.');
+      // Enable triggers after a delay
+      setTimeout(
+        function() {
+          if (mc_modal_enabled == true) {
+            // Enable popup triggers only if it hasn't been explicitly disabled before the delay is over, e.g. because user manually opened it
+            mc_modal_enable();
+          }
+        },
+        // Set the delay here
+        1000 * mc_modal_delay
+      );
+    } else {
+      console.log('Popup will not be shown.');
+    }
   }
 
   // Enable popup triggers (multiple triggers)
@@ -502,16 +522,29 @@ $(function(){
   function mc_modal_open() {
     mc_modal_disable();
     mc_modal.foundation('open');
+    // Popup has appeared; the user has been asked to subscribe
+    var expiration = new Date().getTime() + (1000 * 60 * 60 * 24 * mc_modal_expiry); // Store this for X days
+		store.set('mc_modal_asked', true, expiration);
   }
 
   // Add a close button to the modal
   mc_modal.prepend('<button class="close-button" data-close aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>');
 
-  // Make the open button open the modal
+  // Make the manual open button open the modal
   $('#mc_modal_open').click(function(event) {
     event.preventDefault();
     mc_modal_open();
     return false;
+  });
+
+  // Capture subscription event
+  $('#mc-embedded-subscribe-form').submit(function(event) {
+    // Now the user has subscribed, don't popup ever again
+		store.set('mc_modal_subscribed', true); // No expiry
+    // Close the modal
+    mc_modal.foundation('close');
+    // Ensure the form actually submits
+    return true;
   });
 });
 
