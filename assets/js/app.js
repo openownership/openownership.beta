@@ -455,15 +455,21 @@ $(function(){
     store.removeExpiredKeys();
 
     // Check to see if active settings are stored
-    store.defaults({ mc_modal_asked: false, mc_modal_subscribed: false });
+    store.defaults({
+      mc_modal_asked: false,
+      mc_modal_subscribed: false,
+      mc_modal_stopped: false
+    });
     var mc_modal_asked = store.get('mc_modal_asked');
     console.log('Has user been asked to subscribe? ' + mc_modal_asked);
     var mc_modal_subscribed = store.get('mc_modal_subscribed');
     console.log('Has user subscribed? ' + mc_modal_subscribed);
+    var mc_modal_stopped = store.get('mc_modal_stopped');
+    console.log('Has user said "Don\'t ask again"? ' + mc_modal_stopped);
     
     // If the user hasn't been asked to subscribe, and isn't in fact subscribed
     // Then popup may be shown
-    if (mc_modal_asked != true && mc_modal_subscribed != true) {
+    if (mc_modal_asked != true && mc_modal_subscribed != true && mc_modal_stopped != true) {
       console.log('Popup triggers will be enabled after delay.');
       // Enable triggers after a delay
       setTimeout(
@@ -479,7 +485,34 @@ $(function(){
     } else {
       console.log('Popup will not be shown.');
     }
+
+    // Add close buttons to the modal
+    mc_modal.prepend('<div id="mc_modal_closegroup"><button class="close-button" data-close aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button><label for="mc_modal_stop"><input id="mc_modal_stop" type="checkbox" /> Don\'t show again</label></div>');
+    // "Don't show again" checkbox
+    $('#mc_modal_stop').prop('checked', mc_modal_stopped);
+    $('#mc_modal_stop').change(function() {
+      store.set('mc_modal_stopped', this.checked);
+    });
+
+    // Make the manual open button open the modal
+    $('#mc_modal_open').click(function(event) {
+      event.preventDefault();
+      mc_modal_open(true);
+      return false;
+    });
+
+    // Capture subscription event
+    $('#mc-embedded-subscribe-form').submit(function(event) {
+      // Now the user has subscribed, don't popup ever again
+      store.set('mc_modal_subscribed', true); // No expiry
+      // Close the modal
+      mc_modal.foundation('close');
+      // Ensure the form actually submits
+      return true;
+    });
   }
+
+  // Helper functions
 
   // Enable popup triggers (multiple triggers)
   function mc_modal_enable() {
@@ -519,32 +552,14 @@ $(function(){
   }
 
   // Open the modal
-  function mc_modal_open() {
+  function mc_modal_open(manual = false) {
     mc_modal_disable();
+    $('#mc_modal_stop').toggle(!manual); // Don't show "Don't ask again" if it was opened manually
     mc_modal.foundation('open');
     // Popup has appeared; the user has been asked to subscribe
     var expiration = new Date().getTime() + (1000 * 60 * 60 * 24 * mc_modal_expiry); // Store this for X days
 		store.set('mc_modal_asked', true, expiration);
   }
 
-  // Add a close button to the modal
-  mc_modal.prepend('<button class="close-button" data-close aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>');
-
-  // Make the manual open button open the modal
-  $('#mc_modal_open').click(function(event) {
-    event.preventDefault();
-    mc_modal_open();
-    return false;
-  });
-
-  // Capture subscription event
-  $('#mc-embedded-subscribe-form').submit(function(event) {
-    // Now the user has subscribed, don't popup ever again
-		store.set('mc_modal_subscribed', true); // No expiry
-    // Close the modal
-    mc_modal.foundation('close');
-    // Ensure the form actually submits
-    return true;
-  });
 });
 
