@@ -72,7 +72,7 @@ defaults:
     publication: 
     logo: 
     link: 
-    is_featured: false
+    is_featured: true
 - scope:
     path: ''
     type: principles

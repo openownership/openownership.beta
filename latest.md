@@ -8,6 +8,7 @@ description: |-
   , <a href="/latest/events">events</a> and <a href="/latest/press">press</a>.
 pagination:
   enabled: true
+  collection: posts, inmedia
 layout: latest
 ---
 
