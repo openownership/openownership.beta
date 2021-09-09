@@ -1,0 +1,21 @@
+
+<div class="post callout shadow large" data-equalizer-watch>
+  {% if post.logo %}
+    <div class="inmedia_logo"><img src="{{ post.logo }}" /></div>
+  {% endif %}
+  <h2>
+    <a href="{{post.link}}" class="icon-hover" target="_blank">{{post.title}}
+      <svg class="icon icon-external"><use xlink:href="/assets/icons/symbol-defs.svg#icon-external"></use></svg>
+    </a>
+  </h2>
+  <p class="medium-gray">
+    <a href="/latest/press" class="label text-capitalize label--press">Press</a>
+    {{post.publication}} &middot; {{ post.date | date: site.date_format }}
+  </p>
+  <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
+  <p>
+    <a class="button" href="{{ post.link }}">
+      View link <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+    </a>
+  </p>
+</div>
