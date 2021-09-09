@@ -18,7 +18,7 @@ intro: |-
 
   Find out more:
 
-  * [Leadership group terms of reference](https://www.opengovpartnership.org/documents/beneficial-ownership-leadership-group-terms-of-reference-declaration-glossary/)
+  * [Leadership Group terms of reference](https://www.opengovpartnership.org/documents/beneficial-ownership-leadership-group-terms-of-reference-declaration-glossary/)
   * [Disclosure Principles](/uploads/oo-disclosure-principles.pdf)
 principles: |-
   - Publishing company beneficial ownership data that is freely downloadable,
@@ -39,7 +39,7 @@ principles: |-
     norm; and
   - Contributing to evaluation and impact assessment of our shared approach.
 
-  By joining the leadership group, governments publicly signal their intention to adhere to the following principles on beneficial ownership data disclosure (note: these do not represent legally-binding commitments for signatory states).
+  By joining the Leadership Group, governments publicly signal their intention to adhere to the following principles on beneficial ownership data disclosure (note: these do not represent legally-binding commitments for signatory states).
 members:
 - name: Armenia
   description: |-
@@ -81,7 +81,7 @@ members:
     [Declaration of support](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1014635/Beneficial_Ownership_Transparency_Disclosure_Principles.pdf)
 
     [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/united-kingdom/commitments/UK0048/)
-footer: The leadership group remains open to all governments that are making determined
+footer: The Leadership Group remains open to all governments that are making determined
   efforts to improve the transparency and/or quality of their beneficial ownership
   data. If you would like further information about the group and how to join please
   contact us at [support@openownership.org](mailto:support@openownership.org)
