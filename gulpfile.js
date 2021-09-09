@@ -31,6 +31,7 @@ var jsPaths = [
   'node_modules/jvectormap-next/jquery-jvectormap.js',
   'node_modules/jvectormap-content/world-merc.js',
   'assets/js/svgxuse.js',
+  'assets/js/jquery.exitintent.js',
   'assets/js/app.js'
 ]
 
