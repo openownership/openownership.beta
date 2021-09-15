@@ -462,7 +462,7 @@ $(function(){
       mc_modal_stopped: false
     });
     var mc_modal_asked = store.get('mc_modal_asked');
-    console.log('Has user been asked to subscribe recently? ' + mc_modal_asked);
+    console.log('Has user been asked to subscribe in last ' + mc_modal_expiry + ' days? ' + mc_modal_asked);
     var mc_modal_subscribed = store.get('mc_modal_subscribed');
     console.log('Has user subscribed? ' + mc_modal_subscribed);
     var mc_modal_stopped = store.get('mc_modal_stopped');
@@ -472,7 +472,7 @@ $(function(){
     // Then popup may be shown
     if (mc_modal_debug || (mc_modal_asked != true && mc_modal_subscribed != true && mc_modal_stopped != true)) {
       if (mc_modal_debug) { console.log('Debug mode.'); }
-      console.log('Popup triggers will be enabled after delay.');
+      console.log('Popup triggers will be enabled after ' + mc_modal_delay + 's delay.');
       // Enable triggers after a delay
       setTimeout(
         function() {
