@@ -561,6 +561,12 @@ $(function(){
     // Popup has appeared; the user has been asked to subscribe
     var expiration = new Date().getTime() + (1000 * 60 * 60 * 24 * mc_modal_expiry); // Store this for X days
 		store.set('mc_modal_asked', true, expiration);
+    // Send events to GTM
+    if (manual) {
+      dataLayer.push({'event': 'mc_embed_signup_popup_click'});
+    } else {
+      dataLayer.push({'event': 'mc_embed_signup_popup_appear'});
+    }
   }
 
 });
