@@ -489,7 +489,7 @@ $(function(){
     }
 
     // Add close buttons to the modal
-    mc_modal.prepend('<div id="mc_modal_closegroup"><button class="close-button" data-close aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button><label for="mc_modal_stop"><input id="mc_modal_stop" type="checkbox" /> Don\'t show again</label></div>');
+    mc_modal.prepend('<div id="mc_modal_closegroup"><button class="close-button" data-close aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button><label for="mc_modal_stop" id="mc_modal_stop_label"><input id="mc_modal_stop" type="checkbox" /> Don\'t show again</label></div>');
     // "Don't show again" checkbox
     $('#mc_modal_stop').prop('checked', mc_modal_stopped);
     $('#mc_modal_stop').change(function() {
@@ -556,7 +556,7 @@ $(function(){
   // Open the modal
   function mc_modal_open(manual = false) {
     mc_modal_disable();
-    $('#mc_modal_stop').toggle(!manual); // Don't show "Don't ask again" if it was opened manually
+    $('#mc_modal_stop_label').toggle(!manual); // Don't show "Don't ask again" if it was opened manually
     mc_modal.foundation('open');
     // Popup has appeared; the user has been asked to subscribe
     var expiration = new Date().getTime() + (1000 * 60 * 60 * 24 * mc_modal_expiry); // Store this for X days
