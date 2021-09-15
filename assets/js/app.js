@@ -443,8 +443,9 @@ $(function(){
 // -------------------------
 
 $(function(){
-  var mc_modal_delay = 30; // seconds
-  var mc_modal_expiry = 30; // days
+  var mc_modal_debug = true; // MUST BE FALSE IN PRODUCTION!
+  var mc_modal_delay = mc_modal_debug ? 2 : 30; // seconds
+  var mc_modal_expiry = mc_modal_debug ? (10 / 86400) : 30; // days
 
   var mc_modal_enabled = true;
   var mc_modal = $('#mc_embed_signup');
@@ -469,7 +470,8 @@ $(function(){
     
     // If the user hasn't been asked to subscribe, and isn't in fact subscribed
     // Then popup may be shown
-    if (mc_modal_asked != true && mc_modal_subscribed != true && mc_modal_stopped != true) {
+    if (mc_modal_debug || (mc_modal_asked != true && mc_modal_subscribed != true && mc_modal_stopped != true)) {
+      if (mc_modal_debug) { console.log('Debug mode.'); }
       console.log('Popup triggers will be enabled after delay.');
       // Enable triggers after a delay
       setTimeout(
