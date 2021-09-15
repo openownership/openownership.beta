@@ -516,7 +516,7 @@ $(function(){
 
   // Enable popup triggers (multiple triggers)
   function mc_modal_enable() {
-    mc_modal_enabled == true; // Should already be true
+    mc_modal_enabled = true; // Should already be true
     $(window).on("scroll", mc_modal_trigger_scroll);
     $.exitIntent('enable');
     $(document).on('exitintent', mc_modal_trigger_exit);
@@ -525,7 +525,7 @@ $(function(){
 
   // Disable popup triggers
   function mc_modal_disable() {
-    mc_modal_enabled == false; // Once it's been opened, it will never pop open again
+    mc_modal_enabled = false; // Once it's been opened, it will never pop open again
     $(window).off("scroll", mc_modal_trigger_scroll);
     $.exitIntent('disable');
     $(document).off('exitintent', mc_modal_trigger_exit);
