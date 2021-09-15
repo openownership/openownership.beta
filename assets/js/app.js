@@ -462,7 +462,7 @@ $(function(){
       mc_modal_stopped: false
     });
     var mc_modal_asked = store.get('mc_modal_asked');
-    console.log('Has user been asked to subscribe? ' + mc_modal_asked);
+    console.log('Has user been asked to subscribe recently? ' + mc_modal_asked);
     var mc_modal_subscribed = store.get('mc_modal_subscribed');
     console.log('Has user subscribed? ' + mc_modal_subscribed);
     var mc_modal_stopped = store.get('mc_modal_stopped');
