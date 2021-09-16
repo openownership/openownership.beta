@@ -38,10 +38,6 @@ body {
   font-kerning: normal;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 svg {
   max-width: 100%;
 }
@@ -74,6 +70,8 @@ line-height: 1.4;
 img.small {
   width: 30em
 }
+
+.small { font-size: 80% }
 
 // 4. Color
 // --------
@@ -1226,4 +1224,38 @@ padding-top: 3rem;
     right: 20px;
     width: 40px;
   }
+}
+
+
+// X. Mailchimp signup
+// -------------------
+
+#mc_embed_signup {
+  box-shadow: 0 0 1em #000;
+
+  .small {
+    font-weight: $global-weight-normal;
+    color: $medium-gray
+  }
+}
+
+#mc_embed_signup_heading {
+  float: left;
+  color: $primary-color;
+  margin: 0;
+  margin-bottom: 1em
+}
+
+#mc_embed_signup_intro {
+  clear: both
+}
+
+#mc_modal_closegroup {
+  label, button { position: static; float: right }
+  button { line-height: 0.7 }
+  label { margin-right: 1em; font-weight: $global-weight-normal; }
+}
+
+.reveal {
+  overflow-x: hidden // Fixes horizontal scrollbar issue with nested grids inside reveal
 }

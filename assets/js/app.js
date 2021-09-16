@@ -8,42 +8,6 @@ Foundation.Interchange.SPECIAL_QUERIES['xxlarge-retina'] = 'only screen and (min
 
 $(document).foundation();
 
-$('a[href*="#"]')
-  // Remove links that don't actually link to anything
-  .not('[href="#"]')
-  .not('[href="#0"]')
-  .click(function(event) {
-    // On-page links
-    if (
-      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
-      &&
-      location.hostname == this.hostname
-    ) {
-      // Figure out element to scroll to
-      var target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-      // Does a scroll target exist?
-      if (target.length) {
-        // Only prevent default if animation is actually gonna happen
-        event.preventDefault();
-        $('html, body').animate({
-          scrollTop: target.offset().top
-        }, 1000, function() {
-          // Callback after animation
-          // Must change focus!
-          var $target = $(target);
-          $target.focus();
-          if ($target.is(":focus")) { // Checking if the target was focused
-            return false;
-          } else {
-            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
-            $target.focus(); // Set focus again
-          };
-        });
-      }
-    }
-  });
-
 // 3. Map page
 // --------------------
 
@@ -472,3 +436,138 @@ $(function(){
     setFiltersFromURL();
   }
 });
+
+
+
+// 3. Mailchimp signup modal
+// -------------------------
+
+$(function(){
+  var mc_modal_debug = false; // MUST BE FALSE IN PRODUCTION!
+  var mc_modal_delay = mc_modal_debug ? 2 : 30; // seconds
+  var mc_modal_expiry = mc_modal_debug ? (10 / 86400) : 30; // days
+
+  var mc_modal_enabled = true;
+  var mc_modal = $('#mc_embed_signup');
+
+  // Check to see if there is an #mc_embed_signup element
+  if (mc_modal.length) {
+    // Expire stored settings
+    store.removeExpiredKeys();
+
+    // Check to see if active settings are stored
+    store.defaults({
+      mc_modal_asked: false,
+      mc_modal_subscribed: false,
+      mc_modal_stopped: false
+    });
+    var mc_modal_asked = store.get('mc_modal_asked');
+    console.log('Has user been asked to subscribe in last ' + mc_modal_expiry + ' days? ' + mc_modal_asked);
+    var mc_modal_subscribed = store.get('mc_modal_subscribed');
+    console.log('Has user subscribed? ' + mc_modal_subscribed);
+    var mc_modal_stopped = store.get('mc_modal_stopped');
+    console.log('Has user said "Don\'t ask again"? ' + mc_modal_stopped);
+    
+    // If the user hasn't been asked to subscribe, and isn't in fact subscribed
+    // Then popup may be shown
+    if (mc_modal_debug || (mc_modal_asked != true && mc_modal_subscribed != true && mc_modal_stopped != true)) {
+      if (mc_modal_debug) { console.log('Debug mode.'); }
+      console.log('Popup triggers will be enabled after ' + mc_modal_delay + 's delay.');
+      // Enable triggers after a delay
+      setTimeout(
+        function() {
+          if (mc_modal_enabled == true) {
+            // Enable popup triggers only if it hasn't been explicitly disabled before the delay is over, e.g. because user manually opened it
+            mc_modal_enable();
+          }
+        },
+        // Set the delay here
+        1000 * mc_modal_delay
+      );
+    } else {
+      console.log('Popup will not be shown.');
+    }
+
+    // Add close buttons to the modal
+    mc_modal.prepend('<div id="mc_modal_closegroup"><button class="close-button" data-close aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button><label for="mc_modal_stop" id="mc_modal_stop_label"><input id="mc_modal_stop" type="checkbox" /> Don\'t show again</label></div>');
+    // "Don't show again" checkbox
+    $('#mc_modal_stop').prop('checked', mc_modal_stopped);
+    $('#mc_modal_stop').change(function() {
+      store.set('mc_modal_stopped', this.checked);
+    });
+
+    // Make the manual open button open the modal
+    $('#mc_modal_open').click(function(event) {
+      event.preventDefault();
+      mc_modal_open(true);
+      return false;
+    });
+
+    // Capture subscription event
+    $('#mc-embedded-subscribe-form').submit(function(event) {
+      // Now the user has subscribed, don't popup ever again
+      store.set('mc_modal_subscribed', true); // No expiry
+      // Close the modal
+      mc_modal.foundation('close');
+      // Ensure the form actually submits
+      return true;
+    });
+  }
+
+  // Helper functions
+
+  // Enable popup triggers (multiple triggers)
+  function mc_modal_enable() {
+    mc_modal_enabled = true; // Should already be true
+    $(window).on("scroll", mc_modal_trigger_scroll);
+    $.exitIntent('enable');
+    $(document).on('exitintent', mc_modal_trigger_exit);
+    console.log('Popup triggers enabled.');
+  }
+
+  // Disable popup triggers
+  function mc_modal_disable() {
+    mc_modal_enabled = false; // Once it's been opened, it will never pop open again
+    $(window).off("scroll", mc_modal_trigger_scroll);
+    $.exitIntent('disable');
+    $(document).off('exitintent', mc_modal_trigger_exit);
+    console.log('Popup triggers disabled.');
+  }
+
+  // Modal trigger: user scrolls up
+  var lastScrollTop = 0;
+  function mc_modal_trigger_scroll() {
+    var st = window.pageYOffset || document.documentElement.scrollTop;
+    if (st < lastScrollTop) {
+      if (st < (lastScrollTop - 100)) {
+        // User has just scrolled up by more than 100px
+        mc_modal_open();
+      }
+    } else {
+      lastScrollTop = st <= 0 ? 0 : st;
+    }
+  }
+
+  // Modal trigger: exit intent
+  function mc_modal_trigger_exit() {
+    mc_modal_open();
+  }
+
+  // Open the modal
+  function mc_modal_open(manual = false) {
+    mc_modal_disable();
+    $('#mc_modal_stop_label').toggle(!manual); // Don't show "Don't ask again" if it was opened manually
+    mc_modal.foundation('open');
+    // Popup has appeared; the user has been asked to subscribe
+    var expiration = new Date().getTime() + (1000 * 60 * 60 * 24 * mc_modal_expiry); // Store this for X days
+		store.set('mc_modal_asked', true, expiration);
+    // Send events to GTM
+    if (manual) {
+      dataLayer.push({'event': 'mc_embed_signup_popup_click'});
+    } else {
+      dataLayer.push({'event': 'mc_embed_signup_popup_appear'});
+    }
+  }
+
+});
+
