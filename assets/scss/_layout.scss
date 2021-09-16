@@ -1255,3 +1255,7 @@ padding-top: 3rem;
   button { line-height: 0.7 }
   label { margin-right: 1em; font-weight: $global-weight-normal; }
 }
+
+.reveal {
+  overflow-x: hidden // Fixes horizontal scrollbar issue with nested grids inside reveal
+}
