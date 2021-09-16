@@ -213,4 +213,4 @@ EU and UK data protection laws also give you the right to lodge a complaint with
 
 We are Open Ownership, a fiscally sponsored project of Global Impact, 1199 N. Fairfax St., Suite 300, Alexandria, VA, 22314, US. Although we are based outside Europe, we have appointed our Technical Lead, [info@openownership.org](mailto:info@openownership.org) as our representative in Europe for data protection purposes.
 
-**Last updated November 2020**
+**Last updated September 2021**
