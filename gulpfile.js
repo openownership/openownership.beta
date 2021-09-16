@@ -30,7 +30,9 @@ var jsPaths = [
   'node_modules/tippy.js/dist/tippy.umd.js',
   'node_modules/jvectormap-next/jquery-jvectormap.js',
   'node_modules/jvectormap-content/world-merc.js',
+  'node_modules/store/dist/store.everything.min.js', // Must use min version
   'assets/js/svgxuse.js',
+  'assets/js/jquery.exitintent.js',
   'assets/js/app.js'
 ]
 

@@ -4,7 +4,7 @@
 {% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
 <!-- Footer -->
-<footer class="grid-x grid-padding-x grid-padding-y align-justify primary-background sans-bold padding-1">
+<footer class="grid-x grid-padding-x grid-padding-y align-justify primary-background padding-1">
 
   <div class="small-12 medium-6 large-4 xlarge-shrink cell show-for-large">
     <div class="grid-y height-100 align-justify">
@@ -12,17 +12,17 @@
       <a href="/"><svg class="icon icon-logo-main margin-bottom-1"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo-main"></use></svg></a>
       </div>
       <div class="shrink cell">
-      <ul class="menu">
-      <li class="menu-text">© OpenOwnership</li>
-      <li><a href="/terms/">Terms</a></li>
-      <li><a href="/privacy/">Privacy</a></li>
-      </ul>
+        <ul class="menu sans-bold">
+          <li class="menu-text">© OpenOwnership</li>
+          <li><a href="/terms/">Terms</a></li>
+          <li><a href="/privacy/">Privacy</a></li>
+        </ul>
       </div>
     </div>
   </div>
 
   <div class="small-12 medium-6 large-4 xlarge-shrink cell">
-    <ul class="vertical menu text-center medium-text-left">
+    <ul class="vertical menu text-center medium-text-left sans-bold">
       {% for entry in site.data.navigation.header %}
         {% if entry.url %}
         <li{% if section == entry.title %} class="active"{% endif %}>
@@ -34,7 +34,7 @@
   </div>
 
   <div class="small-12 medium-6 large-3 xlarge-shrink cell show-for-xlarge">
-    <ul class="vertical menu">
+    <ul class="vertical menu sans-bold">
       <li class="menu-text serif-italic">Follow our work on</li>
       {% for item in site.social %}
       <li><a href="{{ item[1] }}" target="_blank" rel="noopener" class="text-capitalize">{{ item[0] }}</a></li>
@@ -44,7 +44,63 @@
 
   <div class="small-12 medium-6 large-4 xlarge-shrink cell">
     <div class="serif-italic margin-bottom-1 text-center medium-text-left">Keep up to date</div>
-    <a class="button expanded" href="https://mailchi.mp/440be76e70f3/the-record-landing-page" target="_blank">Join the newsletter</a>
+    <a class="button expanded" id="mc_modal_open" href="https://mailchi.mp/440be76e70f3/the-record-landing-page" target="_blank">Join the newsletter</a>
+  </div>
+
+  <!-- This form is turned into a modal so is hidden by default -->
+  <div id="mc_embed_signup" class="reveal" data-reveal>
+    <h2 id="mc_embed_signup_heading">Let's keep in touch</h2>
+    <p id="mc_embed_signup_intro">Get occasional emails with our latest news and events.</p>
+    <form action="https://openownership.us19.list-manage.com/subscribe/post?u=5a522bc71b24b7202b6bf2c95&amp;id=57602bb40c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+      <div id="mc_embed_signup_info">
+        <div class="grid-x grid-margin-x">
+          <div class="mc-field-group cell medium-6 large-4">
+            <label for="mce-FNAME">First Name</label>
+            <input type="text" value="" name="FNAME" required="required" id="mce-FNAME" />
+          </div>
+          <div class="mc-field-group cell medium-6 large-4">
+            <label for="mce-LNAME">Last Name</label>
+            <input type="text" value="" name="LNAME" required="required" id="mce-LNAME" />
+          </div>
+          <div class="mc-field-group cell medium-6 large-4">
+            <label for="mce-EMAIL">Email</label>
+            <input type="email" value="" name="EMAIL" required="required" id="mce-EMAIL" />
+          </div>
+        </div>
+        <div class="grid-x grid-margin-x">
+          <div class="mc-field-group cell medium-6 large-4">
+            <label for="mce-MMERGE4">Job title <span class="small">(optional)</span></label>
+            <input type="text" value="" name="MMERGE4" class="" id="mce-MMERGE4">
+          </div>
+          <div class="mc-field-group cell medium-6 large-4">
+            <label for="mce-MMERGE3">Organisation <span class="small">(optional)</span></label>
+            <input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3">
+          </div>
+        </div>
+      </div>
+      <div class="grid-x grid-margin-x">
+        <div class="cell medium-6 large-8">
+          <div id="mc_embed_signup_note">
+            <p class="small">We will use this information to subscribe you to our newsletter and store your details on our database in accordance with GDPR. As we send newsletters via Mailchimp, your details will also be transferred to them. Read our full <a href="/privacy">Privacy Policy</a>.</p>
+          </div>
+        </div>
+        <div class="cell medium-6 large-4">
+          <div id="mc_embed_signup_confirm">
+            <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+              <label class="checkbox subfield" for="gdpr_32157">
+                <input type="checkbox" id="gdpr_32157" name="gdpr[32157]" value="Y" class="av-checkbox gdpr" required="required" /><span>I confirm</span>
+              </label>
+            </fieldset>
+          </div>
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_5a522bc71b24b7202b6bf2c95_57602bb40c" tabindex="-1" value="" />
+          </div>
+          <div id="mc_embed_signup_subscribe">
+            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" />
+          </div>
+        </div>
+      </div>
+    </form>
   </div>
 
 </footer>

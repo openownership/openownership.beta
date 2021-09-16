@@ -80,8 +80,10 @@ If you sign up to be on our mailing list via this website, we will ask you for t
 * First name
 * Last name
 * Email address
+* Job title (optional)
+* Organisation (optional)
 
-Unless we are in direct correspondence with you – for example because you have asked us specific questions about our products or services – we will only use this information to send you newsletters. We will also record your details in our CRM system.
+We will use this information to subscribe you to our newsletter and store your details on our database in accordance with GDPR. As we send newsletters via Mailchimp, your details will also be transferred to them. We will also record your details in our CRM system.
 
 You may unsubscribe from our mailing lists at any time and any promotional email we send you will contain an option to enable you to unsubscribe.
 
