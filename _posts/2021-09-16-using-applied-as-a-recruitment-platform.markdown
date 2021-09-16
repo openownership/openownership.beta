@@ -12,26 +12,30 @@ Secondly, Applied uses scenario-based questions rather than CVs, which helps avo
  
 Finally, when reviewers are looking at the scenario-based answers submitted by candidates, Applied uses anonymisation of applications, multiple reviewers, and randomisation of answer order to work against a variety of biases that often come into play (such as halo effect, stereotype bias, comparison friction, confirmation bias, and groupthink).
  
-Therefore, using Applied gives OO the highest possible chance of finding the best person for the role and greatly increases the diversity of the workforce. In September 2021, Kathryn Davies, OO Communications Manager, spoke with OO Director of Finance and Human Resources, Claire Reichenbach,  to get her take on what it’s like to use the Applied platform in the real world. 
+Therefore, using Applied gives OO the highest possible chance of finding the best person for the role and greatly increases the diversity of the workforce.
+
+## Using Applied
+
+In September 2021, Kathryn Davies, OO Communications Manager, spoke with OO Director of Finance and Human Resources, Claire Reichenbach,  to get her take on what it’s like to use the Applied platform in the real world.
  
-## Open Ownership (OO): There are 10 clear stages to recruiting with Applied, quite aside from the admin you and I have to do behind the scenes. Why do you think all this work is worthwhile?
+### Open Ownership (OO): There are 10 clear stages to recruiting with Applied, quite aside from the admin you and I have to do behind the scenes. Why do you think all this work is worthwhile?
 
 Claire Reichenbach: Our experience with Applied over the last couple of years has resulted in such high-calibre professional hires that I am convinced that the screening and entire process is worth it. I think the investment of time and effort by the organisation is important because it’s a process for us internally too – to make sure that we’re prepared for the hire, the role, and the individual when selected. 
 
-## OO: What do you mean by the organisation being “prepared for a hire”?
+### OO: What do you mean by the organisation being “prepared for a hire”?
 
 The stage of writing the initial scenario-based questions makes the panel reflect on what are the core tasks and competencies needed for the role, in a way that makes  the job description more concrete and which can, at times,  improve the job description before it goes out for advertising. It makes us think of exactly what skills we need in the role. These questions ‘sift’ the candidates so we can see who is most suited to the role, and who we should invite to interview, and all this is done anonymously.
 
-## OO: Why does using scenario-based questions rather than “tell us about a time” questions make a difference?
+### OO: Why does using scenario-based questions rather than “tell us about a time” questions make a difference?
 
 CR: In my experience in human resources, scenario-based questions enable the candidates to reflect on how they would behave, react, and respond to a theoretical situation, which provides a level playing field for all candidates. By that I mean that the candidates don’t have to prove experience, so it allows people who may not have had the opportunity to work in this environment before to have an equal chance to shine in the questions and the interview. 
 Scenario-based questions allow OO  to put across to the candidate what it’s actually like to work for us, in a real-life situation. We use honest examples so it gives the candidate an insight.
 
-##OO: What has been the most surprising thing you’ve learnt about recruitment, or about yourself, using this platform?
+### OO: What has been the most surprising thing you’ve learnt about recruitment, or about yourself, using this platform?
 
 CR: Personally, what's the most surprising for me is how much I trust the process, having used it for a couple of years. In particular, the initial sift questions reliably predict the top candidates every time, followed by interviews and tasks which enable us to make the final decision about who is the best person to appoint. This has resulted in people with different skills and backgrounds to complement our diverse team - we currently have colleagues in seven different countries.
 
-##OO: For candidates, what’s the approach that will end up with the best result for all concerned?
+### OO: For candidates, what’s the approach that will end up with the best result for all concerned?
 
 CR: I think they should feel confident to trust the process enough to be themselves. If they answer the sift questions openly and honestly they can trust that if they are suited to the role we will be able to identify them and they will come out near the top. We read everyone’s sift questions as the starting point and don’t look at CVs until much later on in the process. This gives an opportunity to people who feel they have the skills but have a less conventional background or CV to feel that they can apply and will be given the same opportunity.
 
