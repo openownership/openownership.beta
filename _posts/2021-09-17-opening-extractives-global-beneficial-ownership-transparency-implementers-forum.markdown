@@ -1,10 +1,11 @@
 ---
 title: 'Opening Extractives: Global Beneficial Ownership Transparency Implementers’
   Forum'
-date: 2021-09-16 18:12:00 Z
+date: 2021-09-17 18:12:00 Z
 published: false
 categories:
 - events
+image: "/uploads/2021-09-17-transparency-forum.jpg"
 author: Open Ownership
 is_featured: true
 ---
@@ -50,4 +51,4 @@ When asked to share her hopes for what can be achieved with BOT in five years’
 * Watch the [Opening Extractives introductory video](https://www.youtube.com/watch?v=RCUeu1F7mJE).
 * Watch a [recording of the days’ sessions](https://www.youtube.com/watch?v=V2SBOEWtwR4).
 * Read a [factsheet on the Opening Extractives programme](/resources/opening-extractives-factsheet/).
-* [Contact us](/helpdesk) if you would like to learn more.
+* [Contact us](mailto:comms@openownership.org) if you would like to learn more.
