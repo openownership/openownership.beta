@@ -443,7 +443,7 @@ $(function(){
 // -------------------------
 
 $(function(){
-  var mc_modal_debug = true; // MUST BE FALSE IN PRODUCTION!
+  var mc_modal_debug = false; // MUST BE FALSE IN PRODUCTION!
   var mc_modal_delay = mc_modal_debug ? 2 : 30; // seconds
   var mc_modal_expiry = mc_modal_debug ? (10 / 86400) : 30; // days
 
