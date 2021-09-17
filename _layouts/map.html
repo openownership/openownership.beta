@@ -29,7 +29,7 @@ layout: default
           <svg class="icon icon-hexagon map-legend-total"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
         </div>
         <div class="map-legend-text">
-          <span class="map-legend-highlight map-legend-total">countries committed in total</span><br>to Beneficial Ownership Transparency
+          <span class="map-legend-highlight map-legend-total">countries committed in total</span><br>to beneficial ownership transparency
         </div>
       </div>
       <div class="map-legend">
@@ -38,7 +38,7 @@ layout: default
           <svg class="icon icon-hexagon map-legend-full"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
         </div>
         <div class="map-legend-text">
-          <span class="map-legend-highlight map-legend-full">countries are fully committed</span><br>to Beneficial Ownership Transparency
+          <span class="map-legend-highlight map-legend-full">countries are fully committed</span><br>to beneficial ownership transparency
         </div>
       </div>
       <div class="map-legend">
@@ -47,20 +47,20 @@ layout: default
           <svg class="icon icon-hexagon map-legend-partial"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
         </div>
         <div class="map-legend-text">
-          <span class="map-legend-highlight map-legend-partial">countries are partially committed</span><br>to Beneficial Ownership Transparency
+          <span class="map-legend-highlight map-legend-partial">countries are partially committed</span><br>to beneficial ownership transparency
         </div>
       </div>
       <div class="map-legend">
         <div class="map-legend-icon ">
           {% comment %}
-            We support 14 UK overseas territories, but we only have one entry
-            for them in our knowledgebase, so we bump up the numbers here
+            We support 14 British Overseas Territories, but we only have one entry
+            for them in our knowledge base, so we bump up the numbers here
           {% endcomment %}
           {{engaged.size | plus: 13 }}
           <svg class="icon icon-hexagon map-legend-engagement"><use xlink:href="/assets/icons/symbol-defs.svg#icon-hexagon"></use></svg>
         </div>
         <div class="map-legend-text">
-          <span class="map-legend-highlight map-legend-engagement">countries where OpenOwnership is engaged</span><br>including 14 British Overseas Territories
+          <span class="map-legend-highlight map-legend-engagement">countries where Open Ownership is engaged</span><br>including 14 British Overseas Territories
         </div>
       </div>
     </div>
@@ -75,7 +75,7 @@ layout: default
       <select id='register-filter' name="register">
         <option value="">Any or no register</option>
         <option value="register-online">An online register</option>
-        <option value="in-oo-register">Data in the OpenOwnership register</option>
+        <option value="in-oo-register">Data in the Open Ownership Register</option>
       </select>
     </div>
     <div class="small-12 cell text-center">
@@ -109,7 +109,7 @@ layout: default
             <h2 class="country_name">{{ country['name'] }}</h2>
             <div class="summary">
               <p class="margin-bottom-0"><strong>Any register(s) online:</strong> {% if country.any_online_register == 'True' %}✓{% else %}x{%endif%}</p>
-              <p class="margin-bottom-0"><strong>Any data in the OpenOwnership Register:</strong> {% if country.any_data_in_oo_register == 'True' %}✓{% else %}x{%endif%}</p>
+              <p class="margin-bottom-0"><strong>Any data in the Open Ownership Register:</strong> {% if country.any_data_in_oo_register == 'True' %}✓{% else %}x{%endif%}</p>
               <p><strong>OpenOwnership engagement:</strong> {% if country.involved == 'True' %}{{ country.involvement }}{% else %}None{%endif%}</p>
 
               <p class="margin-bottom-0"><strong>Committed to register covering whole economy:</strong> {% if country.all_sectors == 'True' %}✓{% else %}x{%endif%}</p>
@@ -135,7 +135,7 @@ layout: default
                 {% for regime in regimes %}
                   {% if regime.oo_register_url != '' %}
                     <li>
-                      <a href="{{regime.oo_register_url}}">Data source information in the OpenOwnership Register</a>
+                      <a href="{{regime.oo_register_url}}">Data source information in the Open Ownership Register</a>
                     </li>
                   {% endif %}
                 {% endfor %}
