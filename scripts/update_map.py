@@ -107,7 +107,7 @@ def defaultCommitmentSummary(commitment_type, country):
     elif commitment_type == 'Other':
         return (
             f"{country.Country} has made a commitment to beneficial "
-            f"beneficial ownership transparency through some other means"
+            f"ownership transparency through some other means"
         )
 
 
