@@ -2,7 +2,6 @@
 title: 'Opening Extractives: Global Beneficial Ownership Transparency Implementers’
   Forum'
 date: 2021-09-17 18:12:00 Z
-published: false
 categories:
 - events
 image: "/uploads/2021-09-17-transparency-forum.jpg"
