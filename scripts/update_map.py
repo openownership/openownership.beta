@@ -95,7 +95,7 @@ def defaultCommitmentSummary(commitment_type, country):
         return (
             f"At the "
             f"<a href='https://www.gov.uk/government/topical-events/anti-corruption-summit-london-2016'>"
-            f"2016 UK Anti-Corruption Summit</a> {country.Country} made a "
+            f"2016 UK Anti-Corruption Summit</a>, {country.Country} made a "
             f"commitment to beneficial ownership disclosure."
         )
     elif commitment_type == 'OGP':
