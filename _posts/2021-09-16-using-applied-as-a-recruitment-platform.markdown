@@ -2,6 +2,8 @@
 title: Using Applied as a recruitment platform
 date: 2021-09-16 15:21:00 Z
 published: false
+image: "/uploads/2021-09-20-applied.jpg"
+author: Open Ownership
 ---
 
 Over the last few years, Open Ownership (OO) has been using [Applied](https://www.beapplied.com/), an online recruitment and hiring platform. OO is committed to open, fair, and transparent recruitment, and the Applied platform enables an unbiased, ethical, and efficient alternative to most other hiring strategies.
