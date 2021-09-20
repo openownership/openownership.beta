@@ -1,6 +1,6 @@
 ---
 title: Entrenching Transparency Through Disclosure Of Beneficial Ownership
-date: 2021-09-20 14:18:00 Z
+date: 2021-09-19 14:18:00 Z
 publication: The Independent, Nigeria
 logo: "/uploads/independent-ng.svg"
 link: https://independent.ng/entrenching-transparency-through-disclosure-of-beneficial-ownership/
