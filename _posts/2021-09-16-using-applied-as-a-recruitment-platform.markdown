@@ -42,3 +42,21 @@ CR: Personally, what's the most surprising for me is how much I trust the proces
 CR: I think they should feel confident to trust the process enough to be themselves. If they answer the sift questions openly and honestly they can trust that if they are suited to the role we will be able to identify them and they will come out near the top. We read everyone’s sift questions as the starting point and don’t look at CVs until much later on in the process. This gives an opportunity to people who feel they have the skills but have a less conventional background or CV to feel that they can apply and will be given the same opportunity.
 
 When we also consider that all the questions and tasks are scenario-based, it means it’s a genuine two-way process which also lets the candidates see what the job is like, and how the organisation works. Recruitment should be two-way but often isn’t, apart from letting candidates ask a few questions at the end of the interview. We feel that using Applied  lets candidates get to know the organisation as much as it helps us get to know them. It’s a different way of recruiting, but I’m convinced and wouldn’t go back to the standard application processes or CVs!
+
+## Feedback from recent candidates to Open Ownership
+
+> "The hiring process is seemingly fair and unbias. This is great. The timeline given was enough to fill out the application. Even though the application seems rigorous, it is worth the time."
+> 
+> Policy and Research Associate, about 2 months ago
+
+> "Thank you. This application process felt painless, fair and consistent with OO values."
+> 
+> Policy and Research Associate, about 2 months ago
+
+> "More engaging than just writing a cover letter, and also helps the candidate decide if they are a good match for the job by giving insight into the day-to-day tasks."
+> 
+> Policy and Research Associate, about 2 months ago
+
+> "The 4 questions in this application is a great way to demonstrate your skills especially when you know you can perform the role but your experience may not necessarily match up with what is required. "
+> 
+> Policy and Research Associate, 2 months ago
