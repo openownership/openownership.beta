@@ -45,18 +45,18 @@ When we also consider that all the questions and tasks are scenario-based, it me
 
 ## Feedback from recent candidates to Open Ownership
 
-> "The hiring process is seemingly fair and unbias. This is great. The timeline given was enough to fill out the application. Even though the application seems rigorous, it is worth the time."
+> **"The hiring process is seemingly fair and unbias. This is great. The timeline given was enough to fill out the application. Even though the application seems rigorous, it is worth the time."**
 > 
 > Policy and Research Associate, about 2 months ago
 
-> "Thank you. This application process felt painless, fair and consistent with OO values."
+> **"Thank you. This application process felt painless, fair and consistent with OO values."**
 > 
 > Policy and Research Associate, about 2 months ago
 
-> "More engaging than just writing a cover letter, and also helps the candidate decide if they are a good match for the job by giving insight into the day-to-day tasks."
+> **"More engaging than just writing a cover letter, and also helps the candidate decide if they are a good match for the job by giving insight into the day-to-day tasks."**
 > 
 > Policy and Research Associate, about 2 months ago
 
-> "The 4 questions in this application is a great way to demonstrate your skills especially when you know you can perform the role but your experience may not necessarily match up with what is required. "
+> **"The 4 questions in this application is a great way to demonstrate your skills especially when you know you can perform the role but your experience may not necessarily match up with what is required."**
 > 
 > Policy and Research Associate, 2 months ago
