@@ -9,6 +9,7 @@ description: Speakers at the 7 September London Beneficial Ownership Transparenc
   build trust, combat corruption and fight financial crime. Companies in the extractives
   sector can play a significant role in advancing progress on this agenda.
 author: EITI
+is_featured: true
 ---
 
 Speakers at the 7 September London Beneficial Ownership Transparency Forum shared insights on how public registers of beneficial owners can be used to build trust, combat corruption and fight financial crime. Companies in the extractives sector can play a significant role in advancing progress on this agenda.
