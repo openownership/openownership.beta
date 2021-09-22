@@ -1,7 +1,6 @@
 ---
 title: Using Applied as a recruitment platform
 date: 2021-09-16 15:21:00 Z
-published: false
 image: "/uploads/2021-09-20-applied.jpg"
 author: Open Ownership
 ---
