@@ -1,7 +1,6 @@
 ---
 title: 'A network effect: Growing company commitment to beneficial ownership transparency'
 date: 2021-09-22 10:33:00 Z
-published: false
 categories:
 - events
 image: "/uploads/2021-09-22-botf.jpg"
