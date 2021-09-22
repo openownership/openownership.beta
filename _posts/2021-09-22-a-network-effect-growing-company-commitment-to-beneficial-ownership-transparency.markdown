@@ -12,9 +12,7 @@ author: EITI
 is_featured: true
 ---
 
-Speakers at the 7 September London Beneficial Ownership Transparency Forum shared insights on how public registers of beneficial owners can be used to build trust, combat corruption and fight financial crime. Companies in the extractives sector can play a significant role in advancing progress on this agenda.
-
-> **Speakers in Photo**, left to right: Joanne Jones, Director of COmmunications EITI; Mark Robinson, Executive Director, EITI; The Right Honourable John Penrose MP, the Prime Minister's Anti-Corruption Champion; and on the video screen, the Right Honourable Helen Clark, former Prime Minister of New Zealand.
+> **Photo**, left to right: Joanne Jones, Director of Communications EITI; Mark Robinson, Executive Director, EITI; The Right Honourable John Penrose MP, the Prime Minister's Anti-Corruption Champion; and on the video screen, the Right Honourable Helen Clark, former Prime Minister of New Zealand.
 {: .aside }
 
 The UK plays host to one of the largest financial services sectors on the planet. It is also one of a growing number of countries which requires all businesses to name the individuals who ultimately own or control them. London was therefore a fitting venue for a unique gathering of representatives from extractive, accounting and professional service companies, civil society organisations and governments. The purpose of the forum was to commit to further progress on the publication and use of beneficial ownership data.
