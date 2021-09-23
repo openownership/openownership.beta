@@ -6,7 +6,7 @@ categories:
 tags:
 - Indonesia
 files:
-  en_file: "/uploads/OO%20Case%20Study%20Indonesia.pdf"
+  en: "/uploads/case-study-indonesia-sep-2021.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/case-study-indonesia-thumbnail.jpg"
 resource_type: Case studies
