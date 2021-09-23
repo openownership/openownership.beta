@@ -2,7 +2,7 @@
 title: Transforming Procurement Systems in Mexico
 date: 2021-05-23 08:56:00 Z
 categories:
-- Impact
+- Country assistance
 tags:
 - Mexico
 files:
