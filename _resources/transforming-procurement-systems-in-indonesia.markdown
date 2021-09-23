@@ -8,6 +8,7 @@ tags:
 files:
   en_file: "/uploads/OO%20Case%20Study%20Indonesia.pdf"
 author: Open Ownership
+thumbnail-image: "/uploads/case-study-indonesia-thumbnail.jpg"
 resource_type: Case studies
 ---
 
