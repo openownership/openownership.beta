@@ -1,0 +1,14 @@
+---
+title: Transforming Procurement Systems in Indonesia
+date: 2021-09-23 08:56:00 Z
+categories:
+- Impact
+tags:
+- Indonesia
+files:
+  en_file: "/uploads/OO%20Case%20Study%20Indonesia.pdf"
+author: Open Ownership
+resource_type: Case studies
+---
+
+In the six months leading up to April 2021, Open Ownership undertook a lightning intervention in Indonesia. The project was funded by the UK Foreign, Commonwealth and Development Office, and you can read the bite-sized report here.
