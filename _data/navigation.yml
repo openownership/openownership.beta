@@ -33,9 +33,11 @@ header:
     sublinks:
     - title: Workbook
       url: /resources/beneficial-ownership-disclosure-workbook/
-    - title: Data standard (BODS)
+    - title: Data standard
       url: https://standard.openownership.org/
-    - title: Visualisation system (BOVS)
+    - title: Data review
+      url: https://datareview.openownership.org/
+    - title: Visualisation system
       url: /visualisation
     - title: Forms
       url: /resources/?topic=forms
