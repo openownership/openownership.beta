@@ -2,7 +2,7 @@
 title: Transforming Procurement Systems in South Africa
 date: 2021-05-23 08:56:00 Z
 categories:
-- Impact
+- Country assistance
 tags:
 - South Africa
 files:
