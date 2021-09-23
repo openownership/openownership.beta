@@ -1,7 +1,6 @@
 ---
-title: OpenOwnership
+title: Open Ownership
 position: 0
-layout: home
 description: We strengthen accountability and advance transparency in company ownership.
 image: "/assets/img/og-image.png?version=2"
 header-buttons:
@@ -25,7 +24,7 @@ what-we-do:
     support people to use beneficial ownership data to deliver economic and social
     benefits.
   buttons:
-  - title: BODS
+  - title: Data standard
     url: http://standard.openownership.org/
   - title: More tools
     url: "/resources/?type=guidance"
@@ -37,5 +36,6 @@ what-we-do:
     url: "/principles"
   - title: Reports
     url: "/resources/?type=reports"
+layout: home
 ---
 
