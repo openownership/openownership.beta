@@ -3,6 +3,7 @@ title: State-owned enterprises and beneficial ownership disclosures
 date: 2021-10-04 09:58:00 Z
 categories:
 - blogs
+image: "/uploads/2021-10-04-state-owned-enterprises.jpg"
 author: Jack Lord
 is_featured: true
 ---
