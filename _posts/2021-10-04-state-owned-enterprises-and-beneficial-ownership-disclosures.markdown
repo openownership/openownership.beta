@@ -61,12 +61,18 @@ A full understanding of state ownership and control requires clear regulations a
 In order to resolve these issues, a disclosure framework should require the following information to be collected on state bodies:
 
 * The **legal name** for the state body. To ensure consistency, this name may come from a local list or register of state bodies, if this exists. However, names should not be solely relied upon for disambiguation, and consideration should be given to [translation and transliteration](/blogs/reconciling-beneficial-ownership-data) issues.
+
 * The **jurisdiction** for the state body from a recognised codelist.
+
 * One or more **unique,** **unambiguous, and permanent identifiers** for the state body. These could include:
-   * a company number and registry identifier if the state body is a registered company;
-   * an identifier taken from a controlled list of government bodies (such as those collected at [org-id.guide](https://org-id.guide/)) and a registry identifier for that list;
-   * an identifier issued and managed by the central beneficial ownership register. A state body should be able to reuse this identifier across declarations made by different companies;
-   * an [identifier issued and managed by a third-party](https://github.com/openownership/data-standard/issues/336), such as the [Legal Entity Identifier](https://www.gleif.org/en/about-lei/introducing-the-legal-entity-identifier-lei) (LEI). This may be a particularly useful identifier for state bodies that are not registered companies and for non-domestic entities declared as owners in a register. [Guidance](https://www.leiroc.org/publications/gls/roc_20201229.pdf) is available on the eligibility of government entities for an LEI, and there is growing support for their use in government.
+
+  * a company number and registry identifier if the state body is a registered company;
+
+  * an identifier taken from a controlled list of government bodies (such as those collected at [org-id.guide](https://org-id.guide/)) and a registry identifier for that list;
+
+  * an identifier issued and managed by the central beneficial ownership register. A state body should be able to reuse this identifier across declarations made by different companies;
+
+  * an [identifier issued and managed by a third-party](https://github.com/openownership/data-standard/issues/336), such as the [Legal Entity Identifier](https://www.gleif.org/en/about-lei/introducing-the-legal-entity-identifier-lei) (LEI). This may be a particularly useful identifier for state bodies that are not registered companies and for non-domestic entities declared as owners in a register. [Guidance](https://www.leiroc.org/publications/gls/roc_20201229.pdf) is available on the eligibility of government entities for an LEI, and there is growing support for their use in government.
 
 * In choosing between these identifier options, consideration should be given to interoperability, sustainability, and any dependencies that will be created.
 
