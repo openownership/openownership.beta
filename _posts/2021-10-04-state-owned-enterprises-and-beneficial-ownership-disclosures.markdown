@@ -26,7 +26,7 @@ An **SOE** is [defined by the Organisation for Economic Co-operation and Develop
 
 Knowing which state owns or controls a company is only half the picture. The **state body, agency, or office** through which the state exercises control is equally important. For example, in China, the State-owned Assets Supervision and Administration Commission of the State Council (SASAC) [manages](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission) SOEs on behalf of the Chinese state, and is declared as the Person of Significant Control (PSC) for [many companies](https://register.openownership.org/search?utf8=%E2%9C%93&q=STATE-OWNED\+ASSETS\+SUPERVISION) on the [UK’s beneficial ownership register](https://find-and-update.company-information.service.gov.uk/). Information on state bodies is more diverse than information on companies, so standardising how this is collected and published will improve usability.
 
-SOEs may not have individuals who meet relevant legal definitions of a beneficial owner, but understanding the **interests and involvement of natural persons** is still likely to be important for improving the governance and integrity of SOEs. A beneficial ownership register may not only be useful for recording some of this information, but it can also act as a bridge to other sources of information, such as a list of directors on a company register or a company’s own [transparency disclosures](https://www.codelco.com/transparencia/prontus_codelco/2016-02-17/144158.html).
+SOEs may not have individuals who meet relevant legal definitions of a beneficial owner, but understanding the **interests and involvement of natural persons **is still likely to be important for improving the governance and integrity of SOEs. A beneficial ownership register may not only be useful for recording some of this information, but it can also act as a bridge to other sources of information, such as a list of directors on a company register or a company’s own [transparency disclosures](https://www.codelco.com/transparencia/prontus_codelco/2016-02-17/144158.html).
 
 ## What Open Ownership recommends
 
@@ -61,12 +61,18 @@ A full understanding of state ownership and control requires clear regulations a
 In order to resolve these issues, a disclosure framework should require the following information to be collected on state bodies:
 
 * The **legal name** for the state body. To ensure consistency, this name may come from a local list or register of state bodies, if this exists. However, names should not be solely relied upon for disambiguation, and consideration should be given to [translation and transliteration](/blogs/reconciling-beneficial-ownership-data) issues.
+
 * The **jurisdiction** for the state body from a recognised codelist.
+
 * One or more **unique,** **unambiguous, and permanent identifiers** for the state body. These could include:
-   * a company number and registry identifier if the state body is a registered company;
-   * an identifier taken from a controlled list of government bodies (such as those collected at [org-id.guide](https://org-id.guide/)) and a registry identifier for that list;
-   * an identifier issued and managed by the central beneficial ownership register. A state body should be able to reuse this identifier across declarations made by different companies;
-   * an [identifier issued and managed by a third-party](https://github.com/openownership/data-standard/issues/336), such as the [Legal Entity Identifier](https://www.gleif.org/en/about-lei/introducing-the-legal-entity-identifier-lei) (LEI). This may be a particularly useful identifier for state bodies that are not registered companies and for non-domestic entities declared as owners in a register. [Guidance](https://www.leiroc.org/publications/gls/roc_20201229.pdf) is available on the eligibility of government entities for an LEI, and there is growing support for their use in government.
+
+  * a company number and registry identifier if the state body is a registered company;
+
+  * an identifier taken from a controlled list of government bodies (such as those collected at [org-id.guide](https://org-id.guide/)) and a registry identifier for that list;
+
+  * an identifier issued and managed by the central beneficial ownership register. A state body should be able to reuse this identifier across declarations made by different companies;
+
+  * an [identifier issued and managed by a third-party](https://github.com/openownership/data-standard/issues/336), such as the [Legal Entity Identifier](https://www.gleif.org/en/about-lei/introducing-the-legal-entity-identifier-lei) (LEI). This may be a particularly useful identifier for state bodies that are not registered companies and for non-domestic entities declared as owners in a register. [Guidance](https://www.leiroc.org/publications/gls/roc_20201229.pdf) is available on the eligibility of government entities for an LEI, and there is growing support for their use in government.
 
 * In choosing between these identifier options, consideration should be given to interoperability, sustainability, and any dependencies that will be created.
 
