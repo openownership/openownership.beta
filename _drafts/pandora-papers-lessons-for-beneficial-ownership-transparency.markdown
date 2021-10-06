@@ -4,7 +4,7 @@ date: 2021-10-06 15:36:00 Z
 categories:
 - blog
 tags:
-- pandora
+- Pandora Papers
 image: "/uploads/2021-10-06-pandora-papers.jpg"
 description: The Open Ownership team has started looking at what we can learn about
   beneficial ownership transparency (BOT) from the Pandora Papers.
