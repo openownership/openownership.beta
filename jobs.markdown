@@ -12,4 +12,4 @@ We are a distributed team and are actively looking to diversify our geographical
 
 ## Current opportunities
 
-* [Governance Consultant](/jobs/new-opportunity-governance-consultant/)
+* [Part-time senior software engineer (Ruby on Rails)](/jobs/part-time-senior-software-engineer-ruby-on-rails-six-month-contract)
