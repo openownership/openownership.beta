@@ -2,7 +2,7 @@
 title: 'Pandora Papers: Lessons for beneficial ownership transparency?'
 date: 2021-10-06 15:36:00 Z
 categories:
-- blog
+- blogs
 tags:
 - Pandora Papers
 image: "/uploads/2021-10-06-pandora-papers.jpg"
