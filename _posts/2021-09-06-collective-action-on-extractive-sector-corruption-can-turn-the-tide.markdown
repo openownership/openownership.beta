@@ -3,6 +3,8 @@ title: Collective action on extractive sector corruption can turn the tide
 date: 2021-09-06 23:31:00 Z
 categories:
 - news
+tags:
+- Opening Extractives
 image: "/uploads/2021-09-07-opening-extractives.jpg"
 description: Governments, business and civil society will unite to take action on
   corruption in the extractive sector, demonstrating support and commitment for beneficial
