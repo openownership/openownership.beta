@@ -36,7 +36,7 @@ At Liberia’s [launch event for the programme](https://frontpageafricaonline.co
 The Opening Extractives Programme will support Liberia’s efforts in establishing a public register and a regulatory and legislative framework for beneficial ownership disclosure. Jeffrey Yates, National Coordinator of Liberia EITI, shared Liberia’s ambitions to make rapid progress over the coming months to develop regulations and technology to streamline the collection and publication of beneficial ownership data.
 
 > #### Resources
-> * [Short video](https://eiti.us5.list-manage.com/track/click?u=691e61806662528c68908252f&id=870825d856&e=9aa6d88e5f) and [factsheet ](https://eiti.us5.list-manage.com/track/click?u=691e61806662528c68908252f&id=1c124043aa&e=9aa6d88e5f)on the Opening Extractives Programme
-> * [Commitments](https://eiti.us5.list-manage.com/track/click?u=691e61806662528c68908252f&id=6e0719e9e5&e=9aa6d88e5f) by extractive companies on beneficial ownership transparency
-> * [Information on beneficial ownership transparency](https://eiti.us5.list-manage.com/track/click?u=691e61806662528c68908252f&id=cfefff73f7&e=9aa6d88e5f) from the EITI website (also available in French, Spanish and Russian)
+> * [Short video](https://www.youtube.com/watch?v=RCUeu1F7mJE) and [factsheet ](https://eiti.org/document/opening-extractives-factsheet)on the Opening Extractives Programme
+> * [Commitments](https://eiti.org/document/statement-by-companies-on-beneficial-ownership-transparency) by extractive companies on beneficial ownership transparency
+> * [Information on beneficial ownership transparency](https://eiti.org/beneficial-ownership) from the EITI website (also available in French, Spanish and Russian)
 {: .resources-box }
