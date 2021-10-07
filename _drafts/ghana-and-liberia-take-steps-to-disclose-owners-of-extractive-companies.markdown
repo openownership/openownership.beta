@@ -1,6 +1,10 @@
 ---
 title: Ghana and Liberia take steps to disclose owners of extractive companies
 date: 2021-10-07 12:25:00 Z
+categories:
+- news
+tags:
+- Opening Extractives
 image: "/uploads/2021-09-07-opening-extractives.jpg"
 description: Ghana and Liberia are the first countries to have officially launched
   the Opening Extractives Programme, thereby affirming their commitment to ending
