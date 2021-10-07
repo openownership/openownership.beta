@@ -2,7 +2,7 @@
 title: Simon Whitehouse
 categories:
 - bods
-position: 12
+position: 13
 job-title: Technical Consultant
 image: "/uploads/simon-whitehouse-2.jpg"
 email: simon.whitehouse@opendataservices.coop

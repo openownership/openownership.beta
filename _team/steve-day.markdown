@@ -3,7 +3,7 @@ title: Steve Day
 published: false
 categories:
 - project-team
-position: 15
+position: 16
 job-title: Technical Lead
 image: "/uploads/steve-day-2.jpg"
 email: steve@openownership.org
