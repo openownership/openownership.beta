@@ -4,7 +4,7 @@ date: 2021-02-15 07:23:00 Z
 categories:
 - news
 tags:
-- OpeningExtractives
+- Opening Extractives
 image: "/uploads/global%20programme.png"
 author: Open Ownership
 is_featured: true
