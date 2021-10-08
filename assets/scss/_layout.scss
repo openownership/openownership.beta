@@ -142,6 +142,17 @@ img.small {
   background: #fff  url('/assets/img/world.svg') center center/cover no-repeat fixed;
 }
 
+p.scroll {
+  overflow: auto;
+  @include breakpoint(small down) {
+    img {
+      max-width: 200%;
+      max-height: 90vh
+    }
+  }
+}
+
+
 // 5. Typography
 // -------------
 
