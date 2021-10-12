@@ -14,4 +14,4 @@ The government of Argentina, through its Undersecretary of Mining Development (M
 
 To support the initial work in Argentina, we are seeking a short-term contractor, either an organisation or independent consultant, to conduct desk research, interviews, and legal framework analysis that will help identify concrete opportunities for OO and the EITI to provide technical assistance that furthers BOT in Argentina.
 
-[Ver términos de referencia y aplicar](/uploads/)
+[View Terms of Reference and Apply](/uploads/)
