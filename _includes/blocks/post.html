@@ -15,7 +15,11 @@
     {% include blocks/categories.html categories=post.categories %}
     {% if post.author %}{{ post.author }} · {% endif %}{{ post.date | date: site.date_format }}
   </p>
+  {% if post.description %}
+  <p>{{ post.description | markdownify | strip_html | truncatewords:40 }}</p>
+  {% else %}
   <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
+  {% endif %}
   <p>
     <a class="button" href="{{ post.url }}">
       Continue reading <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
