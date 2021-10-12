@@ -4,9 +4,9 @@ date: 2021-10-12 15:39:00 Z
 categories:
 - jobs
 description: |-
-  Estamos buscando una persona consultora a corto plazo para realizar una investigación documental, entrevistas y análisis del marco legal que ayudarán a identificar oportunidades concretas para que OO y el EITI brinden asistencia técnica en promover las reformas necesarias para avanzar en la transparencia de los beneficiarios reales en Argentina.
+  Estamos buscando una persona consultora a corto plazo para realizar una investigación documental, entrevistas y análisis del marco legal.
 
-  We are seeking a short-term contractor to conduct desk research, interviews, and legal framework analysis that will help identify concrete opportunities for OO and the EITI to provide technical assistance that furthers BOT in Argentina.
+  We are seeking a short-term contractor to conduct desk research, interviews, and legal framework analysis.
 author: Open Ownership
 ---
 
