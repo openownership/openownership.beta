@@ -3,10 +3,10 @@ title: Line Weight
 position: 15
 ---
 
-Line Weight is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to draw stronger interests with heavier arrows, so that these interests stand out more.
+Line Weight is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to draw stronger relationships with heavier arrows, so that these stand out more.
 {: .lead}
 
-The general rule is to use thicker Arrows for stronger interests.
+The general rule is to use thicker Arrows for stronger relationships.
 
 ![BOVS Diagram with Optional Feature for Line Weight](/visualisation/diagrams/bovs-optional-weight.png){: style="width: 62.5%" }
 

@@ -3,7 +3,7 @@ title: Annotation
 position: 13
 ---
 
-Annotation is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to label Arrows to be more specific about the interest relationships they represent.
+Annotation is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. It allows you to label Arrows to be more specific about the relationships they represent.
 {: .lead}
 
 
@@ -14,7 +14,11 @@ Annotation is an [Optional Feature](/visualisation/optional) of BOVS Diagrams. I
 
 ![BOVS Diagram with Annotations](/visualisation/diagrams/bovs-optional-annotation.png){: style="width: 62.5%" }
 
-Annotations are text labels that appear alongside Arrows. They may appear at the start, middle or end of the Arrow; whatever is unambiguous and the clearest in each situation (this is usually the start). These labels are written in a standard way:
+Annotations are text labels that appear alongside Arrows. They may appear at the start, middle or end of the Arrow; whatever is unambiguous and the clearest in each situation (this is usually the start).
+
+### Interest Arrows
+
+Where the relationship is an interest, the annotation label is written in a standard way:
 
 * The nature of interest is given in the active voice, e.g. "Owns" or "Controls"
 * The strength of interest is given as a percentage, e.g. "10%".
@@ -24,10 +28,18 @@ Annotations respect the [Chirality](/visualisation/core/chirality) rule, that is
 * Annotations about ownership appear on the left/below Arrows
 * Annotations about control appear on the right/above Arrows
 
+### Relationship Arrows
+
+Where the relationship is not an interest, the annotation label should be written in the active voice. For instance, an Arrow connecting a mother and daughter, which proceeds from the mother to to the daughter, would mean "is the mother of", and could be labelled "Mother".
+
+You might also choose to use an icon instead of text, in which case you should include a key.
+
+Non-interest annotations can be written on either side of the Arrow.
+
 
 ## Detail Level
 
-Annotations across your diagram must use a consistent detail level. Annotations may either *qualify* interests or additionally *quantify* them. In most cases, you should prefer to provide full detail, that is, to quantify interests.
+Interest Annotations across your diagram must use a consistent detail level. Annotations may either *qualify* interests or additionally *quantify* them. In most cases, you should prefer to provide full detail, that is, to quantify interests.
 
 ### Qualifying Interests
 
@@ -52,9 +64,9 @@ If your diagram also has an [Interest Focus](/visualisation/core/focus-depth), o
 
 ![BOVS Diagram showing Annotation applied only to relevant Arrows](/visualisation/diagrams/bovs-optional-annotation-relevance.png){: style="width: 100%" }
 
-All [relevant](/visualisation/core/relevance) Arrows in your diagram must be annotated.
+All [relevant](/visualisation/core/relevance) interests in your diagram must be annotated.
 
-* Annotations should not be added to non-relevant Arrows.
+* Annotations should not be added to non-relevant interests.
 * Omission of an annotation (of a relevant Arrow) means absence of interest.
   * e.g. if there is no annotation on the side of the Arrow where ownership information appears, it means there is no ownership interest.
 
@@ -63,7 +75,7 @@ All [relevant](/visualisation/core/relevance) Arrows in your diagram must be ann
 
 ![BOVS Diagram with Indirect Arrow](/visualisation/diagrams/bovs-optional-annotation-indirect.png){: style="width: 100%" }
 
-You may choose to add Arrows that connect distant Parties, and annotate these. These are Indirect Arrows.
+You may choose to add interest Arrows that connect distant Parties, and annotate these. These are Indirect Arrows.
 
 * Indirect Arrows are drawn with a dotted or dashed line.
 * This Arrow must be annotated with the [compounded interest](/visualisation/core/summarisation) of the first Party in the last.
