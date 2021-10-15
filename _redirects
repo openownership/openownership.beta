@@ -21,7 +21,7 @@
 # Moved pages
 /guide/consider /guide # Consider stage was removed
 /principles/verified/ /principles/verification/ # Principle renamed
-/visualisation/interests-arrows /visualisation/relationships-arrows # Interests generalised to relationships
+/visualisation/core/interests-arrows /visualisation/core/relationships-arrows # Interests generalised to relationships
 
 # Deleted pages
 /what-we-do/1-1-technical-assistance /what-we-do/partnering-with-us
