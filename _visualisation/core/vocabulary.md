@@ -12,6 +12,7 @@ The BOVS "vocabulary" specifies the types of Parties that can appear at the Node
 The following types of Parties are types of Beneficial Owner, and so must appear at the start of all Chains in a diagram.
 
 
+<!-- Person -->
 {% capture PersonInfo %}
 {{ site.data.definitions.BOVS.Person }} Note that the plural in the context of BOVS is "Persons" not "people".
 
@@ -20,6 +21,7 @@ Persons are indicated with the [Person icon](/visualisation/resources).
 {% capture PersonInfo %}{{ PersonInfo | markdownify }}{% endcapture %}
 
 
+<!-- State -->
 {% capture StateInfo %}
 {{ site.data.definitions.BOVS.State }}
 
@@ -34,6 +36,7 @@ A specific State is indicated either with:
 {% capture StateInfo %}{{ StateInfo | markdownify }}{% endcapture %}
 
 
+<!-- Listed -->
 {% capture ListedInfo %}
 {{ site.data.definitions.BOVS.Listed }}
 
@@ -42,6 +45,7 @@ Public Listed Companies are indicated with the [Public Listed Company icon](/vis
 {% capture ListedInfo %}{{ ListedInfo | markdownify }}{% endcapture %}
 
 
+<!-- Table -->
 {% capture OwnerTable %}
 | ![Person](/visualisation/resources/bovs-person.png){: style="width: 10em" }              | **Person** | PersonInfo
 | ![State](/visualisation/resources/bovs-state.png){: style="width: 10em" }  | **State** | StateInfo
@@ -60,6 +64,8 @@ Public Listed Companies are indicated with the [Public Listed Company icon](/vis
 
 The following types of Parties are Owned Entities, and so never appear at the start of a Chain.
 
+
+<!-- Entity -->
 {% capture EntityInfo %}
 {{ site.data.definitions.BOVS.Entity }}
 
@@ -69,6 +75,8 @@ Entities are indicated with the [Entity icon](/visualisation/resources).
 {% endcapture %}
 {% capture EntityInfo %}{{ EntityInfo | markdownify }}{% endcapture %}
 
+
+<!-- Organisation -->
 {% capture OrganisationInfo %}
 {{ site.data.definitions.BOVS.Organisation }}
 
@@ -78,18 +86,51 @@ You may use the Label "Organisation" with the Organisation icon, or, if you are 
 {% endcapture %}
 {% capture OrganisationInfo %}{{ OrganisationInfo | markdownify }}{% endcapture %}
 
+
+<!-- Trust -->
+{% capture TrustInfo %}
+{{ site.data.definitions.BOVS.Trust }}
+
+Trusts are indicated with the [Trust icon](/visualisation/resources).
+{% endcapture %}
+{% capture TrustInfo %}{{ TrustInfo | markdownify }}{% endcapture %}
+
+
+<!-- Arrangement -->
+{% capture ArrangementInfo %}
+{{ site.data.definitions.BOVS.Arrangement }}
+
+Legal arrangements are indicated with the [Arrangement icon](/visualisation/resources).
+{% endcapture %}
+{% capture ArrangementInfo %}{{ ArrangementInfo | markdownify }}{% endcapture %}
+
+
+<!-- Table -->
 {% capture EntitiesTable %}
 | ![Entity](/visualisation/resources/bovs-entity.png){: style="width: 10em" }             | **Entity**       | EntityInfo
 | ![Organisation](/visualisation/resources/bovs-organisation.png){: style="width: 10em" } | **Organisation** | OrganisationInfo
+| ![Trust](/visualisation/resources/bovs-trust.png){: style="width: 10em" } | **Trust** | TrustInfo
+| ![Arrangement](/visualisation/resources/bovs-arrangement.png){: style="width: 10em" } | **Legal arrangement** | ArrangementInfo
 {: .unstriped}
 {% endcapture %}
 
 {{ EntitiesTable | markdownify
   | replace: "EntityInfo", EntityInfo
   | replace: "OrganisationInfo", OrganisationInfo
+  | replace: "TrustInfo", TrustInfo
+  | replace: "ArrangementInfo", ArrangementInfo
 }}
 
+
 You may choose just to identify all Owned Entities just as "Entities", or select certain types of Parties (e.g. Companies) for which you will identify their type more specifically.
+
+
+## Assets
+
+Assets can only appear at the end of a Chain.
+
+| ![Asset](/visualisation/resources/bovs-asset.png){: style="width: 10em" }             | **Asset**       | {{ site.data.definitions.BOVS.Assets }}
+{: .unstriped}
 
 
 ## Icons
