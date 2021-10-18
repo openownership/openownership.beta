@@ -98,9 +98,9 @@ Trusts are indicated with the [Trust icon](/visualisation/resources).
 
 <!-- Arrangement -->
 {% capture ArrangementInfo %}
-{{ site.data.definitions.BOVS.Arrangement }}
+{{ site.data.definitions.BOVS.legalArrangement }}
 
-Arrangements are indicated with the [Arrangement icon](/visualisation/resources).
+Legal arrangements are indicated with the [Arrangement icon](/visualisation/resources).
 {% endcapture %}
 {% capture ArrangementInfo %}{{ ArrangementInfo | markdownify }}{% endcapture %}
 
@@ -110,7 +110,7 @@ Arrangements are indicated with the [Arrangement icon](/visualisation/resources)
 | ![Entity](/visualisation/resources/bovs-entity.png){: style="width: 10em" }             | **Entity**       | EntityInfo
 | ![Organisation](/visualisation/resources/bovs-organisation.png){: style="width: 10em" } | **Organisation** | OrganisationInfo
 | ![Trust](/visualisation/resources/bovs-trust.png){: style="width: 10em" } | **Trust** | TrustInfo
-| ![Arrangement](/visualisation/resources/bovs-arrangement.png){: style="width: 10em" } | **Arrangement** | ArrangementInfo
+| ![Arrangement](/visualisation/resources/bovs-arrangement.png){: style="width: 10em" } | **Legal arrangement** | ArrangementInfo
 {: .unstriped}
 {% endcapture %}
 
