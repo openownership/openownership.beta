@@ -50,7 +50,7 @@ Public Listed Companies are indicated with the [Public Listed Company icon](/vis
 | ![Person](/visualisation/resources/bovs-person.png){: style="width: 10em" }              | **Person** | PersonInfo
 | ![State](/visualisation/resources/bovs-state.png){: style="width: 10em" }  | **State** | StateInfo
 | ![Listed Company](/visualisation/resources/bovs-listed.png){: style="width: 10em" }      | **Public Listed Company** | ListedInfo
-{: .unstriped}
+{: .unstriped .icons-table }
 {% endcapture %}
 
 {{ OwnerTable | markdownify
@@ -111,7 +111,7 @@ Legal arrangements are indicated with the [Arrangement icon](/visualisation/reso
 | ![Organisation](/visualisation/resources/bovs-organisation.png){: style="width: 10em" } | **Organisation** | OrganisationInfo
 | ![Trust](/visualisation/resources/bovs-trust.png){: style="width: 10em" } | **Trust** | TrustInfo
 | ![Arrangement](/visualisation/resources/bovs-arrangement.png){: style="width: 10em" } | **Legal arrangement** | ArrangementInfo
-{: .unstriped}
+{: .unstriped .icons-table }
 {% endcapture %}
 
 {{ EntitiesTable | markdownify
@@ -130,7 +130,7 @@ You may choose just to identify all Owned Entities just as "Entities", or select
 Assets can only appear at the end of a Chain.
 
 | ![Asset](/visualisation/resources/bovs-asset.png){: style="width: 10em" }             | **Asset**       | {{ site.data.definitions.BOVS.Assets }}
-{: .unstriped}
+{: .unstriped .icons-table }
 
 
 ## Icons

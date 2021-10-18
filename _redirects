@@ -1,13 +1,14 @@
+# Moved pages
 /news/ /latest/
 /connect-with-us/ /team/
 /about/ /team/
-
+/guide/consider /guide # Consider stage was removed
+/principles/verified/ /principles/verification/ # Principle renamed
+/visualisation/core/interests-arrows /visualisation/core/relationships-arrows # Interests generalised to relationships
 /access-to-beneficial-ownership-information-remains-a-long-term-goal/ /blogs/access-to-beneficial-ownership-information-remains-a-long-term-goal/
 
-/uploads/oo-characteristics-effective-bo-data.pdf /framework/
-
+# Framework became Principles
 /framework/ /principles/
-
 /framework/robust-definitions/ /principles/robust-definitions/
 /framework/comprehensive-coverage/ /principles/comprehensive-coverage/
 /framework/sufficient-detail/ /principles/sufficient-detail/
@@ -18,10 +19,7 @@
 /framework/up-to-date-auditable/ /principles/up-to-date-auditable/
 /framework/sanctions-and-enforcement/ /principles/sanctions-and-enforcement/
 
-# Moved pages
-/guide/consider /guide # Consider stage was removed
-/principles/verified/ /principles/verification/ # Principle renamed
-/visualisation/core/interests-arrows /visualisation/core/relationships-arrows # Interests generalised to relationships
+/uploads/oo-characteristics-effective-bo-data.pdf /framework/ # Old doc
 
 # Deleted pages
 /what-we-do/1-1-technical-assistance /what-we-do/partnering-with-us
