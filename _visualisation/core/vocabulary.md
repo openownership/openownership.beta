@@ -98,7 +98,7 @@ Trusts are indicated with the [Trust icon](/visualisation/resources).
 
 <!-- Arrangement -->
 {% capture ArrangementInfo %}
-{{ site.data.definitions.BOVS.Arrangement }}
+{{ site.data.definitions.BOVS.legalArrangement }}
 
 Legal arrangements are indicated with the [Arrangement icon](/visualisation/resources).
 {% endcapture %}
