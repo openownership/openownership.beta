@@ -37,12 +37,12 @@ Parties are drawn as a circle containing an icon, with a label underneath.
 
 [Parties (Nodes)](/visualisation/core/parties-nodes){: .button }
 
-Arrows connect Parties, representing their interests, which may be ownership or control interests, or both.
+Arrows connect Parties, representing their relationships or interests, which may be ownership or control interests, or both.
 {: .lead }
 
-Arrows flow from the interested Party to the Entity they are interested in. Each type of interest may also have a strength between 0% and 100%.
+Interest Arrows flow from the interested Party to the Entity they are interested in. Each type of interest may also have a strength between 0% and 100%.
 
-[Interests (Arrows)](/visualisation/core/interests-arrows){: .button }
+[Relationships (Arrows)](/visualisation/core/relationships-arrows){: .button }
 
 ### Design options
 

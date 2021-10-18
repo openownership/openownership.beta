@@ -13,7 +13,7 @@ Ownership and control information should each be assigned a distinct colour. The
 
 ![How to add colour to a BOVS Diagram](/visualisation/diagrams/bovs-optional-colour-half-arrows.png){: style="width: 100%" }
 
-You should now think of each Arrow as consisting of two half-arrows, one half for the ownership part of the interest and one half for the control part. Which half is which follows the [Chirality](/visualisation/core/chirality) rule, that is:
+You should now think of each interest Arrow as consisting of two half-arrows, one half for the ownership part of the interest and one half for the control part. Which half is which follows the [Chirality](/visualisation/core/chirality) rule, that is:
 
 * In vertical diagrams, the left side of the Arrow is for ownership, and the right side is for control.
 * In horizontal diagrams, the lower side of the Arrow is for ownership, and the upper side is for control

@@ -31,7 +31,7 @@ Use colour to make ownership and control information easier to understand at a g
 
 ![BOVS Diagram with Optional Feature for Line Weight](/visualisation/diagrams/bovs-optional-weight.png){: style="width: 62.5%" }
 
-Draw stronger interests with heavier Arrows.
+Draw stronger interests or relationships with heavier Arrows.
 
 [Line Weight](/visualisation/optional/weight){: .button }
 

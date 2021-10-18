@@ -6,7 +6,7 @@ position: 10
 BOVS Diagrams are [chiral](https://en.wikipedia.org/wiki/Chirality){:target="_blank"}, that is, they can’t be mirrored or flipped – there is a correct way around.
 {: .lead}
 
-[Optional Features](/visualisation/optional) such as [Annotation](/visualisation/optional/annotation) and [Charts](/visualisation/optional/charts) allow BOVS Diagrams to include specific information about ownership and control [interests](/visualisation/core/interests-arrows).
+[Optional Features](/visualisation/optional) such as [Annotation](/visualisation/optional/annotation) and [Charts](/visualisation/optional/charts) allow BOVS Diagrams to include specific information about the [relationships](/visualisation/core/relationships-arrows) between Parties, such as specifying the nature and strength of interest.
 
 If ownership or control information is shown, it must consistently appear on the correct side of the Arrows/Nodes it relates to (see below).
 
