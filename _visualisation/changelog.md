@@ -17,7 +17,7 @@ Arrows between Nodes can be used to display a relationship between those Parties
 
 ### [Assets](/visualisation/core/parties-nodes)
 
-A new type of Node, an Asset, can be added at the end of an interest chain. Assets are things that can be owned or controlled, but which themselves cannot own or control anything. For instance, someone might own an expensive property.
+A new type of Node, an Asset, can be added at the end of an interest chain. Assets are items of property owned by a person or company, regarded as having economic value. For instance, bank accounts and real estate are assets.
 
 ### [Trusts and Arrangements](/visualisation/core/vocabulary)
 
