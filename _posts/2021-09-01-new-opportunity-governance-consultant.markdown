@@ -1,6 +1,7 @@
 ---
 title: 'New opportunity: Governance consultant'
 date: 2021-09-01 09:59:00 Z
+expiry_date: 2021-09-26 23:59:59 Z
 categories:
 - jobs
 description: We seek a short-term contractor to develop and lead the establishment
