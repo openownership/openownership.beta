@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<!-- Page Title -->
+{% include blocks/title.html %}
+<!-- End Page Title -->
+
+<!-- Page Content -->
+{% include blocks/content.html %}
+<!-- End Page Content -->
+
+
+<section class="grid-container">
+    <div class="grid-x grid-padding-x grid-padding-y align-center">
+      	<div class="small-12 cell">
+			<h2>Current opportunities</h2>
+			{% assign alljobs = site.categories.jobs | where_exp: "job", "job.date <= site.time" %}
+			{% assign jobs = '' | split: '' %}
+			{% for job in alljobs %}
+				{% if job.expiry_date %}
+					{% if job.expiry_date >= site.time %}
+						{% assign jobs = jobs | push: job %}
+					{% endif %}
+				{% else %}
+					{% assign jobs = jobs | push: job %}
+				{% endif %}
+			{% endfor %}
+			{% if jobs.size > 0 %}
+				<div class="grid-x grid-padding-x grid-padding-y" data-equalizer data-equalize-by-row="true">
+					{% for job in jobs %}
+						<div class="small-12 medium-6 cell">
+							<div class="post callout shadow large shadow--jobs" data-equalizer-watch>
+								<h3><a href="{{ job.url }}">{{ job.title }}</a></h3>
+								<p class="medium-gray">
+									Posted {{ job.date | date: site.date_format }}{% if job.expiry_date %} &middot; Apply by {{ job.expiry_date | date: site.date_format }}{% endif %}
+								</p>
+								{% if job.description %}
+									<p>{{ job.description | markdownify | strip_html | truncatewords:40 }}</p>
+								{% else %}
+									<p>{{ job.excerpt | strip_html | truncatewords:40 }}</p>
+								{% endif %}
+								<p>
+									<a class="button" href="{{ job.url }}">
+										Learn more <svg class="icon icon-arrow icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+									</a>
+								</p>
+							</div>
+						</div>
+					{% endfor %}
+				</div>
+			{% else %}
+				<p>There are currently no opportunities available. Please check back again soon.</p>
+			{% endif %}
+		</div>
+	</div>
+</section>
