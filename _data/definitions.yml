@@ -13,6 +13,6 @@ BOVS:
   Entity: Any legal construction that a Party could have an interest in, such as a Company, Trust, Partnership, Contract, etc.
   Organisation: Any incorporated entity such as a limited company, public company or charity.
   Trust: A legal arrangement or relationship in which a person or entity (“trustee”) owns and manages property or assets, entrusted by a person or legal entity (“settlor”), not for their own use and benefit, but with a fiduciary responsibility to act for the benefit of persons or entities specified (“beneficiaries”), as described under the terms of the trust (e.g. a trust deed).
-  LegalArrangement: A legal arrangement is a vehicle created between parties, associating one or more natural or legal persons together in an ownership or control relationship, which lacks separate legal personality, such as a trust or certain types of partnerships.
+  Arrangement: A legal arrangement is a vehicle created between parties, associating one or more natural or legal persons together in an ownership or control relationship, which lacks separate legal personality, such as a trust or certain types of partnerships.
   Distance: The Distance between two Nodes is the length of the shortest Chain that connects them. The length of a Chain is the number of Arrows that are present in it. Two parties are 'distant' if the Chain connecting them has a length greater than 1.
   Direct: A Party has a Direct interest in another if the Distance between them is 1. Otherwise the interest is Indirect.
