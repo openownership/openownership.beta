@@ -72,7 +72,7 @@ So, for instance, a valid set of Identifiers might be:
 
 ![Assets in a BOVS Diagram](/visualisation/diagrams/bovs-core-assets.png){: style="width: 62.5%" }
 
-A special type of node can be used to identify an Asset that a Party has an interest in. Assets are things that can be owned or controlled, but which themselves cannot own or control anything. For instance, someone might own an expensive property.
+A special type of node can be used to identify an Asset that a Party has an interest in. Assets are items of property owned by a person or company, regarded as having economic value. For instance, bank accounts and real estate are assets.
 
 Asset Nodes can only ever appear at the end of an interest chain. No interest Arrows can proceed from them.
 
