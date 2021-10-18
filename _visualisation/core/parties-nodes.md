@@ -78,7 +78,7 @@ Asset Nodes can only ever appear at the end of an interest chain. No interest Ar
 
 Asset Nodes are drawn using an equilateral diamond rather than a circle, and illustrated with the [Asset icon](/visualisation/core/vocabulary).
 
-Assets are not currently defined as an entity in BODS.
+Assets are not currently defined as Entities in the Beneficial Ownership Data Standard (BODS).
 
 
 *[Nodes]: {{ site.data.definitions.BOVS.Node }}
