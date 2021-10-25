@@ -7,7 +7,7 @@ categories:
 tags:
 - beneficial ownership
 - FATF
-image: "/uploads/kostiantyn-li-1sCXwVoqKAw-unsplash.jpg"
+image: "/uploads/FATF_R24.png"
 description: 'Open Ownership welcomes the proposed changes to R24 which bring the
   FATF Recommendations a few steps closer to the Open Ownership Principles, the gold
   standard for effective beneficial ownership disclosure. However, they are not there
