@@ -48,7 +48,7 @@ Implementers can also mitigate potential negative effects arising from the publi
 
 > ##### Resources
 > 
-> For further discussion on the benefits of publishing BO data, and strategies for mitigating any potential negative effects, please see the OO briefings on [Making central beneficial ownership registers public](/uploads/OO%20Public%20Access%20Briefing.pdf) and [Data protection and privacy in beneficial ownership disclosure](/uploads/oo-data-protection-and-privacy-188205.pdf).
+> For further discussion on the benefits of publishing BO data, and strategies for mitigating any potential negative effects, please see the OO briefings on [Making central beneficial ownership registers public](/uploads/OO%20Public%20Access%20Briefing.pdf) and [Data protection and privacy in beneficial ownership disclosure](/uploads/oo-data-protection-and-privacy-188205.pdf). For more on how to balance public interest and privacy concerns in the case of trusts, please see the OO briefing [Beneficial ownership transparency of trusts](/resources/beneficial-ownership-transparency-of-trusts).
 >
 > For case studies of the emerging impact of public registers, see the OO impact stories [Early impacts of public registers of beneficial ownership: Slovakia](/uploads/slovakia-impact-story.pdf) and [United Kingdom](/uploads/OO%20Impact%20Story%20UK.pdf).
 {: .resources-box }
