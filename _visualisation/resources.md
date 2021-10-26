@@ -17,7 +17,7 @@ The BOVS icons are released under a Creative Commons Zero (CC0) licence, that is
 | **SVG**    | [Download](/visualisation/resources/bovs-svg.zip){: .button }
 {: .unstriped }
 
-The icons are provided with clear space such that a circle drawn in the same dimensions will proportionally enclose the icon.
+The icons are provided with clear space such that a circle or diamond drawn in the same dimensions will proportionally enclose the icon.
 
 In addition to the icons for the BOVS [Vocabulary](/visualisation/core/vocabulary) (known and unknown variants), the icon pack includes icons representing "Interests" in the abstract. This may be useful for your other design work related to beneficial ownership, but is not strictly part of BOVS itself.
 

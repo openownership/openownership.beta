@@ -5,10 +5,10 @@ categories:
 - blogs
 tags:
 - EITI
-- OpeningExtractives
 - oil
 - gas
 - mining
+- Opening Extractives
 image: "/uploads/bart-van-dijk-DqGIaY0K08o-unsplash.jpg"
 author: Tymon Kiepe and Ines Schjolberg Marques
 is_featured: true

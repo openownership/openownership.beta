@@ -8,7 +8,7 @@ layout: default
   <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
     <div class="small-12 medium-10 cell" cell">
       <h1>{{ page.title }}</h1>
-      {% assign description = page.description | strip_newlines %}
+      {% assign description = page.description | markdownify | strip_html | strip | markdownify %}
       {% unless description == ""  %}
         <p>{{description}}</p>
       {% endunless %}

@@ -41,6 +41,7 @@ defaults:
     image: 
     description: 
     author: 
+    expiry_date: 
     is_featured: false
     layout: post
     permalink: "/:categories/:title/"
