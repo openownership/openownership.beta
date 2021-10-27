@@ -9,6 +9,7 @@ description: Open Ownership is looking to recruit a part-time senior software en
   the Global Open Ownership Register (GOOR), our transnational prototype beneficial
   ownership register.
 author: Open Ownership
+expiry_date: 2021-10-27 13:05:00 Z
 is_featured: true
 ---
 
