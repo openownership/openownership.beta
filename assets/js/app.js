@@ -501,8 +501,8 @@ $(function(){
   });
 
   // Modal setup function below actually fired by GTM (so controllable outside of this script)
-  dataLayer.push({'event': 'mc_embed_signup_popup_ready'});
   console.log('Awaiting GTM to trigger modal setup...');
+  dataLayer.push({'event': 'mc_embed_signup_popup_ready'});
 
 });
 
