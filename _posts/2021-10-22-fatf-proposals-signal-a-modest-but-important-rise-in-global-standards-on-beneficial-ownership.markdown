@@ -3,7 +3,7 @@ title: FATF proposals signal a modest but important rise in global standards on 
   ownership
 date: 2021-10-22 11:08:00 Z
 categories:
-- News
+- blogs
 tags:
 - beneficial ownership
 - FATF
