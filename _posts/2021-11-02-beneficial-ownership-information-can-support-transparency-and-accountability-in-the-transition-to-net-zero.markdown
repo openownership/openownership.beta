@@ -42,4 +42,4 @@ Finally, the fiscal resources that will be devoted to tackling the climate crisi
 
 Beneficial ownership information can make extensive spending like this more effective and fair. BOT ensures that any government spending [delivers value for money for taxpayers](/resources/beneficial-ownership-data-in-procurement/) by fostering competition and preventing corruption and fraud. It also serves as a means of verification for preferential procurement, a policy instrument that can support a more just transition. These are key starting points for building toward a resilient and transparent energy future.
 
-If you would like to discuss these topics, please contact the authors [Alanna Merkle](mailto:Alanna@openownership.org) and [Tymon Kiepe](mailto:Tymon@openownership.org). You can also [follow Open Ownership on Twitter](https://twitter.com/openownership).
+If you would like to discuss these topics, please contact the authors [Alanna Markle](mailto:Alanna@openownership.org) and [Tymon Kiepe](mailto:Tymon@openownership.org). You can also [follow Open Ownership on Twitter](https://twitter.com/openownership).
