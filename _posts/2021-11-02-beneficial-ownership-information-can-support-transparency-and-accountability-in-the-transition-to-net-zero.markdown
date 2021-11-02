@@ -3,7 +3,10 @@ title: Beneficial ownership information can support transparency and accountabil
   in the transition to net zero
 date: 2021-11-02 09:00:00 Z
 categories:
-- news
+- blogs
+tags:
+- cop26
+- climate
 image: "/uploads/2021-11-02-cop26-thumbnail.jpg"
 author: Alanna Markle and Tymon Kiepe
 is_featured: true
