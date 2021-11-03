@@ -1,6 +1,7 @@
 ---
 title: Jobs
 date: 2019-08-23 13:18:00 Z
+layout: jobs
 description: Open Ownership's current job openings
 layout: jobs
 ---
