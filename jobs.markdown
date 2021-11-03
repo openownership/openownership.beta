@@ -3,7 +3,6 @@ title: Jobs
 date: 2019-08-23 13:18:00 Z
 layout: jobs
 description: Open Ownership's current job openings
-layout: jobs
 ---
 
 Over 110 countries have committed to beneficial ownership transparency. More and more governments want to bring the real owners of companies into the open.
