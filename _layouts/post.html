@@ -2,21 +2,28 @@
 layout: default
 ---
 
+{% assign cat = page.categories[0] | slugify %}
+
 <!-- Post Title -->
 <!-- This should match _includes/blocks/title.html -->
 <section class="grid-container">
   <div class="grid-x grid-padding-x grid-padding-y page__title border-bottom">
     <div class="small-12 medium-10 cell" cell">
       <h1>{{ page.title }}</h1>
-      {% assign description = page.description | markdownify | strip_html | strip | markdownify %}
-      {% unless description == ""  %}
-        <p>{{description}}</p>
-      {% endunless %}
+      {% if cat == 'jobs' and page.expiry_date < site.time %}
+        <p class="secondary-background callout">This vacancy is no longer open for applications.</p>
+      {% else %}
+        {% assign description = page.description | markdownify | strip_html | strip | markdownify %}
+        {% unless description == ""  %}
+          <p>{{description}}</p>
+        {% endunless %}
+      {% endif %}
       <p>
         {% include blocks/categories.html categories=page.categories %}
       </p>
       <p class="medium-gray">
         {% if page.author %}{{ page.author }} · {% endif %}{{ page.date | date: site.date_format }}
+        {% if cat == 'jobs' and page.expiry_date < site.time %} &middot; Expired on {{ page.expiry_date | date: site.date_format }}{% endif %}
       </p>
     </div>
   </div>
