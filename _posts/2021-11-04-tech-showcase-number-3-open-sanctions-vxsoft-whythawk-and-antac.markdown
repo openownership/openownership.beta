@@ -16,7 +16,7 @@ Open Ownership's third technology showcase took place on 3 November 2021 featuri
 
 Our [technology showcases](https://youtube.com/playlist?list=PLQZZJO_w_YX2M2_nl1CsOFTNbURNY0TIJ) highlight digital tools that improve transparency of company ownership and control by inviting people from a range of organisations to share updates through a series of lightning talks.
 
-Watch the [full video on YouTube](https://www.youtube.com/watch?v=kZQJiaJNkuw) or click on the names of the speakers below to go straight to the start of their presentations.
+Watch the [full video on YouTube](https://www.youtube.com/watch?v=kZQJiaJNkuw) or click on the names of the speakers below to go straight to the start of their presentations:
 
 [Friedrich Lindenberg](https://www.youtube.com/watch?v=kZQJiaJNkuw&t=174s), [Open Sanctions](https://opensanctions.org/)
 
