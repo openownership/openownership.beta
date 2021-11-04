@@ -18,7 +18,7 @@ Our [technology showcases](https://youtube.com/playlist?list=PLQZZJO_w_YX2M2_nl1
 
 Watch the [full video on YouTube](https://www.youtube.com/watch?v=kZQJiaJNkuw) or click on the names of the speakers below to go straight to the start of their presentations:
 
-https://www.youtube.com/watch?v=kZQJiaJNkuw
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZQJiaJNkuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1) [Friedrich Lindenberg](https://www.youtube.com/watch?v=kZQJiaJNkuw&t=174s), [Open Sanctions](https://opensanctions.org/)
 
