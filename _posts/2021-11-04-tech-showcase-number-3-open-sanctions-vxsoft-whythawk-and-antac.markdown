@@ -18,6 +18,8 @@ Our [technology showcases](https://youtube.com/playlist?list=PLQZZJO_w_YX2M2_nl1
 
 Watch the [full video on YouTube](https://www.youtube.com/watch?v=kZQJiaJNkuw) or click on the names of the speakers below to go straight to the start of their presentations:
 
+https://www.youtube.com/watch?v=kZQJiaJNkuw
+
 ![Friedrich Lindenberg.png](/uploads/Friedrich%20Lindenberg.png)1) [Friedrich Lindenberg](https://www.youtube.com/watch?v=kZQJiaJNkuw&t=174s), [Open Sanctions](https://opensanctions.org/)
 
 Friedrich created the [Aleph project](https://docs.alephdata.org/) which helps investigative journalists securely access and search large amounts of data. He spent five years with the [Organised Crime and Corruption Project](https://www.occrp.org/en) as their data team lead. He’s now developing [Open Sanctions](https://opensanctions.org/), an international database of persons and companies of political, criminal, or economic interest.
