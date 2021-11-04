@@ -2,17 +2,17 @@
 title: Data
 date: 2019-02-16 00:05:00 Z
 position: 4
-layout: guide-page
-description: 'In this section, the following will be examined: how to scope out the
-  information collected within declarations; how to implement mechanisms to improve
-  data quality according to the OO Principle of [verification](/principles/verification/);
-  and the importance of standardised, well-[structured data](/principles/structured-data/).
-  OO has also developed a prototyping tool for a basic system for collecting BO data.'
 principles:
 - Verification
 - Structured data
 - Comprehensive coverage
 - Sufficient detail
+description: 'In this section, the following will be examined: how to scope out the
+  information collected within declarations; how to implement mechanisms to improve
+  data quality according to the OO Principle of [verification](/principles/verification/);
+  and the importance of standardised, well-[structured data](/principles/structured-data/).
+  OO has also developed a prototyping tool for a basic system for collecting BO data.'
+layout: guide-page
 ---
 
 ## What information to collect
@@ -34,6 +34,8 @@ Once there is clarity on each of these points, the information disclosed should 
 It is important to check that enough information is collected about how a company is owned and controlled, even where its declaration is looked at in isolation. [Sufficient detail](/principles/sufficient-detail/) about intermediate entities (those that sit between beneficial owners and declaring companies when ownership or control is exercised indirectly) should be collected. This means that a declaring company might also feature as an intermediary in other declarations. OO recommends using company identifiers to ensure information disclosed in different companies’ declarations can be brought together to aid understanding and analysis. That way, it will be apparent when the same company appears in two different declarations, even if the names do not match (due to misspellings or the use of acronyms).
 
 Similarly, it is worth considering how BO data will be used with other types of information; for example, legal ownership information from an existing company register. This involves checking the needs of data users and considering information flow (see the [Systems](/guide/systems) section). Any implications for data collection need to be flagged early in the implementation process.
+
+The [OO beneficial ownership disclosure workbook](https://www.openownership.org/resources/beneficial-ownership-disclosure-workbook/) illustrates a series of fictional company ownership structures, and is designed to help implementers explore the extent of information to be disclosed in different ownership declarations.
 
 ## Structuring and standardising data
 
