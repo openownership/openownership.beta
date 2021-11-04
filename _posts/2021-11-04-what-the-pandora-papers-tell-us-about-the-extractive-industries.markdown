@@ -1,11 +1,14 @@
 ---
 title: What the Pandora Papers tell us about the extractive industries
-date: 2021-11-02 14:59:00 Z
+date: 2021-11-04 09:00:00 Z
 categories:
 - blogs
 tags:
 - Pandora Papers
 - Opening Extractives
+image: "/uploads/2021-11-04-pandora-extractives.jpg"
+author: Open Ownership and EITI
+is_featured: true
 ---
 
 In October 2021, the [International Consortium of Investigative Journalists](https://www.icij.org/investigations/paradise-papers/) (ICIJ) revealed a new major leak containing more than 11.9 million documents from the databases of 14 corporate service providers that set up and manage shell companies and trusts in financial secrecy jurisdictions around the globe.
