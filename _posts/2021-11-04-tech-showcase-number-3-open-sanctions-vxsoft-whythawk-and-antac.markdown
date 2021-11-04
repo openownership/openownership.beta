@@ -12,7 +12,7 @@ author: Stephen Abbott Pugh
 is_featured: true
 ---
 
-Open Ownership's third technology showcase took place on 3 November 2021 featuring speakers from [Open Sanctions](https://opensanctions.org/), [VXSoft](https://www.vxsoft.com/en/), [Whythawk](https://whythawk.com/) and the[Anticorruption Action Centre](https://antac.org.ua/en/) from Ukraine.
+Open Ownership's third technology showcase took place on 3 November 2021 featuring speakers from [Open Sanctions](https://opensanctions.org/), [VXSoft](https://www.vxsoft.com/en/), [Whythawk](https://whythawk.com/) and the [Anticorruption Action Centre](https://antac.org.ua/en/) from Ukraine.
 
 Our [technology showcases](https://youtube.com/playlist?list=PLQZZJO_w_YX2M2_nl1CsOFTNbURNY0TIJ) highlight digital tools that improve transparency of company ownership and control by inviting people from a range of organisations to share updates through a series of lightning talks.
 
