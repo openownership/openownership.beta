@@ -1,6 +1,8 @@
 ---
 title: 'Tech showcase #3 - Open Sanctions, VXSoft, Whythawk and ANTAC'
 date: 2021-11-04 07:26:00 Z
+categories:
+- blogs
 tags:
 - Tech Showcase
 image: "/uploads/Tech%20Showcase%2003%20Wide%20(1).jpg"
