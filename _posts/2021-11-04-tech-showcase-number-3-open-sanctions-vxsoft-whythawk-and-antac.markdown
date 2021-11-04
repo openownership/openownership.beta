@@ -1,5 +1,5 @@
 ---
-title: 'Tech showcase #3 - Open Sanctions, VXSoft, Whythawk and ANTAC'
+title: 'Tech showcase #3 - Open Sanctions, VXSoft, Whythawk and AntAC'
 date: 2021-11-04 07:26:00 Z
 categories:
 - blogs
@@ -32,6 +32,6 @@ Ruben is the founder and chief technology officer of [VXSoft](https://www.vxsoft
 
 Gavin is an open data scientist and lead consultant for [Whythawk](https://whythawk.com/). He showcased work to explain how he [combined](https://whyqd.readthedocs.io/en/latest/) UK property data with beneficial ownership data from the Open Ownership Register after [importing data into a Neo4j graph database](https://github.com/turukawa/coding-notes/blob/master/Open%20Ownership%20and%20Neo4j%20Setup.ipynb).
 
-4) [Antonina Volkotrub](https://www.youtube.com/watch?v=kZQJiaJNkuw&t=5082s), [ANTAC](https://antac.org.ua/en/)
+4) [Antonina Volkotrub](https://www.youtube.com/watch?v=kZQJiaJNkuw&t=5082s), [AntAC](https://antac.org.ua/en/)
 
-Antonina is an analyst for Ukraine’s [Anticorruption Action Centre (ANTAC)](https://antac.org.ua/en/) which created and maintains an [open database](https://pep.org.ua/en/) of more that 47,000 politically exposed persons, their close associates and affiliated entities in Ukraine. She introduced us to their work, how they build the platform, and analysis and [investigations](https://project.liga.net/projects/beneficiar/index_en.html) that used the showcased data.
+Antonina is an analyst for Ukraine’s [Anticorruption Action Centre (AntAC)](https://antac.org.ua/en/) which created and maintains an [open database](https://pep.org.ua/en/) of more that 47,000 politically exposed persons, their close associates and affiliated entities in Ukraine. She introduced us to their work, how they build the platform, and analysis and [investigations](https://project.liga.net/projects/beneficiar/index_en.html) that used the showcased data.
