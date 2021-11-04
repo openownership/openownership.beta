@@ -4,12 +4,18 @@ date: 2021-11-04 07:26:00 Z
 tags:
 - Tech Showcase
 image: "/uploads/Tech%20Showcase%2003%20Wide%20(1).jpg"
+description: Watch Open Ownership's third technology showcase featuring digital tools
+  that improve transparency of company ownership and control
+author: Stephen Abbott Pugh
 is_featured: true
 ---
 
 Open Ownership's third technology showcase took place on 3rd November 2021 featuring speakers from [Open Sanctions](https://opensanctions.org/), [VXSoft](https://www.vxsoft.com/en/), [Whythawk](https://whythawk.com/) and the[Anticorruption Action Centre](https://antac.org.ua/en/) from Ukraine.
 
-Speakers:
+Our [technology showcases](https://youtube.com/playlist?list=PLQZZJO_w_YX2M2_nl1CsOFTNbURNY0TIJ) highlight digital tools that improve transparency of company ownership and control by inviting people from a range of organisations to share updates through a series of lightning talks.
+
+Watch the [full video on YouTube](https://www.youtube.com/watch?v=kZQJiaJNkuw) or click on the names of the speakers below to go straight to the start of their presentations.
+
 [Friedrich Lindenberg](https://www.youtube.com/watch?v=kZQJiaJNkuw&t=174s), [Open Sanctions](https://opensanctions.org/)
 
 Friedrich created the [Aleph project](https://docs.alephdata.org/) which helps investigative journalists securely access and search large amounts of data. He spent five years with the [Organised Crime and Corruption Project](https://www.occrp.org/en) as their data team lead. He’s now developing [Open Sanctions](https://opensanctions.org/), an international database of persons and companies of political, criminal, or economic interest.
