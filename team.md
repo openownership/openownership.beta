@@ -22,7 +22,7 @@ governance-text: |-
   fundraising and publicly champions BOT.
 partners-text: We work with partners worldwide in governments, businesses, civil society
   organisations, academia, and the media to bring ownership information into the open.
-funders-text: Open Ownership has received funding from the following institutions
+funders-text: 'Open Ownership has received funding from the following institutions '
 layout: connect
 ---
 
