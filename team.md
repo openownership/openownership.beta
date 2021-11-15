@@ -22,7 +22,7 @@ governance-text: |-
   fundraising and publicly champions BOT.
 partners-text: We work with partners worldwide in governments, businesses, civil society
   organisations, academia, and the media to bring ownership information into the open.
-funders-text: To see an overview of our funders, please [click here](https://www.openownership.org/funders).
+funders-text: 'To see an overview of our funders, please [click here](https://www.openownership.org/funders). '
 layout: connect
 ---
 
