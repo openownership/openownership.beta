@@ -1,8 +1,8 @@
 ---
 title: Team
 position: 4
-description: OpenOwnership thrives on collaboration with a diverse and global range
-  of people and organizations. If you want to know more about how OpenOwnership can
+description: Open Ownership thrives on collaboration with a diverse and global range
+  of people and organisations. If you want to know more about how Open Ownership can
   help you, please get in touch.
 governance-text: |-
   Open Ownership is a non-profit run by a small, expert team well positioned to

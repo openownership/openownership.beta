@@ -11,25 +11,25 @@ import requests
 from notion.store import RecordStore
 
 #### MONKEYPATCH client libary needs patching.
-def call_load_page_chunk(self, page_id):
+# def call_load_page_chunk(self, page_id):
 
-    if self._client.in_transaction():
-        self._pages_to_refresh.append(page_id)
-        return
+#     if self._client.in_transaction():
+#         self._pages_to_refresh.append(page_id)
+#         return
 
-    data = {
-        "pageId": page_id,
-        "limit": 100,  ## Monkey patch changes this number to 100
-        "cursor": {"stack": []},
-        "chunkNumber": 0,
-        "verticalColumns": False,
-    }
+#     data = {
+#         "pageId": page_id,
+#         "limit": 100,  ## Monkey patch changes this number to 100
+#         "cursor": {"stack": []},
+#         "chunkNumber": 0,
+#         "verticalColumns": False,
+#     }
 
-    recordmap = self._client.post("loadPageChunk", data).json()["recordMap"]
+#     recordmap = self._client.post("loadPageChunk", data).json()["recordMap"]
 
-    self.store_recordmap(recordmap)
+#     self.store_recordmap(recordmap)
 
-RecordStore.call_load_page_chunk = call_load_page_chunk
+# RecordStore.call_load_page_chunk = call_load_page_chunk
 #### END MONKEYPATCH
 
 load_dotenv()
