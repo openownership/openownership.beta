@@ -10,6 +10,9 @@ author: Open Ownership
 is_featured: true
 ---
 
+> **Photo**: Shows the Chairman, Secretary, and members of NEITI MSG at the Opening Extractives launch. From left to right: Mr Peter Ebule representing civil society groups on the NEITI board; Prof Damilola Olawuyi, representing south west zone on the NEITI board; Mr Olusegun Adeyemi Adekunle, Chairman of NEITI National Stakeholders Working Group (NSWG); Dr Oji Ogbonnaya Oji, Executive Secretary, NEITI; Dr Iliya Gashimbali representing North East zone on the NEITI Board.
+{: .aside }
+
 Nigeria officially launched the [Opening Extractives programme](https://youtu.be/RCUeu1F7mJE) on 9 November. Joining the programme shows Nigeria’s commitment to expand the frontiers of transparency and accountability by using beneficial ownership data to disclose the real owners of companies operating in the extractive sector.
 
 Nigeria has made great strides in implementing beneficial ownership transparency [since 2017](https://eiti.org/blog/nigerian-vice-president-yemi-osinbajos-address-in-jakarta). One of Nigeria’s recent accomplishments was the launch of the Persons of Significant Control register and, prior to this, developing Africa’s first [digital beneficial ownership register](https://bo.neiti.gov.ng/) for the extractives sector in 2019.
