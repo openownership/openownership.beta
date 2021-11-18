@@ -5,6 +5,7 @@ categories:
 - news
 tags:
 - Opening Extractives
+image: "/uploads/2021-11-18-oe-nigeria.jpg"
 author: Open Ownership
 is_featured: true
 ---
