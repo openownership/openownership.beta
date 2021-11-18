@@ -1,6 +1,10 @@
 ---
 title: Nigeria accelerates efforts in beneficial ownership transparency
 date: 2021-11-18 12:52:00 Z
+categories:
+- news
+tags:
+- Opening Extractives
 author: Open Ownership
 is_featured: true
 ---
