@@ -5,6 +5,7 @@ categories:
 - news
 tags:
 - Opening Extractives
+- Zambia
 image: "/uploads/2021-09-07-opening-extractives.jpg"
 author: Open Ownership
 is_featured: true
