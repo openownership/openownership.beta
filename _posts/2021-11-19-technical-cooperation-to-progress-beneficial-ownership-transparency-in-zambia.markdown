@@ -42,8 +42,10 @@ Zambia was the first country to confirm its participation in Opening Extractives
 
 ## For more information
 
-Ministry of Mines and Minerals Development:
+* Ministry of Mines and Minerals Development: [tabila.mazhamo@mmmd.gov.zm](mailto:tabila.mazhamo@mmmd.gov.zm)
 
-* Zambia EITI: <mutintahadunka@zambiaeiti.org>
+* Zambia EITI: [mutintahadunka@zambiaeiti.org](mailto:mutintahadunka@zambiaeiti.org)
+
 * Open Ownership: [Louise Russell-Prywata](mailto:louise@openownership.org)
-* EITI Secretariat: <nvera@eiti.org>
+
+* EITI Secretariat: [nvera@eiti.org](mailto:nvera@eiti.org)
