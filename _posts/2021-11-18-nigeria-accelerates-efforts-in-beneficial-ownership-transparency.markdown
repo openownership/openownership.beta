@@ -11,7 +11,7 @@ is_featured: true
 ---
 
 > **Photo**: Shows the Chairman, Secretary, and members of NEITI MSG at the Opening Extractives launch. From left to right: Mr Peter Ebule representing civil society groups on the NEITI board; Prof Damilola Olawuyi, representing south west zone on the NEITI board; Mr Olusegun Adeyemi Adekunle, Chairman of NEITI National Stakeholders Working Group (NSWG); Dr Oji Ogbonnaya Oji, Executive Secretary, NEITI; Dr Iliya Gashimbali representing North East zone on the NEITI Board.
-{: .aside }
+> {: .aside }
 
 Nigeria officially launched the [Opening Extractives programme](https://youtu.be/RCUeu1F7mJE) on 9 November. Joining the programme shows Nigeria’s commitment to expand the frontiers of transparency and accountability by using beneficial ownership data to disclose the real owners of companies operating in the extractive sector.
 
@@ -21,10 +21,12 @@ At the launch event, government representatives, civil society and companies aff
 
 Dr Ogbonnaya Orji, Executive Secretary of Nigeria EITI (NEITI), explained that secrecy in corporate ownership of assets in the extractive industries remains a clear danger to the country’s economy. As part of NEITI’s objectives, the programme would support the government’s anti-corruption agenda and help eliminate corruption by promoting transparency and accountability in the extractive industry.
 
-In a presentation on beneficial ownership transparency by the Nigeria Financial Intelligence Unit, Head of Mining, Oil and Maritime Crimes Analysis, Mr Abomanye Jeremiah Ushaka highlighted evidence that Nigeria has made positive efforts to ensure transparency in beneficial ownership. He acknowledged, however, that there is still room for improvement and that the implementation of Opening Extractives in Nigeria would be another leap in the right direction towards accessible quality beneficial ownership data.
+In a presentation on beneficial ownership transparency by the Nigerian Financial Intelligence Unit, Head of Mining, Oil and Maritime Crimes Analysis, Mr Abomaye Jeremiah Ushaka highlighted evidence that Nigeria has made positive efforts to ensure transparency in beneficial ownership. He acknowledged, however, that there is still room for improvement and that the implementation of Opening Extractives in Nigeria would be another leap in the right direction towards accessible quality beneficial ownership data.
 
-Alhaji Garba Abubakar of the Registrar General, Corporate Affairs Commission, delivered a presentation on the status of beneficial ownership implementation, underscoring that companies must know the real owners and beneficiaries of the companies with whom they are dealing to ensure compliance with the law. NEITI Technical Director, Dr Dieter Ahmed Bassi, noted that beneficial ownership data can be used as a tool for building business confidence, attracting investments and good governance of natural resources.
+Mr Alhaji Abdul Hakeem Mohammed, Director of Compliance and delegate of the Registrar General of the Corporate Affairs Commission, delivered a presentation on the status of beneficial ownership implementation, underscoring that companies must know the real owners and beneficiaries of the companies with whom they are dealing to ensure compliance with the law. NEITI Technical Director, Dr Dieter Ahmed Bassi, noted that beneficial ownership data can be used as a tool for building business confidence, attracting investments and good governance of natural resources.
 
-Companies joined their efforts to those of NEITI through statements of support, including from Seplat Petroleum Development Company Plc, Oil Producers Trade Section and Nigeria Upstream Petroleum Regulatory Commission, whose representatives affirmed that Opening Extractives will further foster accountability and integrity in the extractives industry.
+Companies, private industry groups and key implementing agencies joined their efforts to those of NEITI through statements of support, including Seplat Petroleum Development Company Plc, Oil Producers Trade Section and Nigerian Upstream Petroleum Regulatory Commission, whose representatives affirmed that Opening Extractives will further foster accountability and integrity in the extractives industry.
 
-As next steps NEITI aims to work with key stakeholders in finalising the Opening Extractives engagement plan. It will also aim to re-engage civil society and to progress beneficial ownership reforms in a way that integrates the efforts of government, companies and civil society stakeholders in the implementation journey.
+As next steps, NEITI aims to work with key stakeholders in finalising the Opening Extractives engagement plan. It also aims to re-engage civil society and to progress beneficial ownership reforms in a way that integrates the efforts of government, companies and civil society stakeholders in the implementation journey.
+
+For more information, contact Favour Ime, Regional Associate, Africa, on favour@openownership.org
