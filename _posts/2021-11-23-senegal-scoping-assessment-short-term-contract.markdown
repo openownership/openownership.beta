@@ -20,6 +20,10 @@ Due to the short timeframe, we will accept applications on an ongoing basis unti
 
 ## Français
 
+En collaboration avec l’Initiative pour la transparence dans les industries extractives (ITIE), OO a récemment lancé Opening Extractives, un ambitieux programme mondial visant à transformer la disponibilité et l’utilisation des informations sur la propriété effective pour une gouvernance efficace dans le secteur extractif (mines, pétrole et gaz).
+
 Nous recherchons un consultant à court terme, soit une organisation soit un consultant indépendant, pour mener des recherches documentaires, des entretiens, et développer une étude de cadragequi permettra d’identifier les opportunités concrètes pour l’initiative Open Ownership (OO) et l’Initiative pour la Transparence dans les Industries Extractives (ITIE) afin de fournir une assistance technique favorisant la transparence des bénéficiaires effectifs au Sénégal.
+
+En raison du court délai, nous accepterons les candidatures de manière continue jusqu’à ce qu’un contractant soit désigné. À ce moment là, nous retirerons l’annonce.
 
 [Voir les termes de référence et postuler](/uploads/oo-job-senegal-scoping-assessment-fr-2021-11.pdf)
