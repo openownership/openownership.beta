@@ -1,0 +1,14 @@
+---
+title: Project Coordinator (South Africa) – Short term contract
+date: 2021-11-25 11:54:00 Z
+categories:
+- jobs
+author: Open Ownership
+expiry_date: 2021-12-10 23:59:00 Z
+---
+
+Open Ownership is delivering a short 9-month project in South Africa focused on providing bespoke beneficial ownership advice/technical guidance beneficial ownership implementation.
+
+To support the work in South Africa, we are seeking a short-term contractor, either an organisation or an independent consultant, to provide in-country project coordination support, which will include stakeholder mapping, conducting desk research, and providing input into policy submissions. The contractor will also  be expected to secure, arrange, and attend meetings with government, civil society, and other stakeholders, and provide logistical and administrative support for the planned activities and workshops.
+
+[View Terms of Reference and Apply](/uploads/oo-vacancy-south-africa-coordinator-2021-11.pdf)
