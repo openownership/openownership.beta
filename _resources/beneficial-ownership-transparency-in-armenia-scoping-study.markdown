@@ -8,7 +8,7 @@ tags:
 position: 21
 resource_type: Reports
 files:
-  en: "/uploads/armenia-scoping-report.pdf"
+  en: "/uploads/oo-report-armenia-scoping-report-2020-08.pdf"
 thumbnail-image: "/uploads/armenia-scoping-report.jpg"
 author: Peter Low, Kadie Armstrong, Louise Russell-Prywata
 is_featured: false

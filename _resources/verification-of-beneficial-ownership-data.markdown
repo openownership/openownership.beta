@@ -9,9 +9,9 @@ tags:
 position: 29
 resource_type: Briefings
 files:
-  en: "/uploads/OpenOwnership%20Verification%20Briefing.pdf"
-  es: "/uploads/verification-briefing-spanish.pdf"
-  id: "/uploads/Risalah%20kebijakan_%20Verifikasi%20data%20kepemilikan%20manfaat.pdf"
+  en: "/uploads/oo-briefing-verification-briefing-2020-05.pdf"
+  es: "/uploads/oo-informes de políticas-verificacion-de-los-datos-sobre-beneficiarios-finales-2020-06.pdf"
+  id: "/uploads/oo-risalah-verifikasi-data-kepemilikan-manfaat-2021-06.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
 is_featured: true

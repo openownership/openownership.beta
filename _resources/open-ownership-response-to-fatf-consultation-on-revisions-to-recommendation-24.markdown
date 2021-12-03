@@ -5,7 +5,7 @@ date: 2021-08-23 09:42:00 Z
 categories:
 - Research and policy
 files:
-  en: "/uploads/20210810_FATF_Rec24_Consultation_Response.pdf"
+  en: "/uploads/oo-consultation-response-fatf-24-2021-08.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/2021-08-10-fatf-response-thumbnail.jpg"
 resource_type: Consultations

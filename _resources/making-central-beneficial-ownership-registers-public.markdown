@@ -9,8 +9,8 @@ tags:
 - Privacy
 resource_type: Briefings
 files:
-  en: "/uploads/OO%20Public%20Access%20Briefing.pdf"
-  es: "/uploads/OO%20Public%20Access%20Briefing%20ES.pdf"
+  en: "/uploads/oo-briefing-public-access-briefing-2021-05.pdf"
+  es: "/uploads/oo-informes de politicas-publicacion-de-los-registros-centrales-2021-07.pdf"
 author: Tymon Kiepe
 thumbnail-image: "/uploads/oo-public-access-briefing-thumbnail.jpg"
 is_featured: true

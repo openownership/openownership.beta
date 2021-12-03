@@ -7,7 +7,7 @@ categories:
 position: 19
 resource_type: Consultations
 files:
-  en: "/uploads/oo-response-to-corporate-transparency-and-register-reform-consultation.pdf"
+  en: "/uploads/oo-consultation-response-beis-consultation-2019-08.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-response-to-corporate-transparency-and-register-reform-consultation.jpg"
 is_featured: false

@@ -4,7 +4,7 @@ date: 2019-05-20 00:00:00 Z
 published: false
 position: 3
 files:
-  en: "/uploads/oo-implementation-guide-booklet-68508a.pdf"
+  en: "/uploads/oo-implementation-guide-booklet-2019-05.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-implementation-guide-image.JPG"
 resource_type: Summaries & Factsheets

@@ -9,7 +9,7 @@ tags:
 position: 20
 resource_type: Consultations
 files:
-  en: "/uploads/oo-response-to-british-columbia-consultation.pdf"
+  en: "/uploads/oo-consultation-response-british-columbia-consultation-2020-03.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-response-to-british-columbia-consultation.jpg"
 is_featured: false

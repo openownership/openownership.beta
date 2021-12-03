@@ -16,8 +16,8 @@ description: This report summarizes findings from Open Ownership’s scoping vis
   recommendations in this report will also be relevant to other EITI countries implementing
   beneficial ownership transparency commitments in line with the EITI Standard.
 files:
-  en: "/uploads/opo-kyrgyz-republic-scoping-report.pdf"
-  ru: "/uploads/opo-kyrgyz-republic-scoping-report-russian.pdf"
+  en: "/uploads/oo-report-kyrgyz-republic-report-2019-03.pdf"
+  ru: "/uploads/oo-otchyot-otchet-kyrgyzskoj-respubliki-2019-03.pdf"
 author: 'Louise Russell-Prywata, Jack Lord '
 thumbnail-image: "/uploads/opo-kyrgyz-republic-scoping-report.jpg"
 is_featured: false

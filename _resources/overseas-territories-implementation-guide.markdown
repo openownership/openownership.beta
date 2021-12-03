@@ -3,7 +3,7 @@ title: Overseas Territories Implementation Guide
 date: 2021-03-25 12:53:00 Z
 published: false
 files:
-  en: "/uploads/OO%20Implementation%20Guide%20OT.pdf"
+  en: "/uploads/oo-overseas-territories-implementation-guide-2021-03.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-implementation-guide-ot-thumbnail.jpg"
 resource_type: tools

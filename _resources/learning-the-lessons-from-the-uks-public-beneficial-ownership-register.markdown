@@ -8,7 +8,7 @@ tags:
 position: 9
 resource_type: Case studies
 files:
-  en: "/uploads/learning-the-lessons.pdf"
+  en: "/uploads/oo-case-study-learning-the-lessons-from-the-uks-public-beneficial-ownership-register-2017-11.pdf"
 author: OpenOwnership and Global Witness
 thumbnail-image: "/uploads/learning-lessons-doc.jpg"
 is_featured: false

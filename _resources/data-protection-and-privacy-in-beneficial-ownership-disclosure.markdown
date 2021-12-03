@@ -17,7 +17,7 @@ description: This is a research report from Open Ownership, The B Team and The E
   that information and the authorities requiring it to be disclosed publicly, and
   the relationship with data protection and privacy laws.
 files:
-  en: "/uploads/oo-data-protection-and-privacy-188205.pdf"
+  en: "/uploads/oo-report-data-protection-and-privacy-2019-05.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/Cover.JPG"
 is_featured: false
