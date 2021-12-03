@@ -75,5 +75,5 @@ It is useful to adopt an agile approach to development. Whilst it is appealing t
 
 > ##### Resources
 > 
-> See the working paper [Effective consultation processes for beneficial ownership transparency reform](/uploads/open-ownership-effective-consultation-processes-for-bot.pdf) for techniques that can be used at this stage of implementation. OO’s [Beneficial ownership declaration forms: A guide for regulators and designers](https://docs.google.com/document/d/1VnuRYluq1NBKLJtnqTCtaaBk8kNQ8K6Xypvke08_PNY/edit#heading=h.tyjcwt) offers advice on data collection and building usable forms.
+> See the working paper [Effective consultation processes for beneficial ownership transparency reform](/uploads/oo-guidance-effective-consultation-process-for-bot-2020-06.pdf) for techniques that can be used at this stage of implementation. OO’s [Beneficial ownership declaration forms: A guide for regulators and designers](https://docs.google.com/document/d/1VnuRYluq1NBKLJtnqTCtaaBk8kNQ8K6Xypvke08_PNY/edit#heading=h.tyjcwt) offers advice on data collection and building usable forms.
 {: .resources-box }
