@@ -30,7 +30,7 @@ The private sector voice for change is loud and growing and in day two of this j
 
 ### Winning the argument
 
-Political commitment and powerful voices for change are welcome but we cannot rest on our laurels because we haven’t yet convincingly, irrevocably won the argument that [open](https://www.openownership.org/uploads/briefing-on-beneficial-ownership-as-open-data.pdf) registers are the best way to use this data to meet the challenges our societies face. No one disagrees that beneficial ownership data is valuable, but we are unequivocal about why open registers create more effective economies, reduce friction in trade and are the best way to use this beneficial ownership data to tackle corruption and deliver improved accountability. We will continue to demonstrate why this is the case by delivering high-quality data through our open register, showing how open delivers real benefits and supporting more countries to publish.
+Political commitment and powerful voices for change are welcome but we cannot rest on our laurels because we haven’t yet convincingly, irrevocably won the argument that [open](https://www.openownership.org/uploads/oo-case-for-open-data-2019-08.pdf) registers are the best way to use this data to meet the challenges our societies face. No one disagrees that beneficial ownership data is valuable, but we are unequivocal about why open registers create more effective economies, reduce friction in trade and are the best way to use this beneficial ownership data to tackle corruption and deliver improved accountability. We will continue to demonstrate why this is the case by delivering high-quality data through our open register, showing how open delivers real benefits and supporting more countries to publish.
 
 ### Creating more allies
 
@@ -42,7 +42,7 @@ OpenOwnership will be exploring how data about who controls and benefits from co
 
 ### Deepening our expertise
 
-As well as this, we’ll continue to do the hard policy thinking around issues that support our work including how we can best [verify](https://www.openownership.org/uploads/oo-verification-presentation.pdf) beneficial ownership data, improve [data quality](https://www.openownership.org/uploads/oo-characteristics-effective-bo-data.pdf) and [respect privacy](https://www.openownership.org/uploads/oo-data-protection-and-privacy-188205.pdf) while delivering the clear public good that comes from open data publication.
+As well as this, we’ll continue to do the hard policy thinking around issues that support our work including how we can best [verify](https://www.openownership.org/uploads/oo-verification-presentation-2019-08.pdf) beneficial ownership data, improve [data quality](https://www.openownership.org/uploads/oo-characteristics-effective-bo-data.pdf) and [respect privacy](https://www.openownership.org/uploads/oo-report-data-protection-and-privacy-2019-05.pdf) while delivering the clear public good that comes from open data publication.
 
 ### Preparing to scale
 

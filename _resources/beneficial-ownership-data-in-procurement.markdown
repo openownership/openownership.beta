@@ -10,9 +10,9 @@ tags:
 position: 1
 resource_type: Briefings
 files:
-  en: "/uploads/OO%20BO%20Data%20in%20Procurement.pdf"
-  es: "/uploads/OPO%20Procurement%20Paper%20ES.pdf"
-  id: "/uploads/Kepemilikan%20manfaat%20di%20pengadaan.pdf"
+  en: "/uploads/oo-briefing-bo-data-in-procurement-2021-03.pdf"
+  es: "/uploads/oo-informes-de-politicas-los-datos-sobre-los-beneficiarios-finales-en-el-contexto-de-las-adquisiciones-2021-06.pdf"
+  id: "/uploads/oo-risalah-data-kepemilikan-manfaat-di-pengadaan-2021-06.pdf"
 author: Eva Okunbor and Tymon Kiepe
 thumbnail-image: "/uploads/OO%20BO%20Data%20in%20Procurement%20Thumbnail.jpg"
 is_featured: true

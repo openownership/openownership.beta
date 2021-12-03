@@ -6,7 +6,7 @@ categories:
 tags:
 - Nigeria
 files:
-  en: "/uploads/case-study-nigeria-sep-2021.pdf"
+  en: "/uploads/oo-case-study-transforming-procurement-systems-in-nigeria-2021-09.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/case-study-nigeria-thumbnail.jpg"
 resource_type: Case studies

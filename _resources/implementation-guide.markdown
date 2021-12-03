@@ -9,8 +9,8 @@ tags:
 position: 23
 description: A step-by-step guide to implementing beneficial ownership transparency.
 files:
-  en: "/uploads/OO_Implementation_Guide.pdf"
-  es: "/uploads/OO_Implementation_Guide_ES.pdf"
+  en: "/uploads/oo-guidance-implementation-guide-2021-07.pdf"
+  es: "/uploads/oo-guidas-guia-de-implementacion-2021-08.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/implementation-guide-thumbnail-b74fc8.jpg"
 resource_type: Guidance

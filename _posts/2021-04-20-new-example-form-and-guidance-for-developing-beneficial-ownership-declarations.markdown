@@ -10,7 +10,7 @@ author: Peter Low
 is_featured: true
 ---
 
-To help jurisdictions create practical and effective systems for collecting their beneficial ownership (BO) data, Open Ownership (OO) has published a new [guide to BO form development](https://www.openownership.org/uploads/boform-notes.pdf). This includes an [example form](https://docs.google.com/spreadsheets/d/1oPJpRserD8AQAii1pRmrfpKekVqgwpM6Dl-kfybpD3o/edit#gid=1777743984) that addresses some of the key challenges implementers face. 
+To help jurisdictions create practical and effective systems for collecting their beneficial ownership (BO) data, Open Ownership (OO) has published a new [guide to BO form development](https://www.openownership.org/uploads/oo-guidance-bo-declaration-forms-guide-for-regulators-and-designers-2021-03.pdf). This includes an [example form](https://docs.google.com/spreadsheets/d/1oPJpRserD8AQAii1pRmrfpKekVqgwpM6Dl-kfybpD3o/edit#gid=1777743984) that addresses some of the key challenges implementers face. 
 
 Designing good quality forms that ease the collection of accurate data on exactly which individuals ultimately own or control companies is a complicated enterprise. In part, this is because of the inherent challenges involved in representing complex company ownership structures in text fields rather than, for example, as a diagram. Moreover, as forms need to be adapted to local legislation, requirements, and company profiles, it is challenging for implementers to use forms from other jurisdictions as  good practice templates. 
 

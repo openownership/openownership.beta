@@ -56,6 +56,6 @@ OO helps countries generate high quality data on company ownership that complies
 
 Since 2017, OO has worked with almost [40 countries](/map/) to advance implementation of beneficial ownership reforms, as well as supporting the creation of over 15 new central and sectoral registers. OO has developed the world’s leading [data standard](http://standard.openownership.org/en/0.2.0/) for beneficial ownership information, co-founded the international [Beneficial Ownership Leadership Group](/what-we-do/the-beneficial-ownership-leadership-group/), and built the world’s first [transnational public beneficial ownership register](https://register.openownership.org/).
 
-[Download 1-Page Summary](/uploads/openownership-factsheet.pdf){: .button }
+[Download 1-Page Summary](/uploads/oo-open-ownership-factsheet.pdf){: .button }
 
 Based across five continents, OO’s [team of policy and technical experts](/team) works on three key areas:

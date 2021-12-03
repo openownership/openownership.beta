@@ -59,4 +59,4 @@ Even if public registers would be lawful and effective, the interference with pr
 
 Not only does the application of a human rights-based framework provide a useful and stringent method for evaluating the privacy objections to public beneficial ownership registers, but it also suggests that, in the main, such objections are unfounded.
 
-This [short report summarises](https://www.openownership.org/uploads/privacy-report-summary.pdf) the arguments.
+This [short report summarises](https://www.openownership.org/uploads/oo-briefing-privacy-report-summary-2019-03.pdf) the arguments.

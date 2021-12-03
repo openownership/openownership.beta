@@ -9,8 +9,8 @@ description: The Open Ownership Principles for effective beneficial ownership di
   Ownership Data Standard and supporting almost 40 countries to advance beneficial
   ownership transparency.
 files:
-  en: "/uploads/OO_Principles_EN.pdf"
-  es: "/uploads/OPO%20Principles%20ES.pdf"
+  en: "/uploads/oo-guidance-open-ownership-principles-2021-07.pdf"
+  es: "/uploads/oo-guidas-los-principios-de-open-ownership-2021-07.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-principles-thumbnail.jpg"
 resource_type: Guidance

@@ -9,7 +9,7 @@ tags:
 position: 3
 resource_type: Consultations
 files:
-  en: "/uploads/oo-response-to-canada-consultation.pdf"
+  en: "/uploads/oo-consultation-response-canada-consultation-2020-03.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-response-to-canada-consultation.jpg"
 is_featured: false

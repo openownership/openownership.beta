@@ -16,7 +16,7 @@ To support the initial work in Senegal, we are seeking a short-term contractor, 
 
 Due to the short timeframe, we will accept applications on an ongoing basis until a contractor is appointed. At that point we will remove the advertisement.
 
-[View Terms of Reference and Apply](/uploads/2021-11-23-job-senegal-scoping-assessment.pdf)
+[View Terms of Reference and Apply](/uploads/oo-vacancy-senegal-scoping-assessment-2021-11.pdf)
 
 ## Français
 
@@ -26,4 +26,4 @@ Nous recherchons un consultant à court terme, soit une organisation soit un con
 
 En raison du court délai, nous accepterons les candidatures de manière continue jusqu’à ce qu’un contractant soit désigné. À ce moment là, nous retirerons l’annonce.
 
-[Voir les termes de référence et postuler](/uploads/oo-job-senegal-scoping-assessment-fr-2021-11.pdf)
+[Voir les termes de référence et postuler](/uploads/oo-vacancy-senegal-scoping-assessment-fr-2021-11.pdf)

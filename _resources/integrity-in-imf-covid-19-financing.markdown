@@ -7,7 +7,7 @@ tags:
 - Procurement
 resource_type: Reports
 files:
-  en: "/uploads/OCP-OO-2021-Integrity-IMF.pdf"
+  en: "/uploads/oo-report-integrity-in-imf-covid-19-financing-2021-04.pdf"
 author: Open Ownership, Open Contracting Partnership and Oxford Insights
 thumbnail-image: "/uploads/OCP-OO-2021-Integrity-IMF-thumbnail.jpg"
 ---

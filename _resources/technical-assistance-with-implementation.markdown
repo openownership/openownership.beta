@@ -6,9 +6,9 @@ categories:
 position: 1
 resource_type: Guidance
 files:
-  en: "/uploads/OPO%20Services%20Brochure.pdf"
-  es: "/uploads/OPO%20Services%20Brochure%20ES.pdf"
-  id: "/uploads/Pendampingan%20teknis%20dengan%20implementasi.pdf"
+  en: "/uploads/oo-guidance-services-brochure-2021-03.pdf"
+  es: "/uploads/oo-guidas-asistencia-tecnica-con-la-implementacion-2021-03.pdf"
+  id: "/uploads/oo-panduan-pendampingan-teknis-dengan-implementasi-2021-06.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/OPO%20Services%20Brochure%20Thumbnail.jpg"
 is_featured: true

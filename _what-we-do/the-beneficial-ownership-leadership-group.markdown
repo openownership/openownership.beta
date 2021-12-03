@@ -19,7 +19,7 @@ intro: |-
   Find out more:
 
   * [Leadership Group terms of reference](https://www.opengovpartnership.org/documents/beneficial-ownership-leadership-group-terms-of-reference-declaration-glossary/)
-  * [Disclosure Principles](/uploads/oo-disclosure-principles.pdf)
+  * [Disclosure Principles](/uploads/oo-bo-leadership-group-disclosure-principles-2020-01.pdf)
 principles: |-
   - Publishing company beneficial ownership data that is freely downloadable,
     searchable, and reusable by the public, without a fee, proprietary software,
@@ -43,7 +43,7 @@ principles: |-
 members:
 - name: Armenia
   description: |-
-    [Declaration of support](https://www.openownership.org/uploads/Declaration_Armenia.pdf)
+    [Declaration of support](https://www.openownership.org/uploads/oo-bo-leadership-group-declaration-armenia-2020-01.pdf)
 
     [OGP commitment and review from the Independent Reporting Mechanism](https://www.opengovpartnership.org/members/armenia/commitments/AM0037/)
 - name: Kenya

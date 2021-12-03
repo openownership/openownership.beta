@@ -5,7 +5,7 @@ categories:
 - Country assistance
 resource_type: Guidance
 files:
-  en: "/uploads/Beneficial%20Ownership%20Disclosure%20Workbook%20version1.pdf"
+  en: "/uploads/oo-guidance-bo-disclosure-workbook-2021-06.pdf"
 author: Kadie Armstrong
 thumbnail-image: "/uploads/Disclosure%20workbook%20screenshot-162d77.PNG"
 is_featured: false

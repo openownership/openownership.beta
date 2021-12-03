@@ -28,7 +28,7 @@ In detail our speakers were:
 
 Louise talked about mySociety’s recent work with the UK Government Digital Service’s Global Digital Marketplace Programme. Building [a dashboard](https://github.com/mysociety/bluetail) to identify red flags in procurement contracts by connecting them to BO data.
 
-[See Louise’s slides](/uploads/tech-showcase-july-2020-mysociety.pdf)
+[See Louise’s slides](/uploads/oo-tech-showcase-mysociety-2020-08.pdf)
 
 [Jump to Louise’s talk at 07:24](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=444s)
 
@@ -36,7 +36,7 @@ Louise talked about mySociety’s recent work with the UK Government Digital Ser
 
 Khairil showed us [Sinar’s Politikus project](https://politikus.sinarproject.org/), and the impact of using  the Beneficial Ownership Data Standard (BODS), Open Contracting Data Standard, and Popolo to power structured data collection through a traditional content management system.
 
-[See Khairil’s slides](/uploads/tech-showcase-july-2020-sinar.pdf)
+[See Khairil’s slides](/uploads/oo-tech-showcase-sinar-2020-08.pdf)
 
 [Jump to Khairil’s talk at 18:53](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=1133s)
 
@@ -44,7 +44,7 @@ Khairil showed us [Sinar’s Politikus project](https://politikus.sinarproject.o
 
 Kadie presented some recent support Open Ownership gave to Armenia’s Extractive Industries Transparency Initiative secretariat, using the BODS and pipeline of tools to turn BO form disclosures into visual, structured data.
 
-[See Kadie’s slides](/uploads/tech-showcase-july-2020-openownership.pdf)
+[See Kadie’s slides](/uploads/oo-tech-showcase-oo-2020-08.pdf)
 
 [Jump to Kadie’s Talk at 35:16](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=2116s)
 
@@ -64,7 +64,7 @@ Friedrich demonstrated [OCCRP’s Aleph](https://aleph.occrp.org/) tool for inve
 
 Evgen gave a walkthrough of YouControl’s abilities to match people across different company data disclosures, for example, highlighting ultimate beneficial owners who have not been declared as such through techniques such as address matching.
 
-[See Evgen’s Slides](/uploads/tech-showcase-july-2020-youcontrol.pdf)
+[See Evgen’s Slides](/uploads/oo-tech-showcase-youcontrol-2020-08.pdf)
 
 [Jump to Evgen’s talk at 1:20:51](https://www.youtube.com/watch?v=CAHvIJeRbD4&t=4851s)
 

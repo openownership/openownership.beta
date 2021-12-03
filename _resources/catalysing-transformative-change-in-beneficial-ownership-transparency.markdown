@@ -8,7 +8,7 @@ tags:
 position: 0
 resource_type: Reports
 files:
-  en: "/uploads/Opening%20Extractives%20Research%20Report.pdf"
+  en: "/uploads/oo-report-opening-extractives-research-report-2020-09.pdf"
 author: EITI and Open Ownership
 thumbnail-image: "/uploads/Screenshot%202020-08-18%20at%2012.40.00.png"
 is_featured: false

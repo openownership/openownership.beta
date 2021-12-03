@@ -8,7 +8,7 @@ tags:
 position: 28
 resource_type: Guidance
 files:
-  en: "/uploads/technical-note-beneficial-ownership-and-listed-companies.pdf"
+  en: "/uploads/oo-guidance-technical-note-beneficial-ownership-and-listed-companies-2020-09.pdf"
 thumbnail-image: "/uploads/technical-note-beneficial-ownership-and-listed-companies.png"
 author: Jack Lord and Kadie Armstrong
 is_featured: false

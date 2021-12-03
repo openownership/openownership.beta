@@ -21,7 +21,7 @@ The Kyrgyz Republic is one of over 50 countries who have committed, through the 
 
 OpenOwnership is working with EITI to support countries to publish beneficial ownership information as open data. This is the best way to ensure high quality, useful data that can be used to fight corruption and improve natural resource governance.
 
-In February 2019, alongside the 42nd EITI International Board meeting in Kiev, Ukraine, we launched our [report and recommendations](/uploads/opo-kyrgyz-republic-scoping-report.pdf) for beneficial ownership transparency in the Kyrgyz Republic’s extractives sector. This is a milestone for our support to the Kyrgyz government through the OpenOwnership Pilot Program, but the findings are relevant to other countries – in EITI and beyond – which are working towards, or considering, implementing beneficial ownership regimes.
+In February 2019, alongside the 42nd EITI International Board meeting in Kiev, Ukraine, we launched our [report and recommendations](/uploads/oo-report-kyrgyz-republic-report-2019-03.pdf) for beneficial ownership transparency in the Kyrgyz Republic’s extractives sector. This is a milestone for our support to the Kyrgyz government through the OpenOwnership Pilot Program, but the findings are relevant to other countries – in EITI and beyond – which are working towards, or considering, implementing beneficial ownership regimes.
 
 Here are our top three takeaways:
 
@@ -42,6 +42,6 @@ Third, we highlight the need for cross government coordination throughout the de
 
 #### Next steps
 
-Whether a country is implementing a central beneficial ownership register, or an extractives specific register such as in Kyrgyz Republic, our [report ](https://www.openownership.org/uploads/opo-kyrgyz-republic-scoping-report.pdf)can help identify solutions to common issues, and prompt further reflection on the benefits of moving towards open data publication – where structured data is freely available to the public.
+Whether a country is implementing a central beneficial ownership register, or an extractives specific register such as in Kyrgyz Republic, our [report ](https://www.openownership.org/uploads/oo-report-kyrgyz-republic-report-2019-03.pdf)can help identify solutions to common issues, and prompt further reflection on the benefits of moving towards open data publication – where structured data is freely available to the public.
 
 As EITI countries work to meet the 2020 January deadline to implement beneficial ownership disclosure for their extractives sectors, there is a real opportunity to establish open data registers as best practice. We’re excited to take forward our work with EITI at a time when the EITI Standard is being updated and strengthened, and we will continue to support countries implementing the EITI beneficial ownership requirement.

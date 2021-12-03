@@ -8,7 +8,7 @@ tags:
 - Sufficient detail
 resource_type: Briefings
 files:
-  en: "/uploads/OO%20BOT%20of%20trusts%20briefing%20July%202021.pdf"
+  en: "/uploads/oo-briefing-bo-transparency-of-trusts-2021-07.pdf"
 author: Ramandeep Kaur Chhina
 thumbnail-image: "/uploads/oo-bot-of-trusts-july-2021-thumbnail.jpg"
 is_featured: true
