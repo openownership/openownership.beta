@@ -17,7 +17,7 @@ In 2016 Ukraine became the second country in the world (after the UK) to impleme
 
 As the first step toward integration, the OpenOwnership team undertook a holistic review of Ukraine's current beneficial ownership regime. Working closely with Ministry of Justice officials and users in civil society and government, we assessed the impact of existing technical, business process, and policy frameworks on the quality and usability of Ukraine’s beneficial ownership data.
 
-Today we are pleased to publish our findings in full. In [Improving beneficial ownership transparency in Ukraine: Review and recommendations](https://www.openownership.org/uploads/improving-beneficial-ownership-transparency-in-ukraine.pdf) we assess the progress made so far and provide recommendations for strengthening Ukraine’s beneficial ownership regime.
+Today we are pleased to publish our findings in full. In [Improving beneficial ownership transparency in Ukraine: Review and recommendations](https://www.openownership.org/uploads/oo-improving-beneficial-ownership-transparency-in-ukraine-2020-01.pdf) we assess the progress made so far and provide recommendations for strengthening Ukraine’s beneficial ownership regime.
 
 Our assessment begins with the assumption that data usage determines whether the policy goals of stemming corruption and improving Ukraine’s business environment will be met. Overall, Ukraine has taken several important steps to make its beneficial ownership data accessible to users.
 

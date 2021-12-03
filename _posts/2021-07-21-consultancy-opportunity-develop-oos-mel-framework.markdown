@@ -14,4 +14,4 @@ Open Ownership is in the process of developing a three year strategy, covering t
 
 We now seek an experienced MEL agent (an organisation or independent consultant) to support us as we finalise this strategy and develop an MEL framework. The full terms of reference are available here, and the deadline for submission is midnight BST on 15 August 2021.
 
-[View Terms of Reference and How to Apply](/uploads/mel-consultant-tor-july-2021.pdf)
+[View Terms of Reference and How to Apply](/uploads/oo-vacancy-mel-consultant-2021-07.pdf)

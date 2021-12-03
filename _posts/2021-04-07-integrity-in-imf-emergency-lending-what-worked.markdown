@@ -14,7 +14,7 @@ is_featured: true
 
 The COVID-19 pandemic has caused the largest [global economic recession since the Second World War](https://www.worldbank.org/en/news/press-release/2020/06/08/covid-19-to-plunge-global-economy-into-worst-recession-since-world-war-ii). Many countries turned to the International Monetary Fund (IMF) for support and external financing to cushion the blow. The IMF provided over USD 100 billion in emergency support using its [Rapid Credit Facility](https://www.imf.org/en/About/Factsheets/Sheets/2016/08/02/21/08/Rapid-Credit-Facility), and is considering issuing further relief [through Special Drawing Rights](https://www.ft.com/content/ec51e344-2b5f-4912-aa46-82800f7f4b42). As the IMF's Managing Director Kristalina Georgieva said: “Please spend as much as you can, but keep the receipts.” 
 
-In the spirit of keeping the receipts, the IMF encouraged countries to make voluntary commitments to good governance of emergency support resources. These commitments were the first of their kind and included [two connected policy areas](https://www.openownership.org/uploads/OO%20BO%20Data%20in%20Procurement.pdf) critical to making sure the money was well spent: procurement and beneficial ownership transparency (BOT).
+In the spirit of keeping the receipts, the IMF encouraged countries to make voluntary commitments to good governance of emergency support resources. These commitments were the first of their kind and included [two connected policy areas](https://www.openownership.org/uploads/oo-briefing-bo-data-in-procurement-2021-03.pdf) critical to making sure the money was well spent: procurement and beneficial ownership transparency (BOT).
 
  
 

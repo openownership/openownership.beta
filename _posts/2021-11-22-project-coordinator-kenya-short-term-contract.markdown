@@ -13,4 +13,4 @@ To support the work in Kenya, we are seeking a short-term contractor, either an 
 
 The application deadline is **10 December 2021**.
 
-[View Terms of Reference and Apply](/uploads/2021-11-22-job-kenya-coordinator.pdf)
+[View Terms of Reference and Apply](/uploads/oo-vacancy-project-coordinator-2021-11.pdf)

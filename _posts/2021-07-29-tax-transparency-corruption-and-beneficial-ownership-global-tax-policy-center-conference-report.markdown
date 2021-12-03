@@ -33,7 +33,7 @@ The WU Center shared intelligence on effective implementation including the bene
 
 Both organisations highlighted the challenges of harmonising beneficial ownership data between government agencies.
 
-Open Ownership then presented its [latest research on verification](https://www.openownership.org/uploads/OpenOwnership%20Verification%20Briefing.pdf) of beneficial ownership information. We also discussed the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/0.2.0/) as a way of structuring data, in order to enable better data sharing across multiple organisations. 
+Open Ownership then presented its [latest research on verification](https://www.openownership.org/uploads/oo-briefing-verification-briefing-2020-05.pdf) of beneficial ownership information. We also discussed the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/0.2.0/) as a way of structuring data, in order to enable better data sharing across multiple organisations. 
 
 In light of South Africa’s work on open contracting, we shared the [latest guidance](https://standard.open-contracting.org/latest/en/guidance/map/beneficial_ownership/) on how our data standard and the Open Contracting Data Standard complement each other. Finally, we showcased our [Bluetail prototype](https://www.openownership.org/blogs/tps-prototyping/) to demonstrate how three different sets of data can be combined: beneficial ownership data, open contracting data and data on politically exposed persons.
 

@@ -21,7 +21,7 @@ This would not only help Mexico’s government to improve the impact and efficie
 
 In response to demand from governments in Mexico and elsewhere, Open Ownership has conducted a detailed analysis of BO definitions from across the globe and identified good practices and principles that should be applied when countries like Mexico draft legislation. 
 
-As we outline in our latest policy briefing, a single best practice definition of BO cannot not easily be applied across all jurisdictions. Some tailoring will always be required to fit the specific domestic legal environment as well as to target approaches to tackling money laundering and corruption risks. There are however common features of comprehensive and enforceable BO definitions. We have incorporated these best practice principles into a [draft definition](https://www.openownership.org/uploads/definitions-briefing.pdf) to serve as a starting point for discussion in Mexico and elsewhere. 
+As we outline in our latest policy briefing, a single best practice definition of BO cannot not easily be applied across all jurisdictions. Some tailoring will always be required to fit the specific domestic legal environment as well as to target approaches to tackling money laundering and corruption risks. There are however common features of comprehensive and enforceable BO definitions. We have incorporated these best practice principles into a [draft definition](https://www.openownership.org/uploads/oo-briefing-bo-in-law-definitions-and-thresholds-2020-10.pdf) to serve as a starting point for discussion in Mexico and elsewhere. 
 
 In short, BO should be defined in law and include the following points: 
 

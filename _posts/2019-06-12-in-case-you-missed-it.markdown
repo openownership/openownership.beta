@@ -52,7 +52,7 @@ We’re delighted to announce Thom Townsend as our **new Executive Director** wh
 
 ## New Report: Data Protection And Privacy In Beneficial Ownership Disclosure
 
-We’ve launched a new report entitled [Data Protection And Privacy In Beneficial Ownership Disclosure](https://www.openownership.org/uploads/oo-data-protection-and-privacy-188205.pdf) in partnership with [The B Team](http://www.bteam.org/) and [The Engine Room](https://www.theengineroom.org/). It considers the legal implications of public beneficial ownership data to the public and the relationship with data protection and privacy laws. You can read a summary of the report [here](https://www.openownership.org/uploads/privacy-report-summary.pdf).
+We’ve launched a new report entitled [Data Protection And Privacy In Beneficial Ownership Disclosure](https://www.openownership.org/uploads/oo-report-data-protection-and-privacy-2019-05.pdf) in partnership with [The B Team](http://www.bteam.org/) and [The Engine Room](https://www.theengineroom.org/). It considers the legal implications of public beneficial ownership data to the public and the relationship with data protection and privacy laws. You can read a summary of the report [here](https://www.openownership.org/uploads/oo-briefing-privacy-report-summary-2019-03.pdf).
 
 # **In the News**
 

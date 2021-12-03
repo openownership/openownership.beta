@@ -14,7 +14,7 @@ author: Tymon Kiepe and Ines Schjolberg Marques
 is_featured: true
 ---
 
-*Beneficial ownership transparency - knowing who ultimately controls and benefits from a company - is critical to fighting corruption and preventing illicit financial flows. Making beneficial ownership transparency the norm in the extractives sector can reduce the potential for corrupt activity in a sector that often yields significant revenues. [New research](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf) has shown that there is both high demand for technical assistance to achieve beneficial ownership transparency, and a need for tailored support to address the complex dynamics that give rise to reform.*
+*Beneficial ownership transparency - knowing who ultimately controls and benefits from a company - is critical to fighting corruption and preventing illicit financial flows. Making beneficial ownership transparency the norm in the extractives sector can reduce the potential for corrupt activity in a sector that often yields significant revenues. [New research](https://www.openownership.org/uploads/oo-report-opening-extractives-research-report-2020-09.pdf) has shown that there is both high demand for technical assistance to achieve beneficial ownership transparency, and a need for tailored support to address the complex dynamics that give rise to reform.*
 
 The Extractive Industries Transparency Initiative (EITI) and Open Ownership (OO) are partnering to develop and deliver a new global programme, _Opening Extractives_, to catalyse transformative change in beneficial ownership transparency in the extractives industry. To inform the design of this programme, we interviewed over 20 stakeholders including in-country practitioners and international beneficial ownership transparency experts. 
 
@@ -44,6 +44,6 @@ To respond to the need for better understanding of beneficial ownership transpar
 *The EITI and OO team is working with the BHP Foundation on the design of the programme and is also engaging with other partners to support certain programmatic themes and specific regions.*
 
 [Download the research report
-](https://www.openownership.org/uploads/Opening%20Extractives%20Research%20Report.pdf)
+](https://www.openownership.org/uploads/oo-report-opening-extractives-research-report-2020-09.pdf)
 
 ![Screenshot 2020-08-18 at 12.40.00.png](/uploads/Screenshot%202020-08-18%20at%2012.40.00.png)
