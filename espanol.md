@@ -54,7 +54,7 @@ resources:
   content: Este informe tiene por objeto establecer los principios generales que sirven
     de base a todos los sistemas de verificación efectivos para los datos sobre beneficiarios
     finales.
-  url: "/uploads/oo-informes de políticas-verificacion-de-los-datos-sobre-beneficiarios-finales-2020-06.pdf"
+  url: "/uploads/oo-informes-de-politicas-verificacion-de-los-datos-sobre-beneficiarios-finales-2020-06.pdf"
   thumbnail-image: "/uploads/Screenshot%202020-05-07%20at%2018.25.36.png"
 - title: Asóciese con nosotros
   attribution: OpenOwnership · mayo 2020
@@ -80,7 +80,7 @@ resources:
     informe plantea que existe evidencia suficiente como para que sea razonable y
     racional que los responsables de formular políticas actúen con la certeza de que
     un registro público servirá a los intereses de la ciudadanía.
-  url: "/uploads/oo-informes de politicas-publicacion-de-los-registros-centrales-2021-07.pdf"
+  url: "/uploads/oo-informes-de-politicas-publicacion-de-los-registros-centrales-2021-07.pdf"
   thumbnail-image: "/uploads/oo-public-access-briefing-thumbnail.jpg"
 - title: Guía de implementación de la transparencia sobre los beneficiarios finales
   attribution: Peter Low y Kadie Armstrong · agosto 2021
