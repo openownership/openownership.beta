@@ -2,9 +2,9 @@
 title: 'Research consultancy opportunity: Policy briefing on beneficial ownership
   transparency reforms and gender'
 date: 2021-10-18 15:54:00 Z
-expiry_date: 2021-11-18 23:59:00 Z
 categories:
 - jobs
+expiry_date: 2021-11-18 23:59:00 Z
 author: Open Ownership
 ---
 
