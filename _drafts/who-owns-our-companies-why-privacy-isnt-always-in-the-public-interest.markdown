@@ -27,4 +27,4 @@ We've summarised the findings of this report in my [Huffington Post article](htt
 
 We'd love to hear your views on this pertinent issue.
 
-You can access a summary of the longer report [here](https://www.openownership.org/uploads/privacy-report-summary.pdf).
+You can access a summary of the longer report [here](https://www.openownership.org/uploads/oo-briefing-privacy-report-summary-2019-03.pdf).
