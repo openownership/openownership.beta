@@ -4,7 +4,7 @@ date: 2021-08-26 13:23:00 Z
 categories:
 - Research and policy
 files:
-  en: "/uploads/GCFFC-statement-on-BO-transparency.pdf"
+  en: "/uploads/oo-gcffc-statement-on-bo-transparency-2021-08.pdf"
 author: Global Coalition for Fighting Financial Crime (GCFFC)
 thumbnail-image: "/uploads/GCFFC-statement-on-BO-transparency-thumbnail.jpg"
 resource_type: Briefings

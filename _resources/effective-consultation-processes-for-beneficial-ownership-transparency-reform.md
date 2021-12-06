@@ -6,7 +6,7 @@ categories:
 position: 28
 resource_type: Guidance
 files:
-  en: "/uploads/open-ownership-effective-consultation-processes-for-bot.pdf"
+  en: "/uploads/oo-guidance-effective-consultation-process-for-bot-2020-06.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/open-ownership-effective-consultation-processes-for-bot-thumbnail.png"
 is_featured: false

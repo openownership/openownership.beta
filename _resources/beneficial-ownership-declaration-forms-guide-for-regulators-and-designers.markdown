@@ -9,7 +9,7 @@ tags:
 - Sufficient detail
 resource_type: Guidance
 files:
-  en: "/uploads/boform-notes.pdf"
+  en: "/uploads/oo-guidance-bo-declaration-forms-guide-for-regulators-and-designers-2021-03.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/boform-notes-thumbnail.jpg"
 ---

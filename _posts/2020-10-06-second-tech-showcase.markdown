@@ -70,7 +70,7 @@ UK's company and beneficial ownership registers.
 
 Peter talked about the development of Denmark's Centrale Virksomhedsregister, the company, and the beneficial ownership register. In particular, he talked about how they made the switch to offering open data, free of charge, and the impact this had on their technical services.
 
-[See Peter's slides.](/uploads/tech-showcase-october-2020-denmark.pdf)
+[See Peter's slides.](/uploads/oo-tech-showcase-denmark-2020-10.pdf)
 
 [Jump to Peter's talk at 19:50.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=1190s)
 
@@ -78,7 +78,7 @@ Peter talked about the development of Denmark's Centrale Virksomhedsregister, th
 
 Xue and Burcu gave a brief introduction to the Global LEI System, how the legal entity relationship data is collected via LEI, and how the LEI can be used within AML/KYC processes.
 
-[See Xue and Burcu's slides.](/uploads/tech-showcase-october-2020-gleif.pdf)
+[See Xue and Burcu's slides.](/uploads/oo-tech-showcase-gleif-2020-10.pdf)
 
 [Jump to Xue and Burcu's talk at 35:41.](https://www.youtube.com/watch?v=i1Py9tX6MRA&t=2141s)
 

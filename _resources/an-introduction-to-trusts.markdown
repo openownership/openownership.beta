@@ -7,7 +7,7 @@ tags:
 - Trusts
 resource_type: Briefings
 files:
-  en: "/uploads/OO%20Introduction%20to%20trusts%20briefing%20July%202021.pdf"
+  en: "/uploads/oo-briefing-an-introduction-to-trusts-2021-07.pdf"
 author: Ramandeep Kaur Chhina
 thumbnail-image: "/uploads/oo-introduction-to-trusts-july-2021-thumbnail.jpg"
 is_featured: false

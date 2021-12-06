@@ -12,8 +12,8 @@ tags:
 position: 26
 resource_type: Guidance
 files:
-  en: "/uploads/oo-example-paper-forms-329df2.pdf"
-  es: "/uploads/paper-form-spanish.pdf"
+  en: "/uploads/oo-guidance-example-paper-forms-2019-06.pdf"
+  es: "/uploads/oo-guias-modelos-de-formularios-en-papel-2020-06.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-example-paper-forms-image.JPG"
 is_featured: false

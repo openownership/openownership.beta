@@ -31,7 +31,7 @@ OO offers a brief analysis of the steps taken in these three countries, framed o
 
 In recent years, implementing countries have been adopting thresholds below the 25% used, for example, by UK Companies House, and cited in the Financial Action Task Force (FATF) recommendation. OO’s draft definition includes a threshold of 5%, reflecting the shift towards lower thresholds in order to minimise potential loopholes for corrupt and criminal enterprises. 
 
-Whilst the adoption of any threshold comes with the possibility of some attempts to circumvent, lower thresholds increase the costs and burden of doing so, and act as a dissuasive mechanism. This risk based approach is one that OO recommends in its latest policy briefing [on definitions and thresholds](https://www.openownership.org/uploads/definitions-briefing.pdf). 
+Whilst the adoption of any threshold comes with the possibility of some attempts to circumvent, lower thresholds increase the costs and burden of doing so, and act as a dissuasive mechanism. This risk based approach is one that OO recommends in its latest policy briefing [on definitions and thresholds](https://www.openownership.org/uploads/oo-briefing-bo-in-law-definitions-and-thresholds-2020-10.pdf). 
 
 Nigeria and Ghana are both building on experiences with disclosure thresholds through the publications of extractive sector BO data. For the Nigeria Extractive Industries Transparency Initiative (NEITI) register, a disclosure threshold of between 0- 5% was used.  The 5%  threshold was carried through in the CAMA Act, which set a threshold of 5% for all persons of significant control.
 

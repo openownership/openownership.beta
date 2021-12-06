@@ -6,7 +6,7 @@ categories:
 tags:
 - South Africa
 files:
-  en: "/uploads/case-study-south-africa-sep-2021.pdf"
+  en: "/uploads/oo-case-study-transforming-procurement-systems-in-south-africa-2021-09.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/case-study-south-africa-thumbnail.jpg"
 resource_type: Case studies

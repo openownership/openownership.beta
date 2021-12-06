@@ -38,4 +38,4 @@ OO’s technical team undertook a rapid assessment of the UK’s BO regime in No
 
 The rapid assessment has been conducted on a best efforts basis in order to consolidate and share insights from existing research and data use, and is not intended to be wholly comprehensive. A more in depth assessment against the OO Principles would draw on a broader range of primary and secondary sources and involve significant engagement with implementers and data users across government, civil society, and the private sector. In order to maximise the utility of in depth assessments to shape future reform, research would incorporate planned and in-progress reforms in addition to an examination of the regime as it currently operates. In future, OO plans to apply the OO Principles within assessments to inform technical assistance and support for governments implementing BOT.
 
-[Full rapid assessment of UK performance against the OO Principles](/uploads/Rapid%20assessment%20of%20UK%20performance%20against%20the%20OO%20Principles%20.pdf)
+[Full rapid assessment of UK performance against the OO Principles](/uploads/oo-open-ownership-principles-uk-performance-2020-12.pdf)

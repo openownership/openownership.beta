@@ -9,7 +9,7 @@ tags:
 - United Kingdom
 resource_type: Case studies
 files:
-  en: "/uploads/OO%20Impact%20Story%20UK.pdf"
+  en: "/uploads/oo-impact-story-united-kingdom-2021-04.pdf"
 author: Chinwe Ekene Ezeigbo, Louise Russell-Prywata and Tymon Kiepe
 thumbnail-image: "/uploads/oo-impact-story-uk-thumbnail.jpg"
 is_featured: false

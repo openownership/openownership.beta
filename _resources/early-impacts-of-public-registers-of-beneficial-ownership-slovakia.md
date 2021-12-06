@@ -8,7 +8,7 @@ tags:
 - Slovakia
 resource_type: Case studies
 files:
-  en: "/uploads/slovakia-impact-story.pdf"
+  en: "/uploads/oo-impact-story-slovakia-2020-10.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/slovakia-impact-story.jpg"
 ---

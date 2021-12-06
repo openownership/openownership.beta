@@ -15,8 +15,8 @@ description: This is a summary of a research report from OpenOwnership, The B Te
   holding that information and the authorities requiring it to be disclosed publicly,
   and the relationship with data protection and privacy laws.
 files:
-  en: "/uploads/privacy-report-summary.pdf"
-  de: "/uploads/OpenOwnership%20Privacy%20Report%20Summary%20German.pdf"
+  en: "/uploads/oo-briefing-privacy-report-summary-2019-03.pdf"
+  de: "/uploads/oo-briefing-ein-pladoyer-fur-offenliche-informationen-zu-wirtschftlichen-eigentumern-2019-08.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/privacy-summary.JPG"
 is_featured: false

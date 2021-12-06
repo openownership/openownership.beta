@@ -32,7 +32,7 @@ For those countries without an existing BO register, the first legislative tasks
 
 > ##### Resources
 >
-> An example definition, and detailed analysis of the strengths and shortcomings of BO definitions implemented across the globe, is available in OO’s policy briefing: [Beneficial ownership in law: Definitions and thresholds](/uploads/definitions-briefing.pdf). 
+> An example definition, and detailed analysis of the strengths and shortcomings of BO definitions implemented across the globe, is available in OO’s policy briefing: [Beneficial ownership in law: Definitions and thresholds](/uploads/oo-briefing-bo-in-law-definitions-and-thresholds-2020-10.pdf). 
 {: .resources-box }
 
 BO should be clearly and [robustly defined](/principles/robust-definitions) in law, with specific thresholds used to determine when ownership and control is disclosed. Specifically:
@@ -69,7 +69,7 @@ For SOEs, some jurisdictions have considered exemptions as these firms do not ha
 
 > ##### Resources
 >
-> Best practice for assessing how to grant disclosure exemptions to PLCs without creating loopholes has yet to be consolidated. OO has provided its [contribution to the debate](/uploads/technical-note-beneficial-ownership-and-listed-companies.pdf) by outlining current thinking on when an exemption should be granted and what information should be provided in any exemption declaration.
+> Best practice for assessing how to grant disclosure exemptions to PLCs without creating loopholes has yet to be consolidated. OO has provided its [contribution to the debate](/uploads/oo-guidance-technical-note-beneficial-ownership-and-listed-companies-2020-09.pdf) by outlining current thinking on when an exemption should be granted and what information should be provided in any exemption declaration.
 {: .resources-box }
 
 ### Beneficial ownership of trusts
@@ -92,7 +92,7 @@ Another issue to consider at the legislative stage is how much information will 
 ![Full versus partial ownership chain reporting](/guide/diagrams/guide-chain-reporting.png)
 </figure>
 
-The full chain approach provides valuable detail on intermediary entities. Complete pictures of ownership structures can be highly valuable in some applications of BO data, such as in [procurement](/uploads/OO%20BO%20Data%20in%20Procurement.pdf). However, it is suited only to jurisdictions with reasonably advanced technology systems. This is because intermediate companies may be disclosed in multiple declarations, which brings the risk that information submitted by different entities, about the same intermediary, may not precisely tally. Whilst such discrepancies could eventually serve as a means to cross check and verify data submissions, this would require a sophisticated data verification system that would take some time to develop. For the initial iteration of registers in most countries, it is recommended to concentrate on gathering the higher quality data that would likely emerge from a more limited partial chain reporting requirement. Once the first set of data has been gathered, the declarations can then be evaluated with a view to understanding whether a more comprehensive approach would be useful.
+The full chain approach provides valuable detail on intermediary entities. Complete pictures of ownership structures can be highly valuable in some applications of BO data, such as in [procurement](/uploads/oo-briefing-bo-data-in-procurement-2021-03.pdf). However, it is suited only to jurisdictions with reasonably advanced technology systems. This is because intermediate companies may be disclosed in multiple declarations, which brings the risk that information submitted by different entities, about the same intermediary, may not precisely tally. Whilst such discrepancies could eventually serve as a means to cross check and verify data submissions, this would require a sophisticated data verification system that would take some time to develop. For the initial iteration of registers in most countries, it is recommended to concentrate on gathering the higher quality data that would likely emerge from a more limited partial chain reporting requirement. Once the first set of data has been gathered, the declarations can then be evaluated with a view to understanding whether a more comprehensive approach would be useful.
 
 ## Reconciling privacy concerns with public interest
 
@@ -104,7 +104,7 @@ In order to ensure BO data can be made public in keeping with data protection an
 
 > ##### Resources
 >
-> For further discussion on managing potential privacy and security concerns related to BO data publication, see the OO briefings: [Data protection and privacy in beneficial ownership disclosure](/uploads/oo-data-protection-and-privacy-188205.pdf) and [Making central beneficial ownership registers public](/uploads/OO%20Public%20Access%20Briefing.pdf).
+> For further discussion on managing potential privacy and security concerns related to BO data publication, see the OO briefings: [Data protection and privacy in beneficial ownership disclosure](/uploads/oo-report-data-protection-and-privacy-2019-05.pdf) and [Making central beneficial ownership registers public](/uploads/oo-briefing-public-access-briefing-2021-05.pdf).
 >
 > For information on the types of specific fields that may be excluded from publication on security/privacy grounds, please refer to OO’s [example declaration form](https://docs.google.com/spreadsheets/d/1H6nRsKLxqiIQrT9HhckZefaWCUm2otVEHljVjx-vsTU/edit#gid=1810219496).
 {: .resources-box }
@@ -129,7 +129,7 @@ Selecting the appropriate agency to issue sanctions will depend largely on the p
 
 > ##### Resources
 >
-> For more on setting and applying sanctions for those failing to provide timely and accurate BO data, see OO’s briefings on [BO data in procurement](/uploads/OO%20BO%20Data%20in%20Procurement.pdf) and the [verification of BO data](/uploads/OpenOwnership%20Verification%20Briefing.pdf).
+> For more on setting and applying sanctions for those failing to provide timely and accurate BO data, see OO’s briefings on [BO data in procurement](/uploads/oo-briefing-bo-data-in-procurement-2021-03.pdf) and the [verification of BO data](/uploads/oo-briefing-verification-briefing-2020-05.pdf).
 {: .resources-box }
 
 [^8]: The level of share ownership, voting rights, and/or rights to earnings which an individual may ultimately hold in an entity before triggering obligations to report this interest to authorities.

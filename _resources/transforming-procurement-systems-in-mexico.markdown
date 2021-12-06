@@ -7,7 +7,7 @@ categories:
 tags:
 - Mexico
 files:
-  en: "/uploads/case-study-mexico-sep-2021.pdf"
+  en: "/uploads/oo-case-study-transforming-procurement-systems-in-mexico-2021-09.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/case-study-mexico-thumbnail.jpg"
 resource_type: Case studies

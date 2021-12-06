@@ -8,7 +8,7 @@ tags:
 position: 27
 resource_type: Briefings
 files:
-  en: "/uploads/definitions-briefing.pdf"
+  en: "/uploads/oo-briefing-bo-in-law-definitions-and-thresholds-2020-10.pdf"
   es: "/uploads/Beneficiarios finales - definiciones y umbrales.pdf"
 author: Peter Low and Tymon Kiepe
 thumbnail-image: "/uploads/definitions-briefing.png"

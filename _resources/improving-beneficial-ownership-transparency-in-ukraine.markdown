@@ -8,7 +8,7 @@ tags:
 position: 2
 resource_type: Reports
 files:
-  en: "/uploads/opo-ukraine-report.pdf"
+  en: "/uploads/oo-report-improving-bot-ukraine-2018-03.pdf"
 author: Zosia Sztykowski and Tom Mayne
 thumbnail-image: "/uploads/opo-ukraine-report.jpg"
 is_featured: false

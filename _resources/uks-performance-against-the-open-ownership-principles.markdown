@@ -7,7 +7,7 @@ tags:
 position: 0
 resource_type: Reports
 files:
-  en: "/uploads/Rapid%20assessment%20of%20UK%20performance%20against%20the%20OO%20Principles%20.pdf"
+  en: "/uploads/oo-open-ownership-principles-uk-performance-2020-12.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/uk-principles-assessment.png"
 is_featured: false
