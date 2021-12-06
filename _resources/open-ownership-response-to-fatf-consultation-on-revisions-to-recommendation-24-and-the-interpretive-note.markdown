@@ -5,7 +5,7 @@ date: 2021-12-06 17:01:00 Z
 categories:
 - Research and policy
 files:
-  en_file: "/uploads/OO-consultation%20response-FATF-revisions-R24-INR24-2021-12.pdf"
+  en: "/uploads/OO-consultation%20response-FATF-revisions-R24-INR24-2021-12.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/OO-consultation%20response-FATF-revisions-R24-INR24-2021-12.jpg"
 resource_type: Consultations
