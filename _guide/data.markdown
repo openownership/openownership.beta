@@ -96,7 +96,7 @@ For both the standardisation and structuring of BO data, the BODS is a useful re
 
 > ##### Resources
 > 
-> Developers may wish to consult OO’s guide to the data model, schema, and system requirements for using the [BODS](http://standard.openownership.org/en/0.2.0/). To create BODS data, this [template](https://docs.google.com/spreadsheets/d/1J-texUUH1AjnZ7Yy4y52M8xw6kaPMZ5Mqfar7O2fbH0/copy) can be followed. The [data review tool](https://datareview.openownership.org/) can be used to check that BODS data is valid, or to convert data in the BODS template into BODS JSON format. BO data can be easily transformed into visual representations of corporate structures through OO’s [visualisation tool](https://www.openownership.org/news/launching-our-visualisation-library-for-beneficial-ownership-data-standard-data/). OO’s technical team can provide assistance on how to implement BODS in any jurisdiction.
+> Developers may wish to consult OO’s guide to the data model, schema, and system requirements for using the [BODS](http://standard.openownership.org/en/0.2.0/). To create BODS data, this [template](https://docs.google.com/spreadsheets/d/1J-texUUH1AjnZ7Yy4y52M8xw6kaPMZ5Mqfar7O2fbH0/copy) can be followed. The [data review tool](https://datareview.openownership.org/) can be used to check that BODS data is valid, or to convert data in the BODS template into BODS JSON format. BO data can be easily transformed into visual representations of corporate structures through OO’s [visualisation tool](https://www.openownership.org/visualisation/). OO’s technical team can provide assistance on how to implement BODS in any jurisdiction.
 {: .resources-box }
 
 ## Collecting beneficial ownership information and creating data
