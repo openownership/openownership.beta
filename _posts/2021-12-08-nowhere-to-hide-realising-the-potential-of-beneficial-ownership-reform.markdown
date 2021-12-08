@@ -24,7 +24,7 @@ A 'beneficial owner' is a legal term used to describe the real, human owners of 
 
 Companies can be owned by other companies or trusts, as shown in the diagram on the left. This means that society can’t always see who controls and benefits from a company's operations and profits.
 
-**Beneficial ownership transparency **requires companies to disclose information about their real, human, owners to a government-run register. This information can then be used - by governments, companies and the public - to detect and investigate corruption and help businesses manage risk.
+**Beneficial ownership transparency** requires companies to disclose information about their real, human, owners to a government-run register. This information can then be used - by governments, companies and the public - to detect and investigate corruption and help businesses manage risk.
 
 This information is widely recognised as essential for tackling corruption, preventing and investigating tax evasion, and creating sustainable trading environments. The next five years are critical to delivering impact on these agendas.
 
