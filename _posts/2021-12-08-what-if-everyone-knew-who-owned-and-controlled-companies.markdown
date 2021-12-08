@@ -3,6 +3,11 @@ title: What if everyone knew who owned and controlled companies?
 date: 2021-12-08 16:49:00 Z
 categories:
 - blogs
+tags:
+- BOT
+- anti-corruption
+- reform
+- vision
 author: Alanna Markle
 is_featured: true
 ---
