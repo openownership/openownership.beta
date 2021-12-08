@@ -14,6 +14,9 @@ is_featured: true
 
 Here at Open Ownership we see significant opportunities to advance a global norm of beneficial ownership transparency over the coming year. [Louise Russell-Prywata](mailto:louise@openownership.org) tells us why...
 
+![Example of BOT](/uploads/bot-example.jpg)
+{: style="width: 50%; margin: 0 auto" }
+
 **First off, a little recap on what beneficial ownership actually means:**
 
 A 'beneficial owner' is a legal term used to describe the real, human owners of companies. Often, the ownership structure of companies can be complex and opaque.
