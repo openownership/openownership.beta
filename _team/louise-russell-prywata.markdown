@@ -4,7 +4,7 @@ categories:
 - project-team
 position: 2
 job-title: Director of Policy and Programmes
-image: "/uploads/louise-russell-prywata.jpg"
+image: "/uploads/louise-russell-prywata-team.jpg"
 email: louise@openownership.org
 social:
   twitter: https://twitter.com/_LouiseRP

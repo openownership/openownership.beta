@@ -4,7 +4,7 @@ categories:
 - project-team
 position: 1
 job-title: Director of Finance and Human Resources
-image: "/uploads/claire-reichenbach-2.jpg"
+image: "/uploads/claire-reichenbach-team.jpg"
 email: claire@openownership.org
 social:
   linkedin: https://www.linkedin.com/in/claire-reichenbach-b633b4106/
