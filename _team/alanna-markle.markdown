@@ -3,7 +3,7 @@ title: Alanna Markle
 date: 2021-11-01 16:30:00 Z
 position: 7
 job-title: Policy and Research Associate
-image: "/uploads/alanna-markle.jpg"
+image: "/uploads/alanna-markle-team.jpg"
 ---
 
 Alanna Markle is Open Ownership’s Policy and Research Associate. She helps implement the research agenda to develop, test, and refine the organisation’s policy recommendations and tools.
