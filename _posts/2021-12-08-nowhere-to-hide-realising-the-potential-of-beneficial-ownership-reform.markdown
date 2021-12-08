@@ -8,7 +8,6 @@ tags:
 - anti-corruption
 - reform
 - vision
-image: "/uploads/2021-12-08-where-next.jpg"
 author: Louise Russell-Prywata
 is_featured: true
 ---
