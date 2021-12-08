@@ -8,6 +8,7 @@ tags:
 - anti-corruption
 - reform
 - vision
+image: "/uploads/2021-12-08-what-if.jpg"
 author: Alanna Markle
 is_featured: true
 ---
