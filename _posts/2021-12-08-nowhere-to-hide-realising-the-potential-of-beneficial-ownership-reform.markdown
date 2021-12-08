@@ -36,17 +36,15 @@ The end goal - shared by many governments, businesses, and citizens - is that pe
 
 To reach this goal, collective action across three key areas is required from the global community of beneficial ownership reformers:
 
-1. **Effective and context-sensitive implementation **of beneficial ownership commitments is needed to deliver an ecosystem of high-quality data across a critical mass of countries.
-
-2. **Robust new evidence **is needed to advance debates on issues such as balancing privacy and public access, and the verification of data held in beneficial ownership registers.
-
-3. The **use of data needs to be scaled up **to realise the potential of beneficial ownership reforms as a cornerstone of 21st century governance.
+1. **Effective and context-sensitive implementation** of beneficial ownership commitments is needed to deliver an ecosystem of high-quality data across a critical mass of countries.
+2. **Robust new evidence** is needed to advance debates on issues such as balancing privacy and public access, and the verification of data held in beneficial ownership registers.
+3. The **use of data needs to be scaled up** to realise the potential of beneficial ownership reforms as a cornerstone of 21st century governance.
 
 Open Ownership’s paper "[Nowhere to hide: Realising the potential of beneficial ownership reform](/resources/nowhere-to-hide-realising-the-potential-of-beneficial-ownership-reform/)" outlines specific recommendations that stakeholders across all sectors should take during 2022 to make the most of this opportunity to drive global reform.
 
 ## Conclusion
 
-**The vision is simple: that there is nowhere to hide. **Beneficial ownership transparency is a crucial component to effectively tackle corruption. It helps prevent and investigate tax evasion, protects national security, and creates sustainable trading environments.
+**The vision is simple: that there is nowhere to hide.** Beneficial ownership transparency is a crucial component to effectively tackle corruption. It helps prevent and investigate tax evasion, protects national security, and creates sustainable trading environments.
 
 In the coming years, countries around the world will continue to face and adapt to economic, social, and environmental pressures; the urgency to systemically tackle the use of anonymously-owned companies has never been greater.
 
