@@ -45,7 +45,7 @@ Interest Annotations across your diagram must use a consistent detail level. Ann
 
 Annotations indicate if the nature of interest is ownership, control or both; but they do not indicate the strength of interest.
 
-![BOVS Diagram with Annotations Qualifying Interests](/visualisation/diagrams/bovs-optional-annotation-qualified.png){: style="width: 100.5%" }
+![BOVS Diagram with Annotations Qualifying Interests](/visualisation/diagrams/bovs-optional-annotation-qualified.png){: style="width: 100%" }
 
 If your diagram also has an [Interest Focus](/visualisation/core/focus-depth), omit all annotations except those to mark Unknown or Unquantifiable interests (see below).
 
