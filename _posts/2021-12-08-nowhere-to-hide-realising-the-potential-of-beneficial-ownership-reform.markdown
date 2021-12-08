@@ -8,6 +8,7 @@ tags:
 - anti-corruption
 - reform
 - vision
+image: "/uploads/2021-12-08-where-next.jpg"
 author: Louise Russell-Prywata
 is_featured: true
 ---
@@ -15,7 +16,7 @@ is_featured: true
 Here at Open Ownership we see significant opportunities to advance a global norm of beneficial ownership transparency over the coming year. [Louise Russell-Prywata](mailto:louise@openownership.org) tells us why...
 
 ![Example of BOT](/uploads/bot-example.jpg)
-{: style="width: 50%; margin: 0 auto" }
+{: style="width: 50%; margin-left: auto; margin-right: auto" }
 
 **First off, a little recap on what beneficial ownership actually means:**
 
