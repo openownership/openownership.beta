@@ -2,7 +2,7 @@
 title: Karabo Rajuili
 categories:
 - project-team
-position: 3
+position: 2
 job-title: Director of Country Programmes
 image: "/uploads/karabo-rajuili.jpg"
 email: karabo@openownership.org
