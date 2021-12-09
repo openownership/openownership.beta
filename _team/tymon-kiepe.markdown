@@ -2,7 +2,7 @@
 title: Tymon Kiepe
 categories:
 - project-team
-position: 6
+position: 7
 job-title: Policy and Research Manager
 email: tymon@openownership.org
 ---
