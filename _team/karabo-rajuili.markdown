@@ -3,13 +3,12 @@ title: Karabo Rajuili
 categories:
 - project-team
 position: 3
-job-title: Country Manager
+job-title: Director of Country Programmes
 image: "/uploads/karabo-rajuili.jpg"
 email: karabo@openownership.org
 ---
 
-Karabo Rajuili is a Country Manager at Open Ownership, providing country
-support to governments implementing beneficial ownership transparency.
+Karabo Rajuili is Director of Country Programmes at Open Ownership, providing country support to governments implementing beneficial ownership transparency.
 She comes with extensive experience with initiating and implementing
 legislative and policy reforms to advance transparency and access to
 information as an antidote to corruption and to promote good governance in the
