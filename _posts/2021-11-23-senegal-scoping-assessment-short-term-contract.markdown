@@ -14,7 +14,7 @@ Together with the Extractive Industries Transparency Initiative (EITI), Open Own
 
 To support the initial work in Senegal, we are seeking a short-term contractor, either an organisation or an independent consultant, to conduct desk research, interviews, and develop a scoping study report that will help identify concrete opportunities for Open Ownership and the EITI to provide technical assistance that furthers beneficial ownership transparency in Senegal.
 
-Due to the short timeframe, we will accept applications on an ongoing basis until a contractor is appointed. At that point we will remove the advertisement.
+The application deadline is 10 January 2022.
 
 [View Terms of Reference and Apply](/uploads/oo-vacancy-senegal-scoping-assessment-2021-11.pdf)
 
@@ -24,6 +24,6 @@ En collaboration avec l’Initiative pour la transparence dans les industries ex
 
 Nous recherchons un consultant à court terme, soit une organisation soit un consultant indépendant, pour mener des recherches documentaires, des entretiens, et développer une étude de cadrage qui permettra d’identifier les opportunités concrètes pour l’initiative Open Ownership et l’ITIE afin de fournir une assistance technique favorisant la transparence des bénéficiaires effectifs au Sénégal.
 
-En raison du court délai, nous accepterons les candidatures de manière continue jusqu’à ce qu’un contractant soit désigné. À ce moment là, nous retirerons l’annonce.
+La date limite de candidature est le 10 janvier 2022.
 
 [Voir les termes de référence et postuler](/uploads/oo-vacancy-senegal-scoping-assessment-fr-2021-11.pdf)
