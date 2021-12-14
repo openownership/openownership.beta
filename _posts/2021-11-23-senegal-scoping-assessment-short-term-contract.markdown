@@ -6,6 +6,7 @@ categories:
 description: We are seeking a short-term contractor to develop a scoping study. Nous
   recherchons un consultant à court terme pour développer une étude de cadrage.
 author: Open Ownership
+expiry_date: 2022-01-10 23:59:00 Z
 ---
 
 ## English
