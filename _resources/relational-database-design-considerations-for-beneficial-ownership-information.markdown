@@ -3,6 +3,8 @@ title: Relational database design considerations for beneficial ownership inform
 date: 2021-12-16 14:14:00 Z
 categories:
 - Technology
+tags:
+- Structured data
 description: This guidance note provides technical guidance on considerations for
   relational database design when building a system that holds beneficial ownership
   information. In particular, it focuses on the requirements for publishing data to
