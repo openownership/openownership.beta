@@ -16,7 +16,7 @@ In Zambia, *Opening Extractives* will help enable access to quality beneficial o
 
 ## A robust legal basis for reform
 
-Zambia has made [meaningful progress](https://eiti.org/news/zambia-achieves-high-score-in-eiti-implementation). In November 2017, the Government of Zambia amended the Companies legislation to include beneficial ownership disclosure. The Companies Act No. 10 of 2017 provides for the disclosure of beneficial owners and also the creation of a register of beneficial owners that will be kept at the Patents and Companies Registration Agency (PACRA). The government developed regulations for the implementation of the legislation in March 2019.
+Zambia has made [meaningful progress](https://eiti.org/news/zambia-achieves-high-score-in-eiti-implementation) in ensuring transparent management of the extractives sector. In November 2017, the Government of Zambia amended the Companies legislation to include beneficial ownership disclosure. The Companies Act No. 10 of 2017 provides for the disclosure of beneficial owners and also the creation of a register of beneficial owners that will be kept at the Patents and Companies Registration Agency (PACRA). The government developed regulations for the implementation of the legislation in March 2019.
 
 ## Beneficial ownership transparency: the way forward for Zambia
 
