@@ -10,7 +10,7 @@ author: Open Ownership
 is_featured: true
 ---
 
-Zambia officially launched its participation in the [Opening Extractives](https://youtu.be/RCUeu1F7mJE) programme. The event affirmed the country’s commitment to beneficial ownership transparency. Government ministries, civil society and company representatives emphasised the contribution of the programme in enhancing beneficial ownership reforms and strengthening natural resource governance.
+Zambia officially launched its participation in the [Opening Extractives](https://youtu.be/RCUeu1F7mJE) programme on 10 December 2021. The event affirmed the country’s commitment to beneficial ownership transparency. Government ministries, civil society and company representatives emphasised the contribution of the programme in enhancing beneficial ownership reforms and strengthening natural resource governance.
 
 In Zambia, *Opening Extractives* will help enable access to quality beneficial ownership data that strengthens accountability by improving governance of energy and mining revenues, supporting business and curtailing corruption and illicit financial flows.
 
