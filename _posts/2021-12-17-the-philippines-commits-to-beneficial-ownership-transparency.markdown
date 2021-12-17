@@ -2,7 +2,7 @@
 title: The Philippines commits to beneficial ownership transparency
 date: 2021-12-17 08:43:00 Z
 categories:
-- blogs
+- news
 tags:
 - Opening Extractives
 - Philippines
