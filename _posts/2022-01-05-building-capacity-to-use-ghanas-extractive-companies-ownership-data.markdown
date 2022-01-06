@@ -1,5 +1,6 @@
 ---
-title: Building capacity to use Ghana’s extractive companies ownership data
+title: Training sessions to build capacity in using Ghana’s extractive companies ownership
+  data
 date: 2022-01-05 15:58:00 Z
 categories:
 - news
@@ -10,7 +11,7 @@ author: Opening Extractives
 is_featured: true
 ---
 
-The Extractives Industries Transparency Initiative (EITI) and Open Ownership, through their joint Programme [Opening Extractives](https://www.youtube.com/watch?v=RCUeu1F7mJE) (OE) and in collaboration with Ghana’s Registrar General Department and the Ghana Opening Extractives National Steering Committee, will be conducting a series of capacity-building and training sessions for Ghana-based civil society organisations (CSOs) and journalists during February and March 2022. The capacity-building and training sessions are aimed at raising awareness on the importance of quality and timely beneficial ownership (BO) data, and sharing skills, tools and methodologies to  analyse and use BO data.
+We will be conducting a series of capacity-building and training sessions for Ghana-based civil society organisations (CSOs) and journalists during February and March 2022. The sessions are part of the programme [Opening Extractives](https://www.youtube.com/watch?v=RCUeu1F7mJE) (OE), which Open Ownership is jointly delivering with the Extractives Industries Transparency Initiative (EITI). Training will be held in collaboration with Ghana’s Registrar General Department and the Ghana Opening Extractives National Steering Committee. The capacity-building and training sessions are aimed at raising awareness on the importance of quality and timely beneficial ownership (BO) data, and sharing skills, tools and methodologies to  analyse and use BO data.
 
 Additionally, participants will also be able to submit research proposals which could be funded by the OE programme and should then be delivered before August 2022.
 
