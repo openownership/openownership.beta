@@ -5,6 +5,8 @@ categories:
 - news
 ---
 
+## New report by Open Ownership
+
 Corruption, terrorism and foreign interference thrive when companies can be owned anonymously, reveals Open Ownership’s comprehensive research report into national security.
 
 The paper, entitled “[Using beneficial ownership data for national security](/resources/using-beneficial-ownership-data-for-national-security/)”, shows how beneficial ownership data -- data on who really owns and benefits from companies -- can support national security in five ways:
