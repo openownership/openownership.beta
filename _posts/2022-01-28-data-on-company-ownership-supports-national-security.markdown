@@ -4,6 +4,9 @@ date: 2022-01-28 13:03:00 Z
 categories:
 - news
 image: "/uploads/2021-01-28-national-security-report.jpg"
+description: New report by Open Ownership. Corruption, terrorism and foreign interference
+  thrive when companies can be owned anonymously, reveals Open Ownership’s comprehensive
+  research report into national security.
 author: Kathryn Davies
 is_featured: true
 ---
