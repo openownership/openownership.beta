@@ -3,6 +3,8 @@ title: Data on company ownership supports national security
 date: 2022-01-28 13:03:00 Z
 categories:
 - news
+author: Kathryn Davies
+is_featured: true
 ---
 
 ## New report by Open Ownership
