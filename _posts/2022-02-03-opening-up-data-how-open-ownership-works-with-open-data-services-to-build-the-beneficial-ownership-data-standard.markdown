@@ -1,9 +1,11 @@
 ---
 title: 'Opening up data: How Open Ownership works with Open Data Services to build
   the Beneficial Ownership Data Standard'
-date: 2022-02-03 09:00:00 Z
+date: 2022-02-03 08:00:00 Z
+categories:
+- blogs
 image: "/uploads/2022-02-03-odsc-bods.jpg"
-author: Open Ownership and ODSC
+author: Kathryn Davies
 is_featured: true
 ---
 
