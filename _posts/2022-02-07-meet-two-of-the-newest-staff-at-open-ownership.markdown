@@ -1,6 +1,6 @@
 ---
 title: Meet two of the newest staff at Open Ownership
-date: 2022-02-02 12:53:00 Z
+date: 2022-02-07 09:00:00 Z
 published: false
 categories:
 - blogs
