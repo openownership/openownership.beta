@@ -3,6 +3,8 @@ title: 'Beneficial ownership: progress in Colombia'
 date: 2022-02-02 13:10:00 Z
 categories:
 - blogs
+tags:
+- Colombia
 image: "/uploads/2022-02-02-bo-progress-colombia.jpg"
 description: This blogpost talks about the beneficial ownership reform and progress
   in Colombia, and will be of interest to governments, implementing agencies, and
