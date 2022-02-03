@@ -33,8 +33,8 @@ The roots of the relationship are policy and technology. Have the demands around
 
 We wanted to shift away from just being a narrow anti-corruption organisation, and think about and engage with a more diverse range of users, both existing and new, e.g. engaging properly with the banking sector. The shift has been to say things like: what are the needs for business or those in procurement? So it’s not just an empty statement that there are probably other people who would find the data useful, throwing away the line that it’s useful in public procurement for example, to instead saying that this approach will be prioritised and we will research and develop a data standard to meet those needs.
 
-## The future of our relationship with ODSC
+## The future of our relationship with ODS
 
-We are going to continue working with ODSC to take BODS to Version 1. And the reason we can do that is that we now have many more real people, out in the world, who are using it to solve real problems. We are building something based on real feedback. When we started there was nothing, just anticipated problems and uses. And the space has matured so rapidly globally in the last two or three years. We are in a real-world environment with real-world deployment.
+We are going to continue working with ODS to take BODS to Version 1. And the reason we can do that is that we now have many more real people, out in the world, who are using it to solve real problems. We are building something based on real feedback. When we started there was nothing, just anticipated problems and uses. And the space has matured so rapidly globally in the last two or three years. We are in a real-world environment with real-world deployment.
 
 [Thom Townsend](mailto:thom@openownership.org) is Executive Director of Open Ownership. He can be contacted on <thom@openownerhip.org> or on Twitter at [@thomtownsend](https://twitter.com/thomtownsend)
