@@ -1,5 +1,5 @@
 ---
-title: 'Beneficial ownership: progress in Colombia'
+title: 'Beneficial ownership: Progress in Colombia'
 date: 2022-02-02 13:10:00 Z
 categories:
 - blogs
