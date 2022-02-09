@@ -8,7 +8,7 @@ tags:
 position: 27
 files:
   en: "/uploads/oo-briefing-bo-in-law-definitions-and-thresholds-2020-10.pdf"
-  es: "/uploads/Beneficiarios finales - definiciones y umbrales.pdf"
+  es: "/uploads/oo-informes-de-politicas-beneficiarios-reales-umbrales-y-definiciones-en-la-ley-2020-10.pdf"
   fr: "/uploads/oo-note-dorientation-politique-note-sur-les-definitions-2022-02.pdf"
 author: Peter Low and Tymon Kiepe
 thumbnail-image: "/uploads/definitions-briefing.png"
