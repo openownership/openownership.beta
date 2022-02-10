@@ -3,7 +3,7 @@ title: Key OO Publications available in French
 date: 2022-02-10 12:44:00 Z
 categories:
 - News
-image: "/uploads/french.jpg"
+image: "/uploads/francophone-africa.jpg"
 author: Kathryn Davies
 is_featured: true
 ---
