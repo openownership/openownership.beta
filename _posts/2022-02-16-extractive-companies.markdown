@@ -22,6 +22,6 @@ This event will provide a platform for companies in Indonesia, Philippines, and 
 
 **Date: Thursday, 24 February**
 
-**Time: 8:00-9:30 CET/2:00-3:30 pm INO/3:00-4:30 MNL**
+**Time: 8:00-9:30 CET/14:00-15:30 INO/15:00-16:30 MNL**
 
 **Register here: [https://us06web.zoom.us/meeting/register/tZcsfumtpjgiGdE0pCAdtwbOyiviUNgSmXEn](https://us06web.zoom.us/meeting/register/tZcsfumtpjgiGdE0pCAdtwbOyiviUNgSmXEn)**
