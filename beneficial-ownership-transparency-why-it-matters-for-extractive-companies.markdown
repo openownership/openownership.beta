@@ -1,5 +1,5 @@
 ---
-title: 'Beneficial Ownership Transparency: Why it matters for extractive companies'
+title: 'Beneficial ownership transparency: Why it matters for extractive companies'
 date: 2022-02-16 14:16:00 Z
 layout: latest
 ---
