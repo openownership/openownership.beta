@@ -6,6 +6,7 @@ categories:
 - events
 tags:
 - Opening Extractives
+- Asia
 image: "/uploads/2021-09-07-opening-extractives.jpg"
 author: Open Ownership
 is_featured: true
