@@ -12,12 +12,12 @@ is_featured: true
 
 Armenia is a [world leader](/blogs/armenia-breaks-new-ground-with-extractives-disclosures/) in beneficial ownership transparency. Since 2021, Armenia has been collecting and publishing beneficial ownership information in a well-structured, open data format in a [public Business Register](https://www.eiti.am/hy/%D4%BB%D5%8D-%D5%B0%D5%A1%D5%B5%D5%BF%D5%A1%D6%80%D5%A1%D6%80%D5%A1%D5%A3%D5%A5%D6%80/?tab=88). This data [is published](/blogs/armenia-and-latvia-become-first-countries-to-publish-data-in-line-with-the-beneficial-ownership-data-standard/) in line with the [Beneficial Ownership Data Standard](http://standard.openownership.org/en/0.2.0/) (BODS) to ensure data is interoperable, easily reusable, and high quality.
 
+Despite there being a large network of civil society organisations (CSOs) and journalists in Armenia that would benefit from it, the register remains relatively unused. Under the [Opening Extractives](https://www.youtube.com/watch?v=RCUeu1F7mJE) programme jointly delivered by the [Extractive Industries Transparency Initiative](http://eiti.org) (EITI) and Open Ownership (OO), and in partnership with the [Freedom of Information Centre in Armenia](http://www.foi.am/en/), three online workshops were held for 20 Armenia-based participants last December. The purpose of these sessions was to raise awareness of Armenia’s beneficial ownership regulations, promote a better understanding of the register, and encourage use of the currently available data.
+
 <figure markdown="1">
 ![Armenia Capacity Building sessions](/uploads/2022-02-17-upscaling-armenia-01-sessions.jpg)
 <figcaption>Armenia Capacity Building sessions</figcaption>
 </figure>
-
-Despite there being a large network of civil society organisations (CSOs) and journalists in Armenia that would benefit from it, the register remains relatively unused. Under the [Opening Extractives](https://www.youtube.com/watch?v=RCUeu1F7mJE) programme jointly delivered by the [Extractive Industries Transparency Initiative](http://eiti.org) (EITI) and Open Ownership (OO), and in partnership with the [Freedom of Information Centre in Armenia](http://www.foi.am/en/), three online workshops were held for 20 Armenia-based participants last December. The purpose of these sessions was to raise awareness of Armenia’s beneficial ownership regulations, promote a better understanding of the register, and encourage use of the currently available data.
 
 ## Session 1: Introduction to beneficial ownership and surfacing participants’ interests
 
