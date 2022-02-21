@@ -11,6 +11,7 @@ description: The Open Ownership Principles for effective beneficial ownership di
 files:
   en: "/uploads/oo-guidance-open-ownership-principles-2021-07.pdf"
   es: "/uploads/oo-guidas-los-principios-de-open-ownership-2021-07.pdf"
+  fr: "/uploads/oo-orientations-open-ownership-principes-2022-02.pdf"
 author: Open Ownership
 thumbnail-image: "/uploads/oo-principles-thumbnail.jpg"
 resource_type: Guidance
