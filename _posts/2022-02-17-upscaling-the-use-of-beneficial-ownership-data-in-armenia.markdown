@@ -14,11 +14,6 @@ Armenia is a [world leader](/blogs/armenia-breaks-new-ground-with-extractives-di
 
 Despite there being a large network of civil society organisations (CSOs) and journalists in Armenia that would benefit from it, the register remains relatively unused. Under the [Opening Extractives](https://www.youtube.com/watch?v=RCUeu1F7mJE) programme jointly delivered by the [Extractive Industries Transparency Initiative](http://eiti.org) (EITI) and Open Ownership (OO), and in partnership with the [Freedom of Information Centre in Armenia](http://www.foi.am/en/), three online workshops were held for 20 Armenia-based participants last December. The purpose of these sessions was to raise awareness of Armenia’s beneficial ownership regulations, promote a better understanding of the register, and encourage use of the currently available data.
 
-<figure markdown="1">
-![Armenia Capacity Building sessions](/uploads/2022-02-17-upscaling-armenia-01-sessions.jpg)
-<figcaption>Armenia Capacity Building sessions</figcaption>
-</figure>
-
 ## Session 1: Introduction to beneficial ownership and surfacing participants’ interests
 
 After an introduction to beneficial ownership transparency from Peter Low (Country Manager at OO), Lusine Tovmasyan (Head of the [EITI Secretariat in Armenia](https://www.eiti.am/)) presented the work Armenia has been doing under the EITI. Tatev Mkrtchyan (Head of the Agency for State Register of Legal Entities) followed with a presentation on the Business Register itself, what information can be found, how it is structured, and what steps are needed to develop a full-economy register in 2022.
