@@ -15,8 +15,9 @@ Ready to read and download already are:
 1. [Making central beneficial ownership registers public : Rendre publics les registres centraux des bénéficiaires effectifs](/resources/making-central-beneficial-ownership-registers-public/)
 2. [Beneficial ownership in law - definitions and thresholds : La Propriété effective en droit : Définitions et seuils](/resources/beneficial-ownership-in-law-definitions-and-thresholds/)
 3. [Technical assistance with implementation : Assistance technique à la mise en œuvre](/resources/technical-assistance-with-implementation/)
+4. [The Open Ownership Principles : Open Ownership Principes](/resources/the-open-ownership-principles/)
 
-Upcoming translations include the Open Ownership Principles, the Implementation Guide and the Verification Briefing.
+Upcoming translations include the Implementation Guide and the Verification Briefing.
 
 You can see which OO publications are available in your chosen language by visiting [Publications](/resources/) on our website and then selecting your chosen language from the drop-down language chooser on the top right of the page. We have publications in English, French, Russian, German, Spanish, Indonesian, and soon, Ukrainian.
 
