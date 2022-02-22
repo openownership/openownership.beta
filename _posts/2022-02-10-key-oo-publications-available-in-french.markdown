@@ -1,5 +1,5 @@
 ---
-title: Key OO Publications available in French
+title: Key OO publications available in French
 date: 2022-02-10 12:44:00 Z
 categories:
 - News
