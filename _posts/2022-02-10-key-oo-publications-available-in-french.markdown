@@ -1,5 +1,5 @@
 ---
-title: Key OO publications available in French
+title: Key OO Publications available in French
 date: 2022-02-10 12:44:00 Z
 categories:
 - News
@@ -15,6 +15,7 @@ Ready to read and download already are:
 1. [Making central beneficial ownership registers public : Rendre publics les registres centraux des bénéficiaires effectifs](/resources/making-central-beneficial-ownership-registers-public/)
 2. [Beneficial ownership in law - definitions and thresholds : La Propriété effective en droit : Définitions et seuils](/resources/beneficial-ownership-in-law-definitions-and-thresholds/)
 3. [Technical assistance with implementation : Assistance technique à la mise en œuvre](/resources/technical-assistance-with-implementation/)
+4. [The Open Ownership Principles : Open Ownership Principes](/resources/the-open-ownership-principles/)
 
 Upcoming translations include the Open Ownership Principles, the Implementation Guide and the Verification Briefing.
 
