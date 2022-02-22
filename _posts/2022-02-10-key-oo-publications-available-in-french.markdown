@@ -17,7 +17,7 @@ Ready to read and download already are:
 3. [Technical assistance with implementation : Assistance technique à la mise en œuvre](/resources/technical-assistance-with-implementation/)
 4. [The Open Ownership Principles : Open Ownership Principes](/resources/the-open-ownership-principles/)
 
-Upcoming translations include the Open Ownership Principles, the Implementation Guide and the Verification Briefing.
+Upcoming translations include the Implementation Guide and the Verification Briefing.
 
 You can see which OO publications are available in your chosen language by visiting [Publications](/resources/) on our website and then selecting your chosen language from the drop-down language chooser on the top right of the page. We have publications in English, French, Russian, German, Spanish, Indonesian, and soon, Ukrainian.
 
