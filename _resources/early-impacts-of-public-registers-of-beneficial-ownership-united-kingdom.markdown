@@ -7,11 +7,11 @@ tags:
 - Public access
 - A central register
 - United Kingdom
-resource_type: Case studies
 files:
   en: "/uploads/oo-impact-story-united-kingdom-2021-04.pdf"
 author: Chinwe Ekene Ezeigbo, Louise Russell-Prywata and Tymon Kiepe
-thumbnail-image: "/uploads/oo-impact-story-uk-thumbnail.jpg"
+thumbnail-image: "/uploads/oo-impact-story-united-kingdom-2021-04.jpg"
+resource_type: Case studies
 is_featured: false
 ---
 
