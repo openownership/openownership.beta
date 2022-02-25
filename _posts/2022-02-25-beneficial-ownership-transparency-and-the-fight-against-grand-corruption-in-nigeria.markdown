@@ -2,6 +2,13 @@
 title: Beneficial ownership transparency and the fight against grand corruption in
   Nigeria
 date: 2022-02-25 14:15:00 Z
+categories:
+- blogs
+tags:
+- Nigeria
+- beneficial ownership
+- anti-corruption
+image: "/uploads/Nigerian%20flag.jpg"
 author: Favour Ime and Louise Russell-Prywata
 is_featured: true
 ---
