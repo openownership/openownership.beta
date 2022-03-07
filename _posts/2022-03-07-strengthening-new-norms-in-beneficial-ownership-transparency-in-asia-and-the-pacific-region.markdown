@@ -6,6 +6,9 @@ categories:
 - blog
 tags:
 - Asia-Pacific
+image: "/uploads/2022-03-asia-pacific.jpg"
+author: Open Ownership
+is_featured: true
 ---
 
 In February, beneficial ownership transparency was top of the agenda in the Asia and Pacific region. Despite turbulence in global financial markets, and challenges in disclosures and market pricing heavily linked to the impact of COVID-19, the region has taken great steps in supporting the acceleration of economic recovery through beneficial ownership reforms. In some [Extractive Industries Transparency Initiative](https://eiti.org/) (EITI) countries in the region these reforms ensure the availability and use of beneficial ownership data for effective governance in the extractive sector.
@@ -18,7 +21,11 @@ Impressive strides have been made in Indonesia, where the implementation of a 20
 
 A [three-day workshop](https://events.development.asia/learning-events/regional-workshop-advancing-beneficial-ownership-transparency-asia-and-pacific) organised by the EITI in partnership with the Asian Development Bank (ADB) attracted rich and informative discussions among beneficial ownership practitioners about best practices, common challenges, and impactful solutions. The main themes that came up in discussion were the various challenges in verifying beneficial ownership data and [adopting global beneficial ownership data standards](https://events.development.asia/materials/20220222/bo-data-collection-disclosure-technical-practical-considerations). The need to [verify and regularly update data](https://events.development.asia/materials/20220223/beneficial-ownership-data-verification-key-concepts-practical-steps-and) was seen as a high priority for governments across the region. This can be achieved through robust verification processes and periodic update requests sent to listed entities.
 
+![louise Russell-Prywata](/uploads/2022-03-asia-pacific-louise.jpg)
+
 John Versantvoort, ADB’s Head of Anticorruption and Integrity, stated that ensuring the transparency of the beneficial ownership of corporate entities has become an essential tool in the fight against financial crime. EITI’s Executive Director Mark Robinson emphasised the need for more robust beneficial ownership data collection systems as a tool to fight corruption in revenue management, especially as the resource-rich region aims to recover from the economic impact of the pandemic. Gay Ordenes, EITI Asia Director, further highlighted the role of public access to beneficial ownership registers in enabling data verification, enhancing data quality and supporting data analysis. Louise Russel-Prywata, Open Ownership Director of Policy and Advocacy shared best practices for the collection and disclosure of beneficial ownership data. Open Ownership’s Data and Technology Manager, Steve Abbot-Pugh, guided participants on concepts, practical steps, and the importance of structured data in[ beneficial ownership](https://twitter.com/hashtag/beneficialownership?src=hashtag_click) data verification.
+
+![Stephen Abbott Pugh](/uploads/2022-03-asia-pacific-stephen.jpg)
 
 ## Extractives companies championing beneficial ownership implementation
 
