@@ -6,6 +6,8 @@ categories:
 tags:
 - FATF
 image: "/uploads/sean-pollock-PhYq704ffdA-unsplash.jpg"
+author: Open Ownership
+is_featured: true
 ---
 
 The Financial Action Task Force (FATF) – the international standard-setting body on anti-money laundering and countering the financing of terrorism – has approved revisions to its Recommendation 24 (R24) on beneficial ownership. Based on FATF’s [public statement](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/r24-statement-march-2022.html) and [our analysis](/blogs/fatf-proposals-signal-a-modest-but-important-rise-in-global-standards-on-beneficial-ownership/) of the text put out to public consultation, this is encouraging news. The statement mentions several measures that, provided they are properly implemented, can strengthen global defences against money laundering and terrorist financing.
