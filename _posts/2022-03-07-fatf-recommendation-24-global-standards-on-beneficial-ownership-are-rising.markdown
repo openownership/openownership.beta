@@ -2,7 +2,7 @@
 title: 'FATF recommendation 24: global standards on beneficial ownership are rising'
 date: 2022-03-07 11:53:00 Z
 categories:
-- blog
+- blogs
 tags:
 - FATF
 image: "/uploads/sean-pollock-PhYq704ffdA-unsplash.jpg"

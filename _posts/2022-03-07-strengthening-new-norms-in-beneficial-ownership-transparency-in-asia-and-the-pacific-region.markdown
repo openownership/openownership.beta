@@ -3,7 +3,7 @@ title: Strengthening new norms in beneficial ownership transparency in Asia and 
   Pacific region
 date: 2022-03-07 14:02:00 Z
 categories:
-- blog
+- blogs
 tags:
 - Asia-Pacific
 image: "/uploads/2022-03-asia-pacific.jpg"
