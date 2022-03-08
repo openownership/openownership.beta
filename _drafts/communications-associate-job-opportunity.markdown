@@ -1,6 +1,8 @@
 ---
 title: Communications Associate – Job Opportunity
 date: 2022-03-07 09:58:00 Z
+categories:
+- jobs
 author: Open Ownership
 ---
 
