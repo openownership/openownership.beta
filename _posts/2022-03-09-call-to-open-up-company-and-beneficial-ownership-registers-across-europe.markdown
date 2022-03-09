@@ -1,6 +1,8 @@
 ---
 title: Call to open up company and beneficial ownership registers across Europe
 date: 2022-03-09 18:11:00 Z
+categories:
+- blogs
 tags:
 - beneficial ownership
 image: "/uploads/Who-are-the-owners-statement.png"
