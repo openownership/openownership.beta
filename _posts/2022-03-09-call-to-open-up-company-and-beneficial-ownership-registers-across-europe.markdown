@@ -37,4 +37,4 @@ We call on EU Member States to:
 * Open up company registers as open data, with access free of charge and unrestricted reuse;
 * Establish publicly-accessible beneficial ownership registers, where these are not yet in place, and all Member States should provide free and unrestricted access to this data.
 
-**- See signatories to this statement on the [Access Info Europe website](https://www.access-info.org/2022-03-09/act-now-open-company-registers/). This call was co-ordinated by [Transparency International](https://www.transparency.org/en/press/leading-organisations-release-open-letter-open-up-company-beneficial-ownership-registers-across-europe) and Access Info Europe**
+- See the signatories to this statement on the [Access Info Europe website](https://www.access-info.org/2022-03-09/act-now-open-company-registers/). This call was co-ordinated by [Transparency International](https://www.transparency.org/en/press/leading-organisations-release-open-letter-open-up-company-beneficial-ownership-registers-across-europe) and Access Info Europe
