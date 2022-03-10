@@ -17,4 +17,4 @@ Thom is an expert on open data and was previously Head of Data Policy for the UK
 
 Thom led the open contracting elements of the 2016 London Anti Corruption Summit and it was here that the real push towards open, usable beneficial ownership data got started and Open Ownership was born. It was clear that beneficial ownership disclosure is the last link in the long chain required to follow the money and the next frontier to work on, which is why Thom left government and now leads Open Ownership.
 
-Thom is based in London.
+Thom is based in Amsterdam.
