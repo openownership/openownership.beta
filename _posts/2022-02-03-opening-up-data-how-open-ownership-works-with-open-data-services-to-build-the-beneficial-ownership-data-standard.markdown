@@ -12,9 +12,9 @@ author: Kathryn Davies
 is_featured: true
 ---
 
-In 2016 Open Ownership (OO) started working with [Open Data Services](https://opendataservices.coop/) (ODS), a worker co-operative that helps people to publish and use open data. In this blog post, Thom Townsend, our Executive Director, reflects on the relationship - how it started, what it has delivered, and where it is heading next.
+*In 2016 Open Ownership (OO) started working with [Open Data Services](https://opendataservices.coop/) (ODS), a worker co-operative that helps people to publish and use open data. In this blog post, Thom Townsend, our Executive Director, reflects on the relationship - how it started, what it has delivered, and where it is heading next.
 
-Another post, written by Open Data Services, reflects on their work on the Beneficial Ownership Data Standard (BODS) with OO. They share their thoughts about how technology and policy can work together to create a data standard that meets public policy goals. [You can read it on the Open Data Services blog](https://medium.com/opendatacoop/how-policy-informs-technology-and-technology-informs-policy-d53669922545).
+Another post, written by Open Data Services, reflects on their work on the Beneficial Ownership Data Standard (BODS) with OO. They share their thoughts about how technology and policy can work together to create a data standard that meets public policy goals. [You can read it on the Open Data Services blog](https://medium.com/opendatacoop/how-policy-informs-technology-and-technology-informs-policy-d53669922545).*
 
 ## How did the working relationship start?
 
@@ -40,4 +40,4 @@ We wanted to shift away from just being a narrow anti-corruption organisation, a
 
 We are going to continue working with ODS to take BODS to Version 1. And the reason we can do that is that we now have many more real people, out in the world, who are using it to solve real problems. We are building something based on real feedback. When we started there was nothing, just anticipated problems and uses. And the space has matured so rapidly globally in the last two or three years. We are in a real-world environment with real-world deployment.
 
-[Thom Townsend](mailto:thom@openownership.org) is Executive Director of Open Ownership. He can be contacted on <thom@openownerhip.org> or on Twitter at [@thomtownsend](https://twitter.com/thomtownsend)
+*• [Thom Townsend](mailto:thom@openownership.org) is Executive Director of Open Ownership. He can be contacted on <thom@openownership.org> or on Twitter at [@thomtownsend](https://twitter.com/thomtownsend)*
