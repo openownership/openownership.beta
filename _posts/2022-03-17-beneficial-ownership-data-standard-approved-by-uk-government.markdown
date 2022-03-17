@@ -1,6 +1,8 @@
 ---
 title: Beneficial Ownership Data Standard approved by UK Government
 date: 2022-03-17 06:42:00 Z
+categories:
+- blogs
 tags:
 - the beneficial ownership data standard
 image: "/uploads/2022-02-03-odsc-bods.jpg"
