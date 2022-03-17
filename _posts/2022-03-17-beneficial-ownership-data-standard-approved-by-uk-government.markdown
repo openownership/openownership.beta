@@ -26,13 +26,13 @@ This announcement comes after months of engagement between Open Ownership’s da
 The objectives of the challenge were:
 
 * to give the open standards community the opportunity to contribute to the challenge of establishing an open standard for beneficial ownership data;
-  
+
 
 * to provide feedback to Open Ownership on the Beneficial Ownership Data Standard, so they can continue to develop it in preparation for their v1.0 release;
-  
+
 
 * to coordinate open standards discussions for beneficial ownership data in the UK, in advance of new government commitments to collecting it;
-  
+
 
 * to demonstrate to other countries how an open standard for beneficial ownership data could be created, possibly helping efforts to coordinate standards internationally so that beneficial ownership data could be shared across borders.
 
