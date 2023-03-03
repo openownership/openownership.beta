@@ -1,4 +1,4 @@
-This code is no longer used to power the Open Ownership website. Instead we have moved to a Wagtail-powered content management system. The code for the current website can be found at https://github.com/openownership/openownership.org-wagtail
+### This code is no longer used to power the Open Ownership website. Instead we have moved to a Wagtail-powered content management system. The code for the current website can be found at https://github.com/openownership/openownership.org-wagtail
 
 # OpenOwnership.org
 
