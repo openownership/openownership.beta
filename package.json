@@ -24,7 +24,7 @@
     "jekyll": "bundle exec jekyll serve --no-watch"
   },
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "store": "^2.0.12"
   }
 }
